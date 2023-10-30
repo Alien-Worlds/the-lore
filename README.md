@@ -1,2 +1,4 @@
 # the-lore
-The complete Lore for Alien Worlds
+The Complete Lore for Alien Worlds
+
+Check out this [document about Trilium](./trilium.md)
