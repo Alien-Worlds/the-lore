@@ -1,2 +1,2 @@
 # the-lore
-The incomplete Lore for Alien worlds
+The complete Lore for Alien Worldz
