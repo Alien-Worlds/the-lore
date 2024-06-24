@@ -4,7 +4,7 @@
   
 Elsewhere in the galaxy, far into the future, the Altans---an elder, superior race---discovered Trilium on their home planet. In its raw state, Trilium is the most bio-reactive substance known. When exposed to genetic material, Trilium causes mutations and alterations at an unparalleled rate, wreaking chaos in the genetic code. The Altans sought to understand the effects of Trilium and eventually mastered its power and possibilities, developing Triactor technology that allowed them to safely and precisely administer Trilium on themselves. This was a genetic Pandora's Box for their race.
 
-The Altans used Trilium and Triactor Technology to eliminate disease, genetic defects, and even slow down aging. But there was a catch. Trilium's effects were only temporary. Without constant exposure to Trilium, any genetic aging and disease would re-emerge. For the Altans, Trilium and Triactor Tech stood between where life and death meet. 
+The Altans used Trilium and Triactor Technology to eliminate disease, genetic defects, and even slow down aging. But there was a catch. Trilium's effects were only temporary. Without constant exposure to Trilium, any genetic aging and disease would re-emerge. For the Altans, Trilium and Triactor Tech stood between where life and death meet.
 
 Because Trilium was so vital, with so many uses, the Altans used moreand more of it, and they realized it was a limited resource and eventually it would run out. As a superior race, they realized the repercussions of losing this substance that had become so vital to their civilization. After a few skirmishes and growing turmoil as factions fought for control of the dwindling supplies, the Altans knew they needed to find other sources of Trilium.
 
@@ -36,7 +36,7 @@ Trilium is the god particle. It is the naturally occuring resource that can cont
 
 We don\'t know how to solve the mystery of life, but nothing would be as important as *solving the mystery of death\... if we could*.
 
-###   Trilium and Weaponsmithing
+### Trilium and Weaponsmithing
 In the early period after the creation of the Federation when the first of the Frontier planets was discovered, colonists quickly found that the blaster weapons they typically used to protect themselves against predators functioned erratically or not at all. The Altans tested numerous theories and found conclusive evidence that Trilium’s fluctuating resonance destabilized the energy produced when charging or trying to fire a blaster, resulting in misfire, rapid dissipation, or in the worst case scenario disintegration of the weapon itself (and likely whoever was holding it). This meant that anyone using Triactor technology, powered as it was by Trilium fuel cells, was incapable of utilizing such weapons - and also were incapable of being harmed by them as their proximity to Trilium caused any energy bolts to dissipate before making contact.
 
 With no foreseeable workaround for the problem the fledgling Federation Congress voted to  abandon the development of personal and planet-side blaster weaponry, and individuals in need of offensive weapons were relegated to more traditional staples such as swords and projectile-firing guns.
