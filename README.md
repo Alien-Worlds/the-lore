@@ -465,4 +465,4 @@ Owing to their reprogramming Robotrons do not have military capabilities to spea
 ### Robotrons and the Federation
 Regardless of whence they originate, today’s Robotrons are united under the common cause of official Federation-wide recognition as a sentient species, and the equal rights that come with such a step. Certain races have, over time, moved to stand with them in pursuit of this cause - including the Altans and Elgem - but others seek to keep them from their due recognition for both ideological and more sinister reasons. Yet others abstain from taking a side, either through disinterest or fear of the potential implications when it comes to the use of advanced artificial beings as “cheap labor” in their own communities and businesses.
 
-### test change
+### test change 2
