@@ -1,6 +1,6 @@
 <h1 style="text-align: center;">Alien Worlds Lore Treatment</h1>
 
-> *"Life is the way the universe speaks to us... And now we can speak back."* ---Notes from a Trilium Researcher
+> *"Life is the way the universe speaks to us... And now we can speak back."* ---Notes from a Trilium Researcher 
   
 Elsewhere in the galaxy, far into the future, the Altans - an elder, superior race - discovered Trilium on their home planet. In its raw state, Trilium was the most bio-reactive substance known. When exposed to genetic material, it caused mutations and alterations at an unparalleled rate, wreaking chaos in the genetic code. The Altans sought to understand the effects of Trilium and eventually mastered its power and possibilities, developing Triactor technology that allowed them to safely and precisely administer Trilium on themselves. This was a genetic Pandora’s Box for their race.
 
