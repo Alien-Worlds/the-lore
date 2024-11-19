@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Alien Worlds Lore Treatment</h1>
+<h1 style="text-align: center;">Alien-Worlds Lore Treatment</h1>
 
 > *"Life is the way the universe speaks to us... And now we can speak back."* ---Notes from a Trilium Researcher
   
