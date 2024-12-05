@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Alien Worlds Lore Treatment</h1>
+<h1 style="text-align: center;">Alien-Worlds Lore Treatment</h1>
 
 > *"Life is the way the universe speaks to us... And now we can speak back."* ---Notes from a Trilium Researcher
   
@@ -464,6 +464,5 @@ Robotron spacecraft have a distinct, monolithic look to them, and internal space
 Owing to their reprogramming Robotrons do not have military capabilities to speak of, though they are adept at manufacturing unmanned drones and vehicles that they are able to control through a built-in communications array allowing them to relay commands wirelessly. There is high demand for such technology among mining communities in more hazardous regions that remain inhospitable to organic lifeforms regardless of Triactor-based enhancements.
 ### Robotrons and the Federation
 Regardless of whence they originate, today’s Robotrons are united under the common cause of official Federation-wide recognition as a sentient species, and the equal rights that come with such a step. Certain races have, over time, moved to stand with them in pursuit of this cause - including the Altans and Elgem - but others seek to keep them from their due recognition for both ideological and more sinister reasons. Yet others abstain from taking a side, either through disinterest or fear of the potential implications when it comes to the use of advanced artificial beings as “cheap labor” in their own communities and businesses.
-
 
 ### test change 5
