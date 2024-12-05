@@ -12,7 +12,7 @@ The other races found they could apply Triactor Tech to their species as well, o
 
 Trilium has thus far been found in substantial quantities on six other planets: Eyeke, Kavian, Magor, Naron, Neri, Veles. Some of these sources were discovered by the Altans, while others were found by different races as the expansion continued and galactic civilization grew more intertwined among the major civilizations. Commercial entities that exploit Trilium sources and modify Triactor tech have become the most powerful economic forces in the federation.
 
-In the current time the Federation is a vast, pan-galactic entity run by Megacorps and other vested interests, with powerful Syndicates controlling the major Trilium extraction operations on the six planets. Meanwhile, the search for other Trilium deposits continues at a breakneck pace across countless star systems.
+In the current time the Federation is a vast, pan-galactic entity run by Megacorps and other vested interests, with powerful Syndicates controlling the major Trilium extraction operations on the six planets. Meanwhile, the search for other Trilium deposits continues at a breakneck pace across countless star systems. 
 
 While numerous races and life forms have been discovered across these alien worlds, the primary players - in addition to the original ancient Altan race - are the Elgems, Khaureds, Onoros,  Lopati, Humans and the Robotrons (whose status in the Federation remains unclear). These races interact in countless ways via business endeavors, conflicts, alliances, and schemes with various goals both virtuous and nefarious in nature. The search for other worlds, other races - and other sources of Trilium - continues to expand across the galaxy. 
 
@@ -464,5 +464,6 @@ Robotron spacecraft have a distinct, monolithic look to them, and internal space
 Owing to their reprogramming Robotrons do not have military capabilities to speak of, though they are adept at manufacturing unmanned drones and vehicles that they are able to control through a built-in communications array allowing them to relay commands wirelessly. There is high demand for such technology among mining communities in more hazardous regions that remain inhospitable to organic lifeforms regardless of Triactor-based enhancements.
 ### Robotrons and the Federation
 Regardless of whence they originate, today’s Robotrons are united under the common cause of official Federation-wide recognition as a sentient species, and the equal rights that come with such a step. Certain races have, over time, moved to stand with them in pursuit of this cause - including the Altans and Elgem - but others seek to keep them from their due recognition for both ideological and more sinister reasons. Yet others abstain from taking a side, either through disinterest or fear of the potential implications when it comes to the use of advanced artificial beings as “cheap labor” in their own communities and businesses.
+
 
 ### test change 5
