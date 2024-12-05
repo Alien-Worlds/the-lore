@@ -14,7 +14,7 @@ Trilium has thus far been found in substantial quantities on six other planets: 
 
 In the current time the Federation is a vast, pan-galactic entity run by Megacorps and other vested interests, with powerful Syndicates controlling the major Trilium extraction operations on the six planets. Meanwhile, the search for other Trilium deposits continues at a breakneck pace across countless star systems. 
 
-While numerous races and life forms have been discovered across these alien worlds, the primary players - in addition to the original ancient Altan race - are the Elgems, Khaureds, Onoros,  Lopati, Humans and the Robotrons (whose status in the Federation remains unclear). These races interact in countless ways via business endeavors, conflicts, alliances, and schemes with various goals both virtuous and nefarious in nature. The search for other worlds, other races - and other sources of Trilium - continues to expand across the galaxy.
+While numerous races and life forms have been discovered across these alien worlds, the primary players - in addition to the original ancient Altan race - are the Elgems, Khaureds, Onoros,  Lopati, Humans and the Robotrons (whose status in the Federation remains unclear). These races interact in countless ways via business endeavors, conflicts, alliances, and schemes with various goals both virtuous and nefarious in nature. The search for other worlds, other races - and other sources of Trilium - continues to expand across the galaxy. 
 
 ## TRILIUM
 Trilium is an innately formless energy source with a chaotic resonance discovered by the Altans which adapts naturally to its surroundings, and is classified as the most bioreactive substance in the known universe, causing runaway mutation whenever it comes into direct contact with organic matter. It is known to exist in solid, liquid, or gas states depending on the terrain from which it is extracted. Its constant energy emission is harnessed through artificially constraining its frequency, enabling versatile applications such as augmentation through bionetics & cybernetics, deep space travel, and genetic modifications related to health - particularly disease resistance and eradication - physiological performance, telomeric reconstruction (aiding longevity), and innovative adaptations that facilitate survival in biomes otherwise hostile to life.
@@ -465,4 +465,5 @@ Owing to their reprogramming Robotrons do not have military capabilities to spea
 ### Robotrons and the Federation
 Regardless of whence they originate, today’s Robotrons are united under the common cause of official Federation-wide recognition as a sentient species, and the equal rights that come with such a step. Certain races have, over time, moved to stand with them in pursuit of this cause - including the Altans and Elgem - but others seek to keep them from their due recognition for both ideological and more sinister reasons. Yet others abstain from taking a side, either through disinterest or fear of the potential implications when it comes to the use of advanced artificial beings as “cheap labor” in their own communities and businesses.
 
-### test change 4
+
+### test change 5
