@@ -472,3 +472,17 @@ create a furry car that will be used as the primary transport medium on Magor.
 
 ### another change
 Design a new planet formed by merging the characteristics of the six distinct planets.
+
+### The Lopati Take In the Humans
+
+In the aftermath of the Lopati's catastrophic planetary collision, the Lopati people were left with a choice: stay in their adapted asteroid communities or leave in the fleet of Ark-ships. Those who opted to leave found themselves in a cramped and challenging existence, searching the stars for a new home.
+
+During their interstellar pilgrimages, the Lopati Ark-ships came across Earth, a planet teeming with life and rich in resources, but devoid of Trilium. The Lopati, being resourceful and hardy, saw potential in the Humans, who were at a turning point in their civilization due to the discovery of Trilium on their planet.
+
+The Lopati, with their advanced technology and knowledge, decided to take the Humans under their wing, offering them a chance to join their interstellar community. The Lopati shared their technology and knowledge with the Humans, teaching them how to adapt and thrive in various environments, just as the Lopati had done on their own low-gravity planet.
+
+The Humans, with their diverse cultures and adaptability, proved to be quick learners. They embraced the Lopati's teachings and began to integrate into the Lopati's nomadic society. The Lopati, in turn, gained valuable allies and partners in the Humans, who brought new ideas, perspectives, and skills to the table.
+
+The Lopati-Human alliance proved to be mutually beneficial, with the Lopati providing the Humans with the tools and knowledge to survive in harsh environments, and the Humans offering their creativity, resourcefulness, and adaptability to the Lopati. Together, they continued their search for a new home, strengthening their bond and learning from each other along the way.
+
+As they traveled through the cosmos, the Lopati and Humans encountered various challenges and opportunities, shaping their alliance and lore in the process. They discovered new worlds, encountered other alien races, and faced adversity together, forging a unique interstellar partnership that would be remembered throughout the galaxy.
