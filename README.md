@@ -486,3 +486,6 @@ The Humans, with their diverse cultures and adaptability, proved to be quick lea
 The Lopati-Human alliance proved to be mutually beneficial, with the Lopati providing the Humans with the tools and knowledge to survive in harsh environments, and the Humans offering their creativity, resourcefulness, and adaptability to the Lopati. Together, they continued their search for a new home, strengthening their bond and learning from each other along the way.
 
 As they traveled through the cosmos, the Lopati and Humans encountered various challenges and opportunities, shaping their alliance and lore in the process. They discovered new worlds, encountered other alien races, and faced adversity together, forging a unique interstellar partnership that would be remembered throughout the galaxy.
+
+### Next change
+Humans have visited their nearest neighboring planet, Eyeke..
