@@ -489,3 +489,6 @@ As they traveled through the cosmos, the Lopati and Humans encountered various c
 
 ### Next change
 Humans have visited their nearest neighboring planet, Eyeke..
+
+### Intergalactic celebration
+An intergalactic celebration is a joyous event that brings together various species and races from across the universe, showcasing the diversity and unity of civilizations in the Federation. With advanced technology like Triactor and biometal, organic and mechanical beings alike gather in harmony, demonstrating the wonders of scientific progress and the power of collaboration. Despite ideological differences and past conflicts, these celebrations highlight the potential for a peaceful and prosperous interstellar community.
