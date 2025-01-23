@@ -488,4 +488,4 @@ The Lopati-Human alliance proved to be mutually beneficial, with the Lopati prov
 As they traveled through the cosmos, the Lopati and Humans encountered various challenges and opportunities, shaping their alliance and lore in the process. They discovered new worlds, encountered other alien races, and faced adversity together, forging a unique interstellar partnership that would be remembered throughout the galaxy.
 
 ### Next change
-Humans have visited their nearest neighboring planet, Eyeke.
+Humans have visited their nearest neighboring planet, Eyeke..
