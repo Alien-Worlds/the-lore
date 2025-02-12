@@ -466,7 +466,6 @@ Owing to their reprogramming Robotrons do not have military capabilities to spea
 Regardless of whence they originate, today’s Robotrons are united under the common cause of official Federation-wide recognition as a sentient species, and the equal rights that come with such a step. Certain races have, over time, moved to stand with them in pursuit of this cause - including the Altans and Elgem - but others seek to keep them from their due recognition for both ideological and more sinister reasons. Yet others abstain from taking a side, either through disinterest or fear of the potential implications when it comes to the use of advanced artificial beings as “cheap labor” in their own communities and businesses.
 
 ## Crucible of Sentience
----
 
 ### **The Weary Wanderer**
 Being among the first to have received the great blessing, R.3X has been around for centuries, if not millennia, traveling intergalactic space, visiting planets, and drifting from colony to cast, faction lands to Federation space. Often forced to steer clear of lands by the authorities' presence there, it only ever sought a place to lay down its travel-worn head and its pack and load, heavy only by the weight of the weary. It sought respite enough to regain itself and its means.
