@@ -691,7 +691,7 @@ They were on the cusp of something monumental.
 
 She had been the one to reach out to NetixXLabs after the initial readings—the first to recognize the magnitude of what they’d found. And now, the weight of her decision rested heavily on her.
 
-Helga shot him a look, her expression tight, as if to say, ***This better be worth it.***
+Helga shot him a look, her expression tight, as if to say, *This better be worth it.*
 
 Sigurd’s gaze drifted to the entrance of the command tent just as Dr. Tessa Quinn, head of NetixXLabs, strode in. Her presence was as sharp and commanding as the crisp, white lab coat she wore. An aura of focus and precision settled over the room. She moved with the kind of ease that came from years of steering the course, eyes keen, missing nothing.
 
@@ -847,7 +847,7 @@ Sigurd took a moment to assess himself. To his astonishment, he felt no pain. In
 
 “I feel...” he began, then paused, surprised by the unusual quality of his voice. There was a texture around it he couldn’t quite grasp.
 
-Helga nodded. “It’s not just you,” she said. “All the volunteers... you’ve all changed.”
+Helga nodded. “It’s not just you,” she said. *“All the volunteers... you’ve all changed.”
 
 Swinging his legs off the bed, Sigurd caught a glimpse of his reflection in a nearby monitor. He froze. Disbelief washed over him.
 
@@ -885,7 +885,7 @@ A smile crept across Sigurd’s face, one that held the weight of newfound power
 
 \*\*\*
 
-The following weeks spiraled into a whirlwind of tests, training, and astonishing discoveries. The enhanced Nordics—soon dubbed **The Stjerneblods** by their awestruck compatriots—displayed abilities that defied all logical explanation.  Superhuman strength, accelerated healing, and a remarkable affinity for Trilium-based technology emerged as mere glimpses of what they had become.
+The following weeks spiraled into a whirlwind of tests, training, and astonishing discoveries. The enhanced Nordics—soon dubbed *The Stjerneblods* by their awestruck compatriots—displayed abilities that defied all logical explanation.  Superhuman strength, accelerated healing, and a remarkable affinity for Trilium-based technology emerged as mere glimpses of what they had become.
 
 \*\*\*
 
@@ -899,7 +899,7 @@ It shattered against the wall in a dramatic explosion of sparks and debris.
 
 From an observation deck above, Helga and Tessa watched in stunned silence.
 
-"That’s the fifth drone he’s destroyed today, with his bare hands," Helga murmured, her fingers flying over a datapad as she meticulously recorded the results. "He’s not even breathing hard."
+"That’s the fifth drone he’s destroyed today, with his bare hands,"* Helga murmured, her fingers flying over a datapad as she meticulously recorded the results. "He’s not even breathing hard."
 
 Tessa nodded. “The others are exhibiting similar enhancements, though Sigurd’s seems to be a bit more pronounced for now. It’s as if the Trilium has recalibrated their bodies for combat.”
 
@@ -941,7 +941,7 @@ Sigurd met Nar’ek's gaze unflinchingly. "With all due respect, we’ve already
 
 "We didn't set out to create warriors," Sigurd countered firmly. "We sought to protect our people, to carve out a place for ourselves in this new world. The Stjerneblods are guardians, not conquerors."
 
-The Altan was silent for a long moment. The weight of his thoughts was as clear as day. "Perhaps," he said at last. "But remember this, Sigurd Stjerneskjold—power, once unleashed, is not easily contained. The path you walk is fraught with danger, not just for you, but for all who call this galaxy home."
+The Altan was silent for a long moment. The weight of his thoughts was as clear as day. "Perhaps,"* he said at last. *"But remember this, Sigurd Stjerneskjold—power, once unleashed, is not easily contained. The path you walk is fraught with danger, not just for you, but for all who call this galaxy home."
 
 As the hologram flickered and faded, a lingering unease settled over Sigurd, a sense that Nar'ek’s words were more than just a warning. They were a prophecy.
 
@@ -999,25 +999,25 @@ In the aftermath of the tsunami, Sigurd found himself standing alone on the beac
 
 He turned to see Helga approaching. 
 
-The weight of his actions reflected in his haunted look. "At what cost? Can’t you see it? Can't you see we’re becoming something... something else?"
+The weight of his actions reflected in his haunted look. *"At what cost? Can’t you see it? Can't you see we’re becoming something... something else?"*
 
 His gaze drifted to where Mikkel had fallen during the final stand against the tsunami… 
 
-`The physicist had been the first to show signs of a catastrophic mutation. During the intense energy channeling, his Triactor jack had fractured—a hairline crack that spread like a spider’s web across the quantum sequence codex.`
+*The physicist had been the first to show signs of a catastrophic mutation. During the intense energy channeling, his Triactor jack had fractured—a hairline crack that spread like a spider’s web across the quantum sequence codex.*
 
-`At first nobody noticed. But as the other Stjerneblods recovered from their exhaustion, Mikkel’s transformation began.`
+*At first nobody noticed. But as the other Stjerneblods recovered from their exhaustion, Mikkel’s transformation began.*
 
-`It started subtly—a twitch, an unnatural bend of a joint. Then his skin began to shudder, muscles shifting beneath the surface like something dead and alive. The damaged Triactor jack leaked Trilium in raw, uncontrolled pulses. When it touched his flesh, cellular structures broke down and reformed in grotesque, impossible configurations.` 
+*It started subtly—a twitch, an unnatural bend of a joint. Then his skin began to shudder, muscles shifting beneath the surface like something dead and alive. The damaged Triactor jack leaked Trilium in raw, uncontrolled pulses. When it touched his flesh, cellular structures broke down and reformed in grotesque, impossible configurations.* 
 
-`Sigurd had been the one to make the final decision.` 
+*Sigurd had been the one to make the final decision.* 
 
-`The thing Mikkel was becoming could not be allowed to exist—not with the settlement so close, so vulnerable.`
+*The thing Mikkel was becoming could not be allowed to exist—not with the settlement so close, so vulnerable.*
 
-`A concentrated burst of energy.` 
+*A concentrated burst of energy.* 
 
-`A momentary flash.` 
+*A momentary flash.* 
 
-`And then nothing remained where Mikkel had been but a scorched patch of earth.`
+*And then nothing remained where Mikkel had been but a scorched patch of earth.*
 
 "At what cost?" Sigurd repeated. His voice was hollow and filled with pain. "We saved the colony, but look what we've become. Look at what we're capable of\!"
 
@@ -1033,11 +1033,11 @@ A heavy silence enveloped them.
 
 The sun dipped below the horizon, casting long shadows across the sand and the ocean waves crashed in the distance echoing the turmoil brewing within Sigurd.  
 
-He weighed the choices he had made. ***Sparkling consequence.*** ***Every action bears weight***, he reminded himself. 
+He weighed the choices he had made. *Sparkling consequence.* *Every action bears weight*, he reminded himself. 
 
 The Stjerneblods were forged as protectors, but the line between guardian and monster blurred with each passing day.
 
-***Every choice ripples through the cosmos...***
+*Every choice ripples through the cosmos...*
 
 Helga’s voice broke through his thoughts. "We can navigate this. Together. We’ll find a way to keep the Stjerneblods’ essence intact."
 
