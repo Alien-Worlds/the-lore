@@ -613,12 +613,9 @@ This delicate balance allows each sect to thrive in its own way, contributing to
 ### Conclusion
 The Khaured Spiritualist sect offers a unique perspective on life, one that prioritises creativity, spirituality, and inner peace over martial prowess and discipline. Their communities, built in harmony with the natural world and adorned both within and without by hand-crafted artworks, serve as sanctuaries for those seeking a different way of life. Through their practices and beliefs, the Spiritualists of Khaur demonstrate that there are many paths to understanding the mysteries of existence, each with its own beauty and wisdom.
 
-
-
 # The Rise of the Stjerneblods
 
 ## A Nordic Saga
-
 
 The exotic flora of Veles bent under Sigurd Stjerneskjold's heavy boots, each step like the press of iron into the earth. The vegetation beneath him felt strange, firm yet pliant, crunching faintly in the crisp air. 
 
@@ -1045,5 +1042,3 @@ Helga's voice broke through his thoughts. "We can navigate this. Together. We'll
 Her words remained suspended in the air, standing as a fragile lifeline against the encroaching darkness. With a deep breath, Sigurd allowed himself a flicker of optimism, recognizing that the future, while uncertain, still held promise.
 
 It was up to them to shape it.
-
- 
