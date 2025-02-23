@@ -81,7 +81,7 @@ On Marek’s flagship, the trade official’s confidence began to waver. “Pull
 A concentrated strike from Resonance cut off his command, the blast severing the ship’s communication arrays. The Lopati capitalized on the confusion, disabling ship after ship with relentless precision.
 By the time Marek’s remaining forces limped into retreat, the Lopati line had reformed, their ships battered but unbroken. The void fell silent once more, the wreckage of the battle drifting aimlessly among the stars.
  
-CHAPTER 8: THE LEGACY OF THE ARKHIVE
+### THE LEGACY OF THE ARKHIVE
 As the adrenaline of battle faded, the Lopati gathered in solemn reflection. Their losses were heavy, but their unity had prevailed. The Arkhives remained safe, their knowledge and culture intact.
 Kalan addressed his people through the comms, his voice steady but heavy with emotion. “We have lost many, but we have not fallen. Each of you carries the legacy of Lopat within you. We are Lopati—resilient, unbreakable. Bound by more than memory.”
 Eska stood beside him, her voice rising alongside his. “Let them come for our Trillium. Let them covet our Arkhive. But they will never understand it. They will never be us.”
