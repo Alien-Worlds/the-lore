@@ -613,7 +613,7 @@ This delicate balance allows each sect to thrive in its own way, contributing to
 ### Conclusion
 The Khaured Spiritualist sect offers a unique perspective on life, one that prioritises creativity, spirituality, and inner peace over martial prowess and discipline. Their communities, built in harmony with the natural world and adorned both within and without by hand-crafted artworks, serve as sanctuaries for those seeking a different way of life. Through their practices and beliefs, the Spiritualists of Khaur demonstrate that there are many paths to understanding the mysteries of existence, each with its own beauty and wisdom.
 
-#The Last Face
+# The Last Face
 
 The distant colony on the fringes of Federation space, an Augment settlement carved into a barren moon, echoed with the quiet hum of machinery. The smell of coolant and metal permeated the area, a tribute to the relentless labour that characterised the Augment way of life. Cale Varox sat at his workstation, staring at his cybernetic arm, its mechanical fingers flexing under the sterile lab lights with a gentle click. The arm was a relic from his time spent fighting in the Triactor Wars, and it had to be replaced following a near-fatal injury. Some Augments wore their upgrades as a badge of honour, as a representation of their transcendence above their mortal human beginnings. But for Cale, it was a constant reminder of everything he had lost; a mark of survival, yes, but also of sacrifice.
 
@@ -645,7 +645,7 @@ Dria’s eyes flashed with a mixture of anger and pity. 'You’re still clinging
 
 Cale remained silent, knowing this argument had played out between them too many times. He followed her through the colony’s twisting metal corridors as they made their way to the council chamber.
 
-##The Council Chamber
+## The Council Chamber
 
 It was a heated council meeting. The room was packed with representatives, some more mechanised than others, from various factions inside Augment. Along with Vero Anselm, a scientist who had defected from the Triactor to the Augments, Cale and Dria were seated on opposing sides of the round table. His presence was controversial, but his understanding of Triactor Technology was crucial.
 
@@ -665,7 +665,7 @@ There was a pause in the conversation as the tension between them became apparen
 
 After an additional hour of deliberation, the council made a decision. An Augment crew would be dispatched to the Azurion tech. repository in order to get the required parts. The mission would be led by Cale and Dria.
 
-##The Secret Azurion Inc. Tech Storage Facility 
+## The Secret Azurion Inc. Tech Storage Facility 
 
 As Cale, Dria, and their group of Augments advanced towards the deserted tech repository, the barren lunar landscape opened up before them. The only light in the sky was the sporadic flare of lightning, casting the clouds in a dark and whirling mass. Beneath the surface, concealed by a complex network of defences, lurked the vaults.
 
@@ -695,7 +695,7 @@ Cale turned to her, his expression hard. 'And what price are you willing to pay 
 
 She stepped closer, her metallic fingers brushing his cheek in a gesture that was almost tender. 'Whatever it takes, Cale. You should consider doing the same. We can’t cling to outdated notions of what it means to be human anymore.'
 
-##The Azurion Incursion
+## The Azurion Incursion
 
 As they were hauling the final pieces out of the Tech repository, alarms blared throughout the subterranean complex. Confusion spread among the group, but Cale felt a rising dread grip his chest.
 
@@ -731,7 +731,7 @@ Dria straightened, her eyes glowing with intensity as she looked back at Cale. '
 
 Cale nodded, the weight of the battle and its consequences hanging heavy in the air. Though they had survived the attack, the Altan commander’s escape was a reminder that the conflict was far from finished.
 
-##The Aftermath
+## The Aftermath
 
 The Repository was in rubble after the fight was over. The Azurions were forced to retreat, but at a high price. The majority of the Augment team had perished, and the survivors had undergone permanent physical and psychological transformations.
 
@@ -745,7 +745,7 @@ But the Augments needed to remember who they were, before they lost themselves c
 
 Yet, deep down, Cale feared it was already too late. The lines between who they had been and who they were becoming had blurred beyond recognition, and the fight ahead would only push them further from what they once were.
 
-##Epilogue
+## Epilogue
 
 Back at the colony, Cale sat quietly in his lab, the soft whir of his cybernetic arm the only sound breaking the silence. His reflection in the cracked mirror revealed a man caught between worlds; part flesh, part machine, yet neither whole. He flexed his mechanical fingers, feeling the cold precision that had once been a symbol of survival but now felt like a creeping transformation, inching toward something unrecognizable.
 
