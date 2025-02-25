@@ -621,7 +621,7 @@ His lab was a cluttered maze of half-finished devices, spare parts strewn across
 
 They could not completely escape Triactor Tech's influence, though, despite their disgust for it. Many of their most sophisticated improvements were powered by refined trilium fuel cells, a grudging compromise that infuriated the more conservative Augments. Their survival depended on these cells, which came from the same Triactor processes they detested. Years of arduous research and reverse engineering were required to customise the technology to meet their requirements. Cale had spent many sleepless nights disassembling abandoned Triactors and pulling out every scrap of information to use Trilium in a way that fit their ideal of technological nirvana. He had done this along with a handful of the most intelligent Augments.
 
-Now, even the most die-hard of Augment purists relied on Trilium-fueled limbs, organs, and neural interfaces. The contradiction wasn’t lost on Cale, but practicality had long since won out over ideology. The Augments may have resisted Triactor manipulation of their biology, but they were still tethered to its power; just in a form they could control.
+Now, even the most die-hard of Augment purists relied on Trilium-fueled limbs, organs, and neural interfaces. The contradiction wasn't lost on Cale, but practicality had long since won out over ideology. The Augments may have resisted Triactor manipulation of their biology, but they were still tethered to its power; just in a form they could control.
 
 His thoughts were interrupted by a knock at the door, followed by the hiss of pneumatic pistons as it slid open. A figure stood silhouetted in the doorway, their outline blurred by the steam rising from the room beyond.
 
@@ -631,29 +631,29 @@ Dria Syth entered, her figure sleek and angular, augmented to a degree that made
 
 With a groan, Cale rose and flexed his robotic hand. He had no intention of ever reaching the level of augmentation Dria had. 'Naturally. I assume this is about Azurion Inc.?'
 
-Dria nodded, her metal fingers drumming lightly on the doorway. 'They want their Triactor prototype back, and they’re threatening to take drastic measures to retrieve it. The council is debating whether we should return it.'
+Dria nodded, her metal fingers drumming lightly on the doorway. *'They want their Triactor prototype back, and they're threatening to take drastic measures to retrieve it. The council is debating whether we should return it.'*
 
 Cale scowled. Months before, the Augments had been hailed as heroes for asserting their independence when they had ‘acquired’ the Triactor prototype from Azurion Inc., an Altan-led and the oldest megacorporation. Azurion, known for its cutting-edge Triactor technology and ruthless pursuit of profit, had developed the prototype as part of their energy-harnessing ventures. The Augments, in their quest to break free from dependence on such technologies, had focused on refining Trilium to power their cybernetic enhancements instead. Now, their reverse-engineering of the prototype had attracted unwanted attention from the megacorp.
 
 'And your thoughts?' Cale asked, though he knew her answer.
 
-'I think we should stand our ground,' Dria replied firmly. 'We don’t need to fear Azurion Inc. or anyone else. With this prototype, we can unlock the secrets of Triactor technology and finally rid ourselves of any ties to it. It’s the final step toward true independence.'
+'I think we should stand our ground,' Dria replied firmly. *'We don't need to fear Azurion Inc. or anyone else. With this prototype, we can unlock the secrets of Triactor technology and finally rid ourselves of any ties to it. It's the final step toward true independence.'*
 
 'Independence,' Cale muttered, glancing at her almost fully mechanical form. 'At what cost?'
 
-Dria’s eyes flashed with a mixture of anger and pity. 'You’re still clinging to the past, Cale. We could be so much more if we just let go.'
+Dria's eyes flashed with a mixture of anger and pity. 'You're still clinging to the past, Cale. We could be so much more if we just let go.'
 
-Cale remained silent, knowing this argument had played out between them too many times. He followed her through the colony’s twisting metal corridors as they made their way to the council chamber.
+Cale remained silent, knowing this argument had played out between them too many times. He followed her through the colony's twisting metal corridors as they made their way to the council chamber.
 
 ## The Council Chamber
 
 It was a heated council meeting. The room was packed with representatives, some more mechanised than others, from various factions inside Augment. Along with Vero Anselm, a scientist who had defected from the Triactor to the Augments, Cale and Dria were seated on opposing sides of the round table. His presence was controversial, but his understanding of Triactor Technology was crucial.
 
-With a voice full of urgency, Vero stated, 'We can't give the prototype back. It's our only opportunity to decipher the technology that harnesses Trilium power. We shall constantly be dependent on scavenging without it. And we'll be destroyed by the Azurion Inc. if they take it back. They will not put up with betrayal.'
+With a voice full of urgency, Vero stated, *'We can't give the prototype back. It's our only opportunity to decipher the technology that harnesses Trilium power. We shall constantly be dependent on scavenging without it. And we'll be destroyed by the Azurion Inc. if they take it back. They will not put up with betrayal.'*
 
-'But if we don’t return it,' argued Jora Alen, one of the more moderate members of the council, 'we’re inviting war. The Azurion Inc. have the numbers and the firepower. We can’t win.'
+'But if we don’t return it,' argued Jora Alen, one of the more moderate members of the council, 'we're inviting war. The Azurion Inc. have the numbers and the firepower. We can't win.'
 
-Dria leaned forward, her mechanical eyes glowing faintly. 'We don’t need to win a war. We just need to make them realize that we’re not worth the effort. If we complete the prototype and harness the Trilium ourselves, we’ll have the power to defend ourselves. We’ll be untouchable.'
+Dria leaned forward, her mechanical eyes glowing faintly. 'We don't need to win a war. We just need to make them realize that we’re not worth the effort. If we complete the prototype and harness the Trilium ourselves, we'll have the power to defend ourselves. We'll be untouchable.'
 
 With a calm voice, Cale spoke up. 'And what happens after that, Dria? Sure, we discover our Trilium power, but what do we really become in the process? We lose sight of who we are when we replace ourselves more and more with machines.'
 
@@ -671,65 +671,65 @@ As Cale, Dria, and their group of Augments advanced towards the deserted tech re
 
 The tension between Dria and Cale intensified as they made their way down into the tunnels. Cale began to feel as though he was losing her; to the machines, to her perfectionist obsession; the farther they travelled.
 
-'We’re close,' Dria said, her voice steady but cold. She moved with a precision that unnerved him. Every step she took was calculated, mechanical.
+'We're close,' Dria said, her voice steady but cold. She moved with a precision that unnerved him. Every step she took was calculated, mechanical.
 
-Cale paused as they approached a large, rusted door. 'How do we know the Azurions haven’t set traps?'
+Cale paused as they approached a large, rusted door. 'How do we know the Azurions haven't set traps?'
 
-Dria smirked, her eyes glowing faintly. 'Because they think we’re not smart enough to reverse-engineer their technology. They underestimate us.'
+Dria smirked, her eyes glowing faintly. 'Because they think we're not smart enough to reverse-engineer their technology. They underestimate us.'
 
-Cale shook his head. 'Or they’re counting on our arrogance.'
+Cale shook his head. 'Or they're counting on our arrogance.'
 
-After remaining silent for most of the drive, Vero moved ahead and activated a small device. With a hiss, the door slid open, revealing the interior of Azurion Inc.’s secret Tech repository. The room was filled with strange, luminous machines; Triactor devices that pulsed with energy, almost as if they were alive.
+After remaining silent for most of the drive, Vero moved ahead and activated a small device. With a hiss, the door slid open, revealing the interior of Azurion Inc.'s secret Tech repository. The room was filled with strange, luminous machines; Triactor devices that pulsed with energy, almost as if they were alive.
 
-Cale approached one of the machines, inspecting it closely. 'This doesn’t feel right,' he muttered. 'These devices... they’re not just machines. There’s something more to them.'
+Cale approached one of the machines, inspecting it closely. 'This doesn't feel right,' he muttered. 'These devices... they're not just machines. There's something more to them.'
 
-Vero nodded, his face pale. 'That’s because Triactors aren’t just tech. They’re a blend of organic and synthetic life. Azurions didn’t just develop technology;  they engineered something that lives, something that adapts and evolves.'
+Vero nodded, his face pale. 'That's because Triactors aren't just tech. They're a blend of organic and synthetic life. Azurions didn't just develop technology;  they engineered something that lives, something that adapts and evolves.'
 
-Cale’s stomach turned as the realization hit him. 'So, in a way... they’re like us.'
+Cale's stomach turned as the realization hit him. 'So, in a way... they're like us.'
 
-'Exactly,' Vero said quietly. 'For years, Azurion Inc. has been pushing the boundaries of this union. Whether we like it or not, we’re now walking the same path.'
+'Exactly,' Vero said quietly. 'For years, Azurion Inc. has been pushing the boundaries of this union. Whether we like it or not, we're now walking the same path.'
 
-Excitement flickered in Dria’s eyes as she studied the glowing machines. 'This is it. This proves we’re on the right track. If we can master this technology, we can go beyond what Azurion Inc. ever imagined. We have the potential to surpass them.'
+Excitement flickered in Dria's eyes as she studied the glowing machines. 'This is it. This proves we're on the right track. If we can master this technology, we can go beyond what Azurion Inc. ever imagined. We have the potential to surpass them.'
 
 Cale turned to her, his expression hard. 'And what price are you willing to pay for that, Dria? How much of yourself are you ready to sacrifice?'
 
-She stepped closer, her metallic fingers brushing his cheek in a gesture that was almost tender. 'Whatever it takes, Cale. You should consider doing the same. We can’t cling to outdated notions of what it means to be human anymore.'
+She stepped closer, her metallic fingers brushing his cheek in a gesture that was almost tender. 'Whatever it takes, Cale. You should consider doing the same. We can't cling to outdated notions of what it means to be human anymore.'
 
 ## The Azurion Incursion
 
 As they were hauling the final pieces out of the Tech repository, alarms blared throughout the subterranean complex. Confusion spread among the group, but Cale felt a rising dread grip his chest.
 
-'They’re here,' Vero whispered, his voice tight with fear. 'Azurion Inc.’s forces.'
+'They're here,' Vero whispered, his voice tight with fear. 'Azurion Inc.'s forces.'
 
 The walls shook under the impact of explosions as the mixed troops of Azurion Inc. advanced into the tech repository. Led by an Altan commander, the attacking force included a squad of Elgem soldiers and Traditional Humans, with a towering Khaured sergeant at the forefront, wielding energy weapons designed for brute strength. The Augments, fortified by their cybernetic enhancements, fought back fiercely, but Azurion's forces pressed on with relentless precision.
 
 In the chaos, Cale turned to Dria, her form almost entirely mechanical now as she shed the last remnants of her human appearance. With a swift, robotic gesture, she removed what was left of her original face. Cale's heart sank as he watched the final piece of her natural self disappear.
 
-'You don’t have to do this!' Cale shouted over the roar of battle.
+'You don't have to do this!' Cale shouted over the roar of battle.
 
-Dria’s voice, now filtered through her cybernetic enhancements, echoed through the repository. 'Cale, this is what I’ve become. It’s not about transcending humanity; it’s about perfecting it. We’ve chosen to evolve beyond flesh, but we are still human at our core.'
+Dria's voice, now filtered through her cybernetic enhancements, echoed through the repository. *'Cale, this is what I've become. It's not about transcending humanity; it's about perfecting it. We've chosen to evolve beyond flesh, but we are still human at our core.'*
 
-Cale gripped his weapon, his hands trembling as the gravity of the situation weighed on him. 'This isn’t who you are, Dria. You haven’t lost yourself. Not yet.'
+Cale gripped his weapon, his hands trembling as the gravity of the situation weighed on him. 'This isn't who you are, Dria. You haven't lost yourself. Not yet.'
 
 Her expressionless, metallic face turned toward him, and for a brief moment, a flicker of something familiar crossed her features. 'We were never meant to abandon what makes us human, Cale,' she said, her voice softer, almost regretful. 'But we are meant to improve it, to survive... without losing ourselves.'
 
-Before Cale could respond, Dria launched herself into the fray. Her movements were a blur of raw power and precision as she confronted the Khaured sergeant, a hulking figure nearly twice her size. The clash was brutal; Dria’s cybernetic arm gleamed as she parried the sergeant’s heavy strikes with ease. Their battle raged, sparks flying as metal met energy blade, while the other Augments fought off the Elgem and Human soldiers.
+Before Cale could respond, Dria launched herself into the fray. Her movements were a blur of raw power and precision as she confronted the Khaured sergeant, a hulking figure nearly twice her size. The clash was brutal; Dria's cybernetic arm gleamed as she parried the sergeant's heavy strikes with ease. Their battle raged, sparks flying as metal met energy blade, while the other Augments fought off the Elgem and Human soldiers.
 
 Cale barely had time to process the scene before an explosion sent him tumbling backward. When he scrambled to his feet, he saw the Altan commander, a figure draped in sleek, silver armor, coordinating the attack from behind the front lines.
 
-Dria roared, driving her metal fist into the Khaured sergeant’s chest, crushing his armor and sending him crashing into a nearby wall. The sergeant slumped to the floor, lifeless, as Dria turned her gaze toward the retreating Altan commander.
+Dria roared, driving her metal fist into the Khaured sergeant's chest, crushing his armor and sending him crashing into a nearby wall. The sergeant slumped to the floor, lifeless, as Dria turned her gaze toward the retreating Altan commander.
 
 Without hesitation, Dria charged forward, her enhanced speed allowing her to close the distance between them in seconds. But the commander was already escaping, disappearing through a concealed door in the repository. Cale fired after him, but it was too late; the commander was gone.
 
-The room fell silent as the reality settled in. With the commander’s escape, Azurion Inc. now knew of the Augments’ intrusion. A retaliation was inevitable. Azurion would not tolerate the loss of its valuable technology, and the Augments had made themselves targets. The next encounter would be far more deadly, as the corporation would surely return with greater force.
+The room fell silent as the reality settled in. With the commander's escape, Azurion Inc. now knew of the Augments' intrusion. A retaliation was inevitable. Azurion would not tolerate the loss of its valuable technology, and the Augments had made themselves targets. The next encounter would be far more deadly, as the corporation would surely return with greater force.
 
-The remaining Elgem and Human soldiers, demoralized by the loss of their leader, began to retreat, staggering away from the battlefield. Dria didn’t relent, delivering a final, devastating blow to the last soldier who dared to stand his ground, sending him crashing to the floor.
+The remaining Elgem and Human soldiers, demoralized by the loss of their leader, began to retreat, staggering away from the battlefield. Dria didn't relent, delivering a final, devastating blow to the last soldier who dared to stand his ground, sending him crashing to the floor.
 
-The room fell silent, save for the faint hum of Dria’s cybernetic systems powering down. Cale stood amidst the wreckage, his chest heaving, as he took in the aftermath. The once-pristine Tech repository was now a graveyard of bodies-Elgem, Humans, and the fallen Khaured sergeant. Blood and oil slicked the ground beneath their feet.
+The room fell silent, save for the faint hum of Dria's cybernetic systems powering down. Cale stood amidst the wreckage, his chest heaving, as he took in the aftermath. The once-pristine Tech repository was now a graveyard of bodies-Elgem, Humans, and the fallen Khaured sergeant. Blood and oil slicked the ground beneath their feet.
 
-Dria straightened, her eyes glowing with intensity as she looked back at Cale. 'It’s over,' she said, her voice calm, though an air of cold finality lingered in her tone. 'For now.
+Dria straightened, her eyes glowing with intensity as she looked back at Cale. 'It's over,' she said, her voice calm, though an air of cold finality lingered in her tone. 'For now.'
 
-Cale nodded, the weight of the battle and its consequences hanging heavy in the air. Though they had survived the attack, the Altan commander’s escape was a reminder that the conflict was far from finished.
+Cale nodded, the weight of the battle and its consequences hanging heavy in the air. Though they had survived the attack, the Altan commander's escape was a reminder that the conflict was far from finished.
 
 ## The Aftermath
 
@@ -737,11 +737,11 @@ The Repository was in rubble after the fight was over. The Azurions were forced 
 
 Seated amidst the debris, Cale grasped the Triactor Prototype. It was still unfinished and beyond their comprehension. But in light of everything that had transpired, Cale wasn't sure if completing it was the best course of action.
 
-Dria’s transformation weighed heavily on Cale’s mind. She had pushed the boundaries of augmentation so far that she had become almost unrecognizable to herself; but she hadn’t lost everything. The core of who she was, her identity, was still there, albeit buried beneath layers of technology. Cale knew that the Augments would continue down this path, seeking improvement, refining their enhancements. They would keep testing the limits of what it meant to be human; but never to the point of losing themselves entirely.
+Dria's transformation weighed heavily on Cale's mind. She had pushed the boundaries of augmentation so far that she had become almost unrecognizable to herself; but she hadn't lost everything. The core of who she was, her identity, was still there, albeit buried beneath layers of technology. Cale knew that the Augments would continue down this path, seeking improvement, refining their enhancements. They would keep testing the limits of what it meant to be human; but never to the point of losing themselves entirely.
 
-As the colony’s emergency lights flickered overhead, Cale made a decision. He would return to the council, not just to argue against completing the prototype, but to prepare them for what was coming. The escape of the Altan commander had sealed their fate; Azurion Inc. would retaliate, and soon. Cale knew their enemies would come back stronger and more relentless, determined to reclaim what was theirs.
+As the colony's emergency lights flickered overhead, Cale made a decision. He would return to the council, not just to argue against completing the prototype, but to prepare them for what was coming. The escape of the Altan commander had sealed their fate; Azurion Inc. would retaliate, and soon. Cale knew their enemies would come back stronger and more relentless, determined to reclaim what was theirs.
 
-But the Augments needed to remember who they were, before they lost themselves completely in the war that was brewing. Power alone wouldn’t save them; they had to hold on to their humanity in the face of this impending storm.
+But the Augments needed to remember who they were, before they lost themselves completely in the war that was brewing. Power alone wouldn't save them; they had to hold on to their humanity in the face of this impending storm.
 
 Yet, deep down, Cale feared it was already too late. The lines between who they had been and who they were becoming had blurred beyond recognition, and the fight ahead would only push them further from what they once were.
 
@@ -749,11 +749,11 @@ Yet, deep down, Cale feared it was already too late. The lines between who they 
 
 Back at the colony, Cale sat quietly in his lab, the soft whir of his cybernetic arm the only sound breaking the silence. His reflection in the cracked mirror revealed a man caught between worlds; part flesh, part machine, yet neither whole. He flexed his mechanical fingers, feeling the cold precision that had once been a symbol of survival but now felt like a creeping transformation, inching toward something unrecognizable.
 
-He thought of Dria. The woman he had once known; fierce, brilliant, and determined; was still there, but buried beneath the layers of her augmentations. She hadn’t ascended, as she had once believed, but had instead lost sight of the balance between humanity and technology. Had she pushed too far, forgetting that her strength came from who she was, not just the enhancements she wore? He would never truly know the answer, and perhaps that was the hardest part to accept.
+He thought of Dria. The woman he had once known; fierce, brilliant, and determined; was still there, but buried beneath the layers of her augmentations. She hadn't ascended, as she had once believed, but had instead lost sight of the balance between humanity and technology. Had she pushed too far, forgetting that her strength came from who she was, not just the enhancements she wore? He would never truly know the answer, and perhaps that was the hardest part to accept.
 
-In front of him was the prototype, buzzing slightly with promise. Cale knew that the council would insist on seeing it through. To others, it would represent the last chance at independence, a means of preserving the Augments and accelerating their unavoidable development. But as he stared at the technology that had claimed so many lives, the looming threat of retaliation from Azurion Inc. was impossible to ignore. He knew the corporation would not forgive their intrusion; the commander’s escape had ensured that. The Augments’ future would now be filled with conflict, and the coming fight weighed heavily on his mind.
+In front of him was the prototype, buzzing slightly with promise. Cale knew that the council would insist on seeing it through. To others, it would represent the last chance at independence, a means of preserving the Augments and accelerating their unavoidable development. But as he stared at the technology that had claimed so many lives, the looming threat of retaliation from Azurion Inc. was impossible to ignore. He knew the corporation would not forgive their intrusion; the commander's escape had ensured that. The Augments' future would now be filled with conflict, and the coming fight weighed heavily on his mind.
 
-As much as Cale wrestled with the moral dilemma of the prototype’s existence, he also knew he needed to prepare for what was ahead. Retaliation was inevitable. Azurion’s forces would return, likely stronger and more ruthless, and the Augments would have to fight back or be erased. He would bring this to the council’s attention, urging them to think beyond the technology. They needed to defend themselves, yes; but they also needed to consider what they were defending.
+As much as Cale wrestled with the moral dilemma of the prototype's existence, he also knew he needed to prepare for what was ahead. Retaliation was inevitable. Azurion's forces would return, likely stronger and more ruthless, and the Augments would have to fight back or be erased. He would bring this to the council's attention, urging them to think beyond the technology. They needed to defend themselves, yes; but they also needed to consider what they were defending.
 
 Humanity was more than just physicality, but it was also more than machinery. It was the harmony between the two, the ongoing struggle between identity and change. And where they really lived, Cale realized, was in that tension.
 
