@@ -619,9 +619,9 @@ The Khaured Spiritualist sect offers a unique perspective on life, one that prio
 
 As the stars blinked coldly across the bleak emptiness of space, a Lopati Ark-ship drifted past, its metallic hull gleaming faintly against the vastness. Kalan, the stoic captain of Resonance, stood on the command deck, hands clasped behind his back, gazing out into the dark unknown. It had been many cycles since the destruction of Lopat, their icy homeworld. Now they traveled in exile, seeking haven among the Federation colonies, often struggling to find acceptance. Each day in exile sharpened the tension in the silence that filled the Lopati Ark-ships as they drifted among stars.
 
-Lopat had been a world of survival, a place where every Lopati had learned to adapt to the hostile environment. Beneath the ice-covered surface, Lopati communities had thrived in dark, interconnected caverns, warmed by geothermal energy. They had developed a deep respect for life, for their peoples history, and for the vital resources they had struggled to conserve. The Lopati lived with a loyalty that ran to the bones—a loyalty to one another and to the collective knowledge stored within their sacred Arkhives. This data core was their pride and legacy, a physical testament to Lopats struggles and triumphs, containing stories, knowledge, and even images of a world that no longer existed.
+Lopat had been a world of survival, a place where every Lopati had learned to adapt to the hostile environment. Beneath the ice-covered surface, Lopati communities had thrived in dark, interconnected caverns, warmed by geothermal energy. They had developed a deep respect for life, for their peoples history, and for the vital resources they had struggled to conserve. The Lopati lived with a loyalty that ran to the bones-a loyalty to one another and to the collective knowledge stored within their sacred Arkhives. This data core was their pride and legacy, a physical testament to Lopats struggles and triumphs, containing stories, knowledge, and even images of a world that no longer existed.
 
-Kalans gaze drifted toward the observation panel where the stars flickered in clusters, and he thought of those ancient days when survival had meant making the impossible possible. Every moment he spent on the bridge brought that weight upon him—the same weight his family had borne as builders and custodians of the Lopatis fragile, carefully managed ecosystem.
+Kalans gaze drifted toward the observation panel where the stars flickered in clusters, and he thought of those ancient days when survival had meant making the impossible possible. Every moment he spent on the bridge brought that weight upon him-the same weight his family had borne as builders and custodians of the Lopatis fragile, carefully managed ecosystem.
 
 A message crackled through the ships intercom, breaking Kalans reverie.
 
@@ -637,11 +637,11 @@ Eskas gaze remained steady, though her voice dropped to a quiet murmur. It feels
 
 Kalans grip tightened slightly. He understood her sentiments all too well. We trade to survive, he replied softly. But survival is only a beginning. Our legacy must endure, even if it means facing those who would exploit us.
 
-## A BOND FORGED IN ICE – FLASHBACK
+## A BOND FORGED IN ICE - FLASHBACK
 
-Years before the destruction of Lopat, Kalan and Eskas paths had crossed in the frozen heart of their world. Kalan had been a young engineer then, gifted with the skills of his ancestors, working to maintain the structures that safeguarded the Lopati. Engineering was his familys legacy, a skill passed down over generations. He was known among the Lopati for his calm, calculating mind—a man who, despite his youth, preferred action over words.
+Years before the destruction of Lopat, Kalan and Eskas paths had crossed in the frozen heart of their world. Kalan had been a young engineer then, gifted with the skills of his ancestors, working to maintain the structures that safeguarded the Lopati. Engineering was his familys legacy, a skill passed down over generations. He was known among the Lopati for his calm, calculating mind-a man who, despite his youth, preferred action over words.
 
-Eska, by contrast, came from a family of scouts and warriors, tasked with braving the hostile depths of Lopats ice caverns. Her role had been one of protection; her training had been rigorous, preparing her for swift defense against the harsh unknown. Eska had grown into a fierce warrior, often taking on challenges that others shied away from. Her fiery spirit, sharp instincts, and absolute loyalty had become her trademarks—and these qualities often drew admiration and fear in equal measure from her peers.
+Eska, by contrast, came from a family of scouts and warriors, tasked with braving the hostile depths of Lopats ice caverns. Her role had been one of protection; her training had been rigorous, preparing her for swift defense against the harsh unknown. Eska had grown into a fierce warrior, often taking on challenges that others shied away from. Her fiery spirit, sharp instincts, and absolute loyalty had become her trademarks-and these qualities often drew admiration and fear in equal measure from her peers.
 
 Their fateful meeting occurred on a mission to one of Lopats deepest methane-rich caverns, where geothermal energy could be tapped. Both Kalan and Eska knew the risks: these ancient caves were susceptible to ice shifts and methane surges. Kalan had been tasked with surveying the energy field, while Eska and her team provided protection.
 
@@ -651,19 +651,19 @@ From that moment on, Kalan and Eska were bound by an unspoken trust, a mutual re
 
 ## SHADOWS OF THE FEDERATION
 
-The Federation outpost on Kelzar loomed into view, a sprawling metallic web brimming with trade ships. Kelzars leaders were opportunistic, and the Federation outposts viewed the Lopati with a mixture of curiosity and disdain. To them, the Lopati were remnants of a world already lost, outsiders who had nothing to offer but their strange, volatile Trillium. Lopati culture, their history, the tragedy of Lopats destruction—all of this held no value to them.
+The Federation outpost on Kelzar loomed into view, a sprawling metallic web brimming with trade ships. Kelzars leaders were opportunistic, and the Federation outposts viewed the Lopati with a mixture of curiosity and disdain. To them, the Lopati were remnants of a world already lost, outsiders who had nothing to offer but their strange, volatile Trillium. Lopati culture, their history, the tragedy of Lopats destruction-all of this held no value to them.
 
-As they disembarked, Kalans diplomatic team, led by Eska, carried crates of Trillium to the meeting point. Every step across the crowded bazaar brought back memories of Lopats close-knit tunnels—the dimly lit passageways, the community gatherings, the sense of shared purpose. Here, among the bustling Federation vendors, she felt that contrast deeply; every eye that lingered on them saw only what they could take, what they could gain.
+As they disembarked, Kalans diplomatic team, led by Eska, carried crates of Trillium to the meeting point. Every step across the crowded bazaar brought back memories of Lopats close-knit tunnels-the dimly lit passageways, the community gatherings, the sense of shared purpose. Here, among the bustling Federation vendors, she felt that contrast deeply; every eye that lingered on them saw only what they could take, what they could gain.
 
 Eska and her team made their way through the bustling market until they reached a shadowed alcove, where a tall figure stood waiting. Marek, Kelzars trade official, waited with a smirk, his gaze flickering to the Trillium as they approached.
 
-You bring Trillium, yes? Mareks voice was smooth, practiced. But not just any Trillium. Ive heard tales of the Lopati stock—pure, undiluted, worth more than any Federation refinery could produce.
+You bring Trillium, yes? Mareks voice was smooth, practiced. But not just any Trillium. Ive heard tales of the Lopati stock-pure, undiluted, worth more than any Federation refinery could produce.
 
 Eska met his gaze with a cold, unflinching stare. We bring Trillium, but only if the terms are fair, she replied in a measured tone.
 
 Mareks smirk deepened. Terms will be… negotiable. But first, a taste of what you carry.
 
-Eska held up a vial of Trillium gel, letting the faint glow cast a warm hue over the dim alcove. This vial, she knew, was more than currency—it was the result of hours of grueling extraction and refinement, a physical representation of their peoples struggle and survival.
+Eska held up a vial of Trillium gel, letting the faint glow cast a warm hue over the dim alcove. This vial, she knew, was more than currency-it was the result of hours of grueling extraction and refinement, a physical representation of their peoples struggle and survival.
 
 Mareks gaze lingered on the vial with a hunger that disturbed her. His fingers twitched toward a concealed weapon as he murmured, I could take it all, you know.
 
@@ -675,13 +675,13 @@ Marek hesitated, then laughed softly, his hand withdrawing. Very well, then. Let
 
 Mining Trillium had become the Lopatis lifeline, though it was an art fraught with peril. In the asteroid fields surrounding their new territories, Lopati mining crews spent months on isolated asteroids, carving out raw Trillium from the rocky surfaces. The veins ran deep, glowing with chaotic energy, like molten veins of magma. But Trillium was dangerous, and a single misstep could release a pulse that could mutate or kill those nearby.
 
-Kalan himself had crafted the Lopatis methods of Trillium extraction, inspired by the geothermal systems he once maintained on Lopat. Each mining suit was designed to contain energy emissions, allowing the miners to work close to the Trillium without suffering mutations. The miners lives depended on precision, discipline, and control—a wrong move could destabilize an entire vein, causing explosions or energy spikes.
+Kalan himself had crafted the Lopatis methods of Trillium extraction, inspired by the geothermal systems he once maintained on Lopat. Each mining suit was designed to contain energy emissions, allowing the miners to work close to the Trillium without suffering mutations. The miners lives depended on precision, discipline, and control-a wrong move could destabilize an entire vein, causing explosions or energy spikes.
 
 Eska had joined many mining expeditions, and she often supervised the younger crew members who were new to Trillium work. She remembered the time a young miner had gotten too close to an unstable vein, the energy bursting into an iridescent flare just as she pulled him back. The memory lingered, a reminder of her duty to protect her people. She had been willing to risk her life then, and she would do it again without hesitation.
 
 ## THE ARKHIVES SECRETS
 
-In each Ark-ship, an Arkhive was maintained—a sacred data core crafted from Lopats last remnants. The Arkhives contained every piece of Lopati history, culture, and knowledge. Here, stored within carefully carved data stones and encoded files, were the stories of ancestors, scientific records, and survival techniques developed over centuries. The Arkhives were more than records; they were the very soul of the Lopati people.
+In each Ark-ship, an Arkhive was maintained-a sacred data core crafted from Lopats last remnants. The Arkhives contained every piece of Lopati history, culture, and knowledge. Here, stored within carefully carved data stones and encoded files, were the stories of ancestors, scientific records, and survival techniques developed over centuries. The Arkhives were more than records; they were the very soul of the Lopati people.
 
 Eska and Kalan often found themselves returning to the Arkhive, sometimes for solace, sometimes for guidance. The chamber was dark, silent, yet filled with a sense of timelessness that bound them to Lopat. Every Lopati had come to see the Arkhives as their last link to their home, and every journey to Lopats ruins was a pilgrimage of honor.
 
@@ -697,11 +697,11 @@ Back on Resonance, Kalan awaited word from Eska when a warning alert flashed acr
 
 Kalan The voice of a junior officer, Thalen, broke through the intercom. Unstable energy readings from the Arkhive Somethings interfering with the core systems. We cant contain it
 
-Kalan felt a cold knot form in his stomach. The Arkhive was the heart of their culture—their survival and identity depended on it. He rushed to the chamber, where Lopati engineers worked frantically to stabilize the glowing core. The room pulsed with erratic energy, and the usual steady hum of the Arkhive had grown into a chaotic thrum.
+Kalan felt a cold knot form in his stomach. The Arkhive was the heart of their culture-their survival and identity depended on it. He rushed to the chamber, where Lopati engineers worked frantically to stabilize the glowing core. The room pulsed with erratic energy, and the usual steady hum of the Arkhive had grown into a chaotic thrum.
 
 Eska arrived moments later, her face drawn with tension. Captain, she said, her voice taut, Its the circuitry. Marek must have sabotaged what he traded us. Its destabilizing the Arkhive itself.
 
-Kalans jaw clenched as he glanced at the panel showing the compromised components. It was obvious now: the circuits Marek had bartered—offered under the guise of being high-efficiency energy regulators—had introduced erratic signals into the core. What should have been a reliable system was now a dangerous threat to the entire ship.
+Kalans jaw clenched as he glanced at the panel showing the compromised components. It was obvious now: the circuits Marek had bartered-offered under the guise of being high-efficiency energy regulators-had introduced erratic signals into the core. What should have been a reliable system was now a dangerous threat to the entire ship.
 
 That lying scavenger, Kalan muttered through gritted teeth. He planned this.
 
@@ -729,7 +729,7 @@ With a sharp motion, Mareks fleet surged forward, a tidal wave of black metal an
 
 Evasive maneuvers Rotate shield focus Kalan barked.
 
-The Lopati ships responded with eerie synchronicity, their movements a testament to years of surviving asteroid storms and Federation hostility. Where Mareks fleet relied on brute force, the Lopati countered with tactics—precision strikes and relentless coordination.
+The Lopati ships responded with eerie synchronicity, their movements a testament to years of surviving asteroid storms and Federation hostility. Where Mareks fleet relied on brute force, the Lopati countered with tactics-precision strikes and relentless coordination.
 
 The smaller Lopati escort ships darted forward, weaving between enemy fire like shadows against the stars. Their weapons, though less powerful, targeted Mareks key systems with surgical accuracy, disabling engines and weapon arrays. One enemy frigate buckled under a focused barrage from two Lopati ships, its hull splitting apart in a silent explosion that sent debris spinning into the void.
 
@@ -745,11 +745,11 @@ Weve lost the Aurora a voice cried through the comms.
 
 Eskas jaw tightened as the loss hit home, but she forced herself to focus. Kalan, theyre boxing us in. We need to break their formation now.
 
-Kalans eyes narrowed as he studied the tactical display. His mind raced, calculating their options. Then, his voice rang out with resolve. Redirect power from auxiliary systems to propulsion. All ships, form a spearhead and punch through their weakest point—starboard midline. If were going to break their hold, we do it together.
+Kalans eyes narrowed as he studied the tactical display. His mind raced, calculating their options. Then, his voice rang out with resolve. Redirect power from auxiliary systems to propulsion. All ships, form a spearhead and punch through their weakest point-starboard midline. If were going to break their hold, we do it together.
 
 The Lopati ships shifted seamlessly, the Ark-ships leading the charge with their reinforced hulls absorbing the brunt of the assault. Plasma and ion fire rained down on them, the shields flaring brightly under the impact, but the Lopati pressed forward.
 
-As they closed in on Mareks starboard line, Kalan gave the order. Concentrate fire—cripple their lead ship
+As they closed in on Mareks starboard line, Kalan gave the order. Concentrate fire-cripple their lead ship
 
 The Lopati unleashed a coordinated barrage, their weapons converging on the enemys lead vessel. The ships shields faltered under the onslaught, and within moments, a massive explosion ripped through its hull. The shockwave destabilized the surrounding ships, creating a gap in Mareks formation.
 
@@ -757,19 +757,17 @@ There Push through Eska shouted, her voice fierce with determination.
 
 The Lopati spearhead drove into the gap, the Ark-ships tearing through the disorganized enemy line. As they emerged on the other side, the Lopati escort ships swung around, flanking Mareks fleet and turning the tables.
 
-On Mareks flagship, the trade officials confidence began to waver. Pull back Regroup Theyre—
+On Mareks flagship, the trade officials confidence began to waver. Pull back Regroup Theyre-
 
 A concentrated strike from Resonance cut off his command, the blast severing the ships communication arrays. The Lopati capitalized on the confusion, disabling ship after ship with relentless precision.
 
 By the time Mareks remaining forces limped into retreat, the Lopati line had reformed, their ships battered but unbroken. The void fell silent once more, the wreckage of the battle drifting aimlessly among the stars.
 
- 
-
 ## THE LEGACY OF THE ARKHIVE
 
 As the adrenaline of battle faded, the Lopati gathered in solemn reflection. Their losses were heavy, but their unity had prevailed. The Arkhives remained safe, their knowledge and culture intact.
 
-Kalan addressed his people through the comms, his voice steady but heavy with emotion. We have lost many, but we have not fallen. Each of you carries the legacy of Lopat within you. We are Lopati—resilient, unbreakable. Bound by more than memory.
+Kalan addressed his people through the comms, his voice steady but heavy with emotion. We have lost many, but we have not fallen. Each of you carries the legacy of Lopat within you. We are Lopati-resilient, unbreakable. Bound by more than memory.
 
 Eska stood beside him, her voice rising alongside his. Let them come for our Trillium. Let them covet our Arkhive. But they will never understand it. They will never be us.
 
