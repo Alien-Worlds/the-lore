@@ -651,7 +651,7 @@ It was a heated council meeting. The room was packed with representatives, some 
 
 With a voice full of urgency, Vero stated, *'We can't give the prototype back. It's our only opportunity to decipher the technology that harnesses Trilium power. We shall constantly be dependent on scavenging without it. And we'll be destroyed by the Azurion Inc. if they take it back. They will not put up with betrayal.'*
 
-'But if we don’t return it,' argued Jora Alen, one of the more moderate members of the council, 'we're inviting war. The Azurion Inc. have the numbers and the firepower. We can't win.'
+'But if we don't return it,' argued Jora Alen, one of the more moderate members of the council, 'we're inviting war. The Azurion Inc. have the numbers and the firepower. We can't win.'
 
 Dria leaned forward, her mechanical eyes glowing faintly. 'We don't need to win a war. We just need to make them realize that we’re not worth the effort. If we complete the prototype and harness the Trilium ourselves, we'll have the power to defend ourselves. We'll be untouchable.'
 
