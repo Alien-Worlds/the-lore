@@ -633,7 +633,7 @@ With a groan, Cale rose and flexed his robotic hand. He had no intention of ever
 
 Dria nodded, her metal fingers drumming lightly on the doorway. *'They want their Triactor prototype back, and they're threatening to take drastic measures to retrieve it. The council is debating whether we should return it.'*
 
-Cale scowled. Months before, the Augments had been hailed as heroes for asserting their independence when they had ‘acquired’ the Triactor prototype from Azurion Inc., an Altan-led and the oldest megacorporation. Azurion, known for its cutting-edge Triactor technology and ruthless pursuit of profit, had developed the prototype as part of their energy-harnessing ventures. The Augments, in their quest to break free from dependence on such technologies, had focused on refining Trilium to power their cybernetic enhancements instead. Now, their reverse-engineering of the prototype had attracted unwanted attention from the megacorp.
+Cale scowled. Months before, the Augments had been hailed as heroes for asserting their independence when they had 'acquired' the Triactor prototype from Azurion Inc., an Altan-led and the oldest megacorporation. Azurion, known for its cutting-edge Triactor technology and ruthless pursuit of profit, had developed the prototype as part of their energy-harnessing ventures. The Augments, in their quest to break free from dependence on such technologies, had focused on refining Trilium to power their cybernetic enhancements instead. Now, their reverse-engineering of the prototype had attracted unwanted attention from the megacorp.
 
 'And your thoughts?' Cale asked, though he knew her answer.
 
@@ -653,7 +653,7 @@ With a voice full of urgency, Vero stated, *'We can't give the prototype back. I
 
 'But if we don't return it,' argued Jora Alen, one of the more moderate members of the council, 'we're inviting war. The Azurion Inc. have the numbers and the firepower. We can't win.'
 
-Dria leaned forward, her mechanical eyes glowing faintly. 'We don't need to win a war. We just need to make them realize that we’re not worth the effort. If we complete the prototype and harness the Trilium ourselves, we'll have the power to defend ourselves. We'll be untouchable.'
+Dria leaned forward, her mechanical eyes glowing faintly. 'We don't need to win a war. We just need to make them realize that we're not worth the effort. If we complete the prototype and harness the Trilium ourselves, we'll have the power to defend ourselves. We'll be untouchable.'
 
 With a calm voice, Cale spoke up. 'And what happens after that, Dria? Sure, we discover our Trilium power, but what do we really become in the process? We lose sight of who we are when we replace ourselves more and more with machines.'
 
