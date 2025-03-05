@@ -613,9 +613,9 @@ This delicate balance allows each sect to thrive in its own way, contributing to
 ### Conclusion
 The Khaured Spiritualist sect offers a unique perspective on life, one that prioritises creativity, spirituality, and inner peace over martial prowess and discipline. Their communities, built in harmony with the natural world and adorned both within and without by hand-crafted artworks, serve as sanctuaries for those seeking a different way of life. Through their practices and beliefs, the Spiritualists of Khaur demonstrate that there are many paths to understanding the mysteries of existence, each with its own beauty and wisdom.
 
-## ***The Nordic Legacy: A Hunt for Lost Triactors***
+# ***The Nordic Legacy: A Hunt for Lost Triactors***
 
-### A Tale of Honor, Unity, and Galactic Exploration  
+## A Tale of Honor, Unity, and Galactic Exploration  
 
 ### **A World Forged in Adversity**
 
