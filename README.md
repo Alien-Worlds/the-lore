@@ -613,10 +613,9 @@ This delicate balance allows each sect to thrive in its own way, contributing to
 ### Conclusion
 The Khaured Spiritualist sect offers a unique perspective on life, one that prioritises creativity, spirituality, and inner peace over martial prowess and discipline. Their communities, built in harmony with the natural world and adorned both within and without by hand-crafted artworks, serve as sanctuaries for those seeking a different way of life. Through their practices and beliefs, the Spiritualists of Khaur demonstrate that there are many paths to understanding the mysteries of existence, each with its own beauty and wisdom.
 
-# ***The Nordic Legacy: A Hunt for Lost Triactors***
+## ***The Nordic Legacy: A Hunt for Lost Triactors***
 
-## A Tale of Honor, Unity, and Galactic Exploration  
----
+### A Tale of Honor, Unity, and Galactic Exploration  
 
 ### **A World Forged in Adversity**
 
@@ -632,7 +631,6 @@ For Leif Arnorsson, an aspiring star navigator, these words ignited a fire. At s
 
 But whispers of unrest had begun to echo through Freyhold. Reports of strange anomalies in the Trilium mines of Njorvind had reached the council. Some claimed it was the doing of Triactor resonance gone awry; others whispered of ancient entities buried deep within the planet.
 
----
 
 ### **A Shattered Peace**
 
@@ -646,7 +644,6 @@ Before Rolf could reply, a distant tremor shook the ground. The warning klaxons 
 
 Through the chaos, a figure emerged from the shadows, a miner, his face pale and eyes wide with terror. "It's alive\!" he screamed. "Something moved in the depths\!"
 
----
 
 ### **The Proving Begins** 
 
@@ -660,7 +657,6 @@ Days passed. The howling winds and freezing nights pushed him to his limits. On 
 
 Curiosity outweighed caution. As he descended into the ruins, he felt an otherworldly hum vibrate through the walls. In the dim light, he saw it, a dormant Triactor machine, its sockets glowing faintly. Before he could investigate further, the sound of approaching footsteps echoed.
 
----
 
 ### **Shadows Beneath the Ice**
 
@@ -680,8 +676,6 @@ Outside, the frigid air burned their lungs. Astrid collapsed to her knees, her b
 
 Leif helped her to her feet. "The council must hear of this. If this is Altan, they'll know what it means."
 
----
-
 ### **The Altan Envoy**
 
 The Nordic council convened in Freyhold's Great Hall of Clans. High Shaman Sigrun, Elder Bjorn Ragnarsson, and other leaders gathered to hear Leif and Astrid's account. The details of their discovery; the glowing machine, its activation, and the strange markings, stirred an unease among the council.
@@ -698,7 +692,6 @@ The council murmured among themselves as Thalor continued. "Project Eternity was
 
 Elder Bjorn rose from his seat. "We must find who is responsible. Freyhold will assist in this hunt."
 
----
 
 ### **The Hunt Begins** 
 
@@ -718,8 +711,6 @@ The intruders were Necromancer, Rogue scientists and zealots who believed in Tri
 
 Valak smirked, his voice echoing through the cavern. "You cannot stop progress. Trilium must be unleashed in all its glory, not caged by fear."
 
----
-
 ### **Clash in the Depths**
 
 The cavern erupted into chaos as the Necromancers attacked. Valak wielded a modified Triactor weapon that emitted destructive energy blasts. Leif and Astrid fought back with Nordic precision, their weapons humming with resonance.
@@ -734,8 +725,6 @@ Despite their best efforts, Valak escaped, taking a critical component of the Tr
 
 As they regrouped aboard the Altara Novis, Thalor spoke gravely. "Valak's plans go beyond simple greed. He intends to reactivate the entire network. We must stop him."
 
----
-
 ### **The Trail of Valak**
 
 The confrontation on Eyeke gave the coalition a sense of their adversary's determination. Thalor accessed the recovered data from the Triactor device, discovering a pattern in the activation sites. The rogue devices formed a constellation-like map pointing toward Kavian, a heavily industrialized Trilium-rich planet.
@@ -745,8 +734,6 @@ The confrontation on Eyeke gave the coalition a sense of their adversary's deter
 As the Altara Novis prepared to depart, Astrid expressed her concern. "If Valak escaped with the device core, what's stopping him from activating another node?"
 
 "Nothing," Thalor replied grimly. "We need to reach Kavian before he does."
-
----
 
 ### **Shadows on Kavian**
 
@@ -759,8 +746,6 @@ The team split up to investigate. Leif and Astrid scouted the mining zones while
 Deep within one of the mines, Leif and Astrid discovered another Triactor device. Unlike the others, this one was fully operational, its sockets pulsing with raw energy. They were too late because Valak was already there.
 
 "You're persistent," Valak sneered, stepping from the shadows. His modified Triactor weapon glowed ominously. "But you cannot stop destiny."
-
----
 
 ### **The Ambush**
 
@@ -777,8 +762,6 @@ Amid the chaos, Astrid faced Valak in single combat. Their weapons clashed, spar
 Valak, realizing he was outmatched, retreated once again. "This isn't over," he promised, disappearing into the shadows.
 
 With the Necromancers driven off, the coalition managed to deactivate the device. However, the encounter left them with more questions than answers.
-
----
 
 ### **The Asteroid Belt's Secrets**
 
@@ -822,8 +805,6 @@ The team retreated, narrowly escaping as the station began to collapse from the 
 
 "There are two more devices," he said. "One on the uncharted planet Veles, and another on a classified Federation outpost. Valak is ahead of us, but not by much."
 
----
-
 ### **The Jungles of the Veles**
 
 The journey to Veles was tense. Unlike the industrialized worlds of Eyeke and Kavian, Veles was an uncharted planet brimming with untouched natural beauty. Its dense jungles and crystalline rivers glimmered under the light of three suns, but beneath its serene facade lay treacherous dangers.
@@ -860,8 +841,6 @@ The coalition deactivated the device, but the damage to Veles' ecosystem was evi
 
 "We're running out of time," Leif said, his expression grim. "One device left."
 
----
-
 ### **The Federation Outpost** 
 
 The final device was located on a classified Federation outpost, hidden on a barren moon at the edge of explored space. Unlike Veles, this location was stark and lifeless, its surface covered in ash and jagged rock formations.
@@ -876,8 +855,6 @@ Inside, the facility was eerily quiet. Holo terminals flickered faintly, display
 
 They found the device in a central chamber, its energy field already active. Necromancers were stationed throughout the facility, and it was clear they were prepared for the coalition's arrival.
 
----
-
 ### **The Siege of the Outpost** 
 
 The battle for the outpost was the fiercest the coalition had faced yet. The Necromancers used advanced Triactor-based weaponry, their attacks enhanced by the unstable energy emanating from the device.
@@ -890,8 +867,6 @@ Despite their efforts, Valak activated the synchronization process. A massive en
 
 "We're out of time\!" Elsa yelled.
 
----
-
 ### **Sacrifice and Victory** 
 
 Realizing they had no other choice, the coalition decided to overload the device. This would destroy the entire outpost but prevent the network from synchronizing.
@@ -901,8 +876,6 @@ Thalor and Elsa worked frantically to reroute the energy. Meanwhile, Astrid conf
 "You've failed," Astrid said, delivering a final blow that incapacitated Valak.
 
 The team evacuated just as the facility exploded, the resulting shockwave visible from orbit. The Triactor network was destroyed, and the Necromancers' plan was thwarted.
-
----
 
 ### **A Fractured Enemy** 
 
@@ -932,8 +905,6 @@ Thalor shook his head. "They're not. The Necromancers have always been dangerous
 
 "We can't let this stand," Leif said, his voice firm. "We need to find their stronghold and finish this."
 
----
-
 ### **A Splintered Path** 
 
 Tracking the Necromancers' location proved to be a daunting task. The team divided their efforts: Thalor and Elsa focused on analyzing Valak's recovered data, hoping to uncover clues, while Leif and Astrid led reconnaissance missions to known Necromancer territories.
@@ -952,8 +923,6 @@ Meanwhile, aboard the Altara Novis, Thalor uncovered a pattern in Valak's data. 
 
 The team regrouped and prepared for what they knew would be their most dangerous mission yet.
 
----
-
 ### **The Nebran Wastes**
 
 The Nebran Wastes were a desolate stretch of space filled with debris from centuries-old battles and failed experiments. The Altara Novis navigated through the treacherous region, its shields deflecting the occasional piece of drifting wreckage.
@@ -971,8 +940,6 @@ Leif and Astrid prepared the team for a stealth assault. They launched a small s
 "I'm in," she said, her hands flying over the controls. "Shutting down external defenses now."
 
 The facility's turrets powered down, and the patrol ships fell into disarray. Taking advantage of the chaos, the team landed and infiltrated the base.
-
----
 
 ### **The Heart of The Necromancer**
 
@@ -993,8 +960,6 @@ Thalor used his Altan shielding to protect Elsa as she worked to disable the fac
 As the team pushed forward, they reached the central chamber. There, a massive Triactor engine loomed, its core pulsating with unstable energy. A figure stood before it, a new leader of the Necromancers, one of Valak's most loyal followers.
 
 "You think you've won?" the leader sneered. "This engine will transform the galaxy. You can't stop us"
-
----
 
 ### **Destruction & Escape** 
 
@@ -1021,8 +986,6 @@ As they regrouped aboard the Altara Novis, the team watched the facility's remai
 "It's over," Leif said, though his tone was somber.
 
 "For now," Thalor replied. "But the Necromancers won't stop. We must remain vigilant."
-
----
 
 ### **Epilogue: Guardians of the Stars**
 
