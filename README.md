@@ -745,7 +745,7 @@ In that moment, she felt a rare sense of calm. For all the challenges, the polit
 She turned back to the stars, her heart steady, her mind clear. And with Marael at her side, she took one more step forward, ready to face whatever lay ahead. 
 
 
-ether, that we have something worth preserving, something unique to humanity. We aren't Altans or Khaureds; we're humans, and that means we face challenges and tensions that other races may never understand. But it also means we bring something invaluable to the Federation—our ability to find strength in our diversity."
+ether, that we have something worth preserving, something unique to humanity. We aren't Altans or Khaureds; we're humans, and that means we face challenges and tensions that other races may never understand. But it also means we bring something invaluable to the Federation-our ability to find strength in our diversity."
 
 The room was silent, each crew member reflecting on their own journey, their own sacrifices, and what it meant to be part of humanity's first steps as a Federation race.
 
