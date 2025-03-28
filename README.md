@@ -2289,3 +2289,443 @@ Above them, the gravity warning sensors shifted from red back to amber, marking 
 In the depths of New Pleione, beneath kilometers of rock and pressure, a new chapter in human evolution was about to unfold. And the Nordics would face it as they had faced everything else - standing tall against the crushing weight of their chosen home, ready to become whatever their harsh world required them to be.
 
 The journey that had begun with the Yggdrasil's landing would continue, guided not by fear of change, but by the courage to evolve on their own terms. For in the end, that was what it meant to be Nordic - to face the impossible, and through sheer determination and adaptability, make it possible.
+
+# The Darkness
+
+## Embers of Light Are Born from the Rage of Fire
+
+*The brightness of the cave was blinding, a searing roar filled the air. Waves of black molten smoke licked at Hephaestus' skin, burning until his clothes disintegrated, leaving his scarred, twisted body exposed. Yet the heat—once unbearable—began to soothe him, wrapping around him like a cruel, familiar embrace.*
+
+*Ahead, the lava formed a violent river, dividing the massive chamber. On the far side stood a figure, cloaked in shadow, a man who had crossed the treacherous flow and lived.*
+
+*"You are more than you let yourself be," the voice rasped, like stone grinding against bone. The dark man extended his hand, fingers curling in invitation. "Embrace the chaos and claim your seat. The work ahead is endless, but humanity cries out for you to champion them."*
+
+*The cave seemed to shudder, alive with unseen whispers. The river beckoned him, but every instinct screamed a warning, then from the depths many screams filled the chamber, hands from the darkness emerged reaching up trying to pull him down.*
+
+*"Fly you fool"*
+
+Hephaestus jolted awake, gasping for breath. His chest heaved, sweat clinging to his skin in the cold, dim cabin. The dream—"that" dream—had returned after so many years. He sat up slowly, pressing his hand against his heart, feeling the rhythmic pounding of something much deeper than anxiety. It was the weight of failure, the specter of his mentor, Father, who had been gone for nearly thirty long years. Chalybs, the powerful Altan Splicer,  the ancient forge master, was a legend in his own right, but to Hephaestus, he was something more: a guiding star, a master, a father.
+
+The dream had been a memory of Fathers prophecy, ***Chalybs*** had often spoken of creation, of weaving chaos into harmony. He used to compare it to conducting an orchestra—each piece playing a role, each sound perfectly timed under the direction of a leader with vision. This is what working with the precious waxon mineral was like, infusing it with trilium, one imperfection could cause a catastrophe.  "The mark of any splicer," he had told his first son once, "is not just in their hands but in their ability to see what can be made from the impossible. What can you create?"
+
+Now, Hephaestus sat alone in the dim light of the cabin inside his Fathers mighty starship Sleipnir, his heart still thudding as the echoes of ***Chalybs*** words faded. He was no conductor; he had become something far more dangerous, an outcast, a being reshaped into a weapon. He'd been at this too long. Hephaestus had lived longer than most, traveled farther than almost anyone he had known, and yet it felt like he had achieved nothing. Taken as a young orphan from a desolate corner of the cosmos, he had been raised under the stern and watchful eyes of Father, brought up in the Splicer's way.
+
+They had been a brotherhood, a family of outcasts—an Altan with his four human disciples. Each one was altered and perfected by Father's mastery of trilium and waxon, destined to be part of something grander. Yet, that grand vision had failed. The Altans had rejected them, branding them as abominations. Thirty years after Father's death, they were still struggling for acceptance. Their genetic modifications, once meant to elevate them, had turned them into something monstrous in the eyes of others. In retaliation, they had turned to darker paths.
+
+A sudden knock at the door, it  jolted him out of his thoughts. The voice outside calling "It's time to move." He rose, muscles creaking,  pulling his clothes over his massive, twisted frame. His quarters were small, barely enough room to stand and breathe, as he moved out of the sleeping chambers into the ship's common areas it was a kaleidoscope of bright colours—creations and trinkets from every corner of the galaxy the crew had once visited. They were remnants of a happier past, from a time when exploration had been their goal.
+
+The Sleipnir, once a mighty Altan diplomatic vessel, now retrofitted for the splicer brothers' covert missions, cut a striking figure. Its sleek, mid-range frame featured a bio-organic skin with chromatophores, allowing it to blend seamlessly into any environment. Originally designed for Altan emissaries, it now served as a tool of stealth and survival in a galaxy full of dangers.
+
+The Sleipnir's propulsion system was a masterpiece of Altan engineering, blending elegant design with staggering power. At its heart a trilium core—a rare, highly reactive element that powered the entire ship. The core itself was encased within a chamber of trilium-infused metals that interact harmoniously with refined trilium gasses. When these elements were introduced into the system, a magnetic reaction triggered, harnessing both gravitational and magnetic fields in a controlled symphony.
+
+As trilium gasses ignited within the core, they generated massive bursts of energy. This energy, rather than being expelled violently, was channeled through a series of magnetic coils that guide the ship along gravitational pathways. These pathways are akin to invisible rivers flowing through space, with the Sleipnir using precise manipulations of gravity to achieve propulsion without the need for traditional fuel or combustion. This process was quiet, almost graceful, allowing the Sleipnir to move swiftly and silently across vast distances.
+
+The trilium core's magnetic interaction with space itself also grants the ship incredible agility. By subtly adjusting the magnetic fields around the vessel, the Sleipnir can pivot, accelerate, or decelerate with surgical precision, making it an elusive target for enemies. The design's simplicity hide its complexity, but each thrust, each movement was a calculated dance of magnetism, gravity, and trilium's volatile reaction.
+
+Externally, the ship's hull pulsated with a faint blue light during high-speed travel, a visual manifestation of trilium energy coursing through its systems. It stood as a symbol of the Altans' unparalleled mastery over forces that were both natural and manipulated, a testament to their technological prowess. Even in its covert missions, the Sleipnir remains a marvel of Altan innovation.
+
+The crew's motto, "Cogito, ergo sum," was painted over the bulkhead in the common room. A Latin saying from Old Earth, it captured one of humanity's first real steps toward enlightenment, aligning with Chalybs' Code.
+
+The Code was their attempt at bringing balance to the galaxy through genetic modification—a eureka moment. It had been Father's last great experiment: trilium-infused waxon pendants that could rewrite genetic codes, enhancing intelligence, strength, and resilience. But the Altans had rejected Father's work, labeling it dangerous and unnatural. Now, Hephaestus and his remaining brothers—Sigfried and Ewan—carried on his legacy in secret.  The two empty seats at the table reminded the survivors it was a game with real stakes, where living was the goal.
+
+They had no choice now they were too far committed. Anyways they couldn't let Father's work die, not after everything he had sacrificed. And yet, Hephaestus could feel the pressure building inside him, the sense of inevitability that everything they were doing would come to a head soon. He could feel the pressure mounting inside of him like a electrical charge, something dark and ancient
+
+Hephaestus stepped into the corridor, the low hum of the Sleipnir's engines vibrating through the walls. Sigfried was waiting for him in the common room, standing by the viewport. His broad, Nordic form filled the space, muscles coiled beneath his armor, his face a mask of perfect genetic symmetry. Father's perfect son. Unlike Hephaestus, whose body bore the scars of countless failed genetic experiments, Sigfried was a testament to what Father had been trying to achieve—a flawless human form, strong, capable, and free of the ugly mutations that covered Hephaestus' body.
+
+"You're late," Sigfried said without turning around. "Ewan's already in the hangar prepping for our landing."
+
+Hephaestus grunted, moving past him toward the small table covered in tools and parts. "I didn't sleep well."
+
+"Another dream?" Sigfried asked, finally turning to look at him. His white blue eyes were cold, calculating. "You need to focus, brother. We don't have time for nightmares."
+
+Hephaestus didn't respond. Instead, he grabbed a small pendant off the table, one of their latest creations. The black trilium core glowed faintly in his hand, and he could feel its power, the potential it held to change everything. The pendants were their weapon, their means of fighting back against the Altans who had rejected them. With these, they could reshape humanity, elevate them to the level of the Altans—whether they liked it or not.
+
+Sigfried's eyes flicked to the pendant. "We're close. I can feel it. Once we distribute these, the galaxy will have no choice but to accept us in our own time."
+
+There will be more asked of me before this is done, I worry I will fail, that I am not up to the task.  The large frame of Hephaestus shifted uneasily, in his large calloused hands the waxon trinket danced.  He felt a twinge of doubt. The pendants were dangerous. Father had warned them of that before his death, before they had fully understood the consequences of rewriting human genetic codes. But Sigfried was right about one thing—they were out of time. The Altans wouldn't wait forever, and neither would the galaxy. If they didn't act now, everything Father had built would be lost.
+
+A light flickered by Sigfried's ear. "Ewan's ready," he said, heading for the door. "We're splitting up once we land. You need to focus on getting parts for the Sleipnir—don't get distracted."
+
+Hephaestus nodded, as the two left the bright space, heading down to the hangar. The interior of the Sleipnir—its sleek, organic design—was a constant reminder of Altan mastery, not lost on either of them. As they approached, Ewan's legs stuck out from beneath a machine, the rhythmic clanging of a hammer announcing his presence long before they saw him. Rising as they entered, Ewan set his tools aside by the small mining shuttle they used for surface extractions.
+
+He looked more Altan than the other two, his features sharp and angular—a product of Father's most extreme modifications. Though Ewan was shaped to be the emissary, the diplomat, there was no mistaking the warrior's heart beneath. He was made to speak for them, but the same fire burned in his eyes that ignited within Sigfried and Hephaestus—a shared passion born from their father's legacy.
+
+"We're ready?," Ewan asked, his hands strapping a mining harness over his chest. "Alright, once we land, I'll head for the mineral deposits. You two know your tasks."
+
+Hephaestus glanced at the sleek control panel of the shuttle. "What about the pendants?"
+
+""I've already distributed a few to our contacts," Ewan replied. "We'll finish the rest once we've resupplied. But remember, the Altans are watching. We can't make mistakes."
+
+No mistakes. That was always the rule. Father had drilled it into them from the beginning. Perfection or nothing.
+
+As the ship descended into the atmosphere, the full scope of Magor revealed itself—a planet defined by contradiction. From above, it was clear the surface was far more hostile than any traveler would have ever imagined. The ground was covered in a fine layer of red ash, swept continuously by intense winds that whipped up towering clouds of dust and grit. The air outside was slightly toxic, filled with traces of sulfur and acidic compounds, a byproduct of the planet's volcanic activity and the trilium mines that dotted the landscape.
+
+Magor was a planet of extremes, its environment shaped by the constant activity beneath its surface. The volcanic wasteland stretched for miles in every direction, with mining colonies clinging to the edges of high-density trilium deposits. These deposits, while valuable, came at a cost. It was said being planet side without an air scrubber for a month would be enough for you to build up trilium contamination and the resulting effect could alter your genetics, making you susceptible to any type of rare mutations, raw trilium was incredibly dangerous—highly toxic and notoriously volatile. Any direct exposure to its unrefined form could cause catastrophic damage to human genetics. Those unlucky enough to be contaminated by trilium often suffered horrific mutations before their bodies finally gave out, overwhelmed by its power.
+
+Magor thrived despite its dangers, driven by the galaxy's relentless demand for trilium. Magor Prime, the heart of the planet's commerce, loomed on the horizon. The city sprawled beneath domes and towering structures, protected by artificial ozone layers. The sky was permanently tinted red by the ash swirling in the atmosphere, and massive floating cities shimmered in the distance, home to the wealthiest who lived far from the dangers below.
+
+Magor Prime was a maga city of opportunity and desperation, where miners, traders, and smugglers came to make their fortunes—or lose them. Below the floating cities, the acidic soil barely sustained life, and the city bustled with commerce, where fortunes shifted as easily as the wind.
+
+As the shuttle neared the landing pad, Hephaestus saw the long deep scars of trilium mining—massive pits and craters where miners had dug deep into the planet's crust. The workers below were mere specks from the shuttle's altitude, dwarfed by the immense machinery needed to extract and refine the volatile trilium rocks.  Live lava veins flowing like rivers, these trenches speewed toxic gasses as the bubbling red rivers of Magor flowed.
+
+Something deep inside of Hephaestus mind pulled him towards the chaos and a dark rumble filled his skull.   His great hands crushing the armrests of his flight seat as he buried the noise.
+
+The spaceport, on the outskirts of the city was their destination, it hummed with the sounds of docking ships and roaring engines. Magor Prime was a towering city, many corporate offices were set up here to handle accounts while traders, miners, and smugglers rubbed shoulders with bureaucrats and mercenaries. The air buzzed with intrigue, and no one was quite who they appeared to be.
+
+Hephaestus had been here before. The spaceport was thick with the smell of fuel and metal, and the chatter of countless voices—Humans, Altans, Robotech and other species moving through the flow. It was a place where identities could be bought, sold, or shed. If the brothers kept a low profile, they could get what they needed and get out just as fast.
+
+Their destination was deeper into the city, away from the industrial noise of the port. The streets of Magor Prime twisted and wound, lined with makeshift stalls, shops, and storage units. Colours, sounds, and smells hit Hephaestus' senses—the scent of street food sizzling in the hot air, the buzz of energy weapons being sold under the table, the murmur of traders bartering in a half-dozen languages all while the red dust settles over them. Beneath the bustle, tension simmered. The planetary government crackdown had everyone more cautious. Guards and checkpoints dotted the streets, and the crowd moved with a wariness that hadn't been there before.
+
+Sigfried led the way, his broad figure cutting through the crowd with ease. Hephaestus followed, pushing aside lingering doubts. Their destination, a small workshop nestled between two massive repair bays, came into view. The wind-worn sign above the door read, "Larsen Family Parts and Salvage."
+
+The door to the shop was a patchwork of reinforced metals, scuffed and dented from years of wear. The faint hum of machinery buzzed inside, mingling with occasional bursts of laughter and the thudding beat of music. Hephaestus exchanged a glance with Sigfried before pushing the door open.
+
+Inside, the shop was a chaotic blend of salvage, mechanical parts, and general madness. Shelves were stacked haphazardly with engine components, weapon fragments, and fuel cells. The walls were plastered with posters from different systems, showing famous racing ships and impossible trades. The smell of grease and old metal clung to the air.
+
+In the center of it all stood "MaGoR Mike".
+
+The young man was wild-eyed and grinning, his mop of disheveled brown hair bouncing as he talked animatedly to a group of robotec customers. He wore a sleeveless open vest over a bare torso, his arms and chest covered in tattoos of ships, flames, and abstract designs.  These designs moved in intricate patterns, living artwork on his body.  Every movement was full of energy, his loud voice cutting through the noise of the shop.
+
+"Yeah, yeah\! You want power? I "got" power\!" he waved a glowing engine core at a hesitant customer. "But you gotta know how to handle it, my friend\! This baby'll blast you across the stars—or blow you to bits\! That's the "thrill", right?"
+
+The customers not sure if it was a joke turned to the side speaking in robotic code apparently considering the value of this "controlled bomb"
+
+He turned as Hephaestus and Sigfried stepped inside, his eyes lighting up. "Well, well, well\! Look who's walked into "my" little corner of paradise\! Hephaestus the Hammer of the gods\! And Sigfried the callander boy, looking like you just punched through an asteroid belts rectum, to the three hells I bet you damn near killed him\! What brings you two beauties to Magor Prime?"
+
+Hephaestus raised an eyebrow but couldn't help a small smile. "We're in need of parts, Mike. We Got a list."
+
+A piece of scrap paper was raised from a chest pocket in Siegfried's jacket, Mike snatched at it and had a look.  Without finishing or looking up his voice barked.
+
+""Need"? You're always needing something. But no problem\! MaGoR Mike's got it—or your money back. Though no one ever asks for that, 'cause I "always" got it. Parts for the Sleipnir, right? Your ship is the best to  ever fly through Magor's atmosphere\! You think of me when your ready to sell"
+
+Sigfried chuckled. "Still talking big, Mike. Business must be good."
+
+""Booming"\! People come to me 'cause they know MaGoR Mike delivers. Now, lemme see that other list the real one."
+
+Hephaestus handed him the second list with a real laugh, and Mike scanned it, whistling low. "High-refined trilium gas, heat shielding, contamination suits… What, planning to fly through a sun?"
+
+"Something like that," Hephaestus said.
+
+"Well, you came to the right place," Mike grinned. "Follow me."
+
+He led them into the storage area in the back. Mike moved with ease through piles of parts, pulling crates open and sliding boxes aside.
+
+"So, what's really going on?" Mike's voice dropped as he rummaged through a crate marked "volatile".
+
+"Nothing out of the ordinary," Sigfried replied smoothly. "Just trying to keep the ship running."
+
+"Yeah, I know how it is," Mike said, not buying the tone. "But you don't usually come here yourselves. And word is the Altans are hunting. They're looking for splicers who don't stay in their lane."  The Magor custodians want the reward and to be seen as the good guys by apprehending those upstarts the Altans want.
+
+Hephaestus felt a cold weight settle in his stomach. Hearing this from Mike meant things were worse than they feared.
+
+"Do we look like we're causing trouble?" Sigfried asked, a smile not quite reaching his eyes.
+
+Mike paused, holding a sleek engine part. He looked between the brothers, calculating, then sighed and handed it to Hephaestus. "Just be careful. The wrong kind of attention'll get you buried here fast."
+
+Hephaestus nodded, the weight of Mike's words heavy. They always knew the risks. But now, the line they walked was thinner.
+
+"Appreciate the warning," Sigfried said.
+
+Mike grinned, though it was subdued. "Hey, what are friends for? Besides, I like having you guys around, makes things more exciting.  I have some new stuff that can go boom if you want to trade for more of your pretty necklaces."
+
+"Sure thing, when can you have all this picked for us." Hephaestus said, his large bulk crammed into the tight rows of shelves looked like a bull in a China shop, the talk of explosions was getting him a bit Cagey.
+
+Mike glanced at the tattoo on his arm, it rippled with activity, finally an orange cat with a wide grin clutching a clock that looked more like an hourglass appeared. "Give me an hour. If you want it delivered, I'll need two. My runners keep getting jumped, and now we need an armed escort every time we take the cart out."
+
+The men shared a handshake and the deal was sealed.  If you didn't have your word what would you have?
+
+As they left, Hephaestus couldn't shake the feeling they were being watched. The Altans were tightening their grip, and they wouldn't stop until everything their father had built was destroyed.
+
+"Stay sharp," Sigfried muttered as they passed through the crowds back to the ship.
+
+"I always do," Hephaestus replied, though anxiety knotted in his chest as they wove through the crowd toward the spaceport.  A sudden change of plans as Sigfried noticed a group of city guardsmen up ahead, the two made a quick turn down a secondary ally between the large building.  At first it wasn't noticeable, the small forms littering the streets but as the two men progressed down the road Hephaestus slowed and made eye contact with what were human children lining the streets, their sick eyes pulled at him more than the ash-filled wind ever could. Their faces—gaunt, hollow-eyed, bloodshot from trilium contamination—it was a brutal reminder of his own past life before Father. These street kids were raised by machines, they had never known family. They were products of an outdated Altan breeding program where human adults hungry for the federation worker subsidies sold egg and seed for quick cash.  The program which once promised cheap labor but left behind nothing but broken lives. The Galactic corporations quickly retreated from the business model when alternate practices arose, they had abandoned the planet's future workforce "the human children", leaving them to scavenge for survival on Magor's toxic surface.
+
+The air was heavy with sulfur in the tight ally, every breath a harsh reminder of the trilium poisoning that had ravaged the planet's population. Outside on the streets the red ash, constantly churned by fierce winds, coated everything—children, streets, buildings. It was impossible to escape. Magor's volatile landscape was as harsh as the lives of those trapped beneath its crimson sky.
+
+Ahead, a light flashed a warning, wall mounted feeding trough began to overflowed with industrial bio-waste, barely edible, dumped by the planetary custodians to keep the orphans alive. The children, malnourished and frail, fought like wild creatures for the scraps. Their small, dirty hands reached out to Hephaestus, pulling at his clothes, trying to drag him down to secure their place. Their faces told the story—half-formed by hunger and contamination, their bodies too weak to ever grow strong. The horrors of trilium exposure were evident in their twisted limbs and raw, reddened eyes, but there was no pity left in them, only a hunger that consumed everything else, a unique will for life.
+
+Between the towering structures, the shadows of Magor Prime loomed like the giants of a forgotten age, blocking out the sun. The streets, covered in dust and decay, were alive with the noise of desperation. This was the legacy of the industrial breeding farms—a generation engineered for labor, now left to starve when their purpose had been exhausted. The once-promised future had been nothing but a fleeting corporate mirage, discarded the moment the Khaureds had introduced the cheaper, more compliant Onoros race and the mysterious Maxa.
+
+As Hephaestus pressed forward, his large frame struggled to break through the throngs of grasping children. Their cries and pleading eyes mixed with the ash in the air, thick and suffocating. His mind, already stretched thin from the weight of his memories, felt the dark pull of something deeper—something primal.
+
+The voice..
+
+It was echoed inside his skull. It's harsh and scraping sound like metal against stone.
+
+"Look at your young.  
+*Look...* at them.  
+This is your legacy—  
+Broken.  
+Twisted.  
+Stunted... parasites."
+
+Hephaestus shuddered as the voice tore at his consciousness, the pain pulsing through his temples. The images of the children, starved and lost, clawed at him, and the nightmare threatened to consume him. His feet faltered under the pressure, and the hands of the orphans felt like chains dragging him deeper into his own torment.
+
+"When, child...  
+When will you awaken?  
+When will you *see* the truth?"
+
+The pain spread like fire, burning away the edges of his thoughts, each word striking him with cruel clarity.
+
+"Turn to me...  
+*Turn... to the darkness.*  
+Let it wrap around you.  
+Let it consume you.  
+Embrace the chaos.  
+\*Let it... flow... through your veins."
+
+The pendants in his pocket burned like lava against his skin, bright red light seeping from his side. His vision filled with the molten rivers from his nightmare. The streets ran with liquid fire, tearing through anything that resisted.
+
+No—not lava, but children. Flames danced over their bodies, perfect and strong, with white teeth and flowing hair. They looked perfect like Sigfried, but consumed by rage. They no longer looked like outcasts or useless, they moved in harmony, their movements rising and falling as if directed by a conductor from an orchestra.
+
+Suddenly Sigfried's hand struck Hephaestus' side with such force that it drove the air from his lungs, snapping him back to reality. He staggered, vomiting onto the path as the red vision faded.
+
+"Come back to me. I need you to focus," Sigfried commanded, his voice leaving no room for disobedience.
+
+The bright red light from the two men dimmed. Hephaestus, breathing heavily, took a moment to regain his composure. Sweat dripped down his face as the veins on his neck and arms throbbed with every beat of his heart. His clothes stretched tight, straining against his massive form. His wild, bloodshot eyes met Sigfried's gaze, and from deep within him came a voice that had never spoken before. It uttered words so wicked, they tore at his soul—horrible to hear.
+
+"The burning will cleanse your weakness,  
+liberate your passions.  
+Place your sacrifice at the mountain's foot,  
+feed the fire that calls to you.
+
+Reach into the eternal flame,  
+and let the mutation begin.  
+Let the trilium awaken your potential.
+
+The purest among you will be chosen—  
+the most worthy called.  
+Rise anew,  grab this new life  
+for you are now a weapon of the chaos.
+
+Let the children witness your resolve,  
+let them see your unwavering commitment.
+
+And may the glory of corruption  
+open your mind
+
+**\#Embers**
+
+\#\#Story of Genesis, fist submission
+
+The end comes for us all, but for humanity, the fall was abrupt, bloody, and brutally final. Their golden age shattered not with a whimper, but in a cacophony of greed and brutality. The expenses of the human race, once sprawling across the stars with boundless ambition eventually finding their expansion had been built on a sandy loose foundation—power and lust for wealth mixed with their insatiable desire for Trillium. The Federation let the newly welcomed humans hunger grow unchecked, feeding the fires of an empire that was addicted to trillium. The flame of humanity burned bright, as wealth poured in from all sides the rot was hardly noticed until it was too late. The end came not with an alien invasion, but with a knife held by humanity's own hand.
+
+Trillium should have been their salvation, but it became their poison. The Khaured high command,  skilled in the delicate art of exploitation and business, used diplomacy to outflank the humans, who had no time to unite before they were broken. The Khaured warriors hungry for battle did not need to kill them outright—they simply bent the humans' own greed against themselves. Enslavement wasn't forced from without, but eagerly embraced from within. Corporate moguls, eager for profit, sold their own people into a system of labor camps using sabotage and blackmail. Profit flowed upwards, while life in the gutter became stagnant and vile. The treacherous Khaureds watched, almost amused, as humanity tore itself apart with little need for outside interference.
+
+The few industrial kings and queens who rose above the wreckage sought nothing but distance from the mess they had made. They sought to separate themselves from the stench of the lower classes, growing fat on the corpses of their own race. The elites believed, as always of the need of a ruling class, that to save the body, you must cut off the infected limb. In the end, it was not enough. They had hacked off so much flesh that there was little left but bones.
+
+Their floating cities hovered like glimmering jewels, taunting those who would never reach them. For the masses, hope was a twisted joke, a carrot dangled in front of a people condemned to starve. Ambitious students clawed desperately at the chance to climb out of the pit, inventors grasped at fleeting dreams of salvation, and the old whispered prayers for children already damned. Below, humanity fought over scraps, scraping out lives of pain and filth beneath an impenetrable ceiling smeared with their own despair.
+
+And still, that divide widens. There is no turning back.
+
+**Planet Naron**  
+**Call signal: 0730**  
+**Ariel City, Aberdeen**
+
+**"Greetings, Aberdeen. This is Port City Jaffa."**
+
+"You are cleared for approach, Captain. Please take a moment to review the welcome package, as recent political and economic tensions within the city have escalated. Should your security personnel be seeking additional work, we can arrange for their deployment to assist in quelling disturbances in the lower districts."
+
+"In addition, we are pleased to report that 32 tribute candidates have been thoroughly vetted and are prepared for presentation to the Council. We trust the Council will find them suitable."
+
+"Kindly forward your manifest of required supplies and resources at your earliest convenience, and we will ensure they are ready for collection upon your arrival."
+
+**"Port City Jaffa, this is Aberdeen."**
+
+"We have sustained damage.  I say again we have come under attack, damage to the starboard side of the craft, we request immediate assistance with fire suppression teams. Medical personnel are also required. We regret to inform you that we have lost 12 crew members who have been confirmed DOA, while others have suffered minor injuries. Thrusters are currently operational but remain under strain."
+
+**"Aberdeen, this is Jaffa Proper."**  
+**"Commander Rivers speaking."**
+
+"Our deepest sympathies for your loss, Captain. It is never easy to lose men in the line of duty. Should you wish to pursue the perpetrators, we are prepared to dispatch a security detachment immediately. They will not evade justice.
+
+"Fire teams inbound eta mark 30"
+
+**\#\#In the streets of Jaffa:**
+
+The bustling streets and noisy vendors came to an abrupt halt as the ground began to vibrate. It felt as though an earthquake was coming, tremors rippling across the square. But the deep, resonant sound wasn't from the earth—it was from the propulsion engines of the floating city overhead. This time, they were much lower than normal. The looming behemoth hung in the sky, casting a shadow that stretched across the entire city of Jaffa, blotting out the sun.
+
+The sheer scale of the ship was staggering, its massive hull covered in intricate machinery and weathered plating. Every detail stood out now, the city so close it seemed as if you could almost touch it. The people of Jaffa stared in awe and unease as the dark silhouette consumed the sky, a reminder of the chasm between them and the elite above. Today, it hovered like a storm, and its descent felt heavier than usual—foreboding, as if the hand of a god was about to erase them all from existence
+
+"Do you see the smoke rising from Aberdeen? They've got a fire aboard."
+
+"I hope the damn thing burns to the ground."
+
+"It's over us, you horse ass\! It'd wipe us out. Let 'em crash beyond the mountain path, not on our heads."
+
+"And what do you have to look forward to tomorrow, huh? Why in the three hells would you want to carry on like this? We're nothing but breeding animals to them, worked to the bone, squeezed dry. Our lives feed their floating towers, and for what? Scraps of nothing while they live in the clouds. Let them burn, I say—away from here, but let them burn all the same."
+
+"There will be hell to pay for this, mark my words."
+
+A bitter pause settled between them, the smoke curling in the sky like an omen. The weight of Jaffa's oppression, of being bled dry for Aberdeen's sake, was heavier than ever. The fire above wasn't just a sign of the floating city's distress—it was a flicker of hope for the desperate, a whisper of rebellion from the streets below, they could bleed.
+
+The port city of Jaffa, a dirt-poor outpost, huddled beneath the looming shadows of the floating metropolis of Aberdeen. For years, Jaffa had been bled dry to maintain the extravagant needs of these floating cities, fulfilling contract obligations that drained their already meager resources. Every ounce of precious Trillium, every valuable metal, and even basic necessities were funneled upwards, leaving Jaffa's people scraping by on scraps. The city's infrastructure was crumbling, its streets riddled with decay, while its citizens bore the weight of the contracts that kept Aberdeen floating.
+
+Now, as Aberdeen prepared to re-dock at Jaffa's port, the strain was heavier than ever. Not only had Aberdeen suffered critical damage, but rebel fighters had successfully infiltrated and nearly raided their military supply caches. The audacity of the attack shook both cities—Jaffa, who lived under the oppression of these floating kings, and Aberdeen, now facing the terrifying realization that their wealth and technology couldn't guarantee invulnerability.
+
+Aberdeen's leaders, now desperate for aid, looked toward Jaffa for supplies and repairs, even as the lower city starved. Commander Rivers of Jaffa knew the truth: that even in their state of poverty, Jaffa would be forced to stretch its resources even thinner. For the floating city to rise again, the people of Jaffa would be squeezed once more, their sacrifices unnoticed by the elite hovering above them.
+
+As Aberdeen limped toward re-docking, Jaffa's streets buzzed with quiet discontent. Whispers of rebellion stirred beneath the surface, as even the city's most loyal laborers began to wonder how much longer they could bear the weight of Aberdeen's demands. With the rebels emboldened and the cities hanging by a thread, the system seemed ready to collapse.
+
+**\#The Stacks**
+
+The following is a collection of stories gathered for the people, in an attempt to capture the authentic voice of humanity on the planet Naron.  Many contributions have been submitted anonymously; names and dates may have been changed to protect the identity of these people.
+
+*\#\#A poets ballad.*
+
+Upon Naron's striped and storied face,  
+Where icy caps and mountains interlace,  
+Majestic bands of land in colors bright,  
+A world of wonders caught in endless fight.  
+Its poles are crowned with frost, eternal cold,  
+And 'neath them lie proud hills of ages old,  
+Where rocky spires reach toward distant skies,  
+And grassy plains in gentle silence lie.
+
+Yet nearer still the equator's burning ring,  
+The sands stretch wide, where desert winds do sing.  
+Two lakes in splendor break the barren scene,  
+Their waters vast, both calm and yet serene.  
+Nyari's isle, its sacred shores revered,  
+By many races, hearts with passion stirred.  
+Rivalry burns, as greed and faith collide,  
+For every claim, a war, a tear, a tide.
+
+But in these lands, where beauty, harshness meet,  
+A darker tale beneath the soil's feet.  
+For Naron's wealth in Trillium, once vast,  
+Has lured the miners, now chained to the past.  
+The cities in the clouds, they gleam so bright,  
+While those below endure eternal night.  
+Their hopes bled dry, their coins in revelry spent,  
+To servitude, the poor and lost are sent.
+
+Oh Naron\! World of splendor, world of woe,  
+Where riches rise, and suffering doth grow.
+
+*\#\#Greetings from Naron*.
+
+If you looked hard enough over the planet, past the faded dreams and ruthless gangs you could still see where the wind torn banners once proudly hung, silent sentinels of a time ushering in prospectors and dignitaries to the power and prestige of a mighty Federation planet.
+
+Naron, it had been a beacon of opportunity, a world promising fortune and prosperity. A dream, one that had dared to fly too close to the Sun.  All of this is now just a vapor of what it once was, before the DOA cut funding, before the exodus that drained the planetary banks dry. It had been only 10 months since the collapse, but it felt like a lifetime. The miners had fled to the hills, the banking system had crumbled as all staked currency was withdrawn in a panic, and the once-bustling ports now sat in eerie silence.  The trash left behind blowing down the streets where once the greatest human achievements were showcased in vanity
+
+The planetary custodians had designed an intricate drip system for releasing rewards, where payments were tied to investments. The miners' funds were locked for 90 days, held in the planet's native currency, Nar. These restrictions were meant to stabilize the economy, with the hope that miners would invest their futures in the planet and feel pride in calling it home. To extract Nar from the local economy and convert it into the Galactic standard currency, TLM, required both patience and permission, further delaying any sudden mass exodus.
+
+It was a desperate, last-ditch effort to prevent the planet's collapse. The custodians' plan was to keep miners rooted in this new home by making it difficult to liquidate their assets. But something went wrong. Whether it was apathy, greed, or a rare moment of compassion from the custodians, the system malfunctioned. The funds were released all at once in a single night. The miners, instead of settling, took their Nar, converted it to TLM, and fled or partied en masse, leaving the planet's economy in ruins.
+
+What followed was chaos. Drunken celebrations erupted in the streets, wild parties stretching nearly a week long as people burned through their unexpected wealth as quickly as it came. Easy come, easy go. Those with any sense took their coin and fled on the first freighter off-world. When the dust settled, the streets were filled with the unfortunate—masses who had squandered their rewards and now found themselves stranded. Naron's lasting hangover had dire consequences. Miners were left on a collapsing planet where even basic services had vanished. The money was just gone. Landowners revolted, and planetary markets plummeted.
+
+The exodus of the service industry left the miners and laborers stranded without support. Desperate and destitute, many had no choice but to sign grueling work contracts, forced to mine the last remnants of Trillium in exchange for meager housing and rations. It was servitude in all but name. Poverty shackled them to the mines they once worked freely, with no hope of escape.
+
+Meanwhile, those who had been wise with their coin, those who had planned ahead, were accepted into the floating cities that hovered above the planet in serene orbit. These cities, shining jewels of human ingenuity, were a stark contrast to the decaying world below. Each one represented a fortress of wealth and power, the dream of every human trapped within the sprawling city, stuck on the surface. To live among the clouds, to ascend to that floating paradise, was the ultimate goal—a symbol of success in a world crumbling under its own greed.
+
+Yet, not all could reach those heights. The vacuum left by the departed opened opportunities for the ruthless and ambitious. Only those who offered services that the elite deemed valuable were granted entry to these cities. The cost was staggering, not just in wealth, but in moral degradation. How many humans fell to the tyrannical practices of profit-hungry overlords would never be known. But the fact that all 13 floating cities still orbited above Naron was proof enough of humanity's brutal efficiency.
+
+On this majestic landscape the contrast between life in the floating cities and a meager existence on the surface couldn't have been starker. The rich lived in palatial comfort, while the poor toiled endlessly in the Trillium mines below, forever gazing upward, desperate to escape. In those moments, all of humanity's greatest sins were laid bare: greed, ambition, and a willingness to betray their own for the chance to rise above the filth.
+
+*\#\#Welcome to the jungle.*
+
+"We got fun and games, we got everything you want."
+
+Zara's pop-up blocker finally filtered out the encrypted signal from the 3-D projector plastered across the cracked, graffiti-covered wall. Conmen and buskers tried to sell anything they could out here on the streets. The traffic above was a nightmare, as always, a jumbled mess of flight cars packed so tight they blocked out the sun. It was a wild guess to even know how tall the buildings were from where she stood—she'd only ever been up to the 90th floor.
+
+Rumor had it, if you climbed much higher, you'd break through the haze and kiss the clouds. Zara used to dream about it as a kid, gazing up with wonder at the unreachable heights. But those dreams died a long time ago. She stopped looking up. What was the point?
+
+"I never thought I'd be happy as an augmented human," Zara muttered to herself, "but it's not like I had a choice." On the streets, kids like her didn't get choices. You either joined a gang or starved. And the gang needed food, credits, power—anything that could keep them alive a little longer.
+
+Selling organs? That was just business. Who needed both kidneys, anyway? Most street kids sold off their healthy parts, hoping to scrape by until they could afford synthetic replacements. If you were smart, if you were tough, you lived long enough to get the upgrades. If not, the world would take everything from you, one piece at a time.
+
+Zara had been smarter. Tougher. She wore her synthetic parts like a badge, a testament to her survival. Her lungs were steel, her heart beat with a mechanical hum. She could sprint for hours without tiring, take a punch that would kill most people. But her humanity? That was something the city had taken from her a long time ago.
+
+"Sure, most people came for the mining, but we've been here long before the drills hit the dirt," she whispered, eyes narrowing as her target came into view. A young man—clean, wealthy, and most importantly, oblivious—he walked alone through the crowd. His suit screamed luxury, and the way he moved told her everything she needed to know: He didn't belong here.
+
+Zara adjusted her jacket, hiding her augmented limbs. She stepped forward, slipping into the role she knew best—charming, seductive, dangerous.
+
+She sidled up to him, a wicked smile curling her lips.
+
+"Hey, handsome," she purred. "What's your name?"
+
+*\#\#Family ties*
+
+The baby was crying again. That's what babies do, after all. It wasn't something to be frustrated about—not when that sound reminded you that there was something so innocent, so fragile, that needed you. That depended on you. There was a deep sense of pride in that, a kind of love you never understood until you held them for the first time. That weight made a man dig deep, searching for the strength to be worthy of the responsibility laid at his feet.
+
+Sure, things were getting harder. The boom times were gone, just a memory of better days. But there's an old saying: "Hard times make strong men, strong men make good times, good times make weak men, and weak men make hard times." The cycle was brutal, and trying to time it was a fool's errand. It was better to just grind, push through until there was nothing left in you, and hope the next generation had the strength and madness to do it all over again.
+
+Once, land had been the dream here on Naron. Before the mines, before Trillium. Back then, it wasn't about digging into the planet for its resources—it was about raising families, growing crops, building something lasting. Something you could pass down. Everyone talks about mining now, but it used to be about farming, about creating a future.
+
+The galaxy still needs families, still needs children—hope for the future. Humans have fought so hard, in so many different ways, that it's easy to forget why. Most of the time, it wasn't for gold or glory. It was for kin. Anyone will fight hard when the foe is at the front and their family's at their back, when the first and last line of defense is you. So it's no wonder the family has survived everything we've thrown at it. It's one of the reasons we still find a way to keep fighting, generation after generation.
+
+*\#\#The Neighbours*
+
+The change in weather marked the end of the season, and it always came so quickly. In just a few short weeks, the tundra would blossom, and flocks of flying creatures would fill the skies. The landscape, once barren and wind-whipped, would transform into a vibrant paradise. For now, though, it remained a frozen wasteland, with only the howling wind for company.
+
+It was a scientific wonder how fast a warm air pocket from the desert could sweep into the southern hemisphere. The winds picked up first, signaling the planet's rotation around its dwarf sun. Within two days, the snow and ice would melt, triggering flash floods and violent rainstorms. Humans thrived on Naron, blessed by its position in the Goldilocks zone, but the Lopati had claimed their territory on the icy glaciers.
+
+Communication between the two species was limited. While humans were eager to exchange knowledge, the Lopati were more concerned with their lost home planet. They resisted even the simplest improvements to their equipment, fiercely adhering to tradition. It amazed the research team how well they thrived with such outdated gear. Rather than battling the harsh surface elements, they dug deep into the glaciers and made their homes underground.
+
+After years of delicate diplomacy, we were finally invited into their community. The infrastructure they'd created to support their Trillium mining was astounding. Once they realized we posed no threat, they opened up about their Ark ship and their hopes of taking Naron's data back to their civilization.
+
+In the spirit of science, we shared all our research with them. Though their faces remained unreadable, our triactor jacks detected the subtle shift in their body chemistry—they were overjoyed.
+
+Tomorrow, we've invited them for high tea. They're bringing dessert. Let's hope curiosity doesn't kill this cat.
+
+*\#\#The starship draft*
+
+The chatter buzzed through the crowd, nervous energy thick in the air. Jonna and Ninna stood close, two schoolyard friends bound by a promise that neither would be left behind. Being a ground-walker wasn't an option, not for them. They had driven each other towards excellence, pushed each other to the breaking point, knowing that without this pact, the weight of the future would be too much. These final days were everything—they couldn't afford to fail. If they weren't on one of those ships, there was no tomorrow.
+
+The lights dimmed, and the noise in the massive hall became almost tangible, rising and falling in waves, alive with the hope and fear of those packed inside. This event was more than a chance; it was a lifeline. A few wouldn't survive if they didn't make the draft, and everyone knew it.
+
+A figure appeared on the stage, and the swirling lights cast an ethereal glow around her. As the music built, the dome screen behind her exploded into a brilliant display of stars and galaxies. Her voice cut through the ambient hum, confident and commanding.
+
+"Greetings, fellow Naronites," she began, the weight of her words grounding the room.  
+"You've come far. The focus, the attention to detail it took each of you to make it here is proof of your dedication and your potential. You've shown creativity, discipline, and hard work, whether in the Young Learners Program, the top military academies, or the Horticultural Societies. But remember—if you don't proceed past this point, it only means the crews aboard our fleet do not need your skills right now. You're not a failure."
+
+She let that sink in, but everyone knew the stakes. The draft came once per cycle, and this was their only shot. Each ship would compete for the best of what the planet had to offer. Only those who stood out, those who could handle more—much more—would make it.
+
+"Once you're assigned to a ship, further testing will follow. If you pass, and the AI evaluations are met, you will be offered a lifelong contract. Ascension into the clouds, to the stars."
+
+There was a pause as the crowd absorbed the reality of what she was saying. Thirteen ships. Five rounds of selection. But not all choices were equal, and not all roles were enviable.  
+"For the first time, we're offering an option to register for undesirable jobs. Positions will be filled on a first-come, first-served basis."
+
+Her tone shifted, a call to attention.  
+"Children of Naron, please rise for our planetary anthem."
+
+Jonna stood, feeling the weight of the moment pressing down on her. This was it. Everything she and Ninna had worked for. The next few minutes would determine everything.
+
+*\#\#A Band of Brothers*  
+Empty glass bottles, like little fallen soldiers, were scattered across the floor and table of the small room   from the night before scattered across the floor like little fallen soldiers, their contents used to deaden the pain and silence the connection. It only worked if they were all drunk or nowhere close to each other.  
+It had been good for so long, but why would anyone come to Naron now? If he was right, only seven of them were still alive. Seven from twelve. Brothers who had stood together against impossible odds, leaving behind four in the dirt. They'd lost another to mental health, and in response, the rest scattered—far enough away that the connection was only a whisper.
+
+Conrad stood, his long, lean frame and shaggy beard reflected in the wall screen. Apparently, he hadn't turned off his show last night. The live feed from the Zephyr's fighting pits was still playing on the screen, the charts on the show updates to a new match for the big Royal Rumble they were hosting. No planet wanted mortal combat events on their soil, so a ragtag group of entrepreneurs had repurposed a giant relic of humanity's past and turned it into a traveling bazaar. "Any sin you wanted was available" was their motto.
+
+The ship had come into orbit around Naron early yesterday, scheduled for a three month stay. It was the size of one of the floating cities that traveled the planet, but this ship had interstellar capacity and would eventually move on to other worlds. It was expensive to board, but there were options to view all the festivities planetside via live screens.. Conrad had been gifted a patch for one of his traitor Jacks that gave him access to the ship's general mainframe. When he was still serving in his old platoon they were given a week of R\&R years ago after clearing out some pirates. It was a crazy time, with a bunch of young, stupid soldiers who had more cash to burn than they knew what to do with.
+
+A flicker played across his skin, it crawled with different designs that weren't familiar to him, but on the screen it was a near match to the two men in the arena. A memory jumped into his mind of the tattoos. Conrad spoke of it as one of those bad decisions. The Zephyr was an absolute masterpiece of consumerism—these tattoos they had installed there interacted with your body, changing and moving like a digital screen that played across your skin.  The whole group of 12 got them, what a pile of idiots. If a limb was severed while the art was there, it etched permanently on the flesh. With the availability of augmentations people were a bit careless with limbs sometimes, it was fairly common to lose something along the way. Many people would replace the lost limb with a mechanical arm, and only the incredibly vain would cover it with a prosthetic. A lot of people enjoyed looking at the hard, cold metal, a reminder of their failure to protect the limb.
+
+Standing there, looking at the screen, his old display screen started to throb and activate. It was the control port from his soldiering days a link was being made with his comrades.
+
+See, soldiers had military grade mind mods—something the corp. had installed during basic training. As the soldiers grew in confidence with each other's skills, they became more synced as a squad. It was imperative to have every advantage in the battlefield, the unit powered by the brain and the use of liquid trillium in the jacks ports allowed the sharing of information. The soldiers had wireless connections to each other, where they shared emotions, feelings, technical data. It allowed them to fly surveillance drones and see what the others saw. It was an amazing advantage, but taxing on the hosts mental abilities. That's why they found the best success came from installing them in children and training them for war.
+
+Like gladiators, these men fought for their freedom in the service of humanity. The feed began to go live Conrad's heart began to pound; his vision flickered. Dammit, he hated this part. On the screen in front of him, in a sandpit on the mighty ship somewhere overhead but in his minds eye he was there. He shared a vision with two of his brothers-in-arms. The crowd cheered, and the stench of blood filled his nose. The sand crunched under his feet, and in his hands, he could feel the worn, dirty grips of his sword and shield. Both were battered, with massive chips and gouges. The weight of the armor pressed against his skin, and the blazing artificial sun warmed his torso. In front of them, two giant Khaureds stood similarly outfitted in armor, their massive blades glittering in the sun, with the skulls of fallen humans hanging from belts at their sides, blood covered yelling challenges at the men.
+
+The room blurred, and his body shook as the connection deepened. His band of brothers sensed his presence. And they sensed his as well.
+
+"Conrad, you old drunk shit, if you're not going to help, then piss off," Otto's voice was filled with humor and challenge.
+
+"What the hell, old boy?" Killer Kris' voice filled Conrad's head.
+
+Oh shit, I'm not ready for this. Conrad staggered and slipped from his army of bottles. Lying on the ground with a bruised ego, he accepted his fate and dialed in. The other two were so high on top-tier trillium that their jacks were pumping with efficiency. Conrad, getting high and sobering up at the same time from the connection, cursed under his breath. For the gods are good—this felt amazing.
+
+Kris barked a challenge at the three-eyed monster. "I'll take that eye as a trophy, you mutated shit, then I'll piss in the hole I leave."
+
+The beast spat at the two men
+
+Conrad saw that the arena was crawling with drones, their glassy eyes capturing every grim detail of the fight below. He quickly hacked into the patch, his fingers moving like lightning over the controls to get a better angle. The larger Khaured alien, a hulking figure covered in jagged armor, raised his monstrous blade high, challenging Kris with a roar that seemed to shake the ground. The weapon gleamed in the artificial sunlight, ready to be hurled with deadly force. Without hesitation, Conrad sent a viewing drone spiraling into its outstretched arms. The impact caused the alien to falter, its massive form stumbling for just a heartbeat.
+
+That was all the opening Otto needed. He surged forward with animalistic speed, his blade slicing through the air before driving deep into the creature's groin. The steel bit through flesh and bone, nearly severing the leg in a spray of blood, viscera, and muscle. The Khaured howled as its body erupted with fluids, the stench of its death filling the arena as its massive form crumpled to the ground.
+
+The second Khaured, eyes wild with fury, was on Otto in an instant, swinging a monstrous blade in a savage backswing aimed to decapitate him. The weapon cut through the air with a deadly whistle, but the neural connection between the brothers sparked with warning. Otto ducked, the blade slicing harmlessly above his head. As the Khaured's flank was exposed, Kris lunged like a predator, his daggers gleaming in both hands. He struck with precision, the blades sinking deep into the alien's side, carving through meat and muscle in a gruesome symphony of violence.
+
+The rage and endorphins surged through their bodies like wildfire. Sweat poured down their faces, mixing with blood and grime, as the heat of battle consumed them. In his apartment on Naron, the air in Conrad's quarters was thick with the sour stench of his sweat, clinging to him like a second skin. He hadn't worked like this in years, and now, his body reacted violently, purging itself of the toxins that had settled in his bones during his long period of inactivity. His muscles screamed, but the rush was too strong to stop.
+
+In the arena, his brothers stood victorious, their blades raised high as the crowd erupted in cheers. The bodies of the fallen Khaured lay at their feet, their alien blood seeping into the sand. The adrenaline, the intoxicating thrill of combat—it was everything Conrad had been missing in his life. The cheers of the audience, the heat of battle, and the raw power coursing through their shared connection were overwhelming. At that moment, he made a decision. He bought a ticket to the starship of sin and seduction. **Mighty Zephyr**.
