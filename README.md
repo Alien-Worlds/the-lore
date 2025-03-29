@@ -2658,3 +2658,417 @@ Leif turned to Astrid as they boarded the Altara Novis once more. "Ready to writ
 Astrid smirked, her spear gleaming at her side. "The stars won't wait."
 
 The Nordic Vanguard soared into the cosmos, guardians of the Federation and symbols of honor and unity. Though their journey was far from over, they carried with them the promise of a brighter future—one battle, one discovery, and one star at a time
+
+# Cutting Teeth
+"Prepare for ship drop in five minutes."
+
+The soothing voice of the AI interface chimed in over the modular-coms. With the rhythmic sound of the pod preparing to disembark from the Altan mothership, sensors began flashing as depressurization to the planet's gravity field began. A gruff voice breaks the calm.
+
+"Hey, kid, can you hear me? You're in, right?"
+
+"Oh, hello. This is Pregmesher Gordi reporting sir."
+
+"Yeah, I'm Captain Uran, we can drop the rank stuff now. Hey, listen, it's just you and me in the pod. It's an automated voice from the ship with the countdown, but from here on out, it's just you and me. I'm sorry that I haven't come to speak to you sooner on the ship. I just, I wanted to speak to you one-on-one, without them always listening."
+
+"The ship's command center does that for safety reasons so that everyone can be accountable and historical logs be updated."
+
+"Yeah, I get that, kid. You realize where we are going in five minutes right? Things are gonna come up, and I need to make sure that you got the right stuff. I looked into your file. This is the first time you're going down planetside. Have you ever been in a situation like this before?"
+
+"Yes, of course I have. I have logged hundreds of hours in the simulators and the virtualities. This is an old trick. Don't worry about me, Sir."
+
+"Kid, have you ever left Alta Prime before?"
+
+"I mean, I've gone to the moons, and I've travelled all over the cosmos."
+
+"That's the simulators, though. I mean, has your body ever left Alta?"
+
+Gordi wasn't prone to having a chip on her shoulder but pushed hard enough.
+
+"Is this relevant right now Sir?"
+
+"Kid, have you ever spent any time with human beings? We pod-boat to Eyekes gravity field, then we are planet side in less than thirty, and I need to know: have you ever been around humans?"
+
+Uran's voice was beginning to get an edge to it, his triactor mods ramping up trillium consumption as his anger rose. The flicker of rage buried deep inside slipped from his control and played across his eyes for a second.
+
+"Yes, I have spent a lot of time around humans in fact, and I have studied how to properly interact with them."
+
+"To high heaven, you're as green as the grass, aren't you? A true uncorrupted Altan."
+
+Gordi was so confused, that last bit seemed like an insult almost, they were Altans, masters of trillium and therefore the federation.
+
+"One minute until pod deployment." The cabin voice chimes in again. The airlocks started circulating the cabin air and the remainder of the connections had been decoupled.
+
+As the countdown continued, Captain Uran glanced out the viewing screen. Outside the ship, in the vast expanse of space, the long-range Altan ship hovered outside of the planet Eyeke's gravitational forces. The satellites and weather stations orbiting the planet reflected the red dwarf sun's light in the most brilliant colours. The solar panels and living quarters of multiple species' ships shimmered back into the pod's viewing screen.
+
+Eyeke had not been claimed by one species but had become a hub of galactic travel. The large amounts of trillium had attracted the usual cast of characters, from Onoros drone ships with their exosuits to a myriad of different types of human ships all operating different modified crafts, a proper bastardization. There was even a Khaured mining vessel with massive biped diggers extracting huge amounts of refined trillium from the ground in large verities. The sheer size of the planet posed an obstacle. Humans called it the "Big Earth" because of its similarities, but the multiple moons and diverse races inhabiting the planet were far from what was normal. Even the humans couldn't agree on how exactly it resembled their far-away planet of ancient ancestors.
+
+Uran took a moment and calmed himself. Looking over to the spot where the young Altan should be sitting and started again.
+
+"Listen, kid, real soon we're gonna be playing outside, and there's a real good chance that we're gonna be shot at once we land, depending on where we get put."
+
+"You're joking. Is this something that older service members do to new officers?"
+
+"Did you bring your blade, child?"
+
+"Captain, I do not appreciate this ruse you're playing on me. We are going to a civilized planet with an abundance of communication and surveillance. I do not feel the need to carry a blade with me. We are Altans, and we carry the Federation seal on our very breast. Any who would touch us would face the full consequences of the Federation and its authority of galactic law."
+
+A dark expression fell over Captain Uran's face. He was a highly decorated captain, chosen for the most difficult Altan missions. His triactor jacket, designed for both practicality and stealth, were slim-fitting and inconspicuous. It could project a digital display that disrupted surveillance cameras, effectively allowing him to "go dark."
+
+He worked for a type of Secret Service, one that had authority under the nation of Altans from Alta Prime. He was a fixer, a rough and rugged veteran of wars that were never advertised and aggressions that were quickly suppressed. He helped preserve the pristine image of Altan, a revered race in the federation.
+
+In contrast, the warm body that sat beside him was a top graduate of the School of Altan. Highly advertised as the next up-and-coming talent, she had been placed with Uran to gain valuable field experience. She was a generation younger than him, a typical cold, stuffy, proper Altan.
+
+Captain Uran's early years were marked by hardship. Early scans in his childhood revealed genetic modifications that malfunctioned during his longevity treatments, a devastating blow to his family due to the financial burden it imposed and failed dreams. These experiences had forged him into the hardened and practical leader he was today, one who understood the realities of life beyond the simulated environments of Alta.
+
+Pregmesher Gordi had only known the polished corridors of the academy and the structured simulations that mimicked real-life scenarios but never fully captured their chaos. Her confidence, rooted in Altan theoretical knowledge and high grades, was about to be tested in the unpredictable environment of Eyeke around creatures that didn't give a crap about an Altan.
+
+"Kid, you've read about these places, you've seen the vids, but nothing compares to being there. The smells, the sounds, the chaotic nature of it all. When we land, stay close and follow my lead. This isn't a drill, and out there, it's not just about following protocol; it's about survival."
+
+She looked at him, her face a mixture of determination and anxiety. "I understand, Captain. I'm ready."
+
+Uran sighed inwardly. He hoped she was. The descent began, the pod shuddering as it entered Eyeke's atmosphere.
+
+Outside the craft, flames and chaos threatened to rip the ship apart in a hurling ball of wreckage. The Altan technology was some of the best in the known universes, and the upgrade to their triactor jacks had been specifically installed for the conditions and specs of the mission. Uran had also selected a special bag of tools to come along with him as well.
+
+He glanced at the young officer one last time. Her eyes were wide as she gripped her harness. The gravity force on the two of them pulled, even with the modifications to their bodies, it was intense.
+
+He always wondered what it was like for unmodified humans to experience this. He had heard of crashed pods being found, when opened up by the salvagers it revealed just pink mist being cycled through the air purifiers as the scrubbers attempted to cleanse themselves of their original inhabitants.
+
+The Altan pod with Uran and Gordi pierced through the clouds, revealing the sprawling landscapes of Eyeke below a planet with its mix of advanced technology and raw natural beauty. As they prepared to land, Uran's mind raced through the possible scenarios they might face, his jacks cycling through a quick pre-check. He hoped the young officer's first mission would be uneventful, but he knew better than to expect such luck.
+
+The panel lights and gauges all showed normal feedback. A few failed censors and a bit off course, most things looked good. There, a blip on the radar and again. He would have to remember that it seemed to have adjusted when they went over the last mountain ridge. Then Again, just now... shit.
+
+Their pod landed with a jolt, and the ship began to depressurize. The gravity sensors on the exterior worked exquisitely, syncing with Gordi's and Uran's gravity mods. The air was heavy with moisture on Eyeke, so the triactor jacks on their bodies engaged the breathing apparatus and light spectrum screens for viewing. The rich liquid trillium flowing into them would give them both amazing bursts of energy, additionally with the mixture of sensory input from the planet the results could be tremendous.
+
+As the hatch opened to a world teeming with life and activity, Uran stepped out first, scanning their surroundings before signaling Gordi to follow.
+
+"Stay alert, kid. Welcome to Eyeke."
+
+Gordi staggered a little bit at the hatch, then slumped down to one knee.
+
+"I hate to ruin the picnic, but we have a 5K run ahead of us to get to that rock outcropping before that ship following us gets close enough to open fire. Let's hope they're more interested in the ship than us.
+
+"Kid, get your ass up and let's move."
+
+Pregmesher Gordi was not expecting this. The ride down had been unbearable. Something must be wrong. She knew it inside herself. The simulators never put this much pressure on her body. Something was seriously wrong. And then the ship, crash-landed-surely that wasn't a textbook landing. The ship's automated syncing mechanism must have been malfunctioning also. She'd have to make a note of that for her report. Her head was spinning, she had never felt trillium react with her ports and modifications like this before. Maybe if she micro dosed with an injector rather than the auto feeds it could clear her head. The automated viewing lenses disoriented her, and her modular device on her triactor mods had lag time from the neural link she had installed.
+
+The whole time, during this, the ringing in her ears continued. She saw Captain Uran's face fill with rage at her inactivity. Surely he must know something was wrong and that she was compromised. Why was he yelling so much? This was not the dignified way of the Altans.
+
+Over the ridge of the nearest mountains, a bright flash flared in the sun for just a split second. Then another. The deep bass roar of the propulsion motor ricocheted off the mountaintop, filling the quiet forested valley with a sickening chopping sound. Small pockets of birds took flight from the sonic boom of the approaching ship. Then, almost in sequence, two bright flashes appeared, followed by bright white trails of smoke as the rocket engines reacted with the moisture in the atmosphere.
+
+Uran had seen this before, and it sickened him to the core. They didn't give a damn about the ship or taking prisoners. This was a hit squad, and they knew where the pod was supposed to land, he had a leak in his intel.
+
+Grabbing Gordi by the arm and dragging her along for the first few steps, he forcefully reached over her and manually turned off her com link adjusting for her to hear with her own ears rather than the modified ones.
+
+"Kid, can you hear me now? They're jamming our coms, the tech won't work. You have to speak to me, I need you to follow my lead and stay close. They don't want the ship. This is your moment to shine. You need to survive the next 10 minutes. You're going to do that by running."
+
+As the launched rockets sped towards the Altan craft on the ground, protection flares quickly ignited from the side of the attacking ship, which was followed immediately by complicated evasive maneuvers. From the ground, it was difficult to see, but the crew piloting the salvaging ship had a front-row view of hundreds of small Robotron drones set with charged explosives trying to knock the craft out of the sky.
+
+Obviously modified tech, incredibly dangerous, agile, and autonomous. The drone pursuit was too much, the sent rockets would hit their target, but the ship had one moment to send a distress call before it and its crew were lost.
+
+On the ground, running for his life, Captain Uran had a moment to check over his shoulder, just before the approaching rockets blew up his ship a secondary explosion happened as the pirates were taken out. What looked to be Robotron drone ships, well, many of them filled the sky, quick, small and deadly. They had coordinated a defensive explosion, the small ignition from multiple units engulfed the ship in flames, and as the threat was neutralized, so too was any hope of contacting off-world support.
+
+## You Forever and Us
+Weeks before the trip to Eyeke, Uran was given a tough file. The details had been solidly scrubbed from one side but these private files from Dr. Adoeete gave all sorts of insight.
+
+**Restricted file: level 5 security clearance needed to be allowed to proceed**
+
+*Please stand by for retina scans.*
+
+*Welcome, Captain Uran.*
+
+*Please review file #1376.*  
+*Topic: Flight academy recruit,*  
+*(Bud) Abey.*  
+*Moment of birth, historical archives*  
+*Location: Planet Alta, offices of Dr. Adoeete*  
+*Genetic birth engineering.*
+
+*Begin audio recording now.*
+
+---
+
+"Just look at him, I mean just look. He's perfect."
+
+"Well, Lilly, he is far from perfect, but I'm excited to see what mods we can install in him," Martin replied, his eyes glinting with the excitement of a scientist on the verge of a breakthrough.
+
+"Martin, I just laboured to create him from my body. We made him. Give me a few minutes to savour this moment. I'll never get approval to have another, and this might be the pinnacle of my creation." Lilly's voice was filled with both exhaustion and pride as she cradled the infant.
+
+"Lilly, my flowers, I have read that labour would affect the logical part of your brain, but please remember, you're not some backseat galactic humanoid. You and I have genetic markers in this youth, but we hardly let nature take its course. We had a chance to select all of the best traits from our long historic ancestors, and some very expensive upgrades."
+
+"Please stop, I know all of this." Lilly's voice softened as she looked at the child in her arms, a rare tenderness showing in her eyes. "But right now, he's just my baby."
+
+"My bloom, I know you do. However, it's important to remember that this is the process of making a new generation of Altans. He will live for hundreds of years and shape the way of the stars for many other races." Martin's eyes softened for a moment, but the pragmatism quickly returned.
+
+"Martin, why didn't you just make a few more clones of yourself or go play with your silly coding robots and leave us alone?" Lilly's sarcasm was a familiar comfort, a way to ground herself amidst the overwhelming emotions.
+
+"Lilly, please remember to replenish your nutrients. I read that labouring is very taxing on the body. You still have to make a report on all of this for the council. This is an exciting time. We Altans only make young when new exploration is on the 100-year short-term planning. If this child of ours proves himself in all the highest categories, he could be selected as a mission captain." Martin's voice was filled with ambition for their son's future.
+
+"Oh, Martin, the child is newly born. Let the birthing machines come in and clean the boy. You can't live the first 50 years of the boy's life for him. My father had such high hopes for me to find a mate better than you." Lilly's playful rebuke held a kernel of truth, hinting at the pressures they both faced.
+
+"Oh, look, Martin. Look at your face. You know he hates you. No one would have believed how you transformed yourself. This is your gift. Your genes, that grit and fire-it's no wonder you made a son. All of those sons. We froze all of those other embryos, and the lab was shocked at how many sons you made." Lilly's words were a mix of admiration and exasperation, acknowledging Martin's relentless drive.
+
+"If even some of your breeding clones are not sterile, then we can retire comfortably." Martin's attempt at humour barely masked his underlying anxiety about their genetic legacy.
+
+"Lilly, you compliment me too much. Here, look at you. This thing you have made-you have given life from your life. You are a mother. Congratulations, my dear. Only say the prize, and I will present it to you. Lay it at your feet. I will lay waste to planets for you." Martin's voice was uncharacteristically tender, revealing the depth of his feelings for his mate.
+
+"Martin, please, a conqueror of planets?" Lilly laughed softly, shaking her head at his melodramatic declaration.
+
+"For you, my bloom of love, I will."
+
+"You forever and us. That is my wish. The three of us. You and I will grow old and watch my little bud bloom."
+
+"Bud? Really?"
+
+A smile of pure joy spread across Lilly's face. "Yes, Martin, he is my bud."
+
+In a second, the two were interrupted by a movement in the room. An airlock opened up off to the side of the birthing chamber. A tall, long-limbed Altan doctor with intricate triactor mods entered and approached the couple.
+
+"Dr. Abey, Dr. Abey. How are mother and child doing?" The doctor's voice was calm and reassuring, a practiced bedside manner that immediately put them at ease.
+
+The friendly smile came out again, this time playing across the faces of the two newly minted parents. Dr. Adoeete, a highly acclaimed doctor of obstetrics and gynecology (OB/GYN) and director of the Altans' super-restricted breeding program, had solidified their relationship over the past three years through hopes and aspirations for this constructed lump of living, breathing cells laying in Dr. Lilly Abey's arms.
+
+Dr. Adoeete approached Lilly. "May I hold him?"
+
+"As if, Dr. Adoeete." Martin's quick reply had a sense of jealousy: "She hasn't let me even get close to him. After the birthing bots cleaned up from the delivery, she won't let me near him." Martin's frustration was palpable, though tinged with understanding.
+
+"But how can my bud grow when he is away from his mother, Mr. Martin?"
+
+With a smile in her eyes, Dr. Adoeete sweetly asked, "Bud? Does he have a name? Very interesting. I thought we had agreed on something more traditional."
+
+"Oh, no no, Dr. Please, it's a sweet name I gave him just now, while my emotions are running high. It's my last outburst of pregnancy, I promise. A..." Lilly stammered, her cheeks flushing.
+
+"Lilly, it's fine, I understand. It's not every day our two brightest minds can do a thing like this. What do you have to say for yourself, Martin? Do you approve?" Dr. Adoeete's tone was kind, but probing.
+
+"Ha, I just hope the recruits at the academy learn to lose gracefully to our young bud. He will be top of his class." Martin's pride was evident, though tempered with a hint of trepidation.
+
+"Martin, Lilly, may I record your likeness in an image capture for the records? Would you like a copy of the report sent to your ansible? You might like to display the report and the birth certificate in your domicile."
+
+And at that fateful moment of that bright flash, a horrible thing happened. The augmentation jacks on Lilly's body mixed with a bad batch of trillium had a critical failure.
+
+---
+
+*The following descriptive audio has been added for your listening pleasure please leave any feedback with us at "Scrib capital" Crystal City planet Alta.*
+
+**Notes for field assignment; Captain Ultan**  
+What were they doing? Altans haven't carried children for birth for centuries of course there were going to be complications. That's highly controversial.
+
+**Continue search on:**  
+- Dr Martin Abbey MIA,  
+- The explosion at the lab assumed vaporization  
+- Rc Bud Abbey flight school recruit  
+- AWOL 147 days missing from basic training Alta  
+
+*Uran. 3853 standard time.*  
+*Close file.*
+
+## A Man on a Mission
+The splicers' biometal forge was vastly different from the traditional one a human Berserker might use for crafting. Arc welding with waxon materials required large amounts of high-voltage direct current electricity. Trillium-fused submerging oils were used for quenching the blades, and multi-staged trillium-layered cold-rolled metals were employed, all at an extremely high price.
+
+Human blacksmiths claimed the final crafted piece resembled an ancient technique from the Syrian town of Damascus, with multilayered metal that seemed alive as light played across it. However, it was clear they had copied the Altan design, as the Altans were a much older race.
+
+The forge also boasted an impressive pneumatic-driven air hammer, worth the price of a small starship. The cost was justified by its electromagnetic dampers and a trillium-powered drive core. All of this equipment was housed in an airtight facility beneath the ocean, serviced by a unique ocean surge tidal generator; the entire operation performed silently to avoid detection.
+
+The whole structure was bankrolled, constructed, and operated by just one Altan-or rather, a group of the same man. Dr. Martin Abbey, resurrected after faking his death back in Alta Prime, he had immediately gone into damage control and activated his extensive clone reserves. Many clones died in the effort to get the original Altan off-planet, but the sacrifice was deemed necessary.
+
+Martin didn't do anything halfway. To lay low after his faked death, he sought out a remote group of famed Altans known as Greys. This group, notorious for their splicing skills, included the highest-ranking members called Forgemasters, who specialized in bio-weapons and waxon blades. These Greys were fiercely protective of their craft, hidden away in the mountains of Eyeke. They showed Dr. Martin Abbey how everything worked, seeing his Altan rank and credentials but not perceiving him as a threat, assuming he wasn't strong enough to wield a hammer. Their carelessness in sharing knowledge would be their downfall.
+
+Martin was ambitious and cunning, driven by a purpose. Instead of merely gaining muscle mass to use the massive tools, he created ten genetically altered clones of himself. He employed gene therapy to build massive, bulky copies of himself and to advance their ages, ensuring they were healthy for five years; he had no intention of providing them with long-term support, only a brief existence.
+
+The staggered ages of the clones allowed them to rotate the most demanding tasks among the younger ones. The enormous cost of this operation was initially offset by criminal activities. After the sudden death of Martin's beloved wife Lilly following childbirth, he sought to free himself from the control of Alta Prim and its oppressive medical oversight.
+
+Martin had crossed significant ethical lines, selling secret Altan triactor technology to the massive Maga Corp. industry and other wealthy entities. While this brought him substantial profit, it also made him a target, as the recipients sought to eliminate him to recover their losses. But in truth, the members of the board were indebted to too many influential figures, resulting in a demand for Martin's death.
+
+He saw images of his decapitated head displayed on a hidden camera's feed. Fortunately, Martin, a master cloner with extensive expertise in modifications and trillium, had prepared for such outcomes. How many times had he died? What awaited him in the afterlife? Well he would get to that in its own time, the two things that mattered most to Dr. Martin Abbey were his wife Lilly and her final request: "You forever and us."
+
+The Forge was the beginning of his plan; all other actions led up to this. He intended to use splicer technology to achieve the unthinkable: crafting a waxon blade with enough rare trillium infused with triactor tech to bring a loved one back from the dead. He planned on crafting a necromancer blade.
+
+## The Dark Hides All
+In the cover of darkness, with thermal deafening blankets muffling the world, the wilderness of Eyeke came alive.
+
+Gordi tried her best not to panic as her Triactors bombarded her with sensory data. She wanted to turn them off, but part of her craved the rush - a feeling far bigger than anything she'd ever imagined.
+
+Tucked deep at the base of a tree, she could sense tens of thousands of independent microbes and organic species stirring around her. The planet's raw power - spinning wildly through the void - seemed reflected in the bacteria on her hand, their feeding patterns tracing perfect right turns.
+
+The book in her lap anchored her thoughts, the only thing stopping her from stripping down and running naked, wild through the living world. It was intoxicating.
+
+"Hey kid, what's that you're reading?"
+
+The Dakota fire hole the two Altans were sitting around was emitting lots of heat, while letting off very little light. It's funny how names of things change. Who the hell was Dakota? The style of camp fire was essential for outdoor don't get shot cooking. Two holes dug into the ground with a connecting chamber meant no smoke from the wood while the extra clean air draw made the thing like a blast furnace.
+
+"It's... well. It's embarrassing." The young Gordi shaken from the days work and chaotic landing, Most shaken from the attacking ship that blew up above the valley. The enemy vessel was intending to cause a lot of trouble for the two Altans But thankfully, something predicted the sabotage obliterated them.
+
+"Oh, now you have to tell me, it's a custom to have story time around fire."
+
+"Altan high command sometimes publishes personal journals for heroes so that recruits can gain a valuable frame of reference. This one is from one of the original Robotron engagements."
+
+The easy smile on the captain's face vanished quickly.
+
+Uran moved a little to stoke the fire.
+
+"It's one of the most brutal things you'll ever face when you're running so long that you lose track of when you started. They call it 'hitting the brick wall'-a hell of a place where you start questioning if it's even worth living."
+
+Gordi placed the book down and locked her gaze on Uran as he moved hot embers around the fire.
+
+"I'm no fan of humanity," he looked up, "But I can't ignore their knack for language. So many tongues, so many terms. You could strip away the people and just keep their literature. Spend time around them, and it hits you how clueless the average person really is."
+
+"I've been struck by the fact they have such depth in every aspect, yet they are often miserable to be around. Where do all these profound thoughts and philosophical gems come from? How do such deep ideas come from these chaotic creatures? It finally hit me, after living a lifetime as an Altan. Many of my experiences have been joyless, lacking laughter. I realized I'd been missing something. Humans have this thing called 'parlor humor,' a twisted sort of joke around death. It seems grotesque and devoid of real humor.
+
+But when you engage with them, when you go to war and really experience their world, it changes you. The khaureds are bloodthirsty and brutal by nature, and while humans share some of these traits, they don't always kill out of honor. Sometimes they fight for a righteous cause, sometimes to correct wrongs.
+
+These brave men and women charge into the fray, risking everything to liberate the oppressed. There's poetry and art in their struggle, a culture built on living for more than oneself and forming unbreakable bonds.
+
+I've been asked what makes humanity great, and I wonder if it's this: to live carefree, knowing we were born from dust and will return to it. Each person stands on their own merit, breaks the caste system, supports the weak. Even the monsters who ravage the stars fear these justice-seekers, fighting for what's right at all costs.
+
+They might be similar, but they justify their actions in different ways. Humanity seems like a walking contradiction, an enigma. How does it continue? How does it thrive against all odds?"
+
+Gordi's smile spread out on her face as she realized the captain just quoted the exact spot she just finished reading. How could he know that?
+
+"How long did you let me read on from your book before you knew?"
+
+Standing from the fire Uran adjusted his triactor for better listening, he looked one more time at Gordi. "It was the moment I saw your eyes kid, the way you looked at me. They betrayed you."
+
+"Roses don't bloom without shit"-it's harsh, but it's beautiful."
+
+"I'm getting food," and with that Uran slipped into the darkness and vanished.
+
+## Altans Self Reflection
+The Altans view themselves as the true masters of the universe, stewards of Trillium and wielders of advanced technology. Their superiority is more inherent than expressed; they carry themselves with an aloofness reminiscent of elves in ancient myths, unaware of the distance this creates between them and others.
+
+Inside a traditional Altan domicile, the atmosphere radiates peace and harmony, shaped by their seamless integration of technology. Their world, steeped in Trillium, has afforded them luxuries few others can fathom. From an early age, Altans are equipped with triactor jacks and benefit from life-extension treatments, effectively stretching their lives to the point where mortality feels more theoretical than real.
+
+This extended lifespan has had profound social impacts. As cloning became perfected, the urgency to produce offspring diminished. Why risk one's true self when a clone could experience danger on one's behalf? This emotional detachment extended beyond personal safety to how the Altans viewed life and death. Witnessing the death of one's clone, they felt the loss but in an almost academic way. Thus, material attachments became irrelevant, giving rise to a minimalist lifestyle-every necessity catered for by technology, every want irrelevant.
+
+However, this utopian existence birthed a different dilemma. Few children were born to the Altans, and the few that did emerge found themselves in an isolating world. Their connection to the older generation, who treated life as an endless, detached experiment, felt tenuous. Triactor technology and early exposure to Trillium became integral to their upbringing, but this did little to bridge the emotional chasm between generations. As the young grappled with their identity, the older Altans remained oblivious, content in their perpetual cycle of luxury and detachment.
+
+## Bloodlines
+The molten rock hissed as the vapour swirled around the extraction chamber, the green smoke dancing under the lab lights sparkling and mesmerizing. The sealed container of the Altan magnetic disruption increased its magnetic amplifier finishing off the final burn of the cycle. Depending on the charge and the rotation of the mechanism, these units could levitate or become a high-powered incinerator. The Altans loved magnetic energy, the vibrating units would offer high-frequency partial manipulation and mixed with refined trillium gas it was spectacular.
+
+The laboratory's expensive equipment was cutting-edge, and envied by many scientific communities. The levers and gauges moved smoothly under Bud's small, nimble hands, even though he was just a child. The Altan race had made significant technological advancements, and their love for strong magnetic capacitors had freed them from the pressures of gravity and fuel source issues. To Bud, this technology was second nature like breathing. But no matter how much he understood it, there was always a gnawing feeling that he'd never truly own it, never match the brilliance of the ancient Altans.
+
+Bud's passion was Trillium, a highly volatile substance. If mishandled, it could cause devastating genetic alterations to an unwary lab technician; there was a plethora of images in the archives of mutated clones or altered humans.
+
+Bud snapped upright, eyes wide open as the yellow warning light began flashing above the doorway. The chamber whirred behind the hermetically sealed doors and a pleasant voice chimed "Identific confirmed. Decontamination in progress." The reinforced security doors clanged open to the sides, and the pressurized chamber doors hissed as they opened diagonally.
+
+Bud was comfortable working alone and often felt that he was treated as an inconvenience by Altan society because of his age. He appreciated the isolation and indifference of adults, but his beloved aunt, a doctor, was always watching him closely, ensuring he adhered to the Altan directive. Science, to Bud, was a wild thing-a force of nature that couldn't be caged by rules or parameters. The Altans, with their obsession for control, would never understand that. They feared what they couldn't tame, but Bud had no such fear. To him, the laws of physics and space-time did not follow the rules set by adults, even if they were hundreds of years old.
+
+Finally, the figure moved forward from the doors, the steady floating walk the rigid posture. Bud looked up from his project through his thermal Plaz view screen and made eye contact with the good doctor-his overbearing aunt. The two had developed a unique sign language to share sensitive information without alerting others, and it was customary to exchange small hand gestures when they first saw each other, indicating if it was safe to speak openly. The doctor signaled all clear and then began to speak to Bud using her voice enhancement mods. Both were in full contamination suits connected through their triactor jacks.
+
+The doctor's voice gently filled the room, but this non-aggressive tone bothered Bud. Known for his playful defiance, he responded in a ridiculous frog voice, fully aware that it drove her crazy.
+
+"Bud, you've been in here longer than recommended," the doctor began, her tone firm. "One of my technicians informed me that you removed their passcode authorization to enter this room. You know the rules-we are working under supervision, and your body needs rest. Every time I have to come find you, it takes me away from other Altans who need my assistance."
+
+In response, Bud's voice was a series of croaks and ribbits, a mischievous smile playing across his face. The doctor's hands flashed a signal that clearly meant, "I'll kill you if you don't stop that," matched with a stern expression. Laughingly, Bud responded with a mock-crying baby voice, further amplifying the doctor's frustration.
+
+"Bud, Altan society thrives on order and discipline," she said, her tone weary but firm. "You seem intent on tearing that apart," she said with exasperation. "It amazes me how you, a child, can bring me to such rage. No wonder the Altans have so few children. I'm at a loss on how to deal with you. Will you simply leave with me and finish this at a later date so I can resume my tasks?"
+
+Bud stood from the table. Though young, he was already as tall as the doctor, his thin frame betraying his height. He slid a chair out for her, a motion of joy playing across his eyes.
+
+"It is serendipitous that you come to me at this time, good doctor," Bud said theatrically. "Please sit and let me show you the wonders of who I am. I do believe the highest accolades of the Altan scientific society will be bestowed upon me after you see the wizardry of my accomplishments."
+
+The doctor, unfazed by the child's flair, regretted the moment she saw Bud reading a human book a few months ago. The teen literature had influenced him so much that she worried he would never mature into a civilized Altan.
+
+"You have so many interesting mannerisms, Bud," she remarked. "You speak so much like a human. I worry that you've lost the ability to think clearly."
+
+"But that's where you're wrong, my loving doctor," Bud retorted. "I will astound you with all my wonder. Behold!" With a flourish, Bud tossed her a chunk of the coated Trillium. In its inert state, it was harmless-easy to transport and handle across the Federation without risk. The nanobots, barely visible, clung to the surface, offering temporary protection until it was time for the stone to be processed.
+
+The Altans had developed a way to safely handle Trillium by deploying nanobot technology. These nanobots formed a thin protective layer over the reactive stone, shielding it from instability. During processing, the bots would simply burn off, leaving the Trillium ready for use.
+
+"Rocks? I'm amazed," the doctor said sarcastically. "You've spent almost two days working with rocks?"
+
+"Good doctor, I am not alone," Bud replied with a smirk. "I've had Roger with me this whole time." He gestured to a small, fuzzy creature sitting in a glass enclosure, happily chewing on food. The doctor noticed a small triactor jack modification attached to the animal's neck, running down its spine.
+
+Watching the doctor's eyes Bud moved his chair in front of Roger's home, attempting to block the prying eyes.
+
+"Bud, we've discussed experimenting on small creatures before," the doctor scolded. "It's unethical, and I'm disappointed that I must remind you again. This unsanctioned experiment could get you into serious trouble with your studies later on and consequently the authorities now."
+
+"Yes, I understand," Bud said with a knowing grin. "However, I do not meet the required parameters to be tried under Altan law, and as my parental custodian, it is your responsibility to keep me from performing such 'misadventures.'"
+
+The doctor crossed her arms, disapprovingly. "So, I guess you've been a naughty boy and I should throw you in prison. But you'd probably have as much trouble listening to them as you do to me."
+
+"Doctor, I fear the Federation and its Galactic laws as much as any rebel-rousing Altan youth," Bud quipped. "We'll have time for lectures later, but since I only have your attention for a short while, may I show you what I've discovered?" His small, gloved hands collected a few samples of the Trillium stone.
+
+Placing it inside the magnetically sealed forge, the energy dispelled by the apparatus was enough to melt the stone, releasing Trillium gas that could be processed by various machines. This process was simple enough but the gas was incredibly toxic and dangerous.
+
+The doctor's attention to the modifications of the lab equipment made her realize just how much Bud had been doing over the past days, locked in the lab without assistance. Sensing her tension, Bud spoke in his normal voice.
+
+"It's okay, doctor. I've performed this trial many times over the past days, and I assure you it's safe. If you don't believe me, I'm still here to prove it." He pointed to chemical burns near the exhaust vents at the top of the ceiling. The doctor's face settled into an unsatisfied expression as she observed the evidence.
+
+"Doctor, if I had perfected it on the first attempt, it wouldn't be called science," Bud replied, his tone filled with a mix of pride and frustration. "Of course, I've made mistakes, but I've also reached significant advancements. I didn't set everything on fire the first time, and I'm grateful the venting system saved Roger and me. However, we'll definitely need to replace the air scrubbing filters before I'm allowed back in here."
+
+As the Trillium rock began to pop and melt, the green gas rapidly ascended into the awaiting chamber, following the intricate lines connected to the forge. The doctor's eyes traced the pathway to a water chamber with a reverse vacuum system, pulling the gas into a bubbler.
+
+"Bud, I've never seen this configuration before. What substance is inside the secondary chamber?" she asked, curiosity piqued.
+
+"The secondary chamber is filled with water and a special blend of bonding chemicals," Bud explained. "As the Trillium gas is injected, pressurized into that chamber, it passes through four different water chambers, each one gradually extracting the Trillium from the gas released by the melted stone."
+
+"Bud, this is genius!" the doctor exclaimed, her eyes widening in amazement. "You've created liquid Trillium from the gas!"
+
+"Doctor, this is cutting-edge technology, and it's not even the most impressive part yet," Bud said, his voice brimming with excitement. "In a few moments, the refined Trillium rock will be complete, and the bubbler system will finish its work. What happens next is where the true magic unfolds."
+
+The doctor nodded, though concern tinged her expression. "Obviously, that refined Trillium is highly toxic and has significant genetic consequences for anyone who comes into contact with it."
+
+"Oh, yes, it's extremely lethal in that state," Bud confirmed, a mischievous grin playing on his lips. "But look over here."
+
+Standing up, Bud gently took the doctor's hand and led her to a side table where a series of advanced equipment was arranged. Inside a secondary magnetic chamber, the liquid Trillium could be seen, with a series of vacuum tubes extracting the air from it.
+
+With a hint of pride, Bud's voice resonated with childlike wonder. "Have you ever pondered the coldness of space? You're aware that water easily evaporates into a solid state when exposed to the frigid temperatures of unprotected space. This vacuum system I've developed removes pressure and gravity, creating a void similar to space. This brings the Trillium to extreme cold temperatures. With the assistance of our Altan magnetic technology, any remaining liquid or pure substances in the refined gas Trillium are extracted. After a period of incubation, that liquid Trillium will actually solidify again."
+
+The doctor's eyes sparkled with astonishment. "Where did you get these ideas from? This is breathtaking! You've made the Trillium stable in a solid form again after refining it twice!"
+
+"Doctor, I was reviewing my mother's notes on Trillium. She was researching it while she was pregnant with me," Bud said, his voice softening. "This research was her passion. She theorized strategies on how to achieve this. It wasn't until I reviewed my father's notes on genetic modification that I realized if we transferred the Trillium into different states, we could manipulate its properties to make it more stable."
+
+The doctor reached out, touching Bud's small hands with her own. A solitary tear rolled down her cheek as she looked at the young child's face, filled with determination and brilliance.
+
+"Bud, this is truly amazing," she whispered, her voice choked with emotion. "Do you have any samples that I could run diagnostics on? Samples that have already been completed?"
+
+"Yes, of course," Bud replied eagerly. "I've run some preliminary tests on them already and have confirmed the purity of the Trillium in the finished product."
+
+The doctor nodded thoughtfully. "I want to conduct a peer review on this, Bud, but I'm concerned that without a registered license, you won't be able to publish your findings in the Altan scientific archives for some time. Would you allow me to sponsor this and have you added as a co-author? We must get this information into the hands of our testing facility to verify all your findings."
+
+"I've already thought about this, Doctor," Bud said, his voice firm yet tinged with a youthful determination. "Because my father is still alive, he holds the rights to sponsor any papers I wish to publish. That's why I've decided that Roger and I will set out to find him. We'll bring him back into the good graces of the Altan Society. This will be the first step in reuniting our family."
+
+"Bud, I don't think that's possible," the doctor replied, her tone filled with quiet sorrow.
+
+"Doctor, what you've witnessed today proves that almost anything is possible if you work hard enough," Bud insisted. "My father may be in exile, but he's still alive. As his son, it's my responsibility to clear his name and bring him back."
+
+"Bud," the doctor began, her voice softening, "no matter what you or your father accomplish, no matter how high you reach, his name will never be cleared. He will never be welcomed back."
+
+"Altans believe in peace and harmony," Bud argued. "How can we say that someone will never be forgiven, never be brought back, what if they've reformed? If my contributions are significant enough, I can petition the High Command to bring him back."
+
+"Bud," the doctor said gently.
+
+"No!" Bud's voice cracked as he spoke. "I need my parents. I feel lost and alone, like I don't belong here."
+
+"Bud," the doctor whispered, tears welling in her eyes. "He was a traitor to Alta Prim and to the Altan race. He sold secrets, made enemies, and that's what got him killed. They kept it, you know-his head. They kept him, or rather his head, in a jar on display at Azurion Inc. on the planet Veles. The monsters."
+
+Tears began to stream down Bud's face, his small body shaking with uncontrollable sobs. The contamination suits made it almost impossible for them to embrace, so the closest comfort Bud could find was the doctor's hand, placed gently on his suit.
+
+After a few minutes, the doctor's communication link began to buzz, alerting her to an emergency back at her lab. Torn between her duties and her concern for Bud, she finally spoke.
+
+"Bud, this is a hard truth, and I'm sorry I had to be so blunt with you. I've tried to shield you from these painful realities. Your father can never come back because he's dead."
+
+The words hung in the air like a dark cloud, suffocating the small boy.
+
+"I don't want to take away from what you've accomplished today," she continued, her voice filled with warmth despite the sadness. "You're beginning to stand on your own merit, and I think you're doing exceptional work. In a few years, when you go to flight school, everything will get better. You'll be around more Altans your age, and you'll make friends."
+
+Bud's eyes remained fixed on the ground, his heart heavy with grief.
+
+"I have to go now, Bud," the doctor said softly. "I've reset the passcode on the airlock and put a restrictor on your ability to reset them again. I'll send one of my aides to collect you when I'm back at my office. And maybe tonight, if you'd like, you can go to your favorite restaurant."
+
+The doctor hesitated, then added, "You're a wonderful child, Bud, and I want to celebrate what you've accomplished here. I'll see you back at the house tonight."
+
+With that, the doctor turned and left through the air seal, her departure leaving a profound silence in the laboratory.
+
+The quietness of the lab hummed around Bud, but the silence inside him was far more painful. It was a void, a vacuum of loss and loneliness, the realization that he had no real connection left-no one who shared his life.
+
+As his mind drifted into a dark, lonely place, teetering on the edge of despair, a soft, sweet voice began to sing, breaking through the gloom like a ray of light.
+
+Bud looked over to Roger, who was pressing the speaker box, singing gently to his creator. The genetic modifications and enriched Trillium enhancements had allowed Roger to learn how to speak amongst other things. Science didn't ask for permission and a child needed a friend.
+
+Bud wasn't alone-not even close. He had made his own friends using his mind and the strength of refined Trillium to do it. If the doctor thought his accomplishments were great now, what would she do when she learned that he was capable of making a genetically modified animal using trillium to be able to accept a triactor implant, this new science enabling creatures to speak and to think… incredibly well at that.
+
+The soft buzz of the speaker box sounded again.
+
+"Bud," the creature's small voice chimed out.  
+"Your Father… wasn't he a master cloner? He would have had hundreds of heads at one time."
