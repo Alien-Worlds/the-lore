@@ -2288,7 +2288,7 @@ Maria watched as teams of workers moved through the chambers below, their powerf
 Above them, the gravity warning sensors shifted from red back to amber, marking the end of another density surge. But for the Nordic people, the real pressure was just beginning.
 In the depths of New Pleione, beneath kilometers of rock and pressure, a new chapter in human evolution was about to unfold. And the Nordics would face it as they had faced everything else - standing tall against the crushing weight of their chosen home, ready to become whatever their harsh world required them to be.
 
-The journey that had begun with the Yggdrasil's landing would continue, guided not by fear of change, but by the courage to evolve on their own terms. For in the end, that was what it meant to be Nordic - to face the impossible, and through sheer determination and adaptability, make it po
+The journey that had begun with the Yggdrasil's landing would continue, guided not by fear of change, but by the courage to evolve on their own terms. For in the end, that was what it meant to be Nordic - to face the impossible, and through sheer determination and adaptability, make it pos
 
 
 #***The-Darkness, Ender***
@@ -2400,9 +2400,9 @@ A piece of scrap paper was raised from a chest pocket in Siegfried's jacket, Mik
 
 ""Need"? You're always needing something. But no problem! MaGoR Mike's got it—or your money back. Though no one ever asks for that, 'cause I "always" got it. Parts for the Sleipnir, right? Your ship is the best to  ever fly through Magor's atmosphere! You think of me when your ready to sell"
 
-Sigfried chuckled. "Still talking big, Mike. Business must be good."
+Sigfried chuckled. "Still talking big eh Mike. Business must be good."
 
-""Booming"! People come to me 'cause they know MaGoR Mike delivers. Now, lemme see that other list the real one."
+""Booming!" People come to me, 'cause they know MaGoR Mike delivers. Now, lemme see that, other list, The real one."
 
 Hephaestus handed him the second list with a real laugh, and Mike scanned it, whistling low. "High-refined trilium gas, heat shielding, contamination suits… What, planning to fly through a sun?"
 
