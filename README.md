@@ -3430,3 +3430,151 @@ As Loria continued her analysis, Tareth turned to the rest of the room. "We move
 
 The team moved swiftly to follow his orders, the weight of their discovery hanging heavy in the air. Tareth watched them go, his mind racing with possibilities and dangers alike. If the Khaured truly had access to ancient Maxa technology, the entire galaxy would soon feel its effects. But what concerned him most wasn't just the Khaured, it was the unknown. The Maxa had vanished for a reason, and whatever they had left behind, Tareth suspected, had been meant to stay hidden.
 As the warship prepared for its next jump, the stars outside flickered and blurred, an ominous reminder of the vast, shifting universe around them. Whatever lay ahead, Tareth knew one thing for certain, nothing would ever be the same again.
+
+# Echoes of Naron
+## Naron Conflict
+The Water Barons' headquarters loomed like an opulent fortress in the heart of Naron's sacred Island, encircled by Lake Nyari's enormous body of water. The building, a towering edifice of glass and steel, glittered in the planet's mild sunlight, reflecting the sharp bands of Naron's diverse environments.
+
+The air inside its confines was crisp and sterile, in sharp contrast to the raw, Trilium-laced reality that lay under the surface.
+
+Velora Kyne, the Water Barons' iron-fisted leader, sat at her large desk, her keen eyes studying the most recent water distribution and income statistics. Her office's simple architecture and magnificent views of Lake Nyari conveyed a feeling of calculated sophistication.
+
+Velora herself was intimidating, with a striking form and blue eyes that expressed her beauty and power, a trait quite common among female Humans. 
+
+The lake, glistening in the distance, appeared to be a calm emblem of wealth, but Velora knew otherwise. It was the center of her power and the source of Naron's biggest secret. A knock at the door broke her concentration. Without waiting for an answer, the door swung open, and a powerfully built figure entered the room with liquid smooth movements that hinted at physical augmentations beyond the ordinary. It was Kalon Draven, a senior member of the Water Barons.
+
+ "Commander" Kalon greeted, his voice firm and steady. "I have the latest reports."
+
+Velora glanced up, her sharp stare fixed on him for a minute. A flicker of unease passed through her as she took in his imposing figure. His physique, though unmistakably Khaured, was a striking departure from the norm; leaner, taller, with a subtle shimmer to his skin, like oil slick on water. A cold logic prickled at her mind: his unpredictability - it made him an asset she couldn't trust. *He is just a mask concealing a shape-shifting predator,* she thought. *I can't trust him, never.*
+
+Velora motioned for Kalon to sit. Her countenance was unreadable as she awaited the report. "What's the status?" asked Velora, her voice carrying an edge of authority and impatience.
+
+Kalon handed her a data pad. "Everything is proceeding as planned. The new filtration systems are operational, and the Trilium extraction is on schedule. However, there's been an increase in resistance activities. The Red Lotus is becoming more aggressive."
+
+Velora frowned slightly as she reviewed the data. "General Kaito and his rebels are persistent, but they're nothing we can't handle. What about the Hodlodytes?"
+
+"They continue to work the mines, albeit reluctantly," replied Kalon. "There have been murmurs of dissent, but really nothing substantial. They know the consequences of rebellion."
+
+Velora nodded, satisfied with the report but very aware of the underlying tensions. The Water Barons-engineered Hodlodytes, offspring of a once aggressive and independent species that had been systematically eliminated, demonstrated the magnitude of power the Barons possessed on Naron.
+
+The present generation of Hodlodytes, though nurtured for docility, retained vestiges of their forebears' ferocious temperament, a continual reminder of the fragile balance maintained. With their inherent tolerance to Trilium, these engineered Hodlodytes were invaluable *tools*; keeping them subdued was paramount.
+
+"Good, good. Keep an eye on them," she ordered. "We can't afford any disruptions. Eliminate a few if you have to. Naron's reputation depends on it." Kalon tilted his head forward. "Of course, Commander. There's one more thing, though. Our analysts have detected trace amounts of Trilium in some of the filtered water samples from Lake Nyari, and Lake Valtoris too. I think it's something we should monitor closely."
+
+Velora's eyes narrowed. "Ensure it doesn't escalate. We can't let the truth about the water's properties become public knowledge. At least not right now."
+
+Kalon nodded, taking careful note of her instructions. He had been infiltrating the Water Barons for months, obtaining critical information for the Triarchs. So, he was already aware of the existence of Trilium in Naron's water; this report merely served as more evidence. But he knew that as soon as he sent the report across to that sect of reclusive Altans, it would definitely intensify their desire. He sighed. What he really needed right now was patience and composure, not intensity.
+
+As he stood to leave, Velora's voice stopped him. "Kalon, one more thing. The Triarchs' interest in Naron's Trilium has been growing. Have you heard anything from your sources?"
+
+Kalon turned, his expression carefully neutral. "Nothing concrete yet, commander. They remain quite elusive. Their fascination with Naron is well-known but... I don't think there is anything to be worried about for now"
+
+Velora nodded, her gaze distant. As Kalon turned again to leave, she added, "Oh, and one more thing. I've decided to enlist Jago's help. His particular skill-set, combined with his... disdain for the Altans, could prove invaluable in gathering intel on the Triarchs' activities."
+
+Kalon paused, a cold dread creeping into his heart. He'd worked alongside Jago on a few missions and was very impressed by the Cyborg's lethal efficiency. But that same ruthlessness was now a double-edged sword. If Jago began to dig too deep, he could uncover the carefully constructed facade Kalon had spent months building.
+
+ "Jago, Commander? Are you sure about that?  I mean, his... his enthusiasm could be a liability."
+
+Velora regarded him with a steady gaze. "That is precisely why I need him. Controlled chaos, Kalon. Sometimes, the unexpected is the most effective weapon."
+
+Kalon left the office, his mind processing every detail of his double role. Getting into and rising through the ranks of the Water Barons had been relatively easy due to his shapeshifting abilities and fighting skills, which he had effectively employed on multiple occasions to advance their cause. However, winning Velora's trust remained an ongoing challenge. And now Jago was in the picture. *Could this get any harder?* Kalon asked himself 
+
+As he walked through the headquarters' pristine corridors, he passed various departments bustling with activity. Engineers fine-tuning filtration systems, analysts crunching data, and security personnel monitoring the complex network of surveillance feeds. One thing he had come to like about the Water Barons was how they operated with military precision.
+
+Kalon headed for the sub-levels, which contained the filtering systems. As he descended down into the facility's depths, the illumination became weaker and the air grew colder. The sound of gear increasing in volume served as a reminder of the precarious balance he was attempting to keep within himself.
+
+When Kalon arrived at the central filtration room, he studied the complex system of pipes and purifiers. Protective suit-clad engineers worked meticulously, ensuring every component functioned flawlessly. The water was taken directly from the lake that encircled their island, and it went through several steps of filtering, all aimed at extracting impurities and, most importantly,*Trilium*.
+
+Kalon went over to the lead engineer, a towering figure of polished metal and circuitry. Its head was a smooth, featureless sphere, save for two glowing optic sensors. "Unit 4729, status report," Kalon began, his voice clear and precise; his composure unwavering and magnetic.
+
+With a series of clicks and whirs, the Robotron responded. "Systems operating within parameters. Trilium levels fluctuating, but containment protocols engaged. No breaches detected." Its voice was a smooth, synthesized baritone.
+
+Kalon nodded, his eyes scanning the control panel. "Keep it that way. Any anomalies, report immediately." He turned to leave. "And one more thing," he added, turning back, "Maybe we should ease up on the surveillance of the filtration system for now... I mean, if you're completely confident there are no leaks"
+
+With a nod, Unit 4729 went back to its task, leaving Kalon to take stock of the activities. 
+
+Kalon's mind was racing with possibilities. He knew that sabotaging the filtration systems was a risky move, but it could force the Water Barons' hand and expose their hidden agenda. Yet, it would also endanger Naron's population, a moral conundrum he wasn't sure how to handle just yet.
+
+A wave of nostalgia washed over him as he made his way back to the top floor. *The promise he'd made to his fellow Reptiloids echoed in his mind.* A pact forged in the crucible of isolation, *a bond between outcasts*. The Reptiloids, shunned by their Khaured kin for their unnatural modifications, had found solace and purpose in their shared destiny. 
+
+The Triarchs had offered them a chance at redemption, a path to reclaim their place in the galaxy. *Naron was the key, and Trilium was the prize*. But with every passing day, the mission was growing perilous and the presence of another Reptiloid agent on Naron only added an unhealthy layer of complexity. *I told them\! I told them I work alone,* Kalon muttered angrily.
+
+Back in her office, Velora Kyne stared out at Lake Nyari, her mind equally preoccupied. Naron's water's purity was both her greatest asset and her darkest secret. Continuous attention was needed to keep up the appearance of kindness while brutally taking advantage of Naron's riches.
+
+ A wry smile touched her lips. Though not among the Water Barons' original founders, her father had risen swiftly through the ranks to become the cornerstone of the Barons' might, using his ambition to mold the organization into a formidable force, and from him she'd inherited more than just the reins of power; she'd also inherited razor-sharp instincts and a keen sense of awareness. Nothing could catch her off guard - not even the prying eyes of the Federation Council.
+
+She turned back to her desk, her thoughts drifting to the Triarchs. They indeed posed a threat, one that could upset the delicate balance that she and her family had built and preserved for so long. She needed to keep them at bay for the time being. In this game of control, Velora was determined to be the one pulling the strings. Now, with the growing threat of the Red Lotus, the stakes were even higher than ever.
+
+Velora was about to get up when a sudden tremor shook the building. It was barely perceptible at first but enough to send a shiver down her spine. It was a rare occurrence on Naron, a tremor that spoke of a restless world beneath the surface. A disquieting thought wormed its way into her mind - *could the tremors be a sign of something more, a harbinger of the rebellion stirring beneath the surface, just like the Trilium hidden in the water?*
+## The Alliance 
+A damp smell permeated the air in the Red Lotus' subterranean bunker, which stood in sharp contrast to the lavishness of the Water Barons' headquarters. Tucked down beneath the rocky peaks of Naron, the bunker was a maze of cramped passageways and dim rooms with hand-drawn maps and makeshift fortifications lining its walls. The tremor that had rattled the opulent office resonated here as a low rumble, a tremor felt not just in the building, but in the hearts of the Red Lotus members.
+
+The Red Lotus leader, General Kaito Arashi, stood in the central command room with his eyes focused on a holographic map of Naron and his thoughts focused on one goal: *to remove the Water Barons' tyrannical hold and free Naron*. Like all Nordics, his strong spiritual connection to *Sindera-tilekvema* instilled in him a love for nature and a fierce protectiveness of his surroundings.This innate veneration made him, and every Nordic on Naron, a natural foe of the Water Barons whose plunder of the planet's resources contradicted all they held sacred.
+
+His Nordic features, marked by a dense skeletal structure and powerful musculature, were weathered by the harsh elements of the planet. High cheekbones and piercing grey eyes were accentuated by the flashing blue light. Age and the stress of innumerable battles had taken their toll on his hair, which was a rich, earthy brown with silver streaks. His face and arms were riddled with scars. His physique, honed by years of combat and the demanding environment, exuded strength and determination.
+
+As he surveyed the map, plotting their next move, a figure approached from the shadows. It was Shira, his trusted lieutenant. "General," said Shira in a clear, resolute voice.
+
+"Did you feel that?" Kaito asked, his voice almost a whisper.
+
+Shira nodded, a grim smile playing on her lips. "The tremors are becoming more frequent, General. Naron itself seems restless, yearning for change."
+
+"A sign, perhaps," Kaito replied sharply, his eyes flashing with determination. "A sign that the time for action is upon us."
+
+Shira's smile widened. "Indeed," she said, her voice echoing through the cramped quarters. "We have news from the front lines."
+
+Kaito looked in her direction. "What is it, dear one?"
+
+"Our scouts noticed increased security around the Lake Valtoris filtration facilities owned by the Water Barons. It appears that they are aware of our curiosity about the extraction of Trilium" Shira replied, her slit-pupiled eyes locked onto Kaito's. Her scales, a deep emerald hue, and her sharp, angular framed face gave her an air of fierce intelligence and unwavering resolve.
+
+It was quite odd, to new Red Lotus members, that the General appeared to have so much trust in Shira, a Reptiloid. *A species barely tolerated in their native homeworld of Khaur; the Reptiloids and their offsprings were seen as aberrant, even monstrous*. Yet, here was their leader, confiding in one. However, the veterans around were well aware that Shira had repeatedly demonstrated her competence and gained the General's trust in the process, a rare feat among his ranks.
+
+Kaito's jaw tightened "Velora Kyne is simply trying to make her grip stronger, just like her father. That old fox built an empire out of water, and she's determined to expand it. We need to act swiftly before they strengthen their defenses any further."
+
+Shira nodded, steadying her thoughts.
+
+"There's more," she continued. "The Elgem are stirring and..."
+
+Kaito's eyes lit up "The Elgem?" he cut in. "I thought they were content to stay in their own corner. It seems the Lake Valtoris dispute really shook them up."
+
+Shira's expression hardened. "Yes, General. The Barons' brazen takeover of the lake has roused the Elgem from their slumber. That lake was a very vital resource for them. So essential that, even as we speak, they're preparing to fight back."
+
+Kaito considered this. "We could turn their anger into a powerful weapon," he mused. "It is time to forge an alliance\!"
+
+Shira's mind worked quickly. The involvement of the Elgem could upset the balance of power for sure. *But, damn*\! It could also put her mission in jeopardy.
+
+She was here to bring Naron's Trilium closer to the Triarchs' reach, not the other way around. As a result, she needed to be able to control how things unfolded. Having the Elgem join the struggle could drastically weaken the Water Barons, allowing the revolt to triumph. However, if the resistance grew too powerful, it could undermine her objective.
+
+"We should approach their leaders carefully," Shira suggested. "Offer to help them get back Lake Valtoris as well as shared authority over other resources once we overthrow the Barons. It's a risky move since they're not exactly known for their openness, but it could pay off."
+
+Kaito nodded in agreement. "Prepare a team for negotiations, dear one. We need to secure their allegiance without delay."
+
+Shira's mind began to whirl with the implications of not only the General's request but also the weight of her people's desperation. The Reptiloids' relationship with other races in the Federation was fragile due to their morphing ability. And her purpose on Naron, just like Kalon, was to fix this with the assistance of the Triarchs.
+
+The Triarchs had extended a compelling offer to the Reptiloids: *to democratize shapeshifting, and eradicate the fear that other races harbored toward them. In exchange, they sought control of Naron's Trilium*. It was a *Faustian bargain*, a gamble for a future free from fear and mistrust. The mere idea of such a future was more than enough motivation for her. She understood that each day here could be her last, but she was willing to lay down her life for the greater good.
+
+ "Shira, I trust you with this task. The Elgem must recognize us as true allies. I have a feeling their assistance will be a turning point in our fight." The General's booming baritone drew Shira's attention back to the present. She saw his hand on her shoulder and his eyes penetrating her inclined head. A head filled with conflicting voices.
+
+ "I won't let you down, General. I promise" She replied. *I can't afford to let my people down either...*
+
+She left the command room and made her way down the meandering corridors. The bunker was bustling with activity as resistance members cleaned their weapons and prepared for their next operation. Shira's destination was a hidden chamber where a handful of Red Lotus' top fighters had already gathered to receive the General's orders from his lieutenant. She entered the room, her presence commanding attention.
+
+"Alright, listen up. We have a new mission," she announced. "We're reaching out to the Elgem. General Kaito believes they could be the key to our success."
+
+The warriors exchanged glances. Shira could see, in their expressions, a mix of skepticism and intrigue. One of them, a seasoned marksman, spoke up. "You and I know the Elgem are very secretive. Personally, I think they enjoy being tagged 'The Isolated Ones'. Gaining their trust won't be easy, especially..." 
+
+"Which is why we need to approach them with respect and genuine offers." Ragna, a former champion of the *Aqua-Primus*, cut in calmly. He was a stark reminder of a bygone era when the Nyari island was held sacred. Now, the headquarters of the Human-propelled Barons stood as a profane desecration of that hallowed ground, a testament to the recent victory of the Humans in the Aqua-Primus.
+
+A heavy silence fell over the room and all eyes turned towards Ragnar as his imposing Nordic figure emerged from the shadows.
+
+He gazed round, to ensure he had their full attention before he continued. "The General is right. We all know the Elgem have been wronged. Yes, they may have heard whispers of our cause, but now is the time to show them we are not their enemies. We fight for a common purpose: *liberation*\!"
+
+One by one everyone in the room, except Shira, came up with a potential approach for negotiation. She listened intently, taking in the details and contributing her insights only when necessary. Later that evening, as the preparations were underway, Shira found a quiet moment to herself in one of the bunker's isolated alcoves. She could literally feel the heavy load of obligation on her shoulders.
+
+She had been able to witness the challenges and intentions of the resistance up close. There was no doubt that the warriors' unwavering tenacity and drive had sparked a deep inner struggle in her, one that pitted her sympathy for them against her allegiance to the Triarchs.
+
+Thoughts of the Hodlodytes crossed Shira's mind as she gazed at the alcove's rustic walls. The hard reality that molded Naron's culture was brought to light by their predicament. Exploited for their resilience to Trilium, they were caught in a web of greed and oppression spun by the Water Barons.
+
+Shira had a  clear purpose, but the path was fraught with dilemmas. She took a deep breath, steeling herself for the challenges ahead. At this point, she needed to be strong physically as well as emotionally.
+
+The negotiations with the Elgem would be a critical juncture, one that could determine the fate of Naron and its inhabitants, and her actions in the coming days would be pivotal, not just for the Red Lotus but for the Triarchs' grand design. There was indeed much to discuss with Kalon. *We have to rendezvous as soon as possible...*
