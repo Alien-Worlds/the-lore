@@ -3075,7 +3075,6 @@ The soft buzz of the speaker box sounded again.
 
 
 # The Onoros Expansion 1
-
 The skies over the planet Eyeke were a perpetual shade of dusk, an amalgamation of toxic gases and atmospheric particulates that blocked out the sun's light. 
 The Khaureds, ever-expanding in their quest for resources, had seen potential in Eyeke where others saw only desolation. This barren world was rich with Trilium veins buried deep beneath its surface, a rare element that fueled not only Khaured technology but also their ever-growing influence across the Federation.
 
@@ -3115,7 +3114,7 @@ The Khaured representative, Xaza, a cold-eyed politician, was engaged in a tense
 
 Xaza shot a glance at Zaren, a subtle signal. The Onoros diplomat rose slowly from his seat, every movement measured, deliberate.
 
-“We, the Onoros, are a unified people,” Zaren said, his voice calm and melodious. “Our alliance with the Khaureds is based on mutual benefit and shared goals. We do not seek power or influence; our purpose is to work, to contribute, and to ensure that the Federation thrives. The Maxa, our guiding force, has chosen this path for us, and we follow it willingly.”
+"We, the Onoros, are a unified people," Zaren said, his voice calm and melodious. "Our alliance with the Khaureds is based on mutual benefit and shared goals. We do not seek power or influence; our purpose is to work, to contribute, and to ensure that the Federation thrives. The Maxa, our guiding force, has chosen this path for us, and we follow it willingly."
 
 Lirien's eyes narrowed. "Curious that a species so embedded in every corner of the Federation claims to seek no influence. One might think that a race with such reach would have a broader agenda."
 
@@ -3133,25 +3132,25 @@ The Drones began to move in unison, their actions shifting from the methodical e
 
 As the hours passed, the Drones continued their work, but now their efforts were focused on something hidden deep within the earth. The tunnel they were digging was no longer just a mining shaft, it was becoming something else, something that the Khaureds had not authorized. Venx felt a flicker of unease, a rare emotion for an Onoros, but the hive mind drowned it out with its collective will.
 
-“Director Venx,” came a voice from behind him. It was Pavok again, his tone suspicious. “Why have your Drones deviated from the main excavation site? They're digging where they've no business digging.”
+"Director Venx," came a voice from behind him. It was Pavok again, his tone suspicious. "Why have your Drones deviated from the main excavation site? They're digging where they've no business digging."
 
-Venx turned slowly to face him. “The Maxa has detected something important. The Drones are following its guidance.”
+Venx turned slowly to face him. "The Maxa has detected something important. The Drones are following its guidance."
 
-Pavok's third eye flicked toward the deepening tunnel. “I wasn't informed of any changes. The Khaureds give the orders here, Venx. Not your Maxa.”
+Pavok's third eye flicked toward the deepening tunnel. "I wasn't informed of any changes. The Khaureds give the orders here, Venx. Not your Maxa."
 
-“The Maxa's guidance cannot be ignored,” Venx replied, his voice calm yet firm.
+"The Maxa's guidance cannot be ignored," Venx replied, his voice calm yet firm.
 
-Pavok took a step closer, his face tightening with annoyance. “I don't care what your Maxa thinks it's found. You answer to me. Call off your Drones, now.”
+Pavok took a step closer, his face tightening with annoyance. "I don't care what your Maxa thinks it's found. You answer to me. Call off your Drones, now."
 
-Venx's mind pulsed with the Maxa's influence, and for the first time, he found himself resisting the Khaured's demands. “The Maxa does not take orders from the Khaureds.”
+Venx's mind pulsed with the Maxa's influence, and for the first time, he found himself resisting the Khaured's demands. "The Maxa does not take orders from the Khaureds."
 
 It was already dawn, the Drones had uncovered a massive subterranean chamber, its walls lined with veins of glowing Trilium. But it was not the Trilium that had drawn them here, it was something else, something ancient and powerful that pulsed with energy at the chamber's center. 
 
 The object was unlike anything Venx had ever seen. It was a monolithic structure, smooth and black, with strange symbols etched into its surface. The Maxa's influence was strong here, its presence almost tangible in the air. The Drones gathered around the monolith, their exosuits casting long shadows in the dim light, as if they were paying homage to it.
 
-Pavok's eyes widened as the monolith began to hum with energy. “What… what is this?” he whispered, his earlier bravado fading.
+Pavok's eyes widened as the monolith began to hum with energy. "What… what is this?" he whispered, his earlier bravado fading.
 
-Venx's gaze remained fixed on the monolith. “It is the future,” he said softly, his voice filled with a quiet certainty. “The Maxa's plan is unfolding.”
+Venx's gaze remained fixed on the monolith. “It is the future," he said softly, his voice filled with a quiet certainty. “The Maxa's plan is unfolding."
 
 Venx could feel the Maxa's will merging around the object, a sense of purpose that transcended anything he had experienced before. The hive mind was focused, intent, and for the first time, Venx felt a hint of something deeper, something that had been hidden from him and the other Onoros for as long as he could remember. 
 
@@ -3159,11 +3158,11 @@ The monolith was a conduit, a key to something far greater than the Drones, the 
 
 As the chamber filled with light, Pavok staggered back, his three eyes were widened in fear. “What have you done, Venx? What have you unleashed?”
 
-Venx turned to him, his eyes glowing with the same light that radiated from the monolith. “The time for subtlety is over, Overseer. The Onoros will no longer serve the Khaureds. We have a higher calling.”
+Venx turned to him, his eyes glowing with the same light that radiated from the monolith. "The time for subtlety is over, Overseer. The Onoros will no longer serve the Khaureds. We have a higher calling."
 
 “You… you've doomed us all…” Pavok stammered, backing away.
 
-Venx watched him with serene detachment. “No, Overseer. The galaxy will soon be reshaped. The Onoros are merely stepping into their rightful place.”
+Venx watched him with serene detachment. "No, Overseer. The galaxy will soon be reshaped. The Onoros are merely stepping into their rightful place."
 
 As Pavok fled, Venx turned back to the monolith, the Maxa's will now fully intertwined with his own. The Onoros were no longer tools of the Khaureds, They were part of a grander design, one that had been set in motion long before the Khaureds had discovered Eyeke, and perhaps even before the Onoros had come into the Federation's awareness. 
 
