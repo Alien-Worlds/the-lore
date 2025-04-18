@@ -3739,7 +3739,6 @@ The Onoros knew about the take over, They could feel it in their very being, a s
 The Drones, still in their exosuits, turned as one to face Venx, their eyes glowing with the same light that had emanated from the monolith. Venx raised his hand, and the Drones responded in kind, their movements synchronized as if they were all part of the same body. The time had come to fulfill the Maxa's plan, to take the next step in the Onoros's evolution. The galaxy would soon learn the true nature of the Onoros, and by then, it would be too late to stop them. The silent expansion was over. The Onoros were ready to claim their place in the galaxy not as servants, but as rulers. And under the guidance of the Maxa, they would reshape the galaxy in their image, ensuring that the Onoros would endure for millennia to come.
 
 # the Onoros Expansion 2
-
 The galaxy was vast, ancient, and brimming with hidden mysteries, many of which had remained dormant for centuries, far beyond the comprehension of any species that now traversed its stars. But that was about to change. 
 
 On Eyeke, Venx stood at the forefront of a monumental shift in the Onoros race's existence. He had felt it, experienced it deeply through the monolith's activation, a connection that now transcended mere duty. The Maxa's will was clear, and for the first time in his life, Venx understood his true purpose.
