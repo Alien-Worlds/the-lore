@@ -3738,6 +3738,93 @@ The Onoros knew about the take over, They could feel it in their very being, a s
 
 The Drones, still in their exosuits, turned as one to face Venx, their eyes glowing with the same light that had emanated from the monolith. Venx raised his hand, and the Drones responded in kind, their movements synchronized as if they were all part of the same body. The time had come to fulfill the Maxa's plan, to take the next step in the Onoros's evolution. The galaxy would soon learn the true nature of the Onoros, and by then, it would be too late to stop them. The silent expansion was over. The Onoros were ready to claim their place in the galaxy not as servants, but as rulers. And under the guidance of the Maxa, they would reshape the galaxy in their image, ensuring that the Onoros would endure for millennia to come.
 
+# the Onoros Expansion 2
+The galaxy was vast, ancient, and brimming with hidden mysteries, many of which had remained dormant for centuries, far beyond the comprehension of any species that now traversed its stars. But that was about to change. 
+
+On Eyeke, Venx stood at the forefront of a monumental shift in the Onoros race's existence. He had felt it, experienced it deeply through the monolith's activation, a connection that now transcended mere duty. The Maxa's will was clear, and for the first time in his life, Venx understood his true purpose.
+ 
+
+Venx turned to his second-in-command, Flekken, a seasoned Drone whose exosuit bore the scars of countless mining operations and battles. The glow of the monolith pulsed across Flekken's visor, reflecting a new sense of awe and purpose.
+
+"Flekken, do you feel it? The Maxa's power surging through us. We're no longer bound by the whims of the Khaured. We are... ascendant." Venx said.
+
+Flakken's voice hummed through the communicator, steady but tinged with uncertainty.
+
+"I feel it, Venx. But what comes next? The monoliths are powerful, yes, but will the galaxy truly bend to our will?" Flakken answered.
+
+Venx placed a hand on Flekken's shoulder, his voice brimming with conviction.
+
+"The galaxy is already changing, Flekken. The Maxa's vision is beyond what any of us could have imagined. Every step we take, every monolith we awaken, brings us closer to reshaping this universe. We no longer follow the old orders, we give them." Venx added.
+
+Flakken nodded, though hesitation lingered in his movements. He glanced toward the glowing monolith.
+
+The subterranean chamber that had once seemed like a simple mine was now revealed to be an ancient relic of immense importance, tied to the Maxa's will. The monolith, no longer a dormant structure buried beneath Eyeke's harsh soil, was now a pulsating nexus of energy, radiating throughout the planet and beyond. 
+
+Venx, still standing before the massive structure, was now a part of it. The Drones had seamlessly merged their efforts, connecting the network of ancient technologies buried deep within Eyeke's crust. The Maxa had been guiding them all along, manipulating not just the Onoros, but the entire galaxy for its own grand designs. And now, as Venx stood within the glow of the monolith, he understood the magnitude of the Maxa's plan.  
+
+"And what of the Khaured? They will retaliate, Venx. They've never allowed power to slip from their grasp willingly." Flakken questioned.
+
+Venx chuckled, his gaze turning toward the ceiling, imagining the stars beyond.
+
+"Let them try. They are nothing compared to what we've unlocked. Soon, even their precious Federation will bow before us." Venx assured. 
+
+
+On Alta, the grand halls of the Federation Congress were filled with a familiar energy. Politicians and diplomats haggled over trade agreements, territorial disputes, and economic policies blissfully unaware of what is happening miles away.
+
+Zaren, the Onoros Diplomat, sat silently among them, his presence both unsettling and oddly serene. The other delegates had long grown accustomed to the strange Onoros, and yet, Zaren had always been something mysterious. His large, dark eyes surveyed the chamber, absorbing the tension and underlying currents of power that flowed between the delegates. 
+
+The Khaured representative, Xaza, was speaking again, defending his people's ever-expanding influence within the Federation. His rhetoric was carefully calculated, as always, but there was an edge to his voice, a hint of uncertainty. For years, the Khaureds had manipulated the Alta's political landscape to suit their goals, with the Onoros acting as their silent enforcers, their Drones scattered across countless worlds, working tirelessly in Khaured-owned mining operations and industrial centers. But something had changed. 
+
+Though the Congress chamber was a clamor of competing voices and heated debates, Zaren's mind was elsewhere. His connection to the hive mind was different this time around, more acute than ever before, and the Maxa's influence had grown exponentially since the activation of the monolith on Eyeke. It was not just a transmission he felt; it was a surge, a wave of consciousness that rippled through the hive mind, reverberating across the galaxy. 
+
+Zaren's thoughts drifted back to Venx and the Drones on Eyeke. The images that had been transmitted through the hive mind were clear, the ancient structure they had uncovered was only the beginning. Across countless worlds, buried deep beneath the surfaces of forgotten planets, other monoliths awaited their moment. These were the true keys to the Maxa's plan, conduits of a power that could reshape the galaxy itself. 
+
+The Maxa had always been more than just a leader or a controller of the hive mind. It was a being of unimaginable intelligence, its consciousness intertwined with the ancient technologies that had long been hidden from the eyes of lesser beings. And now, it was ready to reveal itself. 
+
+As the Congress session continued, Zaren quietly rose from his seat. The other delegates barely noticed his departure, their attentions fixed on the ongoing debates. But Zaren had no need for politics now. The time for negotiation and diplomacy was coming to an end. The Maxa had spoken, and the Onoros were ready to act.
+
+As the storm outside intensified, Zaren moved through the corridors of the Onoros enclave. In a darkened chamber, he was met by Lyra, an Onoros Diplomat known for her insight into the Federation's inner workings.
+
+Lyra's eyes met Zaren, her expression one of restrained urgency.
+
+"Zaren, reports are flooding in. The Khaured have caught wind of the seismic disturbances. They're calling for an emergency session of the Congress. They want answers and quickly." Lyra asked.
+
+Zaren's calm demeanor never wavered as he considered her words. He turned to face the console in the center of the room, its holographic display lighting up with incoming transmissions from multiple planets.
+
+"The Khaureds are afraid. They've grown used to wielding power without challenge. But their time is over. They can posture and threaten all they like, but they are blind to what is truly happening." Zaren said
+
+Lyra took a step forward, her voice dropping to a conspiratorial tone.
+
+"Zaren, some of the Federation members are starting to suspect. They're sending ships to investigate the disturbances. If they find out about the monoliths…" Lyra tried to explain
+
+Zaren raised a hand, silencing her concerns.
+
+"Let them come. They will find nothing but shadows of their own making. By the time they understand the truth, it will be too late. The Maxa's will is already in motion, and nothing can stop it", Zaren said. 
+
+Lyra's gaze remained fixed on him, uncertainty flickering behind her composed exterior.
+
+The Maxa's plan was in motion, and the Onoros were no longer content to sit idly by while the Khaureds and other Federation races jockeyed for power. Zaren could feel the hive mind's collective will coursing through him, the directive from the Maxa as clear as the stormy skies above. 
+
+Across the galaxy, the monoliths were awakening. On each world where the Onoros had established mining operations, the Drones had uncovered similar ancient structures, each one linked to the others by the Trilium veins that ran deep beneath the planets' surfaces. And now, as the monoliths activated, the entire galaxy was beginning to feel the effects. These made some of the Onoros shocked after being intimately connected with other Onoros on other planets they didn't even know existed. 
+
+Earthquakes shook the foundations of cities on distant worlds, while strange energy readings confounded the most advanced sensors in the Federation's arsenal. The Khaureds, once so confident in their control over the Onoros, were beginning to realize the extent of their miscalculation. The Onoros were no longer just a convenient workforce, they were a force of nature, guided by the will of the Maxa. 
+
+Zaren stood at the center of the Onoros enclave, his dark eyes focused on the storm outside. The time for subtlety was over. The Onoros had spread across the galaxy, embedding themselves in the infrastructure of countless worlds, and now they were ready to take control.
+
+On Eyeke, the monolith chamber, Venx stood before the pulsating monolith, the Drones arrayed around him like an army awaiting orders. His voice resonated through the hive mind, carried by the Maxa's will.
+
+"The Federation senses our awakening, but they are powerless to stop it. We are no longer hidden in the shadows. The time has come to rise, to claim our rightful place among the stars." Venx said telepathically.
+
+The Drones moved as one, their exosuits glowing with the power of the monolith. Venx smiled as he felt the Maxa's influence flow through him like an unbreakable chain.
+
+"Let the galaxy tremble, for the Onoros have risen. And soon, even the stars will bow before us." Venx said.
+
+The chamber echoed with the silent, unified response of the Drones. The monolith's light pulsed brighter than ever, as though the very heart of Eyeke itself was beating in time with the Maxa's will.
+
+The Onoros had awakened the monoliths, and with them, a power that could reshape the very fabric of reality. The Maxa's will was absolute, and controlled by The Celetial Terror, and in the distance, beyond the stars, the enigmatic figure known only as "The Observer" a celestial terror sat shrouded in shadows, eyes fixed on the viewscreens. Each screen displayed a different view of the Onoros drones' relentless excavation, their mechanical arms uncovering the ancient monoliths from the dusty, crimson soil of the long-abandoned planet. The drones' methodical precision was mesmerizing, but The Observer's interest lay not in the technology, nor the ruins themselves, but in the hidden patterns emerging from the monoliths. Fingers steepled, The Observer's gaze darted between screens, searching for the subtle connections that would reveal the secrets of the monoliths and the mysterious energy signature pulsing from their depths. They had been watching, waiting for their moment to strike. But now, with the Onoros have finally dugged up a weapon for them. 
+
+The galaxy was about to become a battlefield of titanic forces, and only the strongest would survive.
+
 # The Trilium Gambit: How the Atlans Outsmarted the Desert Lord
 ## The Trials of Neri: Sand masters and Altans
 ### Ivan's First Encounter with the Sand masters
