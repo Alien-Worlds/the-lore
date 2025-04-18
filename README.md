@@ -3991,9 +3991,7 @@ Ivan felt a surge of hope mixed with apprehension. "What are the Trials of Trust
 "The Trials of Trust test your sincerity and willingness to understand our ways. You will have to live among us, partake in our rituals, and show that you Honor the sands and the spirits of Neri."
 
 # The Triluminati
-
 ## Echoes of the Past
-
 Liora knelt beside a *Trilium node*, the sun catching *its swirling energy signature and painting vibrant patterns* across the nearby rocks. *It pulsed with a rhythmic, gentle radiance, a blue-violet harmony that matched Alta's own hum*. This was Triastra, the invisible energy layer that permeated their world, and Liora traced the complex energy patterns with a reverence that came from years of studying its mysteries.
 
 "Look, Brax," she whispered softly, "isn't it lovely? A flawless balance."
@@ -4045,7 +4043,6 @@ Thalassa, a female Altan whose expertise in Trilium was legendary, stepped forwa
 Liora could feel her pulse racing. The cryptic message, the unsettling vision - the more she thought about them, the more they all seemed too significant to be a coincidence. And then, a memory flickered in mind - *a cloaked figure, not far from the research outpost's entrance, just moments before they entered.* The figure had been obscured by the shadows cast by nearby architectural overhangs, but its posture was rigid, its gaze fixed intently on the building. Cold shivers rushed down her spine for the second time that day. "There's someone... There is someone else who might be interested in this message," she whispered, barely audible.
 
 ## Pandora's Box
-
 Brax struggled to keep up with Liora as they walked down a curving corridor lined with shimmering metallic panels. Here, the bustle of the central atrium gave way to a serene veneration. They arrived at a tiny entryway with a glowing 'X'. This signaled the entrance to Xander's private quarters, an oasis of knowledge inside the busy research outpost.
 
 They knocked on the metallic door, the rhythmic sound echoing through the quiet corridor. The door creaked open, revealing Xander, his aged face etched with a lifetime of wisdom and a twinkle in his bright eyes. His wiry frame was draped in a simple robe.
@@ -4121,6 +4118,3 @@ They knew they had enraged the Cognitor and had to move fast. Liora helped a daz
 Liora, her voice rough with exertion, managed to transmit a garbled message through her communicator: "Cognitor threat... Outpost Alpha under attack... Requesting immediate backup. We've unleashed something terri..." The signal sputtered and died before she could finish.
 
 As the message fizzled out, a wave of exhaustion crashed over them. They collapsed onto the ground, watching the lights of the outpost flicker ominously in the distance. They had escaped, but *the battle had just begun*. The Altan Defense Command had been warned, but would it be enough?
-
- 
-
