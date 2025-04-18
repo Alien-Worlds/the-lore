@@ -3989,3 +3989,132 @@ Ivan swallowed hard, feeling the weight of Dmitry's scrutiny. "We are not here t
 For a moment, silence filled the tent, the weight of Ivan's words hanging in the air. Finally, Dmitry leaned back, contemplating their offer. "Perhaps there is wisdom in your words. But you must prove your commitment. The Trials of Trust will follow. Only through this will we decide the fate of your negotiation."
 Ivan felt a surge of hope mixed with apprehension. "What are the Trials of Trust?"
 "The Trials of Trust test your sincerity and willingness to understand our ways. You will have to live among us, partake in our rituals, and show that you Honor the sands and the spirits of Neri."
+
+# The Triluminati
+## Echoes of the Past
+Liora knelt beside a *Trilium node*, the sun catching *its swirling energy signature and painting vibrant patterns* across the nearby rocks. *It pulsed with a rhythmic, gentle radiance, a blue-violet harmony that matched Alta's own hum*. This was Triastra, the invisible energy layer that permeated their world, and Liora traced the complex energy patterns with a reverence that came from years of studying its mysteries.
+
+"Look, Brax," she whispered softly, "isn't it lovely? A flawless balance."
+
+Brax, a young scholar with inquisitive eyes, stood beside her. Unlike the solid canisters that stored refined Trilium or the imposing rigs that tapped into underground deposits, a node was a natural wonder. In it, the raw energy of Trilium manifested in a stable form, a testament to the fragile equilibrium of nature on Alta.
+
+"It's mesmerizing," Brax replied, his voice filled with awe. "How does it work? Why does it stay stable here?"
+
+Liora chuckled, her eyes reflecting the node's gentle glow. "That's the beauty of Triastra, Brax. The planet's surface and core are always in a state of give and take. Here, certain geological structures operate as a natural filter, concentrating Trilium's chaotic energy into one stable form."
+
+She tilted her head in a bid to hide the signs of anxiety on her face. "Call me a pessimist; I can't help but stay worried about how delicate this balance is. You know, there are tales about a group of scientists who once tried to manipulate Trilium. The consequences were... devastating."
+
+"Yeah, I read about The Great Cataclysm," Brax muttered. "How did they even come up with that piece of fiction? I'm surprised it has somehow managed to live on through the ages and..." 
+
+A strong burst of wind swept across the meadow, interrupting the conversation. The wind conveyed a strange cold; a prickling feeling that sent shivers down both of their spines. Where the Trilium node's gentle glow had previously bathed the ground in lovely light, there lay a little, elaborately carved stone tablet unlike anything they'd seen before. Its surface, smooth and cool, pulsed with a faint, unsettling light, a stark contrast to the natural sparkle of the node.
+
+Liora gasped and instinctively reached out to touch the tablet. The moment her fingers brushed the smooth stone, a wave of dizziness washed over her. For a fleeting moment, the world blurred, replaced by a chaotic kaleidoscope of swirling colors and fragmented pictures. She could feel a presence reaching out from the very core of the stone, sending a jolt of pain through her.
+
+"Liora\!" Brax's voice, laced with concern, snapped her back to reality.
+
+The markings on the tablet appeared to fade as she tore her fingers away, leaving only a faint afterglow in their wake. Liora felt a chilly sense of dread settle in her gut. Something was wrong. She could feel a disquieting silence resonating through the atmosphere. But how? Why?
+
+"What is it?" Brax knelt next to her and cautiously hovered his fingers over the tablet.
+
+Liora shook her head, Brax could hear the tiny tremble in her voice. "I'm not sure. But when I touched it I felt something, though. I mean, I saw things. It was like someone was trying to pass across a message. I can't really describe what I saw but it was dreadful"
+
+They silently stared at the tablet. Liora could not resist the challenge of the cryptic message it contained. Finally, after managing to find her composure, she spoke up, "We need to take this to Xander," her voice was firm. "He's the only one who might be able to decipher this... and understand what it means."
+
+Brax nodded, his youthful face etched with concern. "Xander it is then. But first, let's get out of here. That experience... it looked like it took a toll on you."
+
+Liora offered a weak smile. "I'm alright, Brax. Just a bit shaken. I have been through worse."
+
+The gentle glow of the Trilium node appeared to wane as they moved away from it, as if echoing the disharmony that had descended upon their world. The walk back to their research outpost was filled with a tense silence. Liora couldn't shake the fragmented images from her vision - swirling colors and a sense of overwhelming power. It felt like a glimpse into the very heart of Triastra.
+
+"The signs on this tablet look somewhat similar to what I've seen a couple of times in books concerning the Triluminati. Do you think... Do you think they have something to do... with this?" Brax finally asked, breaking the silence.
+
+Liora hesitated. *The Triluminati was a legend, a cautionary tale passed down through generations to deter those who tried to directly manipulate Trilium*. Led by the enigmatic Cognitor, they were a group of Altan scientists who had developed an insatiable thirst for knowledge and carried out experiments that led to the Great Cataclysm, a time of upheaval and devastation that nearly tore Alta apart. Some say the Cognitor was driven mad by his obsession with Trilium, transforming into something monstrous.
+
+"It's a possibility," Liora admitted. Brax was right. The symbols on the tablet, though faint, held a strange familiarity. A nagging feeling in the back of her mind urged caution. "But why now? And why leave the tablet near a Trilium node?"
+
+They reached the research outpost, a rather modest structure that stood in stark contrast to the towering, organic architecture that dominated most Altan cities. Those massive constructions, with their gravity-defying curves and elaborate workmanship, appeared to sprout from the ground itself. Here, functionality met elegance in a way that felt innately Altan - vast, open spaces hummed with activity, powered by the refined energy of nearby Trilium reactors.
+
+The outpost's central atrium that was buzzing with activity immediately began to quiet as Liora and Brax stepped in. Everyone could see the worried look on Liora's face and the strange-looking stone she was holding. They didn't even have to say a word. Liora knew they needed answers. So, she narrated the morning's events: finding the tablet near a Trilium node, the strange chill, and her unsettling vision. As she revealed the inscription on the tablet, a tensed feeling filled the room.
+
+Thalassa, a female Altan whose expertise in Trilium was legendary, stepped forward and observed the symbols keenly.
+
+"These symbols," she said, her voice grave as she pointed at the tablet "were indeed created by the Triluminati. I cannot decipher it. But, I am sure Xander can or at least he can help us understand its significance."
+
+Liora could feel her pulse racing. The cryptic message, the unsettling vision - the more she thought about them, the more they all seemed too significant to be a coincidence. And then, a memory flickered in mind - *a cloaked figure, not far from the research outpost's entrance, just moments before they entered.* The figure had been obscured by the shadows cast by nearby architectural overhangs, but its posture was rigid, its gaze fixed intently on the building. Cold shivers rushed down her spine for the second time that day. "There's someone... There is someone else who might be interested in this message," she whispered, barely audible.
+
+## Pandora's Box
+Brax struggled to keep up with Liora as they walked down a curving corridor lined with shimmering metallic panels. Here, the bustle of the central atrium gave way to a serene veneration. They arrived at a tiny entryway with a glowing 'X'. This signaled the entrance to Xander's private quarters, an oasis of knowledge inside the busy research outpost.
+
+They knocked on the metallic door, the rhythmic sound echoing through the quiet corridor. The door creaked open, revealing Xander, his aged face etched with a lifetime of wisdom and a twinkle in his bright eyes. His wiry frame was draped in a simple robe.
+
+ "Liora\! Brax?" he greeted them with a warm smile, his voice a gentle rasp. "Come in, come in. What brings you two to my humble abode?"
+
+Liora and Brax stepped inside, the familiar scent of aged parchment and exotic flora wafting through the air. The interior was a haven for knowledge, walls lined with shelves overflowing with ancient texts and scrolls in languages long forgotten. A crackling fire created shifting shadows over the walls, showcasing the beautiful carvings on the furnishings. The chamber itself was an organic extension of the greater building, with gently curving walls and a high, vaulted ceiling that allowed a view of the starry night sky via a glass panel.
+
+Liora spoke with a slight haste as she described their finding, the writing on the tablet, and the disturbing sequence of events that transpired. She spoke of the dizzying swirl of energy, the image that had overtaken her senses, and the overpowering feeling of dread. As he listened, Xander's smile vanished and was replaced with a deep wrinkle.
+
+Liora took a deep breath, then continued, "We tried to bring the tablet here ourselves, but..." she hesitated, glancing nervously at Xander. "We felt we were being watched. So, we activated the *Secure Remote Transfer Protocol*."
+
+Xander's expression showed a brief moment of surprise but it quickly faded away. There was a small, elaborately carved pedestal next to the flickering fire, and he motioned toward it. Its surface was pulsating weak blue light. This was the receiving point for the *SRTP*. The blue light on the pedestal pulsed faster, then with a soft click, dimmed. Xander leaned closer, his frail physique hovering over the surface of the tablet. There appeared to be an inner light emanating from the writing, with the symbols gently moving and rearranging one another.
+
+"The Triluminati scripted this, alright," Xander murmured, his voice low and raspy. "But it's fragmented, incomplete."
+
+"Can you decipher it?" Brax asked
+
+Xander shook his head slowly. "It requires a deeper understanding of the Triluminati philosophy, their twisted logic. From what I can glean... it's a warning. A desperate plea from the brink of disaster."
+
+Fear clutched Liora's throat and she forced a hard swallow. "Disaster? What kind of disaster?"
+
+Xander sighed, his eyes darted to the crackling fire as if seeking answers in the dancing flames. "The inscription mentions a distortion, a tear in the fabric of Alta itself. It speaks of unleashing an unimaginable power, a power that could consume everything."
+
+Liora's breath hitched. The unsettling energy she'd felt from the tablet, the chaos in her vision - it all clicked into place. This wasn't just a message; it was a potential harbinger of doom.
+
+"Hold on, the Triluminati are no longer with us, are they?" asked Brax, his voice laced with disbelief. "I mean, I never even thought they were real."
+
+Xander's expression hardened. "The Cognitor, their leader, was imprisoned, yes. Banished to a pocket dimension sealed by the Trilium Containment Field, a powerful technology harnessing the core of Trilium's energy. But the Triluminati were more than just one man. There were followers, disciples. Some believe they scattered across Alta, lying dormant, waiting for a sign. This could be that sign. Perhaps Triastra itself is reacting to their return, trying to warn us."
+
+A cold dread filled the room, thick and suffocating. "I will try to decipher the inscription," Xander continued, his voice firm. "Maybe we can discover and thwart their plans. End it before they even get a chance to begin"
+
+Brax looked at him with a searching gaze. "Deciphering this message could be dangerous, you know"
+
+"Yes we know, but not as dangerous as letting the Triluminati rewrite history" Liora chimed in. "Look, we don't have a choice. This... this could be the key to stopping them before it's too late."
+
+Xander nodded slowly, "Very well then"
+
+The air cracked with anxious expectation as Brax and Liora watched Xander move a bit closer to the tablet. The inscription glowed faintly, pulsing with an otherworldly light. Xander began a series of slow, deliberate movements. He reached into a hidden pocket of his robe and withdrew a small vial filled with a shimmering liquid. The liquid pulsed with a soft, green luminescence. He explained in a hushed voice that it was an ancient Altan concoction, said to enhance the user's *connection to Triastra's subtle energies*.
+
+With a steady hand, Xander dripped a single pearl of the liquid onto the center of the inscription. The room shimmered, and the inscription flared to life, the symbols danced and rearranged themselves like a swarm of fireflies. Xander chanted in a low, rhythmic tongue, his voice echoing through the chamber. It was a language long dead, known only to a select few scholars like himself. Brax's eyes darted around nervously as the room became filled with otherworldly cadence.
+
+Liora felt a strange tingling sensation course through her body, a feeling of being on the precipice of a great revelation.
+
+As Xander chanted, the air grew thick with energy. The inscription on the tablet pulsed in sync with his words, resonating with a power both exhilarating and terrifying.
+
+Suddenly, the chanting reached a crescendo. Xander raised his hand, palm outstretched towards the tablet. A blinding white light erupted from the inscription, engulfing the room. Liora and Brax squeezed their eyes shut, bracing for the impact.
+
+When the light subsided, they found themselves staring at the tablet, the inscription now a brilliant purple, the symbols seemingly frozen in place. Xander stood there, panting slightly, his face pale but a triumphant glint in his eyes.
+
+ "It is done," he rasped, his voice hoarse. "The message... it is revealed and..." Before Xander could lay claim to victory, the air shimmered again. A faint dark outline materialized in the corner of the room, growing in intensity until it revealed the unmistakable form of *the Cognitor* - *tall, gaunt, and crackling with a dark energy\!*
+
+The horrifying truth dawned on Xander. *The inscription wasn't just a message; it was a catalyst, igniting a surge of raw Triastra energy that breached the dimensional prison containing the Cognitor*. By deciphering it, they had inadvertently released the very evil they sought to understand, drawing it through a newly formed portal to this exact location.
+
+Liora let forth a savage scream as the Cognitor formed. Its figure, shrouded in a shimmering dark haze, appeared to warp the air around it. Brax, acting instinctively, reached for a Trilium-powered staff in the corner of the room, the energy sizzling softly as he activated it. Xander, his first disbelief giving way to deadly determination, smashed his fist on the ornately carved pedestal on which the tablet lay. A concealed chamber opened, displaying a collection of vials filled with whirling liquids of various hues.
+
+"These are emergency protocols," he said, his voice hoarse and urgent. "We can disrupt its invisibility field, but it's temporary\!. We need to send a message across to the Altan Defense Command, warn them of what we've set loose\!"
+
+Liora's hands trembled as she searched for her own communicator. The little gadget connected to her forearm sprang to life, with a red warning light throbbing ominously. Static flooded the air as she attempted to make a connection. 
+
+The Cognitor, its shape flashing and altering, approached with unnatural ease. Just as Liora was able to connect to a faint signal, the Cognitor charged. A bolt of crackling dark energy burst from its outstretched palm and smashed into Xander. He collapsed to the ground and screamed in anguish as Liora rushed to assist him.
+
+Brax felt a wave of rage that temporarily overpowered his fear. With a war cry, he lifted the staff and released a flood of blue Trilium-infused energy. The blast struck the Cognitor head-on, momentarily disrupting its invisibility field. Seizing the opportunity, he charged forward, his staff gleaming with a dazzling brightness.
+
+The ensuing battle was a blur of crackling lights and desperate attacks. Brax, fueled by adrenaline and a desperate need to protect Liora and Xander, fought with a ferocity he never knew he possessed. Yet, the Cognitor seemed impervious to the attack, its form flickering and reforming with each strike.
+
+"Brax\! Move\! Quickly" Liora yelled as she smashed a vial on the floor. A thick, purple smoke erupted, engulfing the room. The Cognitor screeched, its form momentarily solidifying and recoiling from the noxious fumes.
+
+"It's a temporary dampener\!" Xander wheezed, his voice hoarse from the attack. "We have to get out of here\! Warn the Defense Command\!" 
+
+They knew they had enraged the Cognitor and had to move fast. Liora helped a dazed Xander to his feet, and together they stumbled towards the exit. Brax, casting one final desperate glance at the dissipating purple smoke, followed close behind. They burst out of Xander's research outpost, the cool night air stinging their lungs.
+
+Liora, her voice rough with exertion, managed to transmit a garbled message through her communicator: "Cognitor threat... Outpost Alpha under attack... Requesting immediate backup. We've unleashed something terri..." The signal sputtered and died before she could finish.
+
+As the message fizzled out, a wave of exhaustion crashed over them. They collapsed onto the ground, watching the lights of the outpost flicker ominously in the distance. They had escaped, but *the battle had just begun*. The Altan Defense Command had been warned, but would it be enough?
