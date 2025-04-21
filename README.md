@@ -3558,8 +3558,6 @@ Lt. Mitchell nodded, her expression grim. "We need to be better prepared. This i
 
 ### Peace offering and dialogue
 
-### First Encounter and Misunderstanding
-
 The first encounter with the Hodlodytes had been disastrous, leaving the human crew on edge. Determined to avoid another violent confrontation, the crew of the Odyssey prepared for a second attempt to communicate. Dr. Emily Carter, Lt. Sarah Mitchell, and Commander Alex Reyes meticulously planned their approach, hoping to bridge the gap between their two species.
 
 As they approached the mining site, they could sense the tension in the air. The crew moved cautiously, carrying gifts of crystals and precious jewels from Earth, hoping to symbolize their peaceful intentions. When they arrived, Zarnak and Lyra, the leaders of the Hodlodytes, emerged from the shadows.
