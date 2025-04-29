@@ -4268,9 +4268,9 @@ Shira had a  clear purpose, but the path was fraught with dilemmas. She took a d
 The negotiations with the Elgem would be a critical juncture, one that could determine the fate of Naron and its inhabitants, and her actions in the coming days would be pivotal, not just for the Red Lotus but for the Triarchs' grand design. There was indeed much to discuss with Kalon. *We have to rendezvous as soon as possible...*
 
 
-##**Galactic Accord**
+## **Galactic Accord**
 
-###**Backstory**
+### **Backstory**
 
 **Orien Prime** is a central and neutral planet within a unique, strategically located system called the Orien System within the Federation.
 
@@ -4288,7 +4288,7 @@ The **Orien Accords** are a foundational agreement within the Federation, establ
 
 ---
 
-###**Synopsis**
+### **Synopsis**
 
 The Federation Congress always convened on Orien Prime, a luminous world at the center of a neutral system. Chosen generations ago by the Federation's first member races, Orien Prime stood as a testament to an ambitious dream of interstellar unity. Early leaders from races like the Altans, Khaured, and Elgem, each evolved from precursor species, had signed the ***Orien Accords***, setting down principles of equality, resource sharing, and respect for autonomy to prevent conflicts over Trilium and territorial control. Though races like the Lopati, Humans, and Onoros had joined the Federation more recently, they inherited the ideals and responsibilities established by the Accords.
 
@@ -4302,7 +4302,7 @@ As the representatives took their places beneath the shimmering dome, the ideals
 
 ---
 
-###**Characters**
+### **Characters**
 
 * **Ambassador Zarla Voth**  
     
