@@ -4120,7 +4120,6 @@ Liora, her voice rough with exertion, managed to transmit a garbled message thro
 As the message fizzled out, a wave of exhaustion crashed over them. They collapsed onto the ground, watching the lights of the outpost flicker ominously in the distance. They had escaped, but *the battle had just begun*. The Altan Defense Command had been warned, but would it be enough?
 
 # Across the Stars by @exoplanetocean
-
 Unlike the great and good of his generation, Larkin Scheffler showed little interest in exploring the cosmos. It was as though his top priority was to become king of the world - only then might he consider turning his attention to the stars.
 
 A prodigiously talented youth who excelled in mathematics, linguistics and chemistry, Scheffler was destined for greatness in whatever field he chose. Ironically, despite his razor-sharp intellect, he did not opt to make his name in academia, science or literature. Instead, he embraced his entrepreneurial spirit and began, in his teenage years, to create various profit-oriented businesses, from real estate companies and tech startups to construction contractors and recruitment agencies. There was nothing, it seemed, that he could not do; and because of his aptitude for languages, his various enterprises quickly spread internationally. By the time of his twenty-third birthday, he was among the fifty richest people on Earth.
