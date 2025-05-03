@@ -4268,9 +4268,9 @@ Shira had a  clear purpose, but the path was fraught with dilemmas. She took a d
 The negotiations with the Elgem would be a critical juncture, one that could determine the fate of Naron and its inhabitants, and her actions in the coming days would be pivotal, not just for the Red Lotus but for the Triarchs' grand design. There was indeed much to discuss with Kalon. *We have to rendezvous as soon as possible...*
 
 
-## **Galactic Accord**
+# **Galactic Accord**
 
-### **Backstory**
+## **Backstory**
 
 **Orien Prime** is a central and neutral planet within a unique, strategically located system called the Orien System within the Federation.
 
