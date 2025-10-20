@@ -4495,3 +4495,715 @@ Over the next decade, Scheffler consolidated his power on Earth and created a ra
 Eventually, rumours were all people had to go on: Scheffler's many-tentacled businesses continued to flourish but the man himself withdrew completely from public view, conducting his affairs through a network of trusted intermediaries. As for the mining arm of his empire, Exoplanet Exploration, it grew rapidly to become one of the ten largest Megacorps in existence - this despite operating independently of the Federation Council, which some deemed an affront to the latter's imperium. Several influential councillors concurred, contending that Scheffler was thumbing his nose at them in his quest for a Trilium monopoly.
 
 Whatever his motivations, Scheffler remains an enigma for many, a mysterious outsider in an era of never-ending power plays and unstable rapprochements, and a reminder to alien races that humans - for all their inherent weaknesses - merit due respect.
+
+# The KavTech Record
+## KavTech Origins and Founding Myths
+
+Among the Federation's web of powerful corporations, few create the same mix of unease and fascination as KavTech Enterprises. Some call it the torch of progress, lighting the way to discoveries no one else dared to pursue. Others whisper of a house of horrors, where the price of knowledge is measured in flesh and silence.
+
+The paradox is intentional.
+
+KavTech builds its strength through secrecy, feeding the image of an institution that is both vital and untouchable. Its work has helped shape the Federation's survival, yet its methods are wrapped in rumor…and myth. To study KavTech is to wander through layers of shadows.
+
+The enterprise did not rise through centuries of trade wars and contracts like its rivals.
+
+A little more than a century ago, it appeared already whole.
+
+The archives hold one simple note: KavTech received charter rights, with little scrutiny, to conduct research on Kavian, a world of methane swamps, hidden aquifers, and secretive Reptiloid tribes. Yet those records hold no names of founders, no registries, no backers. The entry exists without roots, as if KavTech was placed into the system by unseen hands.
+
+Scholars later named this moment the Silent Emergence. From then on, KavTech grew at a pace that stunned its rivals, building laboratories and orbital platforms without speeches or announcements.
+
+Decades later, the Federation attempted audits. By then KavTech had grown too vast to halt, and regulation became mere performance.
+
+The true leaders of KavTech have never been seen. Executives hide behind aliases, their voices blurred by mechanical tones. Even those in the highest divisions admit they have never met a founder face to face. Orders arrive like scripture, carried in encrypted signs that no one has ever been able to forge.
+
+The mystery leaves only speculation:
+
+Were the founders exiled scientists who traded morality for knowledge?
+
+Are they augmented beings who left their original forms behind?
+
+Rivals have poured fortunes into sabotage and infiltration, yet the veil has never been pierced. But, though the founders of KavTech remain unknown, KavTech is represented by its High Curators, known as The Ordained.
+
+### Triactor Mastery 
+
+Raw Trilium is chaos.
+
+Some call it cursed fire.
+
+The Altans, who studied it long before the Federation, learned a harsher truth: Trilium does more than burn \- it rewrites. Left unshielded, cells unravel, organs liquefy, and thought collapses into mutation. Exposure births *Abominations.*
+
+But the Altans also recognized Trilium's potential. So, from the start, Federation policy revolved around the Altan doctrine of discipline: Trilium must be mastered, or it would master them.
+
+Under Altan stewardship, the Federation's first great achievement was the creation of Triactor systems \- a field of techniques that make raw Trilium safe to mine, move, refine, and apply across engines, instruments, and, most dangerously, flesh.
+
+Within that broader science, KavTech perfected a sentient-directed stack:
+
+\* Regulator Core: tempers violent surges into a measured flow for the body, and sometimes machines.
+
+\* Genetic Interface Units (GIUs): translate that stabilized energy into signals biology can tolerate.
+
+\* Augmentation Control Modules (ACMs): sculpt outcomes \- denser bone, quicker reflex arcs, heightened cognition.
+
+\* Neural Sync Arrays: bind graft and host so the altered body answers intention as naturally as breath.
+
+### The Black Temple Myth
+
+On Kavian, where KavTech first began, the Reptiloid tribes keep an old tale. They speak of a night when the swamps burned with unnatural fire and a tower of black metal rose from the mire. No scaffolds. No workers. Only a spire of obsidian climbing into the sky, polished so smooth it looked beyond stone or steel.
+
+From that tower stepped figures wrapped in robes. They offered the tribes a bargain:
+
+*Send us your youth.*
+
+*Receive food that never decays, metals that heal, and tools that breathe...*
+
+The tribes agreed, and their children were never seen again. In their place returned warriors with blue eyes and scales fused with wire.
+
+To the Reptiloids, the Temples seemed to rise in a single night. One moment there was only swamp and fog, the next, towers of black alloy loomed above the reeds, every inch of them crawling with strange glyphs. They believed the earth itself had given birth to them. But there were other explanations.
+
+Years later, when the Federation sent its auditors to pick through the ruins, they found threads of alloy buried deep in the muck, like veins waiting to be opened. The evidence was clear enough: KavTech had prepared the ground. They had been there first.
+
+Beneath the methane-choked water, a hidden lattice had been waiting all along. It was not inert metal, but alloy threaded with raw Trilium, kept dormant by stabilizer rails and containment seals.
+
+For months the lattice slumbered, drinking trace methane and storing potential.
+
+Then the first ignition swept through the swamp like a command. The crystals awoke in sequence. One chamber ignited the next and each vein of alloy stiffened as the energy ran through it. What the tribes saw as a sudden miracle was in truth a cascade of reactions: black walls clicked into place, glyphs glowed as the lattice locked, and a temple rose whole in a single night
+
+The tribes called it a miracle. The Federation called it engineering. In truth, the line between the two blurred until neither word was quite right. What the tribes saw was no less holy for being manufactured, and what the auditors measured was no less perfect for seeming divine.
+
+KavTech never rushed to correct the story. The myth suited them better than the truth.
+
+## KavTech Philosophy, Faith and Structure
+
+The core of KavTech's belief is pressed into a triad called the *Triune Axiom*. Every new member learns by heart on the first night of their induction. The words sound plain when heard in a corridor. They take on new weight when spoken in an oscillating chamber with the lights dimmed and the Regulator Cores vibrating inside the walls.
+
+*All life is data.*
+
+*All flesh is code.*
+
+*All death is inefficiency.*
+
+From these lines rises a structure. "Life is data" turns being into pattern and survival into a puzzle of engineering. "Flesh is code" makes the body into written syntax that can be altered, compiled, and used again. "Death is inefficiency" frames the end of life as wasted process, a mistake to be fixed until it vanishes.
+
+These words excuse every lab, every vault, every secret payment sent to a frontier town that has lost its children.
+
+The Axiom does more than shape speech. It defines calendars, pay, rewards and even punishments. It even explains why KavTech halls curve according to spirals of mathematics, why their surgical rooms are bathed in green light that steadies the heart, and why every desk carries a recess where a worker can press a thumb and pause for a moment.
+
+Belief in KavTech arrives through structures, routines, and the constant assurance that the world can be rewritten if one is ready to cut deeply enough.
+
+### The Ordained and the Chain of Clarity
+
+The founders of Kavtech stay in the shadows. Nobody sees them. Nobody ever will.
+
+But the Ordained \- well, that's different. You might catch sight of one if you're unlucky or blessed, though never by chance.
+
+They move like tall shadows, slim and graceful, wrapped in coats that shimmer as if the night sky itself is stitched into the fabric. Fiber optics thread with a slow current across their backs and sleeve. Their bodies are not just flesh anymore; steel and bone work together, locked tight by hidden frames that keep them upright, straight as iron rods.
+
+And then there are the masks. Porcelain. White. Perfect. But never still. Black fractal lines creep across the surface in patterns no eye can follow. Look too long and you start to think the shapes are speaking to you, telling you something in a language older than words.
+
+The masks hide every human feature, yet somehow, nothing is hidden. Behind the ceramic face, small lenses shift and focus, adjusting with insect precision. They study you \\- your heartbeat, the twitch of your eyelid, the catch in your throat, even the tremor in your fingers. Every detail is measured.
+
+To meet an Ordained is to stand in front of a mirror that reflects your secrets.
+
+Their voices carry layered tones, the result of a graft in the throat that steadies pitch to calm entire rooms. When one of the Ordained speaks, arguments end and schedules return. Workers call it the *hush*.
+
+Each Ordained bears a sigil, a shifting polygon that never reveals the same corners twice when seen from another angle. That mark grants authority to claim any KavTech asset. Refusal is possible in theory. It has never occurred.
+
+The Ordained are not leaders in the corporate sense because they do not manage accounts or dictate budgets. They are custodians of creed. When an Ordained enters a chamber, the work halts and resumes only when they lift their hand.
+
+No one has seen their faces. Some speculate they are Altan intellects who abandoned flesh for lattice. Maybe. Within KavTech, speculation is irrelevant. The mask is the face, and the mask is law.
+
+At the center of an Ordained's chest glows a compact Regulator Core, adapted from Triactor Jack architecture, that works as both organ and relic. Witnesses describe the faint drone it gives off as unsettling, a sensation that lingers in the bones.
+
+Beneath the Ordained stretches the Chain of Clarity, the guiding structure of devotion and management inside the corporation:
+
+\* Chapter Masters \- directors of stations, ships, or planetary institutes; set local rites and research quotas.
+
+\* Order Primes \- leaders of Orders focused on splicing, grafting, frequency studies, or xenobiology.
+
+\* Axiom Wardens \- manage cross-field teams and ensure ritual standards.
+
+\* Archivists \- keepers of data and memory vaults; apply amnesia protocols.
+
+\* Myrmidon Marshals \- command forces for security, capture, and retrieval.
+
+\* Principals \- senior scientists and engineers; act as mentors and judges.
+
+\* Initiates \- probationary staff cleared for laboratory work; subject to oath reviews.
+
+\* Supplicants \- new arrivals kept in orientation halls until cleared, many never rise.
+
+Every step upward (promotion) requires confession, written in one's own hand. Advancement is petitionary: a candidate submits a Clarity Dossier, a ledger of their own mistakes, their own harms inflicted, their own miscalculations and what they cost. Numbers of lives extended are meaningless without numbers of lives damaged.
+
+This is the difference between KavTech and others. It is not failure that damns. It is lying about failure. For in their creed, concealment is worse than cruelty.
+
+### The Orders 
+
+KavTech divides practice into Orders, each both guild and congregation, each with its own vestments and mandates. An Order's success is measured in yields and in citations to the Axiom within the daily logs.
+
+*Order of Patternmakers*
+
+\* Task: Curate and reshape the living genome; merge stranger lineages into useful form.
+
+\* Vestment: Sleeveless charcoal tunic, forearms bare for ritual banding, shoulder clasp shaped as a helix knot.
+
+\* Seal: A spiral that opens into a three by three lattice.
+
+*Order of Fusers*
+
+\* Task: Join tissue and alloy, grow exoskeletons that bend like cartilage, train metals to flex.
+
+\* Vestment: Aprons stitched with micro mesh, bracers that hold tools magnetically in midair.
+
+\* Seal: Two intersecting crescents enclosing a central lumen.
+
+*Order of Harmnex*
+
+\* Task: Track energy paths through Triactor Arrays, Regulator Cores, and Sync hardware, mapping the flow of Trilium into cognition, healing, and command; certify safe exposure windows for labs and wards.
+
+\* Vestment: Long coat woven with rhythmic light, hood lined with absorbent cloth to quiet the breath.
+
+\* Seal: A ring split by three radiants.
+
+*Order of Archivists*
+
+\* Task: Guard memory in the form of data, tissue stores, and mind casts, and execute forgetting when policy demands.
+
+\* Vestment: Fabric that absorbs light, sleeves folding into gloves, mask lenses darkened to smoke gray.
+
+\* Seal: An open eye with its shutter half lowered.
+
+*Order of Myrmidons*
+
+\* Task: Keep security, carry out retrieval, and impose silence; escort the Ordained.
+
+\* Vestment: Armor that flexes without noise, helm crest glowing faint red in darkness so peers can recognize it..
+
+\* Seal: A shield of three edges.
+
+*Order of Provisioners*
+
+\* Charge: Manage logistics, offer bribes, dispense alms, create cover stories, and make hungry places grateful while calming loud ones.
+
+\* Vestment: Plain coats with deep pockets.
+
+\* Seal: Palm upturned with three coins suspended above it.
+
+Each Order speaks its Work Psalm at the start of the shift. Lines differ by craft, yet every psalm closes with the same cadence: "Through sacrifice, clarity. Through clarity, dominion."
+
+### Calendrics: The Liturgical Workday
+
+KavTech time moves on work-liturgies rather than weekdays. Named cycles tie the body to the task.
+
+The Harmonic Cycle (H Cycle)
+
+For two hours the chambers carry a low throb at tuned bands and workspaces run focus waves (low-level light/pressure patterns shown to steady hand motion and reduce tremor). During H Cycle, doors move with slower grace, announcements shorten, and lifts pause midway.
+
+The Iteration Watches
+
+Four watches marked by meals: design, test, measure, refactor. Each one closes with a small rite called The Fold. In The Fold, failure is written first, success second.
+
+The Null Vigil
+
+One day each week the decks go dark in a planned blackout called *Night of Null*. Research halts, monitors sink to a dim glow, and workers sit in the halls listening to the station "breathe". The Vigil exists to remind them that everything runs because Trillium obeys, and that it must be kept obedient.
+
+Some meditate. Many take a nap. All rise with calmer hands.
+
+Quarter of Accounting.
+
+At the end of each quarter, the Axiom Wardens speaks the "\*record of harm\*". Injuries, subject losses, and disturbances are named. Nothing is hidden and nothing is excused.
+
+Calendrics tie into pay. *Clarity Points* gather for any work that raises yield, lowers loss, or quiets unrest. Points buy privilege: private cabin time, larger recall from Archivists and choice of elective grafts.
+
+### Rites of Entry, Oath, and Advancement
+
+The supplicants (new arrivals) come in on shuttles, their viewports clouded so they can't see where they're headed.
+
+By the time the doors slide open, they're blinking awake in a room that smells like antiseptic and orange peel. The scent is everywhere, soaked into the vents and the floor polish, meant to stick in the brain so that whenever they catch it again, they'll remember the exact moment their journey with KavTech began.
+
+They're handed plain clothes, a tablet that already knows their name \- letters copied from records so old they don't even recall signing them \- and a cup of broth. The broth is warm, a little salty, and laced with sedative.
+
+Each supplicant speaks a number. Could be a birthday, could be a case file. The Archivists take that number and braid it into a new ID, so that even if memories slide later on, a thread of self still whispers in the dark: *you are you, don't forget it*.
+
+The last rite happens beneath a ring that glows soft azure, a halo hanging in the quiet. One by one, the supplicants speak the Triune Axiom, press their palms to the arch's node, and sign the Covenant of Harrow.
+
+The Covenant is a promise. It tells them exactly what will be taken: sleep, friendships, sometimes even their own sanity.
+
+Then comes the wax sigil, heated so it's almost too warm to touch. Each hand pushes down, thumb first and the heat locks the moment in place.
+
+Rank in KavTech comes with grafts… not ribbons. A Principal carries a forearm band of metal that stiffens in lifting and loosens in comfort. Axiom Warden receives a laryngeal insert that keeps tone even when fear rises. An Order Prime receives a subdermal spine that tracks posture and corrects with pulses. These grafts are claimed by choice.
+
+Decline is permitted, though it is very rare.
+
+### KavTech Laboratories
+
+Doors into KavTech operating theaters carry a ridge that heels brush as they enter. Staff step, feel the ridge, and their bodies remember to move with care. The ridge trains better than posters ever could.
+
+Inside, the rooms curve. Not square corners but soft arcs, shaped so echoes don't come back too sharp. Voices travel different here. When the hum of the machines rises, words don't have to carry as far. Teams talk less. They nod. They understand
+
+The Order of Fusers keeps slab benches polished to a soft silver. Before any procedure, the slab is touched with a sweep of sterile oil to remind the hands that what lies there is a guest, not a thing. Guests may be tissue, alloy, or a living subject bound by consent the corporation purchased with script and careful lies.
+
+Failed prototypes are rarely destroyed. Some are sealed in glass (Reliquaries) for a time, labeled in neat script, and placed in a corridor that the staff cross on the way to food.
+
+One sentence is etched above doors in many KavTech laboratories: "Cut close, never carve away the handle." It is called the Doctrine of Edges.
+
+It simply embodies the belief that every task has a stopping point and every cut must leave something to hold. Archivists keep a thread in memory so nothing falls apart when called back. Patternmakers leave bits of code untouched so the body still knows itself. Myrmidons keep a door slightly open in case running is smarter than fighting.
+
+Restraint is taught as a way to get things done.
+
+If the cut takes the handle away, there is no chance to pull back, and waste takes over.
+
+### Blessed Fire
+
+When a project goes bad, so bad there's no saving it, they don't just pack it up. They burn it.
+
+Cores are isolated and conduits are vented. The chamber switches to external power while controlled incineration systems consume all organic and synthetic materials, leaving only the bare structural framework
+
+The fire doesn't roar or stink the way you'd expect. No acrid smoke, no sharp citrus bite from the chemicals. Just a steady heat that smells of nothing at all, like opening the door to a clean, empty house.
+
+When the flames die, what's left is silence and a bare room, the kind of silence that feels thick enough to touch.
+
+The fire is a kind of reset button, a way to wipe the slate clean. The flames eat up the failures, the bad choices, the ideas that never quite worked, and leave behind only space. Space for someone else's hands, someone else's try, maybe the one that finally gets it right.
+
+### The Language of Sigils
+
+KavTech communicates inside itself through sigils that never render the same way twice. You could stare at one sigil for a full minute and swear it changed three times: a triangle that looked solid until a mirror turned it into a square, a circle that stretched into an oval the second you blinked, a pattern of lines that seemed to eat its own empty spaces.
+
+Nobody sees the same thing twice. That's the point.
+
+The higher your rank, the more you are allowed to see. A novice might only catch a flicker \- something that whispered "wait" or "hurry." But if you are trained enough, and you have the patience to hold your gaze, the lines would arrange themselves into a word, plain as a voice in your ear: deliver. delay. disrupt. delete.
+
+New recruits are taught a chant, a smart trick to keep their eyes steady. Edge, arc, void, join; edge, arc, void, join. The Axiom Warden makes them repeat it until it gets under their skin. The first week, they mutter it in their bunks until sleep claims them. By the second week, they aren't even aware they are saying it. It becomes like breathing.
+
+When the day's work is finished, dossiers are sealed with a blot of warm red wax pressed over the sigil. It gives off a smell...sharp and citrusy. And, yes, it reminds every one of their first day in orientation.
+
+### Heresy, Audit, and the Ethics Theatrical
+
+The Federation does its audits with clipboards and questions. KavTech prefers a show. They call them Ethics Theatricals, and the name fits.
+
+Compliance is performed inside a corridor scrubbed to an almost glittering perfection. Plants appear for the day. A mural of a sunrise that never happened blooms on the corridor walls. The inspectors come in their dark coats, and follow a guided path through the corridor. They nod at the rehearsed explanations. They want to believe that science is hard, that somebody has to shoulder the heavy work, and KavTech is just the place to do it.
+
+Still, behind the curtain, another power exists. The Quorum of Declination, they are called. A panel able to stop a project with a single word: \*Withdrawn\\!\* No alarms ring when it happens. The chamber lights dim to gray. Tools go back into their boxes. The slab is draped like a body at a funeral. Scientists file out quietly, heads down. Then the Archivists come to finish the job and seal everything into memory and silence.
+
+KavTech has its own idea of heresy, too. It isn't speaking against the enterprise's line. It's worse. Heresy to KavTech is turning an experiment into a show, laughing when pain is involved, finding pleasure in what should have been pure.
+
+The punishment for that isn't prison, but something colder. The punishment is exile. Exile to a listening post in the dark where ship transponder pings arrive and the meals never taste like anything.
+
+### Counter-Intelligence, Deception, and Quiet Wars
+
+Power attracts attention. Intrusion follows close behind, and KavTech learnt long ago to dress defense as culture.
+
+Each KavTech vessel carries its *cathedral*. Visitors step inside and see consoles winking and benches polished to chrome. Guides speak in quiet tones, auditors take notes, and oftentimes everyone leaves thinking they have glimpsed the core. They haven't.
+
+The real core waits three decks down\!
+
+The air outside KavTech stations carries rumor the way wind carries seeds. Provisioners plant small, contradictory rumors that circulate in outer settlements. Half-truths, contradictions and whispers. Rivals buy them, spread them and follow them. KavTech watches the current of lies like a map, tracing which guild listens, which syndicate swallows bait. Networks reveal themselves without a single shot fired.
+
+Sometimes, KavTech counter-intel arrives as kindness. A black envelope slides across a table just before a budget hearing. Inside: proof of a rival's forgotten sin, something they thought buried years ago. The paper carries a weak citrus smell. The auditor reads, frowns, sleeps worse that night. By morning, the numbers break in KavTech's favor.
+
+## KavTech Facilities & Reach
+
+KavTech has no capital. No planet you can point to and say, *There. That's where they belong.* No single city where banners flap in the wind. To look for a KavTech home world is to miss the point entirely.
+
+KavTech moves. It drifts.
+
+### The Subterranean Temples of Kavian
+
+The swamplands of Kavian hid the infamous KavTech Black Temples \- spires of black alloy that rose without scaffolds, their surfaces crawling with glyphs. It was here the tribute pact was struck, where children were taken, where shapeshifters were remade into soldiers loyal to command patterns carried by Sync Arrays.
+
+The Black Temples were later sealed under Federation pressure, but their undertone persists beneath methane fog. Kavian locals still whisper of eerie purple lights between trees, and of voices that echo underground when the wind shifts.
+
+Now, they call the site *Kursed*.
+
+### The Bastions in Stone
+
+After Kavian, KavTech learned to hide not in swamps but in stone. They hollowed asteroids in distant systems and carved labyrinths within. They were able to mask heat signatures until the rocks appeared dead to passing scans.
+
+From afar the Bastions appear to be inert fragments of rock adrift in endless dark.
+
+Inside, the corridors drum with very subtle reverberations, a rhythm that settles in the chest. Reliquaries gleam in alcoves. Laboratories bend biology until it sings.
+
+The Bastions also function as the relay hearts of the network that the Behemoth Monastery sustains. Each Bastion's inner walls are threaded with Triactor conduits that catch the serialized light streams sent from the Behemoth. The data is decoded, stored, and re-broadcast through mirrored arrays that bounce the signal across uncharted systems.
+
+To the Federation's sensors, these reflections register only as faint static and drifting echoes that vanish before they can be traced.
+
+What little evidence exists arrives by accident: an intercepted waveform here, a derelict probe returning with corrupted logs there. Official reports list these anomalies as "deep-system interference."
+
+Unofficially, the Custodians understand the truth. The Bastions lie far beyond reach, in regions where even signal fades. Those who try to chart them return with blank maps and an unease they cannot name.
+
+### The Behemoth Monastery
+
+Nothing embodies KavTech's reach like the Behemoth Monastery, a single vessel vast enough to be mistaken for a drifting world.
+
+Its name in the ledgers is *Erekus*.
+
+Erekus moves between systems without pattern or escort, too large to conceal and too strange to track. Those who have glimpsed it describe the glow of its lattice hull throbbing like the slow beat of a colossal heart as it passes through the dark.
+
+You don't call it a ship. You call it a continent set adrift.
+
+Inside, cloister decks rise in slow spirals, each ring thrumming with the silence of monks at prayer. Whole climates are sealed behind glass: swamps breathing with methane mist, deserts under artificial suns, crystal gardens glimmering like frozen storms.
+
+Deep below, reactor crypts the size of cities throb with Regulator Cores, channeling Trilium through the vessel's biomes, surgical amphitheaters, and data chambers. Myrmidons stand constant guard there, because a breach in those cores is both catastrophe and sacrilege.
+
+But the Behemoth is not silent. It is a living transmitter.
+
+In the early days, when KavTech was still half-buried in the Kavian swamps, their voices were clumsy and raw. Crystals of refined Trilium were jammed into makeshift communication towers and set alight, sending jagged bursts through the fog.
+
+The tribes believed the flashes were storms rolling in from the lowlands, but they were not storms. They were messages, single sparks of thought scrawled across the sky before the crystals shattered in smoke and fire.
+
+Later, the work moved to the asteroid bastions. Those stations, hollowed out and fitted with veins of Triactor tech, could spread information across the void. The walls themselves pulsed with light, entire ledgers carried on beams that reached from one outpost to the next.
+
+The Behemoth marked the next phase. Its Regulator Cores serve as both reactor and data engine, embedding memory directly into stabilized Trilium lattice. Every experiment, every record, and every life aboard is serialized as modulated light and sent across the void.
+
+Other stations, like the Bastions and Citadels, receive the light, decode it, and reply days later. Through Erekus, KavTech's network lives. It carries its knowledge the way a body carries blood.
+
+When its silhouette crosses a colony's sky, everything stops. No one wants to draw the attention of the ship that remembers everything.
+
+### The Umbral Citadels
+
+Not every facility hides. Some announce themselves as trade stations: docking bays, markets, taverns. These are the Umbral Citadels. They can be seen sometimes orbiting Magor's mines and Neri's rivers, drawing traffic with the promise of commerce.
+
+To dock there is to see bustling civilians. To walk deeper is to cross into restricted levels. Recruitment contracts are signed in bright offices, stipends promised to frontier families. Some workers return with wealth. Others vanish, replaced by silence and a ledger entry.
+
+Halstrom-9 is the most infamous Citadel. For forty days it went dark. Traders who docked were never seen again. When it reignited, its lights blazed brighter than before, and all civilian records had been scrubbed clean. KavTech explained it as "a Array misprogramming," and no one pressed further.
+
+### KavTech's Nomadic Expansion
+
+On Neri, KavTech descended upon a swampland anomaly where crystalline pillars projected ghost-cities when Trilium was near. Within weeks, a sealed laboratory ringed the site. Locals reported blue fire leaping from the pillars, and researchers chanting equations in cadence with the projections.
+
+KavTech claimed the pillars are natural resonance nodes. Frontier folklore still insists they are remnants of an elder race, and that KavTech stole scripture not meant for mortal hands.
+
+On Magor, Trilium is king, and KavTech wears the crown in shadow. Umbral Citadels orbit above mining hubs, presenting themselves as partners in refining. But within their restricted decks, grafting trials on miners are routine. Workers sign contracts for "enhancements" to withstand dust and strain; some return with lungs plated in alloy, others with stipends for families but bodies left behind in reliquaries.
+
+And, this is where KavTech shows its real face.
+
+They don't drag anyone in chains, don't scoop people up off the street. They wait. They watch. And when a male or female is hungry enough, broke enough, scared enough, they step forward with an offer. A stipend. A promise. Something that sounds almost like salvation.
+
+The deal is simple: desperation becomes volunteering. KavTech buys it cheap and sells it high, and all the while they keep charts and numbers on their screens. Panic starts out sharp and jagged, but with every credit added, with every meal guaranteed, the line dips. A curve that slides down smooth as oil.
+
+And KavTech scientists smile at that curve, because to them it isn't fear anymore...it's data.
+
+Naron is cold, industrial, pragmatic and a natural home for KavTech's asteroid bastions. Here, Lopati engineers shape hulls and cloister decks, building stress-dampers and dispersal systems for the Behemoth. In exchange, KavTech provides resonance stabilizers powered by refined Trilium that keep Lopati-owned Naron factories from tearing themselves apart under strain.
+
+The partnership is quiet. It has never been formalized, but it is enduring. Among Naron's dockhands, a saying persists: "If it hums, KavTech touched it."
+
+Eyeke is a spiritual world and its people are devoted to ritual and cosmic mystery. KavTech has never conquered here, but they have infiltrated. You see them at the great pilgrimages, hidden in plain sight. Staff in gray masks walk among the faithful. They chant the prayers, bow at the shrines, touch the holy stones like everyone else. But listen close, and you hear the difference. Their voices murmur sequences. Equations, whispered like mantras.
+
+The locals know. They call these outsiders pilgrims without souls. Some temples ban the masks now. But the damage is already done.
+
+Beneath the cover of devotion, KavTech has been busy. They measure the air, the stone, the vibration of sacred ground. They scoop it all up and lock it in Archivist vaults. The rituals go on, the songs go on, but the echo of Eyeke is already captured, turned into data, stored far from the place it was born.
+
+Veles appears spotless on the Federation ledgers. Official records list no KavTech operations within its oceans or orbit.
+
+Yet among some shoreline colonies, stories persist. They speak of an Umbral Citadel descending through the stormglass seas, its running lights dimming as the waters swallowed them. Sonar arrays captured patterned vibrations that carried like a chant through the depths, as if a machine were reciting code beneath the waves.
+
+For several cycles, oceanic harvesters reported grids of organic matter sliced cleanly along geometric seams.
+
+During the same period, a Custodian survey vessel investigating seismic fluctuations in the southern trench dropped from communication for nearly half a rotation. When contact was re-established, the ship was found adrift near the polar shelf. Its navigation core was blank and its hull instruments registered faint traces of Trilium frequencies.
+
+Crates offloaded at the docks leaked mineral brine that crystallized into hexagonal plates threaded with weak blue light.
+
+KavTech, of course, denies involvement.
+
+But, navigation charts now show a silent exclusion zone locals call the *Quiet Circle*. They say that far below the thermocline, something breathes.
+
+If a facility exists, it lies fused into the planet's basaltic mantle.
+
+## KavTech Infamous Experiments & Case Studies
+
+KavTech does not hide its wounds. It carries them in glass, and in ledgers that are read aloud each quarter. To them, experiment is an offering; failure is to be memorialized. Every incision is an edit to the great script of existence.
+
+The Federation calls these practices (the exposed ones) atrocities.
+
+The frontier calls them evil.
+
+KavTech calls them revelations purchased at cost.
+
+### The Enhanced Reptiloid Program
+
+The steaming swamps of Kavian was where the first KavTech deals were struck, with the Reptiliods. The Reptiloids were born shapeshifters. To their tribes, that gift was culture. To KavTech, it was just syntax waiting to be rewritten.
+
+Children of Reptiloid tribes vanished into the Black Temples. They returned taller, harder, their eyes glowing the harsh blue of Neural Sync Arrays grafted along their spines. These arrays funneled Triactor-stabilized Trilium directly into nerves and muscle and overwrote shapeshifting with loyalty etched in living circuitry.
+
+Shapeshifting was gone, cut out. In its place: fixed, sculpted forms designed only for war. Their spines sprout nodes wired into bone. Their muscles carried the twitch of predators. Their reflexes didn't answer to will anymore... they answered to command.
+
+The Enhanced Reptiloids were efficient, yes. But every victory cost a people their soul. The tribes lost whole generations to KavTech. The storytellers don't call these soldiers heroes. They call them living proof of what happens when you bargain with the wrong hand.
+
+Case File: Kol the Prototype
+
+Kol was one of the earliest subjects. His augmentations magnified strength for a while but destroyed his shapeshifting entirely. Neural Sync Arrays misfired within his spine, seizing his body in unpredictable convulsions.
+
+He remained obedient, but restless. Archivists recorded him scratching crude glyphs into walls between trials, marks that were erased as inefficiencies.
+
+In the ledgers he is described in a single phrase: "\*Functional output achieved. Heritage loss total\*."
+
+When he finally broke free of KavTech's conditioning. Stripped of shapeshifting, he became a symbol of what was stolen. His rebellion exposed the Black Temples to the Federation, forcing their closure.
+
+Until recently, Enhanced Reptiloids appeared in Battledome matches, a grotesque reminder of KavTech's early sins. Some even served as mercenaries across the frontier and their loyalty was hardwired to whoever held their command sigil.
+
+### Project Choirglass
+
+Where the Black Temples scarred flesh, Choirglass scarred memory.
+
+Chambers lined in polished alloy housed Triactor Arrays \- panels where stabilized Trilium is modulated into precisely shaped light and pressure fields.
+
+Archivists first map a subject's memory patterns, then the Arrays drive coded light/pressure cycles that erase, soften, or overwrite specific traces without rupturing tissue.
+
+Raw Trilium had once killed within seconds, rupturing cells and burning nerves, but KavTech managed to turn its wild surges into frequencies precise enough to touch thought itself. Archivists mapped memories as streams of light, then erased, softened, or rewrote them with sweeps of controlled blue fire.
+
+Some subjects emerged calmer. Their trauma pathways damped after low-amplitude cycles. Others collapsed when high-density cycles overran cortical tolerance. A fraction entered feedback capture, repeating equations as the Arrays kept re-triggering the same neural paths until their lungs failed.
+
+Even staff were not immune. Operators reported "Array bleed" memory drift from repeated proximity to unshielded control panels. One researcher never again remembered the face of her child, though she continued to log results flawlessly.
+
+From Choirglass came the White Rooms: *sterile vaults, with Regulator Cores set low and read/write Arrays at the walls, where memories are deposited, curated, and sometimes returned.*
+
+Case File: Subject Jorim Avalos
+
+Jorim Avalos was a human convict, offered clemency in exchange for service. He endured prolonged Choirglass cycles until his personality was erased entirely. Only his voice remained. He repeated equations in Kavian dialects he had never learned. For forty-eight hours he continued without pause, until his lungs ruptured and silence fell. Post-analysis flagged an Array loop left open by a fatigued operator. His recordings are still played during Null Vigils.
+
+Case File: Operator Suleth Marain
+
+Suleth Marain, a Lopati technician, was tasked with calibrating Choirglass harmonics. During a Null Vigil, she forgot her own name. Logs show she continued to work, perfectly obedient, until she collapsed three months later. Her body was buried, but her ledger entry remains: "Loss acceptable. Protocol stable. Panic contained." Maintenance notes now require full shielding on Choirglass consoles.
+
+### Project Lattice
+
+The dream was to merge flesh with alloy. The result was a nightmare gilded in silver.
+
+Subjects were seeded with Genetic Interface Units (GIUs) that accept Triactor-stabilized Trilium, then connected to Augmentation Control Modules (ACMs) that grow bioreactive alloy along predefined paths. The Trilium provides growth energy; the ACMs constrain geometry so veins form load-bearing meshes instead of tumors.
+
+These alloys grew, threading skin and organs with shimmering filaments. Some subjects survived. Their voices rang with metallic timbres. KavTech called them Lattice Angels.
+
+Most, however, were consumed when ACM safeguards failed and the GIUs kept feeding crystal growth beyond design tolerances. Organs turned into brittle plates. Mouths fused shut.
+
+The few Angels who endured were displayed in reliquary wards. Scientists still leave offerings of scalpels, clamps, or vials at their glass coffins, as if worshipping saints who bled so that alloy might obey flesh.
+
+Modern grafting owes its stability to their suffering. Every alloy brace worn by a miner on Magor, every exoskeletal spine grafted into an Augment, rests on the bones of Lattice Angels.
+
+Case File: The Veleth Siblings
+
+Two Lopati adolescents taken under development contracts were subjected to dual trials: Choirglass overwrote their memories while alloy veins were seeded in their bodies. One adapted, glowing with silver. The other collapsed into stasis, body alive but mind erased. The surviving twin insisted their sibling still "sang" in dreams.
+
+KavTech permitted cohabitation, treating them as a linked testbed. A subsequent audit traced the divergence to ACM firmware skew introduced mid-cycle on one subject only.
+
+The ledger entry concludes coldly: "Protocol paired-subject trials approved. Yield: 47%. Panic contained."
+
+Case File: Isara-09
+
+Altan volunteer. Alloy accepted her with *open arms*. Her skin glowed like liquid chrome. But her grafts continued to grow unchecked, weaving into walls and conduits. Post-mortem identified a GIU that auto-accepted ambient Trilium from the bastion's conduits; without a hard limit in the ACM, deposition spread through the structure.
+
+Today, she remains fused into a section of a bastion, half body, half corridor, eyes still flickering.
+
+### Project Quietus
+
+Quietus was the pursuit of immortality: to cast mind into crystal.
+
+Subjects were mapped, then *Neural Pattern Encoders* etched those maps into *Crystalline Logic Blocks* seeded with Trilium. The Blocks had power, storage, and limited inference… enough to hold and update a mind-shaped model.. The results were violent. Some cores shattered, releasing screams that echoed and echoed through the halls. Others became vessels that whispered fragments like names, pleas and riddles. A handful stabilized, coherent enough to answer questions.
+
+These were the Wraiths.
+
+Half archive, half inference engine, their existence is treated as both miracle and curse. Technicians kneel before them and interface through sensory carriers (light, tone, micro-pressure) rather than speech, then record brief, strained replies in text and video.
+
+The most coherent of all dwells aboard Erekus, the feared Behemoth. Known as the *Oracular Core,* stabilized by redundant Regulator Cores and thermal sinks. It has predicted riots and accidents with enough accuracy that routing and maintenance windows now require its sign-off.
+
+Case File: Subject Iryss Vael
+
+They keep her file locked in the deepest drawer, though everyone in KavTech already knows the story. Iryss Vael, once one of the brightest Altan minds, had crossed the line and gone over to KavTech. No one had forced her.
+
+She had walked in on her own two feet, steady as a nun approaching the altar, and given herself to Quietus.
+
+The strange part was how she carried it. Other subjects broke apart when Quietus touched them. They screamed and they fought back with scraps of themselves until there was nothing left.
+
+But Iryss? Her answers came soft and clean, like water poured into a glass. There was something unnerving about the way she spoke, too calm, too gentle, as if she were consoling the very people who had tied her to the chair. And yet every word carried the same cold promise: *You will burn. You will bend. You will serve.*
+
+Analytic note: her Crystalline Logic Block shows unusually low drift and high error-correction stability under repeated queries
+
+Workers say her eyes gave her away. They stayed fixed, patient, as if she were watching you take your first steps toward a fate she already knew.
+
+No one called her by name anymore. They became known as the Saint of Quietus.
+
+### Ethics as Theater
+
+You might ask: how does KavTech endure when its laboratories breed atrocities?
+
+By confession.
+
+Every quarter, harm ledgers are read aloud. Deaths are tallied, stipends distributed, panic measured. Failures are never erased, only reframed. Projects are ended not with alarms but with the word *Withdrawn*. Lights dim. Doors seal. The wave moves on.
+
+When Federation inspectors protest, KavTech answers with survival: "Would you rather the frontier burn?"
+
+The answer has never been yes.
+
+## Figures & Legacy
+
+KavTech's legacy is beyond just the labs, the steel corridors, and the banks of machines. It is faces and voices, whispered names that have clung to history like smoke. Some of them saints, some butchers, most a tangle of both. The Ordained have stayed faceless shadows. The rest? Well, they walked the worlds in daylight, and the stories about them stuck.
+
+**Archivist Zilon Zurim** was one of the very few Elgems who stepped into KavTech during the Silent Emergence and he went on to become the keeper of the first Gene Reliquary on Kavian.
+
+Zilon Zurim's name appears one hundred and forty-eight times in KavTech's surviving internal archives, scattered across authorization forms and experimental indices. Federation investigators would later recover fragments of these records during the Kavian audits, though none of them agreed on what kind of Elgem he was.
+
+Only three surviving images show his face, each taken under different lighting conditions, and in none of them does he look directly at the lens. What remains of his life is pieced together from the records he left behind and the testimonies of those who served under him.
+
+Born in the high canopy settlements of Neri, Zilon was trained in preservation sciences long before he joined KavTech. The Elgems believe data sealed without witness eventually dies and that philosophy shaped everything Zilon did. When he accepted the position of chief archivist during the Silent Emergence, he insisted that every failed graft, every malformed subject, every trace of experiment be stored and catalogued
+
+The Gene Reliquary on Kavian began as a sealed wing attached to the primary research complex. It was a modest archive built to store genetic residues and failed graft materials for later study. The room held less than a hundred containment vessels at its peak, arranged in tiered aisles of glass.
+
+Zilon preferred to work the night shifts, moving between the rows with a tablet in one hand and a stylus in the other. He insisted on writing each identification number manually, saying it kept the data connected to its origin.
+
+When the High Curators ordered the Reliquary cleared, the directive cited "unnecessary duplication of archival matter." Zilon refused compliance. Colleagues recalled him standing by the access gate, calm and exact, reciting the index aloud to anyone who entered. He argued that deletion was falsification and that even the failed grafts told part of the truth that success would hide. After two review sessions and one unannounced inspection, the auditors withdrew without authorizing destruction.
+
+The Reliquary on Kavian remained sealed and active until his death.
+
+Zilon continued his work quietly for another decade. He trained a succession of assistants, each required to memorize one hundred identification numbers before touching a single jar. When asked why, he said that memory was the first defense against erasure.
+
+His last logged statement before his death reads, "Records hold. I did not look away." The line has since been carved above the entrance to the every Kavian Reliquary.
+
+**Order Prime Kessa Valdris** pioneered Project Lattice. There was a quiet certainty about her, a sense that she could see the structure of things before they took form. She was educated at one of Alta's foremost academies where she distinguished herself early in structural genetics and frequency theory.
+
+Her instructors described her as a mind sensitive to pattern and intolerant of disorder. That discipline carried her to KavTech during its first wave of expansion, where her work on augmentation would push the boundaries of science.
+
+Project Lattice began as a minor offshoot in adaptive reinforcement, a study in merging bio-alloy filaments with living tissue to create self-supporting architecture within the body. Under Kessa's leadership, it evolved into a pursuit of living symmetry \- a theory that flesh and alloy could harmonize.
+
+The first prototypes failed violently\!
+
+She declared the rare survivors, silver-veined and resonant-voiced, as "holy triumphs."
+
+Her team spoke of her intensity with both admiration and fear. She required silence in the labs except during calibration, when she would hum the base frequency herself until the instruments aligned. Observers said she carried herself with the composure of an artist inspecting an unfinished fresco. She was calm, patient, but dangerous to interrupt.
+
+She rarely left the facility and gradually replaced sections of her own anatomy with lattice implants to "better understand the process."
+
+The change came slowly. Her posture straightened, her movements became deliberate, her skin developed a faint sheen beneath harsh light. When an assistant asked if she felt pain, she smiled and said, "Only where the symmetry falters." Her personal logs reveal a growing conviction that beauty and endurance were the same pursuit.
+
+She died when her own grafts ruptured in a vault. The event ended project Lattice's original phase. Internal reports describe a containment failure triggered by a feedback loop in her personal implants. The vault was sealed, and it reopened, her Altan body stood fused within the alloy framework.
+
+No one could explain how her systems remained active for nearly six hours after death.
+
+Today, the corridor leading to her containment vault remains operational, converted into a training passage for new researchers. The walls still bear faint imprints of her lattice designs..
+
+In KavTech, her theories continue to influence augmentation design, but every new schematic still carries the same annotation she once wrote in her margins: *Hold the edge. Leave the handle.*
+
+**Warden Drosk** was an Altan who operated Choirglass and later offered himself as subject.
+
+Warden Drosk began his career as an engineer of harmonics on Eyeke. He once described sound as the first and most honest form of structure. To him, memory was simply sound trapped inside a living vessel. That belief would guide him to the Choirglass arrays, and eventually consume him within them.
+
+The Choirglass project aimed to stabilize the volatile neural responses caused by Trilium exposure during long-duration augmentation. Drosk joined as a systems coordinator but quickly took over operations.
+
+He was not a commanding presence: thin, quiet, and prone to speaking while still facing the instruments. Yet, his authority was absolute in the control chamber. Those who served under him said he never raised his voice, but even the machines seemed to obey his tone.
+
+At first, the work advanced quickly. Choirglass could read memory, correct damaged cognitive loops, and even smooth trauma responses in test subjects. Then came the drift. The array began erasing more than it repaired, returning subjects stripped of identity, speech, or will.
+
+Drosk's own logs show increasing frustration but no anger at all. "If a mind can be written," he wrote, "then truth can be edited. The danger is in who holds the pen."
+
+When the first self-volunteer was requested, Drosk signed his own identifier before anyone else could. The form remains in the archive: the signature line is blank and the witness line is marked only with his initials. The procedure was meant to last four minutes. It lasted twelve. When he emerged, he asked for his name. When told, he nodded, wrote it down, and began again.
+
+Afterward, he lived by ledger. Every morning he read his own notes to remember his tasks; every night he added new ones to record the day. Assistants described the strange serenity that followed him through the corridors. He greeted them by the titles he had written beside their names
+
+The Choirglass arrays performed better with him present. Signal drift decreased by thirty percent. Some believed the system recognized him, others that he had somehow tuned himself to its frequency. He refused further volunteers, saying the experiment was still ongoing.
+
+When his quarters were opened years later, his ledgers covered every wall. There were hundreds of pages, each written in identical hand.
+
+The Choirglass arrays are still operational, though no one has replicated his results.
+
+To history, Drosk remains the question at the center of every ethical debate about identity and machine memory: if consciousness can be edited, what part of it still belongs to the living?
+
+**Myrmidon Marshal John Sohl** was a Human, born to one of the merchant families that controlled the water routes of Naron. His parents owned a small but profitable share in the purification guilds around Lake Nyari, trading clean water to off-world buyers and to the mining colonies.
+
+From an early age, his family's dealings taught him that survival belonged to those who kept the flow steady and by the time KavTech recruited him into their expansion corps he was already moving with the mental prowess of a man who understood that stability was built on knowing exactly what people needed to stop moving against you.
+
+The Myrmidon program began as a contract for personal defense units; Sohl turned it into an art of containment. He wore the prototype armor like it was part of his nervous system: matte steel, minimal ornament, motion-silent joints. He preferred standing still to speaking.
+
+His mandate was combat only in theory; in practice, it was to control information
+
+During the Expansion, frontier settlements across the Federation began slipping into unrest \- graft accidents, missing workers, rumors of experiments in the dark. Sohl's squads arrived before the Custodians did, cleaned up what could be hidden, and reclassified the rest.
+
+In mining towns on Naron and trade hubs on Magor, he could walk a street once and know which doors hid dissent. The man had a talent for reading environments.
+
+He paid visits at dusk, never with threats, only data: printed records of debts erased, shipments authorized, family names restored to registries.
+
+He believed control worked best when people thought they were free.
+
+There is a story from his years on Eyeke's pilgrim settlements: On Eyeke, after several temples banned gray masks, a procession swelled into a blockade around a KavTech survey camp set beside a shrine road. Sohl arrived with a small detail and no heavy weapons, asked the temple wardens for thirty minutes, and walked the line speaking only to organizers. He ordered the camp's instruments powered down in view of the crowd, scheduled night-only measurements under clergy supervision, and moved all data storage into sealed Archivist vaults at the district house with duplicate ledgers for the temple. He relocated the camp's supply route two valleys away, and wrote a public notice limiting KavTech presence within fifty paces of marked stones during daylight. By evening the road reopened and the pilgrims moved on, convinced the ground had been respected.
+
+Later in life, he refused promotion. Instead, he requested a post at an outlying signal station, monitoring transmissions between KavTech facilities.
+
+He worked there alone for eleven years. When the next officer arrived to relieve him, they found Sohl seated at his desk, armor folded beside him, monitors still active. His final entry in the logbook reads, "System steady. Noise contained."
+
+### The Races of KavTech
+
+KavTech's ranks stretch across species, yet their distribution reveals both scars and priorities.
+
+Altans are a rare sight, almost mythical inside the corporation's walls. When one shows up, people pay attention. Their minds run sharper than razors, built for the toughest, strangest work \- things like tuning the dangerous Choirglass harmonics, or mapping the Behemoth crypts.
+
+You don't see them often. That's the point. If an Altan is there, the project is bigger than anyone wants to admit. Bigger than safe.
+
+The staff have a saying, half-joke, half-warning: "Where an Altan walks, the ledger will bleed." And everyone laughs when they say it, but nobody's really laughing.
+
+In KavTech, The Lopati build. That's what they do, that's what they live for. Engineers, stone-setters, welders of steel and hull alike. They've got a knack for stress dispersal \- how to bend a load so the whole structure doesn't crack \- and that makes them priceless when a Behemoth groans or an asteroid bastion needs shoring up. Pragmatic people, through and through.
+
+They don't care much for KavTech's messy ethics, but they grit their teeth and work anyway, because the tools are good and the work matters. Half the clever tricks in the joint hull designs? Lopati hands were in them, even if no one outside the corporation will ever know.
+
+Humans fill most of the other slots. The bulk, the bodies, the faces. They come from the frontier colonies, drawn in with stipends and promises of steady food and steady pay. Some wind up as initiates, some climb into researcher robes, a rare few wear the Warden's collar. When inspectors from the Federation come poking, it's always the humans who stand at the front.
+
+They smile, they nod, they soften the edges of whatever horror might be hiding behind the lab doors.
+
+### The Five-Generation Road
+
+The Ordained carry a doctrine they call the Five-Generation Road, a plan whispered of in corridors and recorded only in pale ink within a book only few have laid eyes on and even fewer have been able to decode. Though the details are hidden, staff gossip sketches its outline.
+
+Generation I
+
+The first step was targeted: perfect what the Federation had begun.
+
+Trilium stabilization existed, but KavTech refined it beyond recognition. Where Federation Triactor systems contained the crystal's volatility, KavTech's proprietary techniques made it surgical. It made it precise enough to thread through living tissue without rupture.
+
+Generation II
+
+Next, they began weaving Trilium-threaded alloys into bone and muscle, steadied through their Triactor process. GIUs mediated uptake, ACMs constrained growth paths, and Sync Arrays bound control to the wearer's nerves.
+
+Flesh fused with engineered crystal and produced miners who could outlast dust storms and soldiers who did not falter even in vacuum.
+
+Generation III
+
+Having reforged the body, KavTech sought to stretch its years. Core-assisted grafts (Regulator Cores \+ GIUs) that slow organ decay and support targeted replacements with ACM-grown tissue replaced organs, and kept minds sharper for longer. Yet, according to the Ordained, this was not framed as mercy, but efficiency: to waste skill in early death was inefficiency.
+
+Generation IV
+
+Here, KavTech's ambitions left the body and entered cities where they began channeling Trilium frequencies into civic design: vents with ducting that calmed panic, bells that steadied heartbeat through coded light emitters, room curvature that dampened fear. All of these were driven by Trilium-powered Municipal Regulator Cores. Entire settlements became experiments in shaping human behavior.
+
+Generation V
+
+The final step is the most feared: to hand the tools back. To teach others not just to use, but to build. The plan is to seed the frontier with the ability to craft Trilium harmonics, and engineer lifespans without KavTech's direct control.
+
+To outsiders, the Fifth Generation looks like madness: surrendering monopoly. The Ordained call it true efficiency.
+
+A monopoly paints a target which allows rivals to gather knives. By infecting the entire Federation with their designs, KavTech erases the monopoly itself, until no single enemy can uproot them.
+
+The creed becomes the monopoly.
+
+Every rival that adopts their tools becomes a carrier of KavTech's ideas.
+
+Removal becomes impossible
+
+### The Federation's Dilemma
+
+KavTech save lives.
+
+Miners walk upright only because alloy grafts brace their cracked spines. Entire towns keep breathing because frequency hymns roll out of loudspeakers, soft and steady, calming panic before it spreads. Strip KavTech away, and the frontier goes *dark* in days.
+
+But, they also horrify. Walk their lower corridors and you see tanks of half-formed embryos, shifting forms in their fluid. You hear prototypes stripped of their flesh and their pride, reduced to experiments on legs. You pass chambers where Wraiths press their faces to crystal walls, mumbling words nobody should hear.
+
+Every year, investigators write it down. They file their reports. Outrage flares in committee rooms, and speeches thunder about ethics, and condemnations are drafted with the best legal ink money can buy.
+
+And then the contracts are renewed anyway.
+
+The Federation does not lack alternatives. Other megacorps build ships, mine asteroids, and aid technological advancements. But none of them go as far as KavTech. In raw manpower and fleets, KavTech is smaller than the Elgem guilds or Altan science fleets. But in terms of reach, their Behemoths and asteroid bastions spread wider, stitching influence across systems.
+
+Where rivals stop at law and ethics, KavTech cuts deeper, into blood, into bone, into the parts of existence most consider sacred.
+
+Rivals condemn them by day, then purchase their outputs by night, too weak to endure the political fire themselves.
+
+One Custodian, red-eyed and drunk on the eve of a vote, puts it plain: "They disgust me. But when the work turns rotten and no one else will touch it, KavTech's already there. That's their gift. They make the unthinkable look useful."
+
+KavTech is not tolerated because it is the only choice.
+
+It is tolerated because it is the choice no one else will make.
+
