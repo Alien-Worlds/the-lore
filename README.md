@@ -612,3 +612,450 @@ This delicate balance allows each sect to thrive in its own way, contributing to
 
 ### Conclusion
 The Khaured Spiritualist sect offers a unique perspective on life, one that prioritises creativity, spirituality, and inner peace over martial prowess and discipline. Their communities, built in harmony with the natural world and adorned both within and without by hand-crafted artworks, serve as sanctuaries for those seeking a different way of life. Through their practices and beliefs, the Spiritualists of Khaur demonstrate that there are many paths to understanding the mysteries of existence, each with its own beauty and wisdom.
+
+# The Khaured Militarist Sect: Strength Through Discipline and Dominion
+
+## Origins and Philosophy
+
+* The Militarist Sect is the oldest and most uncompromising pillar of Khaured society. It did not begin as an ideology, but as a brutal necessity. Life on Khaur - under crushing gravity, hostile predators, and resource scarcity - made cooperation difficult and failure lethal. Early Khaured clans survived only when they imposed structure on chaos. What began as a practical response to extinction slowly hardened into doctrine.
+
+* At the heart of their belief lies the creed: Strength is survival, weakness invites annihilation. To them, strength is not merely physical but systemic; discipline, hierarchy, and martial order are seen as the only bulwarks against chaos. Any deviation from this order is considered dangerous, a crack in the armour of the Dominium. This discipline applies as much to politics as to war, where silence and speech are wielded with the same precision as blade and rifle.
+
+* The Triumvus, three Great Elders chosen from among the most proven generals, form the supreme leadership of the Militarists. Their authority is absolute, framed as the living embodiment of Khaured survival instinct. To disobey the Triumvus is not only treason but heresy, for they are considered guardians of Khaur's destiny. Beneath them, generals, corporate magnates, and Krathtarrn envoys alike vie for influence, their struggles no less brutal for being fought in senate halls rather than trenches.
+
+* Militarists regard conquest and expansion as both duty and destiny. To expand is to prove worthiness in the cosmos; to stagnate is to court death. Hence, Militarist policy has always pushed outward, whether through interstellar strip-mining, colonisation, or armed campaigns to secure resources and territory.  This expansion is fought not only with fleets and legions, but also with the weaponised silence of Dronnvek, which has dissolved coalitions as surely as mechs have shattered citadels.
+
+* They view culture, science, and even family life through the lens of service. Every individual is a soldier first, a citizen second. Loyalty to regiment and state supersedes all other bonds, and personal ambition is tolerated only when it strengthens the collective. Female children - along with the occasional male exception - are drilled not only in physical endurance but also in the Stillness Duels of Dronnvek academies, where posture, silence, and controlled speech are trained as rigorously as marksmanship.
+
+* Spiritualists are often dismissed by Militarists as an indulgent offshoot: a tolerated luxury at best, a dangerous weakness at worst. While the Spiritualists claim enlightenment through art and vision, the Militarists assert that true enlightenment lies only in the perfection of discipline, the endurance of hardship, and victory in battle - whether fought with cannon, blade, or the power of silence.
+
+## Culture and Daily Life
+
+* In Militarist society, life is service. From birth to death, every Khaured is expected to contribute to the survival and expansion of the Dominium. Leisure, artistry, and self-indulgence are regarded as distractions, tolerated only when they reinforce discipline or honour past victories.
+
+* Rituals and Festivals revolve around martial achievement. Annual tournaments pit regiments against each other in ceremonial combat, while grand parades march through fortress-cities to commemorate historic battles. Entire families attend these spectacles, reinforcing loyalty to state and regiment. The fallen are honoured in solemn ceremonies where their names are carved into memorial walls, each engraving a reminder of sacrifice owed to the collective.
+
+* Civilian clothing reflects this ethos of austerity. Where the Spiritualists favour flowing garments and jewellery, Militarists wear plain, functional attire: heavy tunics, reinforced boots, and utility belts designed for practicality rather than appearance. Colour is tightly controlled: muted greys, blacks, and dark reds dominate, with only officers or decorated veterans permitted insignias of rank or campaign ribbons. Jewellery and personal adornments are virtually absent, as ostentation is seen as weakness and vanity. To a Militarist, one's worth is displayed through scars, discipline, and obedience, not ornament.
+
+* Uniforms dominate the visual landscape. Even civilians are assigned standardised garb tailored to their sector of work; miners of K'Thast in slate-grey suits with reinforced plating, factory workers of G'Kellor in ash-black smocks, researchers of D'Vecht in stark white lab coats marked with their unit's emblem. These garments blur the line between civilian and soldier, a deliberate reminder that every Khaured is first and foremost part of the Dominium's war machine.
+
+* Family and social bonds are subordinate to duty. Children are raised communally in regimental academies, where discipline is instilled before familial identity. Biological parents are often permitted only limited influence, their role more genetic than social. Bonds between comrades-in-arms, forged through hardship and combat, are valued above blood ties. From adolescence, cadets are introduced to the rudiments of Dronnvek: learning silence, posture, and control of speech as tools of dominance, just as they learn the blade and the rifle.
+
+* Daily life is regimented by ritual drills, collective meals, and duty cycles. Morning begins with physical training, even for civilians, followed by work shifts that contribute directly to the Dominium's infrastructure or war efforts. Evenings are reserved for regiment recitations, where units recount the glories of past campaigns and the decrees of the Triumvus. Civilian infractions are dealt with swiftly by regimental tribunals: minor disobedience punished by extra labour or public drills, greater dissent by exile or execution.
+
+* Entertainment is limited, heavily martial, and state-approved: combat sports, tactical simulations, and military epics dominate cultural consumption. Stories of heroes such as Utrald G'Konn or Admiral Varrekh D'Shunn are performed as sagas, blending fact with legend to reinforce Militarist ideals.
+
+* Where the Spiritualists embrace diversity of expression, the Militarists enforce uniformity of purpose. Civilian life is austere, practical, and stripped of individual flourish - but to the Militarists, this is not oppression. It is the natural order, proof that the Khaured people endure because they are one body, one will, and one iron fist clenched around survival.
+ 
+* Propaganda Maxim: "The Dominium does not raise civilians - only soldiers at different stages of service."
+
+## Training & Education Regime
+
+* From the moment of birth, a Khaured belongs not to their parents, but to the Dominium. Children are taken into communal regimental academies where blood ties are deliberately weakened, and loyalty is reforged to unit and state. Biological parents remain figures of memory, not authority, their influence eclipsed by the collective discipline of the academy. To the Militarists, this severing of family is not cruelty but necessity: a soldier must fight for the Dominium first, never for kin.
+
+* Indoctrination begins in infancy. Symbols of the Dominium and chants of loyalty are woven into daily ritual, while history lessons glorify the conquests of generals, the iron vision of the Triumvus, and the corporate founders who carved survival from stone and fire. Failures are presented not as shame but as warnings, stories recited to show the cost of weakness. Even play is structured into drills - marching games, sparring contests, and competitions of silence and endurance. By adolescence, every Khaured has been steeped in the creed: strength is survival, and discipline is destiny.
+
+* Physical conditioning is relentless. Under Khaur's crushing gravity, cadets march in weighted armour, endure punishing obstacle courses, and undergo survival trials in the planet's most hostile regions. Central to this is the Containment Rites, trials of self-control rather than violence. Youth are placed into duels, isolation chambers, or burden marches, not to unleash rage but to master it. Only those who return unbroken - having contained fury rather than succumbed to it - are permitted to wield weapons in the Dominium's name. Failure leads to exile, reassignment to menial corps, or being made an example in front of peers.
+
+* Combat education begins as soon as cadets can hold a blade. Training progresses from unarmed contests to weapons drills, then to exosuit handling and live-fire exercises. War-games pit units against one another in simulated campaigns, teaching obedience to command and the unity of formation. Older cadets are sometimes tested against penal cohorts or expendable draftees, where the measure of success is not victory but the eradication of hesitation. Alongside this, tactical education emphasises battlefield instinct: recognising weakness, pressing advantage, and crushing morale before battle is joined. Mathematics, engineering, and logistics are taught only insofar as they serve these ends; calculating firing arcs, maintaining armour, or directing convoys.
+
+* Gender plays a role in specialisation, though never in endurance. Male Khaureds are overwhelmingly channelled into martial service, with the strongest rising into elite shock brigades or command tracks. Female Khaureds, while no less martial, dominate in coercive and rhetorical roles, a percentage selected for the specialist Dronnvek academies where silence, posture, and voice are trained into weapons. This path remains an exception rather than the rule, but those who emerge from such training - the feared Krathtarrn - wield influence as corrosive as any bombardment.
+
+* Adulthood is marked by a final rite: the Marking Trial. Each cadet endures a branding or scarification ritual, flesh seared or cut as proof of their endurance and loyalty. These scars are displayed with pride, visible reminders that service is writ not on cloth or by ornament, but on the body itself. Those who falter are cast aside, stripped of honour, or reassigned to expendable corps. Those who endure march forth as soldiers of the Dominium, carrying with them the creed that has shaped every breath of their lives.
+
+* Propaganda Maxim: "Discipline is the first weapon, and the last."
+
+## Internal Order & Dissent
+
+* To the Militarists, dissent is not opinion but weakness; a crack in the armour of the Dominium. Unity is survival, disunity is death. To question the Triumvus or the creed of Militarist discipline is not merely disobedience but treason, for it undermines the only shield between the Khaured people and annihilation.
+
+* Order is enforced through constant vigilance. Regiment leaders, corporate overseers, and even academy instructors are required to report on their subordinates, while propaganda saturates fortress-cities with reminders that loyalty ensures survival. Silence in public forums is expected; vocal dissent is conspicuous and swiftly punished. Spiritualist enclaves, tolerated only as subdued outposts of tradition, remain under heavy surveillance. Those who proselytise too loudly are silenced, exiled, or made into examples - proof that indulgence will not be allowed to fracture the collective.
+
+* Tribunals act as judge, jury, and firing squad. Minor disobedience - a refusal of orders, a lapse in discipline - may result in extra labour, public humiliation drills, or flogging. Greater crimes, such as conspiracy or open rebellion, are punished by execution, often carried out in public squares where entire regiments are compelled to watch. Collective accountability is a hallmark of Militarist control: entire units may be penalised for the failure of one, ensuring that loyalty is enforced by comrades as well as commanders. Purges are rare but devastating, remembered for generations as scars carved into the Dominium's history.
+
+* From childhood, Khaureds are taught that betrayal is worse than death. In academies, students are drilled not only in endurance and Dronnvek, but also in loyalty tests that encourage them to report hesitation or weakness in their peers. Such lessons ensure that fear and vigilance become second nature, woven as tightly into the psyche as obedience to command. To betray the Dominium goes beyond mere defiance of Law - it is viewed as committing the act of heresy against survival itself.
+
+* On rare occasions, the Triumvus intervene directly, presiding over purges or trials with the gravitas of executioners and guardians combined. Propaganda frames these interventions as the "surgery of the state": the cutting away of infection to preserve the whole. In Militarist eyes, such acts are proof that the Triumvus transcend being mere rulers; they are the custodians of Khaured destiny itself.
+
+* Propaganda Maxim: "A voice raised against the Dominium is a hammer striking its own skull."
+
+## Third Eye Usage
+
+* All Khaureds are born with a third eye, but while the Spiritualists cultivate theirs to pierce the ethereal plane, the Militarists hone it into a weapon of perception. To them, the third eye is not a path to enlightenment but a tool to sharpen combat awareness, to anticipate enemy action, and to enforce dominance on the battlefield.
+
+* Militarist training begins in childhood, conditioning recruits to use their third eye for multi-spectrum vision: detecting movement at impossible speeds, discerning thermal signatures, and tracking multiple trajectories simultaneously. By adolescence, cadets are expected to parry strikes and dodge projectiles guided solely by their third-eye awareness.
+
+* Elite warriors undergo neural grafting procedures overseen by D'Vecht Armaments. These implants synchronise the third eye with combat exosuits, granting reaction times measured in fractions of a heartbeat. Such enhancements allow Militarists to outpace most alien opponents, compensating for Khaur's heavy gravity with pre-emptive precision.
+
+* In combat, seasoned Militarists can achieve a state known as the Kranth-Sight, where the third eye enters hyper-focus, filtering out pain and fear while amplifying aggression and clarity. Soldiers in this state are described likened to granite statues come alive, moving with unerring efficiency, heedless of injury until victory is secured.
+
+* Unlike the Spiritualist transformation - where the third eye becomes milky white - the Militarist eye is kept clear, sharp, and burning with intensity. A dim or clouded third eye is seen as a sign of weakness, even spiritual corruption, and such individuals are often relegated to menial roles or subjected to augmentation trials.
+
+* The greatest Militarist champions bear ceremonial scars and tattoos framing their third eye, marking them as veterans of countless battles. To the Militarists, this is not decoration but a visual oath of loyalty; a reminder that their sight belongs to the Dominium and the Triumvus above all else.
+
+* To outsiders, Militarist use of the third eye may appear cold and mechanistic. Yet to the Militarists themselves, it is sacred discipline; the embodiment of their philosophy that enlightenment comes not from vision beyond the world, but from absolute mastery of survival within it.
+
+## Architecture and Settlements
+
+* Militarist architecture is born of necessity and domination, forged in the crucible of Khaur's immense gravity. Where other races might favour elegance or ornamentation, Militarist structures are designed to endure the crushing weight of their homeworld while projecting raw power. Their cities rise like fortresses of stone and steel, carved into mountainsides, stretching across plains, and descending deep into subterranean caverns. Every settlement is both habitation and bastion.
+
+* The design ethos is Brutalism elevated to doctrine. Monolithic towers, blocky foundations, and angular façades dominate the skyline, their sheer walls broken only by narrow defensive apertures and vast banners bearing regimental sigils. Civilian housing is indistinguishable from barracks, and plazas are designed as parade grounds or rally squares rather than communal spaces. Even in peacetime, Militarist cities resemble armed encampments.
+
+* At the heart of every major settlement lies the Citadel of Command, an immense fortress where the ruling general or appointed Triumvus representative resides. These citadels are built as both strategic nerve centres and symbols of dominance, their thick walls and layered fortifications able to withstand orbital bombardment. From here, the will of the Dominium radiates outward.
+
+* Factories and foundries sprawl alongside barracks and academies, forming military-industrial complexes where production and training intertwine. The roar of forges, the rhythm of marching drills, and the constant hum of war engines define the soundscape of Militarist cities. Function dictates every choice: workshops double as armories, courtyards as mustering fields, and mines as both sources of material and shelters during bombardments.
+
+* Statues and monuments abound, but not in celebration of artistry. They are testaments to endurance and conquest: colossal effigies of war heroes, victory arches commemorating campaigns, and memorial walls engraved with the names of the fallen. To live among such structures is to be constantly reminded of sacrifice, loyalty, and the expectation of service.
+
+* Beyond the cities, forward outposts and planetary bastions project Militarist influence across Khaur and beyond. These installations, built largely by the Dominium's oldest Megacorp, G'Kellor Construction, and maintained by corporate fleets, are erected on resource worlds, moons, and asteroids, forming a lattice of fortified hubs that underpin the Dominium's expansionist strategy. Each is designed to be self-sustaining, bristling with weaponry, and capable of housing entire legions.
+
+* To outsiders, Militarist settlements may appear bleak and oppressive. To the Militarists, however, they are manifestations of unity and strength, environments where every stone and girder serves the survival of their race. Where the Spiritualists seek sanctuaries of beauty, the Militarists forge citadels of order - unyielding, immovable, and eternal.
+
+## Technology and Research
+
+* For the Militarists, technology is not a pursuit of curiosity or creativity but a weaponised necessity. Every invention must serve the state, strengthen the Dominium, or break an enemy. Research is judged not by brilliance or novelty, but by its lethality, efficiency, and capacity for control. Anything deemed frivolous, ornamental, or purely intellectual is dismissed as wasteful.
+
+* The Research Corps, overseen directly by the Triumvus, governs technological development. Its academies are among the most demanding institutions on Khaur, producing engineers, weaponsmiths, and augment specialists who are as loyal to the chain of command as any frontline soldier. Here, failure is punished not with dismissal, but often with reassignment to "live trial duty" - serving as test subjects for unproven devices.
+
+* Reverse-engineering alien innovations is a central tenet of Militarist research. Where the Spiritualists might seek understanding or inspiration from other cultures, the Militarists seek only adaptation and dominance. Captured technologies are stripped down and bent to serve Militarist purposes, with anything proving useless or indecipherable melted down and re-forged into various infantry weapons, or parts for the war-mechs that form the mainstay of Militarist ground forces.
+
+* Among their most prized achievements are the exosuit augmentations that allow Militarists to wield weapons and bear armour too heavy for most species, and the third-eye combat implants that enhance reflexes and battlefield awareness. These devices turn every elite soldier into a living weapon; a fusion of flesh and machine perfected for war.  
+* Energy is the indispensable foundation of Militarist innovation. Before the discovery of Trilium on the six frontier worlds, the Dominium relied on Gravhydron, a dense mantle isotope harvested from deep fissures beneath Khaur, and Voltherium, a volcanic mineral compound rich in unstable electrothermal charge. These brutal fuels remain in widespread use, sustaining factories, fleets, and weapons systems, with Trilium now added as the most coveted - and dangerous - source of power.
+
+* Corporate rivalry fuels much of this advancement, the three major Khaured Megacorps vying to be viewed by the Triumvus as most beneficial to the Dominium's plans. D'Vecht Armaments is notorious for deploying prototypes straight to the battlefield, measuring success not in laboratory metrics but in body counts and victory margins. K'Thast Energy Syndicate supplies Gravhydron, Voltherium, and now Trilium to power these technologies, while G'Kellor Construction provides fortified facilities for research and mass production. Together, they ensure that Militarist science is inseparable from Dominium conquest.  
+* The Militarists also maintain a classified archive of alien blueprints and schematics, plundered from conquered or allied worlds alike. Access to this archive is restricted to the highest ranks, for the knowledge it contains is considered both sacred and dangerous. The term used for the archive translates roughly from Khauredi to "The Obsidian Vault," a repository where the keys to the future of Khaur's dominance are stored and deciphered as needed.
+
+* Where the Spiritualists treasure the transcendent and aesthetic, the Militarists exalt the cold precision of weaponry. To them, the greatest artistry lies not in sculpture or music, but in a perfectly balanced blade, a rifle that never fails, or a fortress that stands unbroken against the void.
+
+## Energy Sources & Alloys
+
+* The Dominium draws its strength not only from soldiers and generals, but from the brutal resources of Khaur itself. Where other races mine gently or seek balance with their worlds, the Khaureds carve harshly into mantle and mountain, wresting power from elements that kill as readily as they sustain. Each of these resources has shaped doctrine and destiny alike, providing the fuel, armour, and weapons that ensure the Dominium endures. To master these substances is to prove that nothing in the universe - not stone, nor fire, or even the void - lies beyond the Khaured will to dominate. 
+ 
+* Gravhydron
+Gravhydron is a dense isotope found deep within Khaur's mantle, compressed into existence under the planet's colossal gravity. For centuries it was the primary fuel of the Dominium, harvested through dangerous drilling shafts that often collapsed under their own weight. Pure, refined Gravhydron produces a gravitational stress field that can be greatly amplified and harnessed in on-world reactors, powering vehicles, factories, and weapons alike. Its extraction has cost countless lives, but the Militarists frame every collapse and implosion as necessary sacrifice, proof that flesh is the currency of survival.
+  
+Engineers refer to Gravhydron as the "stone heart of Khaur," and to the Militarists it represents more than a simple (if dangerous) source of fuel: it is the elemental essence of their world, the weight that forged their bodies and their culture alike. To purify and consume Gravhydron is seen as an act of infusing Militarist technology with the condensed strength of Khaur itself; a reminder that their rise began not with alien aid or imported energy, but by tapping into the crushing depths of their own homeworld.
+
+* Voltherium
+Voltherium is a volatile mineral compound mined from Khaur's volcanic zones, its veins glowing with unstable electrothermal charge. When refined, it powers plasma furnaces, weapons conduits, and starship reactors, its raw energy channelled into both industry and war. Yet Voltherium resists control: without constant cooling and stabilisation it erupts in catastrophic meltdowns, turning refineries into firestorms and consuming entire colonies. These disasters are not hidden but celebrated in Militarist propaganda, each framed as the cost of progress and proof that nothing is won without fire and sacrifice.
+
+Within the Dominium, Voltherium is spoken of as "dominion wrested from fire." Its presence carries a ritual quality: reactors roar like volcanic hearts, and weapons hum with molten fury. Soldiers clad in exosuits powered by Voltherium cells march with the knowledge that the same substance driving their survival could annihilate them in an instant. For Militarists, that tension is the point: to master Voltherium is to master destruction itself.
+
+* Titanobhrax (Bhraxium–Titanium Alloy, Class BTA-7)
+Titanobhrax is the standard war alloy of the Dominium, a brutal fusion of raw Bhraxium - an element thus far found only on Khaur and in systems immediately surrounding the Khaured home system - and refined titanium, forged in G'Kellor's enormous smelteries under crushing atmospheric pressure. The result is a metal that embodies the Militarist creed: dense, unyielding, and incapable of surrender.
+
+Designed to absorb and survive catastrophic force, Titanobhrax is used across nearly every discipline of Militarist engineering. It reinforces the hulls of Vanguard-class battle-cruisers, forms the armored skeletons of Marruk-class war-mechs, anchors fortress walls on frontier worlds, and plates the exosuits of infantry legions. It is not elegant. It is not subtle. It is an alloy created with purity of purpose: to endure impact, carry fire, and kill without fail.
+
+Unlike rarer alloys such as Kranthium, Titanobhrax is not revered; it is relied upon. Its surface is intentionally left matte and unpolished, dark grey streaked with blackened forge scarring. To Militarists, this imperfection is not a flaw but a mark of honesty. Titanobhrax does not pretend to be beautiful. It survives, and that is enough.
+
+One line defines its legacy: "Titanobhrax: the spine of the Dominium."
+
+* Kranthium
+Kranthium is a superalloy unique to Khaur, forged from Gravhydron-infused ores within gravity-stabilising crucibles. The process produces a metal of unmatched resilience, capable of absorbing immense concussive force without fracturing. Kranthium is heavy to the point of near-impracticality; only mechs, exosuits, and the strongest Khaured warriors can bear its weight. But to the Militarists this heaviness is no drawback, it is a virtue. The burden of Kranthium is a test of strength, and those who cannot carry it are deemed unworthy of its protection.
+
+The alloy is reserved for the most critical applications: exosuit plating for elite regiments, mech armour for shock units, and ceremonial weapons carried by the Triumvus themselves. To wear Kranthium is to embody endurance made manifest. Its cultural weight is immortalised in a line repeated in barracks and propaganda alike: "Where flesh fails, Kranthium endures." To the Militarists, this is not merely rhetoric: it is survival embodied in metal.
+
+* Draxium
+Draxium is a crystalline metallic compound first discovered in meteoric deposits on Khaur and later in the outer systems. At rest it is inert, but when exposed to energy surges - the crushing fields of Gravhydron or the discharges of Voltherium - it amplifies and channels the output into incredibly stable beams or waves. This unique property makes it invaluable for directed energy weapons, mech-mounted lances, and experimental ship drives. In combat, Draxium turns raw, volatile energy into precision destruction.
+
+Its mining, however, is perilous. Unstable veins can shatter explosively if unduly disturbed, scattering razor-sharp shards that glow with residual energy for decades. Many Draxium mines are ringed with Militarist shrines to the dead, as much warning as commemoration. Within the Dominium, Draxium has become a symbol of the Militarist creed: dangerous, costly, but transformative. Where Gravhydron embodies weight, Voltherium fire, and Kranthium endurance, Draxium is the cutting edge; the weapon that slices order from chaos.
+
+* Trilium
+Though the Dominium mastered Gravhydron reactors, Voltherium conduits and Titanobhrax engineering, Trilium proved a defiant substance. Where other resources submitted to force and refinement, Trilium resisted - volatile, elusive, and catastrophically unstable when mishandled. For the first time in recorded Khaured history, their engineers encountered a material that could not be bent by pressure, heat or violence alone. The early disasters are still remembered: warship cores ruptured into violet fire, research foundries vanished into silent implosions, and entire battalions were lost testing crude Trilium weapons that tore themselves apart mid-battlefield.
+
+The Dominium faced a rare truth: strength & indomitable will alone were not enough.  
+Rather than abandon Trilium or show weakness before the Federation, the Triumvus took an unprecedented step: they secretly acquired the services of a group of Altan Forgemasters whose understanding of Trilium-based systems far exceeded that of any Khaured technocrat. They were not paid in coin or resources - Altans disdained such primitive forms of payment for the employment of their skills and the guarantee of their discretion - but in research opportunities. They were given unbridled access to the Militarist data archives, and Khaured research subjects were provided as-needed.
+
+These Altans became known as the Kevarrim (literally "Those Who Speak to the Core" in Old Khauredi). Though alien in form, they were granted a status no other outsiders had ever been given: they became blood-bound servants of the Dominium. Insignia were forged for them. Oaths were sworn. Whatever worlds had once claimed them, the Kevarrim now belonged to Khaur.
+
+Under their guidance, Trilium was finally bent to Militarist purpose, ushering in a new era of Khaured technological evolution. But even now, the Kevarrim are watched by the Inquisitors of Design - for the Dominium will never trust them completely; their eyes are too few.
+
+## Military Technology
+
+### Philosophy of Design
+
+Militarist engineering is an extension of their ideology. Where other races pursue elegance, efficiency, or innovation for its own sake, the Khaureds build purely for survival and dominance. A machine is judged not by how cleverly it functions but by whether it endures. Every weapon, vehicle, and war-engine must operate under extremes - crushing gravity, atmospheric corrosion, orbital bombardment, vacuum, magma storms - and survive. Anything less is an insult to the Dominium.
+
+Militarist design rejects fragility outright. Weapons are constructed to be wielded even when damaged; exosuits are built to function with missing servos; mechs are designed to keep moving long after power systems rupture. Redundancy is mandatory: every system is duplicated - sometimes triplicated - to ensure continuous operation in catastrophic conditions. Ammunition feeds reroute through backup lines, reactor cores have emergency manual ignition, and armour plating is layered so that even if the outer skin is shattered, the inner shells remain intact. Failure in the field is not treated as misfortune, only as inadequate design.
+
+Overengineering is doctrine. Mass and weight are embraced rather than avoided; Militarist machines are heavy, brutal, and unyielding. Smooth edges have no place in their war-forges; hulls are angular, reinforced, and plated in overlapping armor designed to absorb punishing kinetic force. Their engineers expect machines to be struck, burned, crushed, and torn during service, and so everything is built as though war is already upon it. A Militarist rifle can be buried in volcanic dust, thawed from glacial ice, or be recovered from the deep ocean and still fire. A tank can lose a track and continue to advance. A starship can lose half its hull and remain a formidable force.
+
+The materials of construction reflect this mentality. Gravhydron-braced alloys prevent structural collapse, while Kranthium plating absorbs shock that would crumple lesser metals. Voltherium conduits run hot, pushing power systems to their thresholds, and the latest Draxium components allow Militarist weapons to channel concentrated destruction with terrifying precision. These are not simply tools of war, they are declarations of Khaured philosophy forged in metal and fire. Where other civilizations balance design against cost, Militarists scoff at such hesitation. The cost of survival is paid in mass, metal, and blood.
+
+Every design carries with it an expectation: it must outlast the enemy - and, if necessary, its wielder. In Militarist engineering halls, there is a common creed etched above every forge and assembly line: "Treason is a blade that breaks in the field." This is the uncompromising core of Khaured technology. They do not build machines to match the galaxy; they build them to break it.
+
+### Interstellar Armada
+
+The Dominium's fleets are the hardened core of Militarist space expansion, designed not for elegance or fanciful maneuvering, but to hammer home the inevitability of the Khaured advance. Where other navies rely on electronic warfare, tactical retreat, or precision strike tactics, Khaured fleet philosophy is brutally direct: advance, absorb fire, crush resistance. Their major warships are interstellar fortresses; slab-sided, angular constructs layered in ablative armor and redundant hull segments designed to survive catastrophic damage and continue firing. A Dominium fleet does not flinch, it does not scatter, and it does not negotiate once battle is joined.
+
+At the core of this doctrine is the Vanguard-class Battle-Cruiser, the most feared warship in Khaured space. Powered by Gravhydron-core reactors stabilised through spiral Voltherium plasma channels, the Vanguard was already a powerhouse before the integration of Trilium-fed hyperdrives, which granted it a strategic range unmatched by most Federation vessels. Its hull bristles with macro-cannons, torpedo silos, and long-range mass drivers capable of inflicting tectonic-scale damage from orbit. Entire continents have been subdued not by invasion, but by the shadow of a Vanguard and the threat of its bombardment.
+
+Every battle-cruiser travels with a shield wall of escorts: destroyers and frigates arranged in tight formation to intercept fire and breach enemy lines. Khaured escort vessels are notoriously overbuilt; many are reinforced with prow rams specifically designed for kinetic impact warfare, a brutal naval tactic considered obsolete by most modern militaries but still practiced - and perfected - by the Dominium. These warships have been known to punch through enemy hulls, cripple carriers in close-quarters collisions, and even sacrifice themselves to protect a Vanguard; an act treated not as loss, but as duty fulfilled.
+
+The armada is completed by swarms of Harrow-class interceptors and Reaver-class strike craft, piloted by Khaured aces whose reflexes are enhanced by third-eye neural targeting arrays. In close-quarter space combat these pilots are apex predators, using spatial perception and hyper-aggressive maneuvers to carve through enemy formations. Their space dogfight doctrine rejects auto-targeting and far-range warfare; Khaured pilots close the distance, lock onto engine signatures, and tear enemy squadrons apart from within. Duels between elite Khaured pilots are sometimes fought at lethal G-forces that would liquefy the organs of other races; Militarist breeding and augmentation make such violence not only survivable, but routine.
+
+Every vessel in the Armada is treated as sacred war-architecture. Hulls bear engraved campaign reliefs, red-lined to preserve memory of past victories. Each ship has a Litany of Service recited by its crew before battle, invoking not luck but domination. Where foreign fleets see calculation and risk, the Dominium sees only one acceptable outcome: advance until nothing remains.
+
+Propaganda Maxim: "The Dominium's Eye pierces the Void and claims all it sees."
+
+* Historical Example: The Battle of Khrovar's Gate (159 BF)
+
+Context: Raiders blockaded the Khrovar system, threatening G'Kellor's asteroid-foundry fleets and cutting off Dominium supply lines. Defeat risked stalling expansion beyond Khaur's orbit.
+
+Innovation: The Vanguard-class battle-cruiser unveiled its ultra-long-range planetary artillery - designed for surface bombardment - against enemy capital ships. Admiral Varrekh D'Shunn gambled on turning ground-killer cannons into fleet-breakers.
+
+The Battle: Three Vanguards opened fire from extreme range, splitting a raider flagship in half with the first salvo. Panic followed as unseen barrages destroyed ships across the system. Within hours, the blockade collapsed into retreat.
+
+Aftermath: The Khrovar victory secured Militarist dominance in interstellar warfare. The Vanguard became the Dominium's flagship design, and "Khrovar's Reach" entered common usage as a warning: no enemy fleet could hide from Militarist guns.
+
+### War-Mechs
+
+Where the Dominium's warships command the void, its war-mechs command the ground. These towering engines of destruction are not treated as vehicles but as warriors of metal and will, each bound to its pilot in blood, oath, and circuitry. Remote weapons are despised by Militarists; automation is seen as a weakness. War is not real unless it is faced directly, and so every mech marches with a living heart sealed inside its armoured ribcage.
+
+The backbone of Dominium ground supremacy is the Marruk-class bipedal assault mech, built on a reinforced Titanobhrax exo-frame designed to absorb catastrophic impact. Marruks are powered by compact Gravhydron reactors, their output stabilised through deep-core heat sinks. Elite variants wield Voltherium–Trilium hybrid cutters, capable of unleashing short bursts of annihilating power. When overclocked, these reactors can split mountains, breach fortress walls, or vaporise armored lines. But should the pilot overclock too far into overload, they erupt in a catastrophic feedback surge, annihilating mech and pilot alike. Marruk pilots call this "the warrior's burn" - and many choose it over retreat against unfavorable odds.
+
+Armed for both ranged devastation and final execution, Marruks carry colossal battlefield weapons: Titanobhrax chain-fists capable of breaking bunkers, seismic war-hammers that deliver earthquake-like blows, and Kranthium greatblades reserved only for veteran pilots. These blades are legendary: impossible to break, heavy enough to crush APCs with their weight alone, and sacred among the mech pilots privileged enough to wield them. To face a Kranthium edge in battle is to meet an inevitable end at the hands of one of the Dominium's elite; among the highest honours accorded to enemies.
+ 
+Not all mechs are forged for war alone. Gorath-class quadrupedal platforms serve in colonisation and logistics campaigns. Built for hostile terrain, they haul modular G'Kellor fortress segments, artillery towers, or mobile foundries across all manner of harsh terrains with ease. Even these logistical titans are armed, bristling with defensive autocannons designed to put off all but the most determined raiders.
+
+Mechs are more than metal to the Khaureds that pilot them; they are an important facet of their identity. Pilots do not receive assignments; they earn the right to bond themselves to a mech through brutal selection trials that kill more candidates than they accept. Integration scars the nervous system and binds the pilot's third eye to the mech's targeting core. Once bonded, pilot and machine are never separated. Campaigns are engraved into their armor. Oaths are etched into cockpit walls. Every kill, every survival, every scar becomes part of an intertwined story etched in Titanobhrax.
+
+Propaganda Maxim: "As one, we are the Dominium's will."
+
+* Historical Example – The Siege of Marrak Spires (286 BF)
+
+Context: The mountain citadel of Marrak Spires had long been held by rebel clans opposed to the Triumvus. Its cliff fortifications resisted five years of conventional sieges, becoming a symbol of defiance. The Dominium risked losing credibility if it could not bring Marrak to heel.
+
+Innovation: The first deployment of shock-assault bipedal mechs armed with seismic hammers, designed to weaponise Khaur's gravity into concussive force. Pilots bonded with their mechs via neural grafts, treating them as armored extensions of self.
+
+The Battle: Under cover of night, mech squads scaled cliff faces thought impassable. At dawn, they brought seismic hammers to bear, shattering citadel walls that had stood for centuries. The rebels broke within hours, the fortress reduced to rubble.
+
+Aftermath: Marrak demonstrated that mechs were not only war-machines but symbols of inevitability. The adage "Walls are illusions; the hammer shatters them to expose the truth" entered Militarist doctrine, cementing the mech as both weapon and psychological terror.
+
+### Ground Arsenal
+
+Militarist infantry are armed as extensions of the Dominium's will. Every tool of war they carry is forged with the same uncompromising philosophy that shapes Khaured society: nothing must fail. Their weapons are overbuilt, weighty, and brutally effective. Where other factions prize mobility or sophistication, the Dominium prizes reliability under pressure.
+
+Standard issue rifles, such as the Varkhon-pattern slug cannon, are forged from Titanobhrax plating and fitted with recoil-suppression chambers to withstand extreme battlefield abuse. These weapons fire dense kinetic bolts capable of punching through ferrocrete, mechsuits, or light vehicles. Sidearms are rarely issued; Khaured infantry are expected to close distance and kill decisively. For that purpose, each soldier carries a primary melee weapon: cleaver-axes, spiked hammers, chainblades, brutal tools chosen not for finesse but for the trauma they inflict. In the Dominium, it is better to shatter an enemy quickly than kill them slowly - or worse, merely wound them.
+
+Exosuits are a frequent sight among the Militarist ranks, built not as armour alone but as servos of conquest. Constructed from Titanobhrax joints and powered by Voltherium cells, these suits multiply a Khaured's already formidable strength, allowing soldiers to carry heavy weaponry, withstand crushing debris, or rip open enemy vehicles with their bare hands. Neural links tie suit targeting systems directly into the soldier's third eye, granting instinctive 360-degree awareness. A Khaured infantryman in full exosuit rig is a walking siege engine; an unstoppable mass of muscle, alloy, and intent.
+
+Heavy support units wield weapons that would be considered vehicle-mounted armaments by other species. Portable Gravhydron cannons, shoulder-mounted mass drivers, and modular artillery systems are standard issue for ground campaigns. The Dominium has no patience for prolonged sieges; their doctrine demands breakthroughs, and breakthroughs require weapons that crack bunkers like eggs and turn infantry lines to red mist.
+
+The arrival of Triactor technology from the Altans changed the face of Dominium warfare forever. Initially dismissed by Militarist generals as alien corruption - a genetic trick that would pollute the Khaured lineage - Triactor augmentations were viewed with deep suspicion. Results, however, speak louder than the echoes of tradition. In field trials, enhanced regiments demonstrated superior reflex speed, regenerative capability, and neural combat acuity, outperforming unaugmented elites with horrifying efficiency. What began as scepticism became ruthless adoption. Today, Triactor shock battalions are the cutting edge of Militarist infantry - silver-veined flesh, predatory silence, and impossible reaction times. Even other Khaureds whisper of them with unease.
+
+To face the Dominium's infantry is to face the purest expression of Militarist doctrine: unyielding form, overwhelming force, and a belief that survival is earned only through conquest.  
+
+Propaganda Maxim: "Break their lines, break their will."
+
+* Historical Example – The Ashrann Trench Offensive (421 BF)
+
+Context: The Ashrann Plains became the site of a brutal civil war between Militarist legions and entrenched Spiritualist enclaves. Though most Spiritualists kept to an uneasy peace, the Ashrann sect resisted with fortified trenchworks stretching for miles. Militarist assaults bled away thousands of soldiers, and morale faltered as guerrilla raids threatened supply lines.
+
+Innovation: The battle saw the first large-scale deployment of integrated exosuits, powered armour designed to link with the third eye. These suits were constructed of Kranthium - an alloy capable of absorbing and dissipating concussive force - and amplified strength, suppressed fatigue, and heightened reaction times, transforming ordinary soldiers into tireless shock troops.
+
+The Battle: On the 47th day, a legion advanced in exosuits under heavy fire. Where unaugmented troops would have broken, they pressed forward without pause, tearing through wire, trenches, and barricades. Within three days the Spiritualist lines collapsed, forcing a retreat.  
+
+Aftermath: Though costly, the victory proved augmentation indispensable to Militarist doctrine. From Ashrann onward, exosuits became the hallmark of Dominium shock infantry. Propaganda declared: "Where flesh fails, Kranthium endures."
+
+### Doctrine of Superiority
+
+Militarist war-tech is built not only to kill, but to conquer the mind. Every machine - from an infantry rifle to a Vanguard battle-cruiser - is deliberately engineered to project strength and the inevitability of the enemy's defeat. Thick armor, brutal design lines, exaggerated mass, and overwhelming firepower serve a purpose beyond function: they exist to crush resistance before the first shot is fired. To face Khaured technology is to feel outmatched, outgunned, and already defeated.
+
+For the Militarists, technology is never invention for its own sake. It is ideology made material; the forge-born proof of their creed that only the strong endure. A weapon that does not inspire fear is considered incomplete. A machine that does not outlast its operator is a failure. Elegance is irrelevant. Precision is secondary. What matters is survival, domination, and unbreakable presence.
+
+Even foreign technologies do not escape assimilation into this worldview. The Altan Triactor system - once condemned by Militarist commanders as dangerous alien excess - was not ultimately rejected, but instead tested. When it survived blood trials in Khaured hands, it ceased to be Altan. It became Dominium. Militarised. Hardened. Redeemed by conquest. The Militarists do not reject the innovation of others; they consume it and make it their own.  
+In the eyes of the Triumvus, the origin of a weapon is irrelevant. No invention carries honour until it survives the furnace of war. Only then is it permitted to exist; not as a tool, but as an instrument of survival. 
+
+Their doctrine is simple: What endures is worthy. What fails is discarded.
+
+## Economy & Logistics
+
+* The Militarist economy is structured as a war machine, its every artery devoted to sustaining conflict and expansion. To the Dominium, there is no distinction between civilian and military production: miners, haulers, builders, and factory crews are soldiers whose weapons are drills, furnaces, and starships. Every act of labour is framed as service, every crate shipped as a weapon in transit, every freighter a frontline of survival.
+
+* Supply is treated as doctrine. Convoys move through space like regiments on campaign, their routes calculated with redundancies and fallback contingencies. Each freighter is guarded as if it were a warship, for to lose one is to lose not cargo but the lifeblood of conquest. Across Dominium territory, fortified starports, orbital foundries, and planetary transport lines form the logistical skeleton of Militarist expansion. The most important routes are known as Interstellar Arteries: militarised veins linking Khaur to its frontier holdings, defended as fiercely as any fortress.
+
+* Colonies and outposts are designed with the same logic. They exist not as independent settlements but as resource hubs and staging grounds. Populations are drilled and armed from youth, expected to defend their stations to the death if attacked. When a colony falters or is exhausted, it is abandoned without ceremony, regarded not as a tragedy but as an expended round in the Dominium's endless arsenal.
+
+* Redundancy defines the system. Duplicate depots, parallel routes, and overlapping resource hubs ensure no single failure can cripple the Dominium. If an Artery falls, another opens; if a colony is lost, a replacement is activated. The machinery of supply endures not because it avoids loss, but because it accepts it as inevitable, replacing weakness with unbroken continuity.
+
+* Propaganda Maxim: "The arteries of the Dominium stretch across the stars."
+
+## Mega-Corporations and the Dominium
+
+* The Militarist Khaureds' dominance is sustained not only by their armies, but also by a lattice of interstellar mega-corporations that provide the Dominium's material backbone. These corporations are not independent entities in the traditional sense; they are chartered directly under the authority of the Triumvus, and exist as extensions of Militarist power.
+
+* Each corporation functions as both economic engine and military arm, tasked with delivering resources, weapons, and infrastructure necessary for the continual survival and expansion of the Dominium. In return, their directors are granted vast privileges, territories, and direct access to the upper echelons of power.
+
+* Unlike civilian economies elsewhere in the Federation, the Khaured model fuses commerce and conquest. Corporate fleets are armed as heavily as warships, boardrooms are staffed by retired generals, and mergers are often settled through trials of combat, sabotage, or orchestrated "corporate wars" sanctioned by the Triumvus.
+
+* To the Militarists, these corporations are proof of their race's supremacy: where others build for comfort or profit, the Khaureds build for dominion and endurance. To the Spiritualists, however, they are the clearest symbol of excess and corruption; factories that scar worlds, mines that hollow planets, and ships that reduce beauty to raw material.
+
+### Key Corporations:
+
+G'Kellor Construction LLC
+
+The largest, oldest and most entrenched of the Militarist corporations, G'Kellor is responsible for interstellar strip-mining and the construction of militarised infrastructure. Their fleets of excavation barges can reduce entire moons to slag, while their modular factory and fortress designs allow Militarists to establish footholds on hostile worlds within weeks.
+
+Their colossal "foundry-worlds" are considered sacred by Militarists, each one a fusion of fortress and factory, treated as a "Dominium Temple" where survival is forged from stone and ore. Spiritualists revile them as desecrators of nature, but the Militarists revere them as builders of a stronger future.
+
+Motto: "Foundations for eternity."
+
+D'Vecht Armaments ILC
+
+The premier arms forge of the Dominium, D'Vecht is synonymous with innovation through brutality. Specialising in weapons development, exosuit augmentation, and third-eye combat implants, their products equip every regiment in the Dominium army.
+
+D'Vecht is notorious for its doctrine of live-field testing: prototypes are rushed into combat, their effectiveness judged not in controlled trials but by the survival of the soldiers wielding them. Those who endure become living advertisements of D'Vecht's success; those who fall are written off as "unworthy."
+
+Their research hubs are among the most secretive on Khaur, guarded as tightly as citadels. Stories circulate of vaults filled with alien blueprints and discarded prototypes too dangerous even for Militarists to field.
+
+Motto: "What endures is worthy."
+
+K'Thast Energy Syndicate
+
+K'Thast has long controlled the energy lifeblood of the Dominium, harvesting volatile resources from Khaur itself. Before the discovery of Trilium, they specialised in the extraction of Gravhydron, compressed isotopes mined from deep mantle fissures, and Voltherium, a volcanic mineral whose unstable electrothermal charge powered furnaces and starship reactors. These dangerous fuels shaped K'Thast's culture of risk and ruthlessness, with entire colonies sometimes lost to collapses or meltdowns.
+ 
+With the recent advent of Trilium on the six frontier worlds, K'Thast moved with brutal efficiency to build a monopoly on refining and distribution. Today, their fleets operate across both the frontier and Dominium space, balancing Trilium exploitation with ongoing Gravhydron and Voltherium extraction to ensure redundancy of supply.
+
+Known for their militarised mining fleets, K'Thast treats every worker as both miner and soldier. Conscripted labourers drill, refine, and fight under conditions so extreme that disasters are framed not as tragedies but as "acceptable sacrifice for the survival of Khaur."
+
+The Syndicate's black-and-crimson insignia, often painted on drilling rigs and refinery towers, has become an icon of dominion wrested from fire and stone.
+
+Motto: "Harness the core, fuel the war."
+
+## Politics as Warfare
+
+* For the Militarists, politics is not debate but warfare fought without weapons. Alliances are seen as fragile walls waiting to be struck; negotiations, as opportunities to force the enemy into silence. The Dominium makes no distinction between victory on the battlefield and victory in the chamber: both are measured in obedience, collapse, and survival.
+
+* Central to this discipline is Dronnvek, the "Iron Tongue." Part science, part ritual, it is the Militarist study of how words, gestures, and silence may be sharpened into weapons. Practitioners are drilled from adolescence in voice control, body stance, and ocular discipline, learning to stretch silence into a noose and to time every phrase as if it were a hammerblow. Entire academies are devoted to Dronnvek, their halls echoing with rehearsed negotiations, interrogations, and staged breakdowns of enemy councils. To the Militarists, this training is as essential as martial drills - for a concession won without blood is still conquest, and conquest is all that matters.
+
+* At the Dronnvek academies, cadets face exercises known as Stillness Duels. Two students are locked in a chamber, stripped of speech for the first hour, allowed only posture, stare, and silence. When words are finally permitted, they must be used sparingly, with each phrase judged for its ability to shift dominance. Instructors record posture changes, eye movements, and silences as if charting blows in a duel. Victory is awarded not to the one who speaks loudest or most often, but to the one who forces their rival into hesitation, concession, or silence. For Militarists, these duels are the equivalent of sparring: politics reduced to combat drills.
+
+* Those who excel at Dronnvek may be elevated to Krathtarrn, the Blade Walkers. Unlike conventional envoys, they are dispatched not to create alliances but to dissolve them. Their role is not compromise but corrosion, unpicking trust thread by thread until coalitions collapse into suspicion and isolation. Their influence can fracture worlds as surely as a mech's hammer can shatter walls. Within this tradition, the name of Krannorr, She Who Severs, stands as legend: her very silence is remembered as a political weapon potent enough to undo a senate.
+
+* Though rare, male practitioners are not absent. The most infamous, Tavrekh S'Vorr, the Whisperknife, was trained against tradition and proved that even the margins of Militarist culture can be forged into blades. His career is cited in propaganda as evidence that endurance and stillness are stronger than any convention - that even politics bows to the Dominium's will.  
+* The internal political hierarchy mirrors these principles. Beneath the Triumvus, influence is not bartered in votes or compromises but seized through survival. Generals, corporate magnates, and Krathtarrn envoys wage their own silent wars for power, where hesitation is weakness and rivals vanish not into exile but into silence. To fail in politics is no less damning than to fail in war, for both betray the creed of inevitability.
+
+* Beyond their own borders, the Militarists apply these same doctrines to rival powers. Treaties are seen not as sacred bonds but as temporary arrangements - tolerated only while they benefit the Dominium, and broken without hesitation once they cease to serve. Rivals call this betrayal; Militarists frame it as the natural correction of weakness. Relations with other races are conducted through this lens: the Altans are valued for their Triactor technologies but distrusted as manipulators; the Elgem are admired for their cunning yet derided as fragile; the Lopati are treated with wary respect, regarded as kindred in their resourcefulness and endurance, a people who survived the death of their world and carried on in colossal Arkships. The lesser races - including Humans and others - are typically dismissed outright unless they provide resources, leverage or are useful to the Dominium in some other way.
+
+* Foreign propaganda is woven into this strategy. Tales of Militarist champions - Utrald G'Konn's unbreakable endurance, Admiral Varrekh's consuming fire - are deliberately spread beyond Khaured borders to instill dread long before battle begins. Even the myths of Krannorr and the career of Tavrekh are invoked in foreign courts, whispered as warnings that the Dominium's silence itself can dissolve councils and unravel alliances.
+
+* In Militarist rhetoric, politics is portrayed as the unseen front - the war fought in silences, in carefully weighted phrases, in the collapse of rival alliances. The battlefield may be a senate hall rather than a trench, but the measure of victory remains the same: obedience and submission.  
+* Propaganda Maxim: "Every silence is a siege - and every siege ends in surrender."
+
+## Symbols, Insignia, Aesthetics
+
+Militarist Khaured culture is saturated with symbols designed to reinforce loyalty and suppress individuality. Every banner, uniform, and emblem serves as both identity and weapon: a visual reminder that the Dominium is greater than any single Khaured, and that survival depends upon unity under its iron fist.
+
+The central emblem of the Dominium combines angular geometry with the motif of the third eye, always rendered in black, crimson, and steel-grey. This sigil is displayed on fortress walls, armour plates, warships, and propaganda murals. To deface it is an unthinkable crime; to bear it, a pledge of obedience. Military insignia echo this severity: rank is denoted by angular chevrons etched or branded directly into armour, often filled with crimson lacquer, while campaign honours are not ribbons of cloth but steel tags, each engraved with the name of a battle. Veterans mark their scars with red ink or scorched pigment, turning wounds into permanent badges of devotion.
+
+The mega-corporations maintain their own emblems, stamped on equipment, structures, and uniforms, binding every worker under both banner and brand:
+
+* G'Kellor Construction LLC: Their emblem resembles a towering industrial fortress stylised in black steel with crimson inlays, echoing the bastions they erect across hostile worlds. It is displayed proudly on excavation barges and foundry-worlds, seen as a mark of endurance carved into stone and ore.
+
+* D'Vecht Armaments ILC: Their sigil resembles a stylised crosshair ringed by jagged blades, a weapon turned into heraldry. Rendered in obsidian black with blood-red edges, it symbolises their creed of innovation through survival and their doctrine of live-field testing.
+
+* K'Thast Energy Syndicate: Their emblem is the Tri-Core Sigil - three interlocked triangular cores surrounding a hollow centre, symbolising Gravhydron, Voltherium, and Trilium bound under one syndicate. Crimson fracture-lines cut through the steel-grey forms, evoking both tectonic violence and the raw power K'Thast monopolises. It appears on drilling fleets, refinery spires, and the suits of their conscripted labourers.
+
+Culturally, Militarist aesthetics favour sharp verticals and jagged geometries, echoing cliffs, fortresses, and weapons. Propaganda murals exaggerate the scale of warriors, mechs, and corporate founders, rendering them as titans against a backdrop of shattered foes. Colours are restricted to blacks, greys, and crimson - hues of ash, blood, and stone. In political chambers, banners often feature closed eyes or stylised mouths, symbols of Dronnvek and the doctrine that silence itself can be a weapon.
+  
+Militarist insignia carry history as much as rank. The Mark of the Triumvus Honor Guard - a black triangle enclosing a crimson third eye - is granted only to those who have personally shielded the Triumvus in battle. The Red Spiral of Raknor commemorates survivors of the legendary Siege of Raknor's Spine, an unbroken twelve-year front that forged the Dominium's modern infantry doctrine. Elite trench shock troops of the 8th Subjugation Legion bear the sigil of a chained sun, a symbol earned during the brutal pacification campaigns of the Molvath Rim.  
+Victory is recorded not in medals but in scars upon metal. Kill-tallies are engraved into the plates of exosuits and mech chassis, while blood-stamped oath-runes are burned into Titanobhrax armour before battle. Many soldiers carry etched vow-lines taken from the Dominium's war-creed, such as "Submission is a lie" or "Only the unbroken endure." Some mechs display full oath-plates - metal tablets riveted into their frames - bearing promises like: "I shall not return unless victorious."  
+
+Historical icons are also preserved through symbols. The Hammer of Hirruk the Unbroken, an ancient emblem of resilience, is still painted on siege artillery by garrison units sworn to hold ground at any cost. Meanwhile, the Fang of Drossa, a stylised blade over a shattered eye, marks regiments who survived internal purges and returned to service; proof that even condemned metal can be reforged.
+
+To an outsider these symbols may seem excessive, but to the Militarists they are proof of existence. Nothing is remembered unless it is carved, burned, stamped, or scarred.
+
+Propaganda Maxim: "Black for discipline, grey for duty, red for sacrifice."
+
+## Notable Figures
+
+### The Generals of the Triumvus: Voice, Hand, and Sight  
+The Triumvus are the ruling triumvirate of Militarist society; three Great Elders chosen from among the most proven generals of their generation. They are spoken of by titles rather than names: the Voice, who commands the loyalty of the Dominium; the Hand, who directs its armies; and the Sight, who guides its destiny through strategy and long-term planning.
+
+  * Each embodies an archetype of Militarist discipline, elevated beyond individual identity. To the Militarists, they are guardians of Khaur's survival instinct incarnate. To the Spiritualists, they are the very symbol of oppression. No individual story defines them, for their power is cumulative: the weight of countless campaigns, decisions, and decrees that keep the Dominium unbroken.
+
+### Utrald G'Konn, The Unbreakable Colossus  
+Once celebrated as the mightiest close-combat champion of the Dominium, Utrald embodied the Militarist ideal of brute endurance. Towering even among Khaureds, his name was invoked in both reverence and fear, for he fought with a relentless style that seemed to deny fatigue itself.
+
+  * Defining Achievement: During the famed death-trials of Volkrann Hold, Utrald entered the arena alone and fought thirty other gladiators through an entire night, killing each with calculated brutality. Though he emerged drenched in blood and covered in wounds, he never faltered - a feat that became legendary across the Dominium.
+
+  * His legacy, however, is forever scarred by his defeat at the hands of Erudus K'Vikk, whose mastery of Spiritualism revealed that even the strongest flesh could be humbled by the unseen strength of the spiritual plane. Utrald is still honoured in Militarist circles, but his name carries both glory and warning: discipline must always temper arrogance.
+
+### Hirruk G'Danz, The Forgemind of the Dominium  
+Born without a third eye and mocked as lesser, Hirruk overcame his disability with surgical augmentation, his bionic vision allowing him to see details no other Khaured could. Rising through the Research Corps, he became one of the Dominium's most ingenious weaponsmiths during an era when the Khaureds still stood apart from the greater Federation.
+
+  * Defining Achievement: Hirruk achieved renown by reverse-engineering a crashed alien weapon discovered on Khaur's surface during a border incursion. Using only fragmentary remains, he produced a functioning rifle that withstood the planet's crushing gravity and outperformed traditional Khaured forges. The weapon was hailed as proof that Militarists could bend even the unknown to their will, earning him the title of Forgemind.
+
+  * Yet what earned him fame also seeded his downfall: decades later, when those same rifles were turned upon Spiritualist enclaves, Hirruk recognised the same cruelty he had suffered as a child - and turned against the Militarists he once served. His name is now spoken with venom in Militarist halls, but among Spiritualists he is remembered as the craftsman who chose conscience over creed.
+
+### Varrekh D'Shunn, The Calculating Flame  
+A master of naval strategy, Admiral Varrekh D'Shunn commands the Dominium's outer fleets with cold precision. Lacking the charisma of other commanders, she is instead revered for her ability to reduce wars to equations, victory to inevitability. Her doctrine of total orbital denial has become standard across Militarist fleets, ensuring no enemy ship survives entry into contested space.
+
+  * Defining Achievement: At the Battle of the Shattered Belt, Varrekh lured a coalition of raiders into a dense asteroid field. With perfect timing, she orchestrated orbital strikes that shattered rocks and vessels alike, eradicating the enemy to the last ship. Survivors were nonexistent; only drifting debris testified to her triumph.
+
+  * To her crews, she is a figure of awe, a commander whose precision turns battle into inevitable victories. To her enemies, her name is spoken in dread, a terror whispered as if she were elemental fire itself; consuming without hesitation, leaving only ash and silence in her wake. Whole enemy fleets have vanished under her command, reduced to drifting debris before they ever glimpsed her flagship. In Militarist propaganda, she is portrayed not as a mere admiral but as the embodiment of calculated destruction.
+
+### Dravos K'Vorr, The Stone Sentinel  
+Commander of the elite Krannor Guard, Dravos epitomises the Militarist virtue of endurance. Scarred beyond recognition, his visage is worn proudly as a testament to sacrifice. He is revered less for tactical brilliance than for his refusal to yield, embodying the creed that survival itself is victory.
+
+  * Defining Achievement: During the Siege of Jothar Ridge, Dravos and his legion held out against overwhelming numbers for thirteen days. On the final day, he led a counter-charge against siege engines, tearing through enemy lines even as shrapnel tore half his body apart. He refused evacuation until reinforcements secured the ridge.
+
+  * His example is drilled into every cadet: scars are not shame but scripture, proof of loyalty carved in flesh. Each mark upon his body is studied like a lesson, each wound recited as if a line in the creed of endurance. To the Militarists, Dravos did not just survive Jothar Ridge, he became it; a living fortress of scar tissue and unbroken will. In training halls across the Dominium, instructors point to his visage as a reminder that pain is fleeting, but duty is eternal. His body, ravaged yet unyielding, is held aloft as the purest testament that the Dominium is written not in ink or stone, but in blood and flesh that refuse to yield.
+
+### Krannorr, She Who Severs  
+A figure shrouded in both myth and history, Krannorr is remembered as the most feared of the Blade Walkers. Unlike other envoys, she needed neither argument nor performance; her power lay in silence sharpened into weaponry. Trained in Dronnvek from adolescence, she refined the art of intimidation to its absolute limit, her very presence destabilising those who faced her. To the Dominium, she embodies the perfection of political warfare — not persuasion, but severance.
+
+  * Defining Achievement: The Silence of Krannorr has become one of the most enduring tales of the Dominium. She entered the senate of a secessionist Khaured faction, sat in absolute silence for twelve minutes, and departed without a word. By dawn, half the senators had resigned, and the rest voted to rejoin the Dominium. No transcript survives, and no act of violence was recorded. Whether fact or embellishment, the tale has endured for centuries as proof that a presence honed to Militarist discipline can unmake nations.
+
+  * To her peers, she is revered as the supreme exemplar of the Blade Walkers' craft; to her enemies, she is whispered as a terror whose silence cuts deeper than words. In Militarist propaganda, Krannorr is portrayed not as a diplomat but as inevitability made flesh: the embodiment of a doctrine where politics is simply war waged without steel.
+
+### Tavrekh S'Vorr, The Whisperknife  
+One of the few male Krathtarrn envoys in Dominium history, Tavrekh S'Vorr was trained against tradition in a discipline almost exclusively reserved for female operatives. Identified in youth for his unnerving composure and iron self-control, he was shaped into a political weapon whose very rarity lent him an aura of disquiet. Unlike other envoys, Tavrekh thrived not in open chambers but in the shadows between conversations, wielding silence and insinuation as deftly as any warrior wields a blade.
+
+  * Defining Achievement: Tavrekh's legend was forged at the Shattering of Veydrass. Dispatched to a neutral summit where Altan and Lopati representatives sought to forge a defence pact, he never entered the formal debates. Instead, he moved quietly in corridors, cultivating whispers and doubts. Within three days, mistrust blossomed into fracture: the Lopati delegation withdrew, the pact collapsed, and the Altans left humiliated. No soldier had marched, no blade had been drawn — yet the Dominium emerged victorious.
+ 
+  * Among Militarists, Tavrekh is celebrated as proof that even politics bends to their creed of domination. To allies he is a rarity; to enemies, a shadow whose words cut as deeply as any weapon. In Dominium propaganda, he is exalted as the Whisperknife: the blade none see, the cut none hear, until the pact lies severed and the Dominium prevails.
+
+### Korrak V'Rann, The Architect of Eternity (G'Kellor Construction)  
+Chief Overseer of G'Kellor's interstellar strip-mining fleets, Korrak sees permanence where others see ruin. To him, every fortress-factory is a sacred structure, every foundry-world a pillar of eternity holding up the Dominium itself. He rules his labour crews with ruthless efficiency, executing foremen who fall behind schedule.
+
+  * Defining Achievement: Korrak directed the transformation of the asteroid Vothrak Prime into a drifting citadel, tearing it from orbit and fitting it with engines, furnaces, and weapons. This "roving foundry" stands as one of the greatest monuments of G'Kellor's power: a mighty factory that moves as a fortress through space.
+
+### Thrynn Z'Volkar, The Warfiresmith (D'Vecht Armaments)  
+Ruthless and flamboyant, Thrynn seized leadership of D'Vecht by killing three rivals in a boardroom duel. A weaponsmith by blood and instinct, she insists on testing prototypes herself, considering soldiers extensions of her forge. To her, war is the truest workshop, and blood the only proof of durability.
+
+  * Defining Achievement: Thrynn personally donned the first Trilium-powered prototype Exosuit during the Suppression of Lorrak Deep, leading a squad through six hours of relentless combat. She dismantled enemy fortifications with her bare hands, her actions broadcast across the Dominium as propaganda. The exosuit - now provided to the most elite Khaured ground troops - has become a symbol of D'Vecht's philosophy: innovation by trial, perfection by survival.
+
+### Makorr T'Veshar, The Firelord of the Core (K'Thast Energy Syndicate)  
+Overlord of the K'Thast Syndicate, Makorr is feared as much by his workers as by his enemies. His doctrine of "acceptable sacrifice" has claimed countless lives, yet his fleets keep the Dominium supplied with the energy that powers its weapons, armada, and factories. From Gravhydron reactors on Khaur to Voltherium plasma conduits and the newly seized Trilium veins of the frontier, his name is synonymous with ruthless pragmatism.
+
+  * Defining Achievement: During the Defense of Tarketh Forge, an enemy fleet breached K'Thast's drilling colonies on the volcanic moon Tarketh. With the mines collapsing and workers still trapped, Makorr ordered the detonation of a Voltherium conduit network, triggering a chain reaction that immolated both the raiders and much of his own workforce in a storm of plasma fire. The cataclysm destroyed the invaders utterly and yielded enough refined energy to fuel Dominium fleets for years. Militarists hailed the act as ruthless genius; Spiritualists condemned it as industrial slaughter.
+
+## Attitude Toward Spiritualists
+
+* To the Militarists, the Spiritualists are a paradox of weakness and endurance. On one hand, they are derided as indulgent, self-absorbed, and dangerously inattentive to the realities of survival. On the other, they have persisted for millennia in the shadow of Militarist dominance — a fact that even the harshest generals must grudgingly respect.
+
+* Historically, the Militarists viewed the Spiritualist sect as a threat to unity, its rejection of martial discipline tantamount to treason. Raids and purges were conducted frequently, both to extinguish Spiritualist enclaves and to send a message that deviation would not be tolerated. Such campaigns were celebrated as purifications of Khaured society, though many Militarists recognised privately that the ferocity of the resistance demonstrated a strength of conviction not unlike their own.
+
+* The pivotal defeat of Utrald G'Konn by Erudus the All-Seer forced the Triumvus to formally acknowledge the Spiritualists as a distinct sect. This humiliation is still remembered with bitterness: for many Militarists, Erudus' victory remains an open wound, proof that the Spiritualists' "mysticism" can disrupt the order of the Dominium. To others, it is tolerated as an anomaly; a dangerous lesson that Militarists must never underestimate those who walk a different path.
+
+* In modern times, relations between the two sects are marked by segregated coexistence. Spiritualist sanctuaries are permitted to exist, but under heavy surveillance, their influence curtailed through strict territorial boundaries. Militarists generally avoid interaction with them, considering their customs frivolous and their attire ostentatious. Yet there are occasional exchanges, often through defectors or dissidents like Hirruk G'Danz, whose insights into Militarist technologies later fuelled Spiritualist resistance.
+
+* Militarists justify their disdain by claiming that while they build citadels, fleets, and corporations that ensure Khaur's survival, the Spiritualists waste strength on songs and sculptures. To them, Spiritualist art is indulgence masquerading as wisdom, incapable of feeding armies or conquering worlds.
+
+* Still, even within Militarist ranks, there exists a muted acknowledgement that the Spiritualists preserve something the Dominium cannot: a sense of vision beyond survival. While most generals dismiss this as softness, a few whisper that without the Spiritualists, the Khaured race would be strong, but blind.
+
+## Legacy and Influence
+
+* The Militarist sect has been the architect of Khaured survival since the earliest days of the race. On a world where gravity crushes the unprepared and predators stalk the unwary, it was Militarist discipline, organisation, and relentless will that forged scattered clans into the unified Dominium. Their creed of strength through discipline became not only doctrine but the very framework of Khaured identity.
+
+* Through conquest and expansion, the Militarists secured Khaur's place among the stars. Their mega-corporations - G'Kellor Construction, D'Vecht Armaments, and K'Thast Energy Syndicate - turned the Dominium into an interstellar war machine, projecting power across worlds while sustaining the homeworld with resources and wealth. Entire colonies, fleets, and fortresses bear the imprint of Militarist design: functional, unyielding, and enduring.
+
+* Their cultural influence remains equally profound. From the scarred faces of their champions to the stark uniforms of their workers, Militarist society celebrates endurance, loyalty, and sacrifice above all. Tales of generals and champions are immortalised not as legends of freedom or beauty, but as lessons in discipline and the high cost of survival.
+
+* Critics, especially among the Spiritualists, condemn them as blind, cruel, and destructive; a people who scar planets and crush dissent. Yet even detractors must concede that without the Militarists, Khaur would likely have fallen to alien rivals, or to internal decay. In their eyes, the Dominium stands not because of art, vision, or faith, but because its walls are high, its armies endless, and its people unyielding.
+
+* To the Militarists themselves, this is their greatest legacy: that Khaur endures, unbroken, because they never wavered. Where the Spiritualists seek meaning in transcendence, the Militarists claim their meaning is already proven in survival. Every citadel that still stands, every legion that still marches, every corporate fleet that still expands - these are their monuments, carved not in marble but in blood and iron.
+
+* In the grand narrative of the Khaured people, the Militarists embody the eternal truth they have carried since the first regiments marched: that only the strong endure, and endurance is victory.
