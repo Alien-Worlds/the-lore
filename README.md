@@ -6754,3 +6754,1072 @@ Inter-tribal gatherings provide opportunities for cultural exchange, and tattoos
 ### A Testament to Identity
 
 Elgem tattoos are a vibrant, living testament to their harmony with Velgemmis and the diverse biomes they inhabit. These marks of identity, forged in the dyes and patterns of their environment, reflect the ingenuity, resilience, and cultural richness of their society. For the Elgem, their tattoos are connections to their world, their tribe, and their legacy.
+
+
+  
+#THE ETERNAL CODEX    
+Guilds of the Federation
+
+A Record of Doctrine, Customs, and Conduct    
+Compiled for the Office of the Federation Archivist    
+Covering the Guilds of Eyeke, Veles, Neri, and Magor
+
+###SCRIBE'S NOTATION    
+This codex is a working institutional record, not a work of admiration. Entries have been compiled from field observation, direct guild testimony, ceremonial attendance, and inference from behavior that defied straightforward explanation where other sources were unavailable. Where the record is ambiguous, it is noted. Where it is incomplete, it is because certain guilds were less forthcoming than others, a fact the reader may find instructive in itself.
+
+####On the Purpose of This Record
+
+The Federation encompasses worlds of considerable variety: in geology, temperament, atmospheric composition, and the quality of their respective silences. It has, in time, also produced guilds of considerable variety, each one an expression of the world that formed it and the peoples who chose to remain. Tracking them all in a single record is an undertaking the Office of the Archivist has long deferred, citing, variously, resource constraints, diplomatic sensitivities, and at least once, the personal reluctance of the sitting Senior Scribe to return to Magor under any circumstances.    
+This codex represents the overdue completion of that task.    
+Four guilds are documented herein: the Grey Forgemasters of Eyeke, the Velart Archivists of Veles, the Simian Sect of Neri, and the Volcanic Forges of Magor. Each entry covers founding doctrine, cultural practice, internal structure, ritual life, notable artifacts or institutions, and the relationship of the guild to its home planet and to the Federation at large. The entries vary in length. This reflects the guilds themselves. Some keep detailed records and share them willingly; others treat institutional transparency as a mild threat to be deflected with ceremony.    
+All four guilds are, in the estimation of this office, genuine pillars of the Federation's functioning. Their differences in method are significant. Their shared commitment to purpose, however that purpose is locally defined, is not in question.    
+The reader is encouraged to approach each entry on its own terms. Comparing the Simian Sect to the Velart Archivists, for instance, is possible but produces conclusions of limited usefulness, much as one might compare an ocean to a fruit. Both are real. Both serve a function. The comparison illuminates neither.
+
+##I. THE GREY FORGEMASTERS OF EYEKE
+
+###CLASSIFICATION    
+Artisan Guild. Biometal Manufacture and Living Technology. Operational status: active. Diplomatic status: neutral by principle and considerable effort.    
+###PLANET OF RECORD    
+Eyeke. A world of bioluminescent forest cover, crystalline geological formations, and a subsurface trilium network of unusual density. The emerald sky coloration is a product of atmospheric particulate refracted through the canopy layer. Visitors frequently describe it as beautiful. The Forgemasters describe it as home, which is a different thing, though they permit the description to stand.    
+Founding and Origins    
+The Grey Forgemasters trace their institutional founding to the first Altan settlers who made contact with Eyeke's monolith structures. These formations, enormous petrified columns distributed across the planet's highland plains, were initially surveyed as geological anomalies. They are not. The monoliths emit low-frequency harmonic resonance that varies in response to the presence and mental state of nearby observers. Whether this constitutes communication in any technically meaningful sense remains contested. The Altans settled the question to their own satisfaction early on, and the Guild was established around the working premise that the monoliths are, in some fashion, listening.    
+This founding orientation, that the planet itself is a participant in the Guild's work rather than merely a location for it, shapes every aspect of Forgemaster doctrine and practice. The Guild does not simply mine Eyeke. It maintains an ongoing relationship with it, mediated through ritual, through the craft of biometal, and through the careful tending of the monolith sites, which require periodic attention that the Guild describes as communion and an outside observer might describe as maintenance, though raising this distinction in Guild company is inadvisable.    
+The Craft: Biometal and Living Technology    
+The Forgemasters' principal contribution to Federation industry is biometal, a manufactured material that blurs, in practice if not in theoretical chemistry, the boundary between organic matter and mechanical construction. Biometal artifacts respond to the emotional and cognitive state of their users. They adapt incrementally to patterns of use. They are, by the Guild's account, alive in some non-trivial sense, though the Guild is careful not to specify which sense.    
+The creation of biometal requires two things the Guild takes pains to keep inseparable: technical precision in the forging process, and what the Forgemasters call soul. The term refers to the intentional investment of a maker's conscious will in the material during its formation. Guild doctrine holds that biometal produced without this investment is inert regardless of its chemical composition. In practice, this means that mass production of authentic biometal is impossible. Each piece requires a maker, and each maker must be present in a meaningful way during the work.    
+This has obvious implications for the Guild's output volume and pricing, which the Forgemasters accept as a feature of their philosophy rather than a limitation of their business model. They are not wrong, though their suppliers occasionally find it inconvenient.    
+The Circuit of the Three Truths    
+Guild operations are distributed across what the Forgemasters call the Circuit of the Three Truths, a structured network of sites each serving a distinct function in the production of Living Technology:    
+The Embassy Capital sits at Eyeke's core, where the monolith density is highest. This is the Guild's seat of governance, its design center, and the primary site of communion with the planetary formation. Altan elders, Human pioneers, and Elgem artisans share workspace here. The resulting culture is one of deliberate cross-pollination: Altan patience in the long design process, Human stubbornness in the face of failed prototypes, and Elgem insistence that beauty and function are not competing values but expressions of the same underlying principle.    
+The Volcanic Extremity, specifically the connections maintained with Magor's forge-capable terrain, provides the tempering environment for hull-grade biometal. Forgemaster acolytes sent to complete this phase of their training describe the experience in terms that suggest it is deliberately unpleasant. The Guild holds that material cannot be trusted until it has been tested against conditions it might not survive. The same logic applies to the acolytes.    
+Stabilization Sites at the circuit's third arm handle power-core calibration: the process by which a vessel's energy system is aligned with its eventual pilot's resonance profile. This is a slow process by design. Rushing it produces vessels that are powerful but unstable, a combination the Guild considers worse than uselessness.    
+The Ritual of Transmutation    
+The Guild's central ceremonial practice is the Ritual of Transmutation, conducted in the Grand Furnaces of the Enclave. The ritual operates on a doctrine the Forgemasters express simply: nothing is lost; things are only waiting to be remade.    
+In practice, the ritual involves the collection and deliberate destruction of used artifacts, including worn tools, depleted sensors, and outmoded vessels, in a ceremony called the Burning of the Old World. The event runs from one dawn to the next and is accompanied by Altan harmonic chanting and Human work songs, the two traditions having apparently settled into a complementary rhythm over generations of shared ceremony. The Guild views this combination as representative of its broader cultural synthesis, and also as genuinely good listening.    
+From the Burning, the raw biometal is recovered in new forms suited to new purposes. The Guild's position is that this is not recycling; it is memory. The material retains the intent and effort of every previous use and incorporates those qualities into its next incarnation. Whether this is literally true is a question for materials scientists. The vessels produced by the process do, by most accounts, perform as though it were.    
+Vessel Typology: The Ancestral Vessels    
+The Guild recognizes three primary categories of Ancestral Vessel, each associated with a distinct tradition within the Forgemaster synthesis:    
+HSF Templars: Heavy defense vessels associated with the Human lineage within the Guild. Their armor systems exhibit the characteristic biometal adaptation response most strongly under sustained pressure; the material densifies when the pilot holds position under attack. Forgemaster engineers regard this as the material expressing the pilot's resolve. Combat analysts regard it as a useful property. Both descriptions are accurate.    
+OCV Omnivox: Ethereal-class constructs developed in alignment with Altan psychic resonance traditions. These vessels amplify the pilot's perceptual capacity, specifically anticipatory awareness. Pilots report, with notable consistency, that the vessel seems to know where the threat is coming from before the sensors confirm it. The Guild nods at this description without elaborating.    
+YGG Berserkers: Kinetic assault vessels drawing on Eyeke's own storm energies, channeled through the biometal during a specific phase of the Ritual. These are the most unstable of the three types under normal operating conditions and the most effective under crisis conditions, which the Guild notes is not a coincidence.    
+The Law of the Living Voice    
+Guild membership and forge access are governed by what the Forgemasters call the Law of the Living Voice, which holds that every maker, pilot, and initiate must demonstrate conscious presence before being admitted to any forge function. The Guild's term for those who fail this standard is the Hollow Ones: entities, whether biological or mechanical, that operate without genuine self-awareness. The Guild does not engage with Hollow Ones commercially, contractually, or diplomatically.    
+Entry to the inner sanctum of any Forgemaster forge requires passage through the Communion of the Scribes, a formal process in which the aspirant must speak at length. The content matters less than the evidence of genuine interiority: doubt, memory, intent, even fear are all acceptable. The Anti-Hollow Wards, ancient Altan installations incorporated into every furnace structure, respond to genuine consciousness and reject its absence. The Guild reports zero false positives. The Office of the Archivist has not tested this claim and does not currently plan to.    
+The Union Accord and the Eternal Uniques    
+The Guild's most significant institutional event in recent cycles was the Union Accord, initiated during a period of forge-flame decline that the Forgemasters describe with characteristic restraint as a difficult season. A stellar energy event, designated the Union Injection, replenished the Embassy vaults during a period of precise cosmic alignment. The Guild interpreted this as confirmation of the planetary relationship's ongoing nature. The Federation Energetics Office classified it as an anomalous trilium-flux event. Both interpretations remain on file.    
+The Revitalization period that followed produced the Eternal Uniques, a class of artifact anchored permanently to Eyeke and incapable of removal or reproduction:    
+The Inquisitor: a detection artifact of unusual sensitivity, capable of identifying deceptive intent with a reliability that makes it deeply unpopular at diplomatic functions. The Guild loans it out only for purposes it has already judged to be legitimate, a circularity that has not escaped the notice of the parties who have requested it. In recent cycles, several requests the Guild itself initially approved have been declined at the artifact's point of activation, with no explanation offered. The Guild has not publicly addressed this pattern. Whether the Inquisitor is becoming more selective or the Guild's own judgment is being tested by it is a question a number of senior Forgemasters are apparently also asking.    
+The Valkara: a recovery artifact of the highest classification. The Valkara can stabilize a vessel at the point of catastrophic failure and restore both structural integrity and the pilot-vessel bond. The Guild describes this as mending metal and spirit simultaneously. Pilots who have been through the process describe it in terms that suggest both descriptions are underselling it.    
+A quieter concern runs alongside the Guild's pride in both artifacts. Several Forgemaster voices, none speaking on record, have raised the question of whether the Eternal Uniques are functioning as tools or as objects of veneration. The Ritual of Transmutation holds that no artifact is beyond the fire; everything remade can be remade again. The Eternal Uniques, by definition, cannot. Whether this exemption is a theological exception or a slow contradiction at the center of the Guild's foundational doctrine is not a debate the Guild has chosen to have publicly. The fact that it is being had privately is noted here for the record.    
+Position Within the Federation    
+The Grey Forgemasters maintain strict neutrality across all Federation political alignments. They offer craft and materials to any party they deem to meet the standard of the Living Voice, regardless of race, origin, or prior relationship with the Guild. They do not take sides. They do not broker alliances. They do not accept commissions intended to tip a conflict's balance.    
+This position has, on multiple occasions, frustrated parties who believed their cause sufficiently righteous to warrant an exception. The Guild's response to these arguments is consistent: the forge does not choose sides; it chooses makers. The distinction is not subtle, but it does require more patience than some parties are prepared to invest.    
+The Oath of the Forge, sworn by all members regardless of species at the point of full initiation, binds them to three commitments: protect the secrets of trilium from those who would exploit it without understanding it; honor biometal's living nature as a sacred trust; and prepare, in craft and in character, for what the Guild terms the Final Synthesis. This is the reckoning the Forgemasters believe the galaxy is moving toward, in which only what has been made with genuine soul will endure. They are not specific about the timeline. They rarely are.
+
+##II. THE VELART ARCHIVIST GUILD OF VELES
+
+###CLASSIFICATION    
+Knowledge Guild. Deep Retrieval and Historical Preservation. Operational status: active. Diplomatic status: managed disclosure. The Guild engages with the Federation on its own terms, sharing what it has determined appropriate, withholding what it has not, and maintaining this position with a consistency that the Office of the Archivist has come to regard as structural rather than situational.    
+###PLANET OF RECORD    
+Veles. A world defined almost entirely by its ocean, an expanse so vast that cartographic efforts to fully chart it have, to date, failed to conclude. The planet's surface receives little light. Its depths receive less. Frontier assessments typically describe it as inhospitable and resource-rich, which is accurate on both counts and misses most of what is significant about it.    
+Founding and Orientation    
+The Velart Archivist Guild was established on a premise that its members consider self-evident and that outside observers have occasionally found startling: that Veles is a library, and that the Guild's purpose is to read it.    
+The ocean floor of Veles contains, by the Guild's estimate (and their estimates are generally conservative), geological formations, buried structures, and organic deposits of a complexity and antiquity that predates the Federation by a significant margin. The Pre-Calamity Architects, whoever they were, left their records not in stone tablets or data archives but in the accumulated sediment of a world that was, at some point, a nexus. The Velart position is that this record can be found, retrieved, and understood. They have been demonstrating this position, incrementally and with great patience, for as long as the Guild has existed.    
+The Guild is structured as a functional duality, each half necessary to the other's purpose:    
+The Velart Seekers    
+The Seekers are the Guild's operational arm: divers, sonic mappers, remote system pilots, and field agents whose work takes place in the deep water, frequently at depths that would destroy conventional equipment and most conventional operators.    
+Seeker training is lengthy, uncomfortable, and deliberately isolating. Candidates spend extended periods in the Spire, the Guild's orbital-to-deep elevator station, in conditions of near-total sensory deprivation, developing what the Guild calls the sixth sense for the ocean's signals. Whether this is literal sense development or the cultivation of pattern recognition at the edge of conscious processing is a distinction the Seekers do not find interesting. It works, and that satisfies them.    
+Their equipment is purpose-built for an environment that destroys purpose-built equipment at a reliable rate:    
+Synaptic Submersibles are neurally linked craft whose control interface operates through direct cognitive feed rather than physical input. The pilot feels the water's pressure changes and current shifts as direct sensory data. Seekers report that, after sufficient time in a Synaptic craft, returning to a standard vessel feels like navigating blindfolded.    
+Dermal-Synced Diving Suits are constructed with surface materials that mimic the hydrodynamic properties of Velesian Leviathan hide. The Seekers have, by necessity, learned to navigate around this deep fauna rather than through it. The suits allow movement through high-pressure environments that would crush standard diving apparatus. They take considerable time to fit correctly and cannot be transferred between users.    
+Acoustic Chisels are retrieval instruments that use targeted sound frequencies to dislodge and recover sediment-encased artifacts without physical contact. The technology was developed after several early retrieval attempts produced fragments where complete structures had previously existed. The Guild considers the early losses a lesson in how not to approach the work, and has not repeated the method.    
+The Seekers operate according to a principle they call Active Resonance: history is not a static deposit to be excavated but a frequency to be tuned. They are not digging; they are listening, and moving toward what they hear. This orientation shapes how they search, what they prioritize, and how they report back to the Keepers. It also shapes how they move through the ocean, as guests navigating another entity's domain rather than operators managing an extraction environment.    
+The Velesian peoples who accompany or support Seeker operations bring capacities that equipment cannot replicate. Lopati divers, adapted to low-gravity environments, demonstrate subsurface endurance well beyond other species' limits. Their traditional current-songs serve a practical navigational function in zones where instrument guidance becomes unreliable. Onoros field agents carry psychic attunement that registers the ocean's acoustic signatures as direct perception rather than processed signal, a capacity that has located artifacts the instruments missed. Nordic wanderers contribute deep-navigation lore accumulated across generations of surface-to-abyss traversal.    
+The Artvel Keepers    
+The Keepers are the Guild's preservation and interpretation wing. They rarely surface. Several long-serving Keepers have, by their own account, lost interest in doing so.    
+Their primary base of operations is Aethelgard Station, a geothermally anchored dome in the ocean's midnight zone. The Sapphire Vault within Aethelgard holds retrieved artifacts in stasis conditions matched precisely to their original environmental chemistry, a methodology developed after early storage efforts produced rapid deterioration in materials that had survived intact for geological timescales. The Keepers take this as evidence that understanding context is not optional in preservation work.    
+The Keepers' principal interpretive tool is the Mnemosyne Engine, a reconstruction system that takes physical artifact fragments and models their broader historical context through a combination of isotopic forensics, semiotic analysis, and what the Guild calls creative sequencing: the informed reconstruction of missing portions based on cultural pattern recognition. The Engine's outputs are presented as probabilistic models, not certainties, a distinction the Guild enforces rigorously. The Keepers have a particular institutional discomfort with overconfident interpretation, which this office finds professionally relatable.    
+The interpretive disciplines practiced by Keepers require mastery of three distinct analytical traditions:    
+Semiotics of Fluid Thought: The Pre-Calamity Architects recorded information in visual forms that change structure with pressure differentials. Reading them requires understanding not just the base imagery but the pressure context in which it was produced and the transformations it has undergone. An artifact that appears to be a single image at surface pressure reveals different information at Crush Zone depth. Keepers must hold both states simultaneously.    
+Chemical Forensics: Vent-forged isotope analysis can date artifacts with considerable precision and establish their geographic origin within the Velesian system. This work is slow, technically demanding, and frequently inconclusive, a combination that suits the Keepers, who distrust quick answers.    
+Cultural Sequencing: The reconstruction of Memory Cores, a specific artifact class that encodes historical narrative in biological substrate, requires that the reconstructor understand not just what the Core originally contained but what framework of meaning it was created within. Filling gaps with culturally true threads, as the Guild terms it, demands years of immersion in Pre-Calamity cultural residue. Keepers typically specialize by period or regional tradition, and their areas of expertise rarely overlap neatly.    
+The Conjunction of the Tides    
+The Velart and Artvel wings converge in formal ceremony at intervals the Guild calls the Conjunction of the Tides, a meeting that is part institutional review, part cultural ritual, and part, as best the Office of the Archivist can determine, a way of ensuring that the two wings remain in genuine communication rather than parallel operation.    
+The Conjunction follows a fixed structure: Seekers present retrieved materials along with their field observations. Keepers present completed interpretations of previously retrieved materials. Both wings review the outputs together, with particular attention to cases where field observation and archival interpretation diverge. The Guild's position is that divergence is information, not error, and treats these moments as the most valuable part of the Conjunction.    
+The ceremony's most significant recorded outputs have been the Lithic Song interpretations. The Guild discovered, through the combination of Seeker detection and Keeper analysis, that certain formations previously catalogued as geological structures are in fact organic archives: biological recording media created by the Pre-Calamity Architects to carry historical information across geological timescales. The Seeker capacity to locate harmonic clusters of these formations in situ, combined with the Keepers' bio-resonant listening techniques, has produced reconstructions of Pre-Calamity Veles as a galactic nexus, a hub in a network that predates the Federation by eras. The Guild has shared portions of this interpretation with the Federation. It has not shared all of it.    
+Institutional Tensions    
+The Velesian Accord, the formal agreement governing the Guild's relationship with the Federation, requires stewardship of Velesian resources and knowledge. In practice, this creates a standing negotiation between what the Guild has found, what the Federation has asked to know, and what the Guild has determined the Federation is ready to receive. The Guild does not describe this as gatekeeping. The Federation occasionally does.    
+The Guild's approach to managing Federation access involves what an uncharitable assessment might call deliberate misdirection. Autonomous survey drones are guided along paths that encounter the ocean's less significant fauna rather than its archival structures. Published white papers share genuine findings while framing them in ways that delay follow-up inquiry. Participation in Federation review processes is thorough, cooperative, and timed to conclude after the relevant survey season has passed. The Guild maintains that all of this is consistent with the Accord's stewardship mandate. They are technically correct, which is the most defensible kind of correct to be.    
+The Grand Listeners, typically Lopati elders with Onoros-trained perceptual capacity, hold the Guild's highest interpretive authority. Their role is not only analytical but ceremonial: they conduct the rituals that, in the Guild's understanding, maintain the relationship with Veles' deep guardians, the large fauna and, by some accounts, something larger still that the Keepers reference obliquely in their oldest records. The Grand Listeners are not forthcoming on this subject. The Office of the Archivist has filed the relevant observations under matters requiring further study, where they have been for some time.    
+Current Guild assessments of the Maw of Artvel, a deep-ocean zone where pressure and bioluminescence produce conditions the Guild describes as water becoming light, suggest that it represents a site of either significant geological activity or significant historical event. The two interpretations are not mutually exclusive. The Guild is monitoring it. They have not invited outside observation.    
+Institutional Philosophy    
+The Velart Archivists hold that the act of seeking and the act of keeping are not sequential but simultaneous: understanding what has been found changes what is looked for, and looking changes what understanding is possible. This is expressed in the palindromic naming convention of the Guild itself: Velart and Artvel, each the reverse of the other, inseparable by design.    
+The Guild's stated purpose is to hold the torch in the crushing dark. This is, for once, not figurative. The ocean floor of Veles is dark, the pressure is crushing, and the Guild's stations provide the only continuous illuminated presence in most of the territory they cover. The metaphor happens to be accurate, which is the kind of detail the Keepers appreciate.
+
+##III. THE SIMIAN SECT OF NERI
+
+###CLASSIFICATION    
+Community Guild. Decentralized Resource Extraction and Cultural Distribution. Operational status: active, and by most observable metrics, enjoying itself. Diplomatic status: open. The Sect does not maintain formal diplomatic postures. It extends an open invitation to anyone prepared to participate on its terms, which are not onerous.    
+###PLANET OF RECORD    
+Neri. A geologically active world characterised by geothermal springs, methane swamplands, active volcanic formations, bioluminescent Mushroom Forests, and a general atmosphere of productive chaos. The planet is, in the assessment of most survey teams, difficult. In the assessment of the Nerian Apes, it is home, which they appear to mean as a compliment.    
+Founding and Doctrine    
+The Simian Sect's founding is, by the Guild's own account, older than it can reliably document, a claim that would be suspicious coming from almost any other institution and is, from the Sect, entirely plausible. The foundational vision is attributed to the pioneers SoggyApplePie and bantano, who operated within the tradition of Banano, a cryptographic and cultural lineage that treats potassium-based metaphor with a seriousness that it is wise not to mistake for irony. Whether this seriousness is itself ironic is a question the Office of the Archivist has considered and set aside.    
+The Sect's founding principle is the rejection of extraction-for-profit as the primary motivating framework for resource work. SoggyApplePie and bantano built instead a system of free distribution and earned participation: the cryptomonKey, the Sect's totemic artifact, is not purchased but earned through demonstrated engagement with the community and its mining practice. This decision has significant downstream cultural effects. It means the Sect does not have members in the commercial sense. It has participants, each of whom chose to be there and continues to choose it with each cycle.    
+The cryptomonKey: Totem and Taxonomy    
+The cryptomonKey is the Sect's primary artifact class and its most recognizable institutional symbol. These figures, rendered in the visual idiom of ape forms that range from the expressive to the deeply peculiar, serve simultaneously as membership indicators, status markers, and what the Sect describes as sacred totems. They are also, by most objective assessment, charming, which is not a quality this office generally tracks but which seems, in the Sect's case, operationally significant.    
+The rank taxonomy is as follows:    
+Common: Initial-rank cryptomonKeys, distributed to new participants upon first meaningful engagement with the Sect's mining practice. Common status carries no diminishment in the Sect's cultural framework. All entry points are treated as genuine entry points, not probationary positions.    
+Rare: Awarded through demonstrated sustained participation, including competitive mining cycle performance and community contribution. Rare cryptomonKeys carry visual distinction and are associated with accumulated Sect lore in their design elements. Senior members can typically read a Rare token's history from its markings.    
+Legend: The highest classification. Legends are uncommon by design; the Sect maintains their scarcity deliberately. Their presence at mining events is noted as a matter of record, and their arrival is typically accompanied by what can only be described as a mood shift in the assembled Apes: one part reverence, one part excitement, one part the particular joy of a community greeting one of its own who has distinguished themselves.    
+The existence of this taxonomy presents an obvious question for an institution that grounds its identity in the rejection of imposed hierarchy: what, precisely, is the difference between a rank and a tier? The Sect's answer, when pressed, is that the distinction lies in direction. Imposed hierarchy flows downward, conferring or withholding access based on proximity to those who hold it. The cryptomonKey taxonomy flows outward from demonstrated participation; it records what someone has done, not what they are permitted to do. A Legend holds no formal authority over a Common. They cannot assign mining sites, override decisions, or speak on behalf of the Sect in any official capacity. What they hold is recognition, which the Sect treats as a categorically different thing.    
+Whether this distinction fully resolves the tension is a matter the Sect's own members debate with some regularity, and with the characteristic tone of people who find the debate itself useful rather than threatening. The Sect maintains that a Legend holds no authority over a Common, a claim that is, by all accounts, both sincerely believed and periodically tested in practice. The Office of the Archivist notes that an institution comfortable examining its own contradictions in public tends to be more durable than one that insists it has none.    
+MonKeymining: The Practice    
+The Sect's primary activity is MonKeymining, the extraction of trilium from Neri's varied terrain through coordinated community effort. This is, structurally, a resource extraction practice. Culturally, it is considerably more than that.    
+The active mining sites, each with their own character and associated lore, include:    
+Geothermal Springs (20:5): High-flow, high-temperature extraction sites where the trilium runs fast and the ambient heat requires the temperature-resistant elements of the banana-motif mining gear to be more than decorative. New participants are frequently surprised by the spring conditions. Experienced Apes are frequently amused by new participants being surprised.    
+Methane Swamplands (23:18): A more demanding environment. The gas composition requires additional equipment calibration and a tolerance for conditions that smell of, according to consistent testimony, ripe fruit and imminent danger. The combination is unsettling until it becomes familiar, at which point most Apes describe it as characterful.    
+Mushroom Forests (28:16): The Sect's most visually distinctive mining zone. The bioluminescent fungi that cover this terrain emit light in patterns that, through extended observation, serve a practical navigational function. The forests also harbor what the Sect calls fungi artifacts: objects of unknown origin that shift coloration when approached, and that the Sect has chosen to leave in place rather than extract, treating them as part of the forest's identity rather than harvestable material.    
+The Tree Forest (35:5): Among the highest-yield sites in the Sect's territory, and correspondingly among the more competitive to work. Senior participants typically guide newcomers through their first Tree Forest cycles, which is a custom that appears to have developed organically and is now functionally obligatory.    
+Rocky Desert / Plains (19:7, 7:7): The desert and plains sites offer variable yields and what the Sect describes as the full range of Nerian atmospheric experience. In practice, this means exposure to most of what Neri can produce in terms of weather, ground conditions, and geological surprise. The Sect treats this as part of the education.    
+Mining cycles operate on established timing structures that the Sect frames as philosophy as much as scheduling: the forty-eight-hour cooldown period between cycles is not merely a technical reset but an enforced interval of patience. The Sect's foundational maxim, Mine not for wealth, but for the joy of the swing, is given its most direct practical expression in this structure. The resource is available. You must choose to return to it. That choice, repeated, is what the Sect considers genuine participation.    
+The Community Infrastructure    
+The Simian Sect's social infrastructure is distributed across multiple communication platforms, each carrying a distinct register of the Sect's culture:    
+The primary Discord hub operates as the Sect's main assembly space. It contains channels for mining guidance, veteran strategy exchange, event coordination, giveaway distribution, and the ambient social conversation that constitutes most of what the Sect means when it says community. Ask-Me-Anything sessions with Federation figures occur regularly, conducted in a format that manages to be genuinely informative and consistently entertaining, a combination that reflects the Sect's view that education without engagement is a missed opportunity.    
+The X platform account (@Crypt0monKeys) carries the Sect's outward-facing communications: seasonal events distributing specialized totems, inter-realm collaborative announcements, charity efforts addressing causes that the Sect selects with more thought than the casual tone of the announcements might suggest. The Sect's charitable record is, in fact, substantial.    
+Telegram channels handle lighter exchange. Medium publications carry cycle records and community histories in a form that is, unusually for mining-operation documentation, worth reading. The consistent quality of the Sect's written record-keeping across platforms is, this office notes, a meaningful institutional accomplishment that the Sect itself appears to regard as unremarkable.    
+The Cryptomonkeys Anti-Bot Team    
+The Sect maintains a dedicated operational unit, the Cryptomonkeys Anti-Bot Team, responsible for protecting the Guild's mining practice and community treasury against automated exploitation. The Team operates with a quiet efficiency that contrasts instructively with the Sect's generally festive public presentation.    
+The Team's most significant documented action was the interception and neutralization of a coordinated digital incursion that had penetrated the Sect's operational systems to a degree that posed genuine risk to the community treasury and the integrity of the cryptomonKey distribution system. The Team's response was methodical, thorough, and, by all accounts, decisive. The Sect marked the event in community record with characteristic understatement, noting that the threat had been addressed, and returning promptly to the business of mining.    
+The Team's existence and operational capacity are understood within the Sect as an expression of community stewardship: the protection not merely of resources but of the conditions that make the Sect's particular culture possible. An operation built on free distribution and genuine participation is unusually vulnerable to exploitation. The Team is, accordingly, the Sect's most serious institutional function.    
+Cultural Philosophy and Ethos    
+The Simian Sect's operating philosophy is expressed most consistently in what it does not do: it does not lecture, does not impose hierarchies of engagement, does not treat participation as a pipeline toward an external goal. Its stated ethos, inclusivity without judgment and fun without fetters, is evidenced by the consistent composition of its community, which spans species, experience levels, and jurisdictions in proportions that suggest the policy is working.    
+The question of whether the Sect holds keys to pre-Federation knowledge, encoded as some accounts suggest in meme-rich artifact sequences that reveal their content only to those approaching with humor and genuine attention, is one this office has not resolved. The Sect does not confirm or deny this. They invite investigation by participation, which is, taken as an institutional response, either deeply clever or genuinely how they think about it. Possibly both.
+
+##IV. THE VOLCANIC FORGES OF MAGOR
+
+###CLASSIFICATION    
+Mosaic of Factions. Decentralized Volcanic Coalition. Operational status: active. Diplomatic status: complex and deliberately plural. The Volcanic Forges are not one institution with a diplomatic position. They are a coalition of institutions with a shared planet and, when necessary, a shared front. The distinction matters considerably when conducting formal engagement.    
+###PLANET OF RECORD    
+Magor. The Federation's youngest and, by several geological metrics, most volatile world. The surface is predominantly blackened basalt interrupted by active volcanic formations, dormant volcanic formations that may be less dormant than they appear, sulphur-laden atmospheric haze that reduces visibility to unreliable levels, and the drifting ash deposits of eruptions past. The Magori Wave, a synchronized volcanic event occurring on an approximately forty-eight-hour cycle, governs survival timing on Magor as reliably as any law. It is not subtle, and it does not accommodate the unprepared.    
+A Note on History    
+The pre-settlement history of Magor is preserved only in fragments. Ancient records reference indigenous populations who inhabited the planet before a device, described in surviving accounts as a confuser, a term that resists precise translation, eliminated them. What remains of their material culture is buried under the ash accumulation of subsequent eruptions. The Volcanic Forges treat these buried layers with a degree of caution that reads, from the outside, as superstition, and may, from the inside, be something else.    
+The ruins call to those looking for them, which is a statement the Forges make without apparent embarrassment. Certain relics surface through eruption displacement. Others are located through means the Forges do not specify in formal record. The Office of the Archivist has noted this and does not currently have a useful framework for filing it.    
+The Mosaic Structure    
+The Volcanic Forges are not a guild in the singular institutional sense. They are a mosaic, the term is the Forges' own, of factions bound by the shared experience of Magor and a shared understanding that survival on this planet requires coordination that transcends individual faction interest. No single lord governs the Forges. Custodians, designated by each faction through processes that vary by faction, speak collectively in the language of fire and consensus, a phrase this office interprets as meaning: decisions are reached, but not quickly, and not without temperature.    
+It should be noted that the language of fire and consensus is not a metaphor for harmony. The factions of the Volcanic Forges share a planet and, when externally threatened, a front. They do not share a unified civilizational vision. The Ashen Vanguard's territorial doctrine sits in persistent tension with the Questers' Legion, whose subsurface operations frequently cross Warlord-claimed ground without what the Vanguard considers adequate prior arrangement. The Scribes of the Void have, on more than one occasion, published canonical accounts of inter-faction disputes that the factions involved would have preferred remain uncanonical. The Engineers' Crucible's embrace of stochastic outcomes as doctrine has frustrated the Forgers' Armada, whose card-driven strategic tradition values calculated positioning above randomized variables and has said so at length in cross-faction channels. The Conclave of Whispers, whose function is ostensibly coordination, has been accused by at least two factions of selectively translating communiques in ways that served the Conclave's own informational interests. The Conclave has not formally responded to this accusation, which is itself considered telling by the parties who made it.    
+What holds the mosaic together is not agreement but necessity. Magor's conditions require collective response to threats that no single faction can address alone: the Magori Wave does not distinguish between territorial boundaries; the toxic vent creatures that emerge during seismic events do not respect strategic allegiances; the Federation's periodic interest in formalizing its relationship with Magor's resources would, if successful, require a unified negotiating position that only the mosaic can provide. The factions cooperate because the alternative is worse, which is a foundation less inspiring than shared values but considerably more reliable under pressure.    
+The constituent factions are as follows:    
+The Ashen Vanguard (Planetary Defense): The Forges' oldest and most structurally formalized faction. The Vanguard administers Magor's territorial conflict system, a structured form of planetary warfare that turns the planet's hostility into a regulated competitive practice. They are discussed in greater detail below.    
+The Conclave of Whispers (Beehive Communication Network): A multilingual coordination body that emerged in response to the practical problem of coordinating operations across a planet where atmospheric haze makes direct communication unreliable. The Conclave bridges language and distance, which on Magor are closely related problems. French-speaking Wardens constitute a significant portion of the Conclave's membership, a demographic concentration that the Conclave has made no effort to explain and that this office has not pressed.    
+The Scribes of the Void (Starblind): The Forges' record-keeping faction, operating specifically in the context of Magor's prison-colony heritage. Starblind's Scribes document the last stands, notable operations, and significant events that occur in Magor's harshest territories, preserving them as what the faction calls canonical tomes. The prison-colony context gives this record-keeping a particular gravity; these are not celebratory histories but survival accounts.    
+The Questers' Legion (Trilium Quest): A faction organized around the Trilium Quest operative system, crawler-based navigation of Magor's subsurface territories in pursuit of resource caches. The Legion operates under combat conditions that are partly geological and partly organized opposition from other participants in the same quest system. The combination produces what the Legion describes as practical experience.    
+The Forgers' Armada (Arms World): A strategic faction whose primary operations involve card-driven tactical contests. The Armada's practice of treating resource management and territorial control as formal strategic games has produced a body of institutional knowledge about Magori conflict dynamics that other factions consult, occasionally without acknowledgment.    
+The Engineers' Crucible (Mecha World): A technical faction whose operations introduce stochastic elements, dice-determined outcomes, into what might otherwise be fully planned campaigns. The Crucible holds the institutional position that no plan survives Magor's conditions intact, and has built this observation into the structure of their practice.    
+Allied and affiliated ventures extend the Forges' operational reach further: hybrid outpost networks that bridge virtual and physical terrain, gaming and wagering operations where mining performance creates secondary competition, temporal mining experiments that the Forges describe as playing with chronology and that this office has classified as requiring further documentation before evaluation, cross-realm festival coordination, dueling arenas for both physical and cognitive contest, and mining amplification operations that extend individual cycle output.    
+####The Ashen Vanguard in Detail    
+The Ashen Vanguard is the Forges' founding faction and the closest the mosaic has to a central institutional identity. They were established in Magor's earliest settlement period by explorers who came seeking not merely ore but operational control over a hostile environment, and who found that control over the environment required first learning to use it.    
+The Vanguard's discovery that volcanic eruptions could be tactically deployed, that sulphur mist could conceal force movement, and that the Magori Wave's timing could be read as a strategic rhythm rather than merely survived as a natural event represents one of the more significant adaptive achievements in Federation frontier settlement history. They turned the planet's hostility into a doctrine.    
+The Vanguard's creed, Defend the forge, or be consumed by it, operates on Magor as something close to a survival instruction. The Planetary Defense system they administer divides the Vanguard's active membership into two operational roles:    
+Warlords: Territorial holders who have claimed and fortified land through eruption-cycles of sustained defense. A Warlord's standing is measured in the quality and extent of their holdings, the composition of their Crew, and the defensive record accumulated across monthly siege cycles. Warlord status is not rank in an administrative sense; it is demonstrated capacity, renewed continuously.    
+Mercenaries: Operational agents who offer their capacities to Warlords for either offensive or defensive purposes, cycle by cycle. Mercenary engagement is contracted in the Vanguard's Discord war-rooms and reflects Magor's general attitude toward hierarchy: what matters is demonstrated capability, not standing affiliation. A Mercenary with an exceptional record commands better terms than a Warlord with a declining one.    
+The Vanguard's operational cycle runs on Magor's imposed timing: two full days of fortification and preparation, followed by twenty-four hours of active engagement in which attacks land, defenses are tested, and the cycle's outcome is determined. Cooperative operations against the creature types that emerge from Magor's toxic vents occur in parallel. PvP engagements targeting the highest-resource holders occur on a three-day cycle, which the Vanguard describes as ensuring the powerful are regularly reminded of the cost of prominence.    
+####The Social Architecture of the Forges    
+The Volcanic Forges operate their social coordination primarily through Discord infrastructure, which functions across the mosaic as both tactical coordination space and community gathering ground. Faction-specific channels carry operational business. Cross-faction channels carry the broader cultural exchange that keeps the mosaic cohesive despite its structural diversity.    
+The Forges' community culture reflects Magor's conditions with reasonable fidelity: direct in communication, resistant to performative hierarchy, oriented toward demonstrated capacity over claimed status. The visibility-limiting conditions of the planet's surface have apparently shaped an institutional culture in which what you can do matters more than what you say you have done. This is, as institutional principles go, more durable than most.    
+Announcements of significant events, including mining competitions on recovered Rocky Desert territory, cross-faction cooperative operations, and the opening of new territorial zones, spread through the mosaic rapidly. The network's reach draws new participants to Magor at a rate that has not slowed despite, or possibly because of, the planet's formidable reputation.    
+Philosophy of Endurance    
+The deepest institutional value of the Volcanic Forges is not conquest, an orientation that would, on Magor, face the practical constraint that the planet itself resists permanent conquest almost as reliably as it resists permanent settlement. It is endurance: the cultivation of the capacity to remain functional in conditions that actively attempt to prevent it.    
+The Forges have become, in the estimation of all who observe them closely, Magor's shield against the mindless and the exploitative, those who would approach the planet as a resource to be stripped rather than an environment to be understood. The Forges' multi-faction structure, frequently described by outside parties as organizational inefficiency, is in fact an adaptive response to Magor's conditions: a coalition that can lose any single component and continue to function is more durable than a centralized institution that cannot.    
+Fire, the Forges observe, does not ask permission to exist. It simply is. The Forges position themselves as an expression of the same principle: they are not maintained by external sanction or Federation approval. They exist because Magor demands something capable of meeting it, and the Forges have chosen to be that thing.    
+From the youngest and harshest world in the Federation, they have shaped something that endures. The Guild record notes this without apparent surprise. On Magor, endurance is the beginning, not the achievement.
+
+##Closing Notation of the Senior Scribe
+
+The four guilds documented herein share, across their considerable differences, one quality that this office considers worth noting in close: they are all, in their distinct ways, paying attention to something larger than themselves. The Grey Forgemasters attend to the living nature of their craft. The Velart Archivists attend to the living memory of their ocean. The Simian Sect attends to the living health of their community. The Volcanic Forges attend to the living hostility of their planet and have chosen to answer it rather than flee it.    
+Whether these orientations are sufficient preparation for whatever the Federation is moving toward, the Final Synthesis the Forgemasters reference, the planetary awakening the Archivists record in shifting acoustic data, the pre-Federation mysteries the Sect holds in meme-encoded reserve, the endurance the Forges cultivate against necessity, this office cannot say with confidence. The record is incomplete. The record, this scribe would note, is always incomplete.    
+What can be said is this: the guilds are real, their commitments are genuine, and the worlds they tend are the better for their presence. This is not a small thing. In the Federation's long accounting, it may prove to be the most important thing.    
+The record stands as filed.
+
+Office of the Federation Archivist    
+Senior Scribe, Active Record Division    
+Covering Eyeke, Veles, Neri, and Magor  
+
+ 
+#VELES PLANETARY DOSSIER  
+Syndicate Strategic Command — Planetary Authority File
+
+| Document Code:  NSC/PA–Ω–Veles–Origin / Edition VII Clearance Level:  RESTRICTED // CUSTODIAN-MANDATED ACCESS Distribution:  Tier-1 Archaeological | Asset-Controlled Handling:  Unauthorized duplication punishable under Syndicate Decree 7.6 Filed by:  Authorized Community Scribe — Alien Worlds Lore Division |
+| :---- |
+
+## **Document Classification Summary**
+
+Planetary Name:  Veles  
+System:  Federation Core — Veles Sector  
+Planetary Status:  Ancient Archive Frontier / Aquatic Resource World  
+Primary Resource:  Trilium (Crystalline / Harmonic Resonance Type — Type-V)  
+Strategic Tier:  ST-5 — High-Value Mystery Tier, Sub-Surface Complexity  
+Authority of Record:  Syndicate Governance under the Five Custodians  
+Federation Status:  Active Syndicate DAO / Union DAO Jurisdiction  
+Planetary Jurisdiction:  Restricted Archaeological / Extraction Zone
+
+## **Purpose**
+
+This dossier consolidates verified planetary intelligence on Veles — a world the Federation has charted, catalogued, and repeatedly failed to fully understand. What follows encompasses the planet's identity as a prime aquatic frontier, its geophysical character (obsidian crust, emerald atmosphere, benthic rift systems), the extraordinary behaviour of its biosphere, the economics of its Trilium extraction, and the layered, often fractious power networks that have grown up around all of the above. This document serves as the authoritative reference for Custodian command, industrial strategists, and authorized Scribes working within the Velesi narrative framework.  
+It is worth stating plainly: Veles resists easy documentation. The planet is older than most Federation records acknowledge, stranger than most Federation officials are comfortable admitting, and more alive — in ways that are not entirely metaphorical — than current xenobiological classification systems adequately account for. This scribe has attempted accuracy. Veles, as ever, has other ideas.
+
+### **Authority and Control**
+
+This file is issued under the joint authority of:
+
+* Syndicate Mineral Council  
+* Syndicate Path Council  
+* Syndicate Enforcement Council  
+* Custodian Mandate Authority
+
+## **1\. Executive Summary**
+
+FESS Classification: STR-HAZ — Strategic Planetary Assessment
+
+### **1.1 Purpose of the Dossier**
+
+This dossier is the primary authoritative strategic reference and operational playbook for Planet Veles, curated for Syndicate Custodians, official Scribes, and Industrial Strategists. Its objective is the consolidation of fragmented intelligence into a single, actionable file — one that bridges the gap between the planet's ancient deep lore (specifically the Altan technological legacy and the dormant-then-waking Robotron memory network) and its modern multi-chain governance reality. Beyond serving as a static record, this document functions as a living logistical framework, facilitating the synchronization of planetary interests between the IPF and the local Veles Syndicate and Union DAOs.
+
+### **1.2 Key Strategic Realities**
+
+Veles is defined by an 80% surface-water ratio, classifying it as the premier aquatic frontier within the Federation Core. Three strategic realities govern every decision made here:
+
+* The Trilium Resonance Paradox. Velesi Trilium exists in a Crystalline/Harmonic state — highly potent, deeply integrated into the planet's geology, and in its unrefined form, extremely volatile. Improper extraction does not merely damage infrastructure. It risks triggering Resonance Quakes that destabilize the oceanic crust and send floating settlements into the sea.  
+* Jurisdictional Complexity. Governance on Veles is not a pyramid — it is a lattice. The IPF oversees high-level custodian standards, while the dual-DAO structure manages treasury, resource allocation, and community-driven expansion. These layers do not always agree. The tensions between them are a permanent feature of Velesi political life.  
+* The Historical Debt. Veles carries the weight of the Trilium Corruption Event and the long silence that followed. The recent reactivation of the Robotron memory network, led by first-generation units such as A-01, has introduced a new and unpredictable variable: the retrieval of Memory Lattices that predate the collapse and could fundamentally shift the balance of power.
+
+### **1.3 Overview of Veles's Significance**
+
+* Strategic Resource Sovereignty. Veles is the exclusive source of Type-V Trilium Song frequency crystals — essential for high-precision Triactor technology and deep-space harmonic drives.  
+* Archaeological and Narrative Supremacy. The Vaults of Velesi contain the remnants of the Altan Golden Age. Safeguarding this knowledge is a Tier-1 priority for the Union DAO.  
+* Community-Driven Expansion. The Veles Syndicate and Union DAOs are significant patrons of community-led initiatives including Mission Control and Alien Legends, ensuring the planet's story continues to grow outward into the Federation network.
+
+## **2\. Planetary Identity & System Context**
+
+FESS Classification: SYS-ID — Astronomic and Jurisdictional Context
+
+### **2.1 Designation and Nomenclature**
+
+Official Designation:  Veles-7 (Federation Catalog ID: Core-V7-Alpha)  
+Common Names:  The Aquatic Jewel / The Listening Planet  
+Sentience Reference:  Velesi — The Planetary Sentinel / Consciousness
+
+Veles is known to the Federation as a mystery and known to its inhabitants as a mother. The planet earns its nickname, The Listening Planet, through a geophysical reality that has never been fully explained: Veles reflects and amplifies harmonic frequencies in ways no inert world should. To the Altan scholars of Velarch, Velesi is a memory architect; to the Nordic pilgrims, it is a spiritual voice that must be awakened through the Resonance Rites.
+
+### **2.2 Veles Sector Overview**
+
+Positioned within the strategic Federation Core, Veles functions as a stabilizing anchor for the regional Trilium resonance network — a role it performs whether or not the Federation asks it to. The planet is characterized by its Twin Suns: Aurelius Prime, providing the broad-spectrum radiation that sustains the bioluminescent exoflora; and Aurelius Minor, emitting a high-frequency ultraviolet stream that scatters light into the signature emerald-gold sky. This dual-feed is essential for the surface-level charging of Type-V Trilium crystals, and its interruption by ion storms is a primary trigger for atmospheric instability events.
+
+### **2.3 Orbital Mechanics and Moons**
+
+Veles maintains a stable orbit with a minimal axial tilt (under two degrees), resulting in long, humid Static Seasons. The two primary moons, Vela-1 and Vela-2, exert intense tidal forces on the 80% surface hydrosphere. These are not merely navigational hazards — they are biological necessities. The high-pressure tidal cycles act as a natural filtration mechanism for the Crimson Tidespore populations in the Deep Trenches. Without this lunar-driven oceanic respiration, the Tidespore would bloom to surface levels and trigger ecological collapse across the mid-depth ocean systems. All maritime mining operations are scheduled in reference to the Syndicate Lunar Alignment Calendar. The stability of the floating sanctuaries depends on it.
+
+### **2.4 Planetary Classification and Legal Status**
+
+Classification:  Restricted Archaeological / High-Value Extraction Zone (ST-5)  
+Legal Status:  Active Syndicate DAO and Union DAO Sovereign Jurisdiction
+
+Veles exists in a state of layered sovereignty. The IPF holds ultimate oversight on Custodian Mandates and cross-planetary security. Day-to-day governance belongs to the dual-DAO structure: the Veles Syndicate DAO managing industrial extraction and planetary defense, the Veles Union DAO managing community expansion, cultural preservation, and lore-driven initiatives including Mission Control and Alien Legends. Beneath both sits the shadow influence of the Silent Assembly — the Elgem data-broker network that neither DAO officially acknowledges and both unofficially use.
+
+### **2.5 Cartographic Summary**
+
+* The Aurelian Rise. A massive high-altitude plateau and archipelago system, home to the Archival City of Velarch and the primary resonance temples. The planet's intellectual and spiritual center of gravity.  
+* The Volcanic Archipelago. A ring of fire surrounding the Abyssal Plains, rich in raw Trilium, fiercely contested between Syndicate extraction operations and the Flameheart and Wavewalker clans who consider this territory ancestral ground.  
+* The Abyssal Plains and Deep Trenches. The vast oceanic floor covering most of the planet's surface. Home to the Vaults of Velesi, the most volatile Trilium veins, and lifeforms the Federation has not fully catalogued. Mapping remains incomplete. Only specialized Robotron units and custom submersible drones can navigate the deepest sectors reliably.
+
+## **3\. Geophysical Structure & Environment**
+
+FESS Classification: GEO-STR — Planetary Structural Analysis
+
+### **3.1 Planetary Genesis and Accretion**
+
+Veles formed from a mineral-rich accretion disk with an unusually high concentration of Silicate-Trilium isotopes. The cooling process was shaped by intense gravitational friction from the neighboring binary suns, crystallizing the planet's outer shell into the dense, non-porous Obsidian Crust. This is not ordinary basalt — it is Trilium-threaded, capable of resonating, and prone to shattering along harmonic fault lines under sufficient energetic stress. The critical distinction of Veles's formation is the Trilium Infusion: raw Trilium integrated into the planetary core during the molten stage, not merely deposited on the surface afterward. This means the planet's fundamental geology is Trilium-active. The signature emerald-hued atmosphere emerged from this — ionized Trilium particles outgassed from the cooling mantle, trapped by the planet's magnetic field, and permanently suspended in the sky.
+
+### **3.2 Mantle Dynamics and Crustal Instability**
+
+The mantle of Veles remains in a state of hyper-active flux, driven by a complex network of Trilium Veins — superheated liquid conduits of high-resonance mineral matter that circulate harmonic energy from the core to the surface. These veins are the planet's thermodynamic engine. They are also its temper. When the planet's internal frequency shifts — triggered by lunar tidal pull, heavy industrial extraction, or events the monitoring teams in Velarch have not yet characterized — the mantle experiences Harmonic Surges. These manifest as Resonance Quakes: seismic events that emit high-decibel acoustic pulses capable of disrupting electronics and destabilizing the molecular bonds of non-shielded structures. The planet is not merely awake. It objects to being ignored.
+
+### **3.3 Rift Systems and Fault Networks**
+
+The primary tectonic architecture of Veles is defined by massive Benthic Rift Systems located almost exclusively on the ocean floor. These rifts are the confirmed source of the Stone Song — the planetary-scale musical resonance generated by tectonic plates moving against Trilium-rich fault lines. The vibrations travel through water and into obsidian cliffs, providing the rhythmic foundation for the entire ecosystem. The rifts also create Resonance Dead Zones in surrounding water where traditional sonar and navigation fail entirely. Mapping these zones is an ongoing operational priority for the Syndicate, and an ongoing point of contention with the Wavewalker clans who regard them as protected ancestral waters.
+
+### **3.4 Seismic and Volcanic Activity**
+
+Volcanic activity concentrates in the Volcanic Archipelago, where the obsidian crust is thinnest. The volcanoes of Veles tap directly into Deep-Seated Trilium Reservoirs, venting raw unrefined energy alongside silicate ash. The natural early-warning system is the appearance of Atmospheric Auroras — as pressure builds in a vent, ionized gases and Trilium particulates escape the crust and light up the sky in localized displays. The Flameheart Clans read these auroras the way navigators read star charts. Syndicate mining operations have automated sensor arrays to catch the same data, but the Flamehearts are generally faster. Eruption onset after Aurora detection averages 4-18 hours — sufficient for evacuation if protocols are followed immediately. Eruptions release raw Trilium into the environment, triggering localized Trilium Plagues in surrounding zones.
+
+### **3.5 Subsurface Anomalies and Deep Structure**
+
+The most significant geophysical anomalies on Veles are the Vaults of Velesi — massive, artificial Altan structures that have become geologically integrated into the planet's deep structure over millennia. They are a Technological Stratum: a layer of engineered intelligence woven into the bedrock, constructed from a biometal alloy that pulses with its own independent frequency, often in conflict with the planet's natural Stone Song. This conflict creates Deep Structure Anomalies near vault entrances — gravitational fluctuations, distortions in time-perception, instrument failures that Syndicate engineers have not been able to explain and prefer not to report upward. The vaults are classified as Structural Hazards because any breach of their seals risks unleashing raw Altan energy at a scale comparable to the original Trilium Corruption Event.
+
+### **3.6 Environmental Hazards and Terrain Evolution**
+
+Veles's oceanic surface creates terrain hazards distinct from terrestrial worlds. Three primary dynamic hazards require continuous operational awareness:
+
+* Abyssal Upwellings. Columns of deep-core Trilium-heated water rising through the water column, creating localized boiling zones 20-80 meters in diameter. These migrate along benthic current lines and are notoriously difficult to predict beyond a six-hour window. Maritime navigation charts are updated every 72 hours at minimum; charts older than that are treated as advisory only.  
+* Silicate Crystallization Events. Mineral-saturated deep water contacting cooler surface layers produces rapid crystal formation across areas of up to several square kilometers within 6-hour windows. Crystal fields can entomb surface vessels and damage submersible hulls. Wavewalker oral records of crystallization season patterns by region represent the most reliable predictive data available.  
+* Resonance Tide Surges. During specific lunar alignment windows when Vela-1 and Vela-2 forces combine, the oceanic Stone Song amplifies to levels disrupting navigation systems and causing structural resonance in non-tuned hulls. Class-3 and above Surge events (harmonic amplitude exceeding 0.4 on the Velesi Resonance Scale) require suspension of all maritime operations. All major extraction operations are paused during peak alignment windows as standard protocol.
+
+## **4\. Atmosphere & Climate**
+
+FESS Classification: ATM-DYN — Atmospheric Systems and Hazards
+
+### **4.1 Atmospheric Composition**
+
+Veles possesses a high-density, nitrogen-rich atmosphere characterized by an extraordinary concentration of suspended silicate micro-minerals and Trilium particulates. The sky is a deep, saturated emerald-gold — the result of Type-V Trilium dust acting as a planetary-scale prism. The air is not merely breathable gas. It is a bioreactive medium. The presence of gaseous Trilium creates a persistent low-frequency hum perceptible to most sentient species — felt as a vibration at the chest, described by long-term residents as the planet breathing. At sea level, humidity runs between 88 and 94%, suspending heavy minerals in the air and creating conditions that require specialized filtration for non-indigenous machinery.  
+Atmospheric particulate density varies significantly by zone. Above the Volcanic Archipelago during active eruption periods, particulate density can reach levels reducing visibility to under 200 meters and requiring full respiratory protection. Above the Archival Plateau, the Shield Grid actively filters incoming particulates, maintaining breathable conditions within the city perimeter. The Abyssal Plains surface sees the lowest particulate density — the ocean itself acts as a natural filter — but ion concentration is highest here due to deep-core Trilium interaction with the overlying water column.
+
+### **4.2 Weather Systems and Patterns**
+
+Weather on Veles is defined by Resonance-Driven Seasonality. With minimal axial tilt, the planet does not cycle through temperature-based seasons. Atmospheric cycles are driven by lunar tidal pull and energetic output from the twin suns.
+
+* Bioluminescent Lightning (Resonance Discharge). During intense storms, friction between suspended Trilium particulates and water vapor generates massive static charges. These discharge as Resonance Bolts — cyan to violet pulses that follow the path of highest Trilium concentration in the air, with a documented preference for obsidian peaks and floating sanctuaries. They are spectacular. They are also a leading cause of infrastructure damage.  
+* Silicate Downpours. Rain on Veles is heavy, viscous, and silvery — droplets laden with suspended minerals that nourish the bioluminescent jungles below while corroding any exposed industrial hardware above. Mineral Encrustation on unprotected equipment can advance to failure-level saturation within a single storm cycle. Maintenance schedules are not suggestions.  
+* Harmonic Fog Banks. Unique to Veles, these dense atmospheric formations occur when Trilium particulate density peaks in humid conditions at altitude transitions. The fog itself vibrates at low frequencies, causing mild disorientation in unprotected individuals and instrument interference in exposed electronics. Navigation through Harmonic Fog requires dedicated frequency-dampened sensor arrays. Standard optical and radar systems provide unreliable returns.
+
+### **4.3 Jetstreams and Macroclimate**
+
+The macroclimate is dominated by the Aurelian Circumpolar Current — a high-altitude jetstream carrying the majority of the planet's Trilium dust in a permanent equatorial loop, functioning as a Resonance Highway distributing atmospheric energy evenly across the globe. Temperature at most non-polar latitudes holds steady between 28 and 34°C. Secondary jetstream patterns form along the thermal boundary between the Volcanic Archipelago and the cooler Abyssal Plain surface, creating wind corridors used by the Sky-Sail operators who maintain high-altitude cargo routes between the Archival Plateau and the archipelago extraction sites.
+
+### **4.4 Electromagnetic and Ion Storms**
+
+The most significant atmospheric hazard on Veles is the Ion-Resonance Conflict — periods when ultraviolet flares from Aurelius Minor interact with Trilium particulates in the ionosphere, manifesting as Nocturnal Auroras that saturate the entire sky in multi-colored light. Technologically, they are catastrophic:
+
+* Communication Blackouts. Long-range radio and satellite communication become impossible. The ionization creates the Static Screen — not interference so much as silence.  
+* Robotron Sync Disruption. Ion storms introduce Quantum Noise directly into memory lattices of units like A-01. The unit begins retrieving fragments from the Altan past — Glitch Memories that arrive without context and do not always leave cleanly. First-generation Robotrons have developed something resembling dread around aurora events.  
+* Navigation Failure. Ion storms cause compass drift of up to 40 degrees in non-shielded instruments and GPS-equivalent system dropouts lasting 4-72 hours depending on storm intensity. Dead reckoning protocols are mandatory during ion events for all maritime operations.  
+* Shield Grid Stress. The Aegis-7 Shield Grid over Velarch requires 340% standard power throughput during peak ion storms. Grid managers maintain dedicated power reserves for this purpose. Failure to maintain reserves has resulted in two documented partial shield collapses requiring emergency evacuation of lower city districts.
+
+### **4.5 Atmospheric Hazards and Airspace Considerations**
+
+Flight operations on Veles carry a standing Tier-5 High-Risk classification. The airspace is divided into four operational zones:
+
+* Zone Alpha (0-2,000m). Primary operational corridor. Highest particulate density, greatest turbulence risk near volcanic zones. Harmonic Dampeners required. Most Sky-Sail operations conducted here.  
+* Zone Beta (2,000-8,000m). Reduced particulate density, increased ion concentration. Transit corridor for armored atmospheric transports. Shield systems must be active.  
+* Zone Gamma (8,000-12,000m). The Emerald Stratosphere. Relatively clear but high UV exposure from Aurelius Minor. Primary corridor for fast transit craft. Strict altitude ceiling enforced at Ion-Resonance Layer boundary.  
+* Zone Delta (12,000m+). The Ion-Resonance Layer and above. Classified no-fly for all standard atmospheric craft. Orbital insertion and extraction only, requiring specialized shielding. Unshielded craft experience total engine failure within minutes of entry.
+
+## **5\. Hydrology and Water Systems**
+
+FESS Classification: HYD-NET — Planetary Water Systems and Control Zones
+
+### **5.1 Hydrosphere Overview**
+
+Veles is, in the most literal sense, a water world. Eighty percent surface coverage — not as background geography but as the planet's primary circulatory system, the medium through which biological nutrients, raw harmonic energy, and the Stone Song itself are distributed globally. On Veles, water is not scarce. Water is everywhere. What is scarce — and therefore contested — is access to the right water, in the right place, at the right depth, without getting killed reaching it. The strategic axis of Velesi hydrology is not scarcity but access and contamination.  
+The Great Resonant Current moves on resonant tides — deep-water flows synchronized with the Stone Song, carrying ionized Trilium particulates from volcanic vents on the Abyssal Plains to the surface archipelagos above. This current is why the Volcanic Archipelago is habitable at all, and why the Abyssal Plains are as rich as they are dangerous.
+
+### **5.2 Current Lane Control and Maritime Sovereignty**
+
+Three primary current systems define maritime politics on Veles:
+
+* The Aurelian Main Current. The largest surface current system, running roughly equatorial and used by the majority of sanctioned maritime trade. Syndicate-licensed. Wavewalker escort mandatory through sections crossing traditional clan waters. Transit fees apply at twelve designated checkpoint buoys.  
+* The Deepflow Network. The mid-depth current system between 200 and 800 meters depth, carrying the highest concentration of ionized Trilium particulates. Industrial submersibles use this for bulk Trilium transport. Access requires a Syndicate Mineral Council permit. Unauthorized transit is treated as resource theft.  
+* The Abyssal Drift. The deep-ocean current system below 2,000 meters, synchronized directly with the Stone Song through benthic Trilium vein activity. Navigation here requires Robotron guidance or Wavewalker expertise. The Syndicate has no effective enforcement presence at these depths. The Mega-Chelonia do.
+
+### **5.3 Deep Trench Access and Control Zones**
+
+Access to the Deep Trenches — specifically the Abyssal Plains below 4,000 meters — is the single most contested territorial question on Veles. The Vaults of Velesi lie here. The purest Crystalline Trilium deposits lie here. The Indigenous Mega-Chelonia inhabit here. Control structures by zone:
+
+* The Shallow Abyssal (2,000-4,000m). Syndicate extraction jurisdiction. Benthic Harvester operations permitted under Custodian Mandate quota. Wavewalker passage rights recognized. Mega-Chelonia interaction protocols mandatory.  
+* The Mid Abyssal (4,000-7,000m). Joint Syndicate/Union DAO jurisdiction, heavily contested. Archaeological access requires Archivist Guild permit. No extraction permitted without Five Custodian approval. Harmonic Silence mandatory at all times.  
+* The Deep Abyssal (7,000m+). Effectively ungoverned by any DAO. Custodian Mandate designates this a Protected Sentient Territory in acknowledgment of Mega-Chelonia habitation. Industrial access forbidden. Research access by petition to the Five Custodians only.
+
+### **5.4 Kelp Tower and Coral Forest Systems**
+
+The mid-depth regions of the Velesi oceans are dominated by Kelp Towers and Bioluminescent Coral Forests — exoflora structures functioning as the lungs and filters of the planetary water system. The Kelp Towers grow to 400 meters in height, collecting solar radiation at the surface and converting it into Harmonic Vibrations pulsed downward into their root systems. The Coral Forests bind to unrefined Trilium particulates, stabilizing them and preventing Resonance Sludge formation.  
+The Velarch Archivist Guild has documented a compelling case that these forests were engineered rather than merely evolved. The coral networks grow directly over sunken Altan ruins, masking their energy signatures from orbital scans with biological camouflage so effective that the Federation spent several decades surveying the wrong sites. Industrial operations near Kelp Tower networks are governed by strict Buffer Zone protocols: a minimum 500-meter exclusion zone around established Tower clusters. A 847-cycle enforcement failure by an unlicensed extraction rig resulted in a Resonance Sludge bloom that contaminated 340 square kilometers of fishing corridor and took eleven years to remediate.
+
+### **5.5 Surface Water Hazards and Navigation**
+
+The emerald surface oceans of Veles are navigable but not passive. Maritime operations must account for:
+
+* Resonance Tide Surges. During lunar alignment windows, surface water amplifies Stone Song vibrations to levels disabling standard navigation systems. All maritime operations suspend during Class-3 and above events (harmonic amplitude exceeding 0.4 on the Velesi Resonance Scale).  
+* Crystallization Events. Silicate precipitation creates rapid surface crystal formation in cold-water upwelling zones. Crystal fields of up to 3 square kilometers forming within 6-hour windows. Hull damage to non-reinforced vessels is significant. Wavewalker bio-organic vessels are naturally resistant due to the flexibility of living coral hulls.  
+* Mega-Chelonia Surface Events. When the great entities rise during lunar alignments, surface displacement waves of 8-15 meters are generated within a 2-kilometer radius. Maritime traffic in known Chelonia transit corridors maintains mandatory 3-kilometer exclusion zones during alignment windows.  
+* Crimson Tide Events. When the Crimson Tidespore blooms during high seismic periods, affected ocean sections are designated No-Entry zones. Three Syndicate extraction platforms have been lost to bloom events where decontamination protocols were not followed.
+
+### **5.6 Hydrochemical Hazards and Purification Standards**
+
+Water on Veles is rarely chemically neutral. Contamination profiles vary significantly by depth:
+
+* Surface Water. Generally low-toxicity in open ocean but mineral-laden. Standard Kelp-Fiber filtration adequate for most applications. Processing time: 1 hour per 100 liters.  
+* Mid-Depth Water (200-2,000m). Elevated Trilium particulate concentration. Bioreactive without proper filtering. Harmonic filtration units required — standard mechanical filters are insufficient and appear to succeed while allowing Trilium-reactive compounds through. Several documented cases of crews operating on mechanically-filtered mid-depth water without harmonic treatment developed Resonance Sensitivity symptoms within 30 days. Processing time: 4 hours per 100 liters.  
+* Abyssal Water (2,000m+). High Trilium concentration, Crimson Tidespore presence, dissolved heavy minerals from benthic venting. Requires multi-stage filtration: mechanical particulate removal, harmonic frequency treatment, biological treatment for Tidespore organisms, and chemical treatment for dissolved mineral toxins. Processing time: minimum 4 hours per 1,000 liters.  
+* Rift Corridor Water. Water flowing directly along active benthic rift systems carries concentrations of ionized Trilium, superheated minerals, and in some corridors, raw Altan energy bleed from vault proximity. This water is not treatable by any currently available field purification system. It is classified as hazardous material.
+
+### **5.7 Water Security and Maritime Territorial Geography**
+
+Maritime territory on Veles is defined by current access, depth rights, and the toleration of entities powerful enough to enforce their preferences:
+
+* The Syndicate controls sanctioned transit lanes, extraction depth zones, and the Water Lane permit system. Its enforcement is surface-to-mid-depth. Below 2,000 meters, enforcement capacity drops to near zero.  
+* The Wavewalker Clans hold traditional navigation rights across a network of ancestral current corridors predating the Syndicate by centuries. These rights are recognized under the Union DAO compact. The Syndicate contests specific corridors. Contests are expensive.  
+* The Union DAO maintains ecological protection designations over Kelp Tower networks and Coral Catacomb reef systems. These designations carry legal weight under Federation oversight but enforcement on the water relies on Syndicate cooperation, which is inconsistent.  
+* The Silent Assembly operates an undocumented network of submersible way-stations throughout mid-depth and deep abyssal zones. Not on any official chart. Used for passage, information exchange, and the movement of items that neither DAO would sanction. Wavewalker Clans maintain a principled silence on the locations.  
+* The Mega-Chelonia enforce their own territorial logic in the Deep Abyssal, which does not correspond to any documented DAO boundary. The Five Custodians acknowledge this de facto sovereignty. No other authority has successfully challenged it.
+
+## **6\. Biomes of Veles**
+
+FESS Classification: ECO-BIO — Environmental Biome Index
+
+The biosphere of Veles is a hyper-reactive, bioluminescent ecosystem where the boundaries between geology, biology, and technology have been blurred for so long that distinguishing them is more a philosophical exercise than a scientific one. Trilium resonance permeates every layer of the living world here. Species have not merely adapted to it — they have incorporated it. Some have thrived. Some have been transformed beyond recognition. Some exist now only as the graveyards that are part of nature here, calcified remnants of collectives that encountered Trilium at the wrong concentration, in the wrong form, at the wrong moment.
+
+### **6.1 The Archival Plateau**
+
+A high-altitude mountainous region characterized by jagged obsidian cliffs and crystalline peaks soaring above the planet's humid cloud layer. The plateau serves as the stable bedrock of the Archival City of Velarch. Ancient Altan ruins have been directly integrated into the city's modern infrastructure — ruins constructed from biometal alloy that pulses with power that has not diminished in the centuries since the Forgetting.
+
+* Hazard profile. Silicate Downpours are frequent and damaging to unprotected surfaces. Resonance Bolts during ion storms preferentially strike obsidian peaks. The Shield Grid mitigates both within the city perimeter but coverage has documented gaps on the plateau's eastern faces. Seismic Quake events occur an average of 3.2 times per standard year on the plateau, typically registering 2-4 on the Velesi Seismic Scale. Events above 5 have caused significant structural damage to pre-Grid-era buildings.  
+* Flora and fauna. The plateau supports sparse but resilient bioluminescent moss colonies that pulse in response to Stone Song vibrations. Crystal-spine birds — avian species whose wing structures incorporate Trilium microcrystals — nest in obsidian cliff faces and are a protected species under Union DAO designation. Their crystal wing-tips glow faintly during ion events, making them visible from the city below.
+
+### **6.2 Bioluminescent Jungles**
+
+Dense, sprawling forests covering the lower basins between the obsidian plateaus, perpetually bathed in a soft, otherworldly light produced by the flora itself. The jungles do not merely glow — they communicate. Bioluminescent pulses travel through interconnected root systems and aerial vine networks in patterns complex enough that the Archivist Guild has proposed, more than once, that the jungle constitutes a form of distributed intelligence. The proposal is consistently shelved. The jungle keeps pulsing regardless.
+
+* Hazard profile. Primary risks are botanical rather than faunal. Sapphire Vine sap is highly regenerative in controlled application and acutely corrosive to unprotected skin in uncontrolled exposure. Mistaking the two situations has ended multiple expeditions. Everspring Orchid spore release during Stone Song amplitude spikes causes temporary disorientation in most sentient species — duration 20 minutes to 4 hours depending on exposure level and individual sensitivity. The Spiralwood Nomads are largely immune due to generational exposure. Off-worlders are not.  
+* Fungal ecology. The jungles host the densest concentration of fungal species on Veles, including several that have adapted to mineral-rich water flooding during tidal surge events. Mycelial networks in the jungle floor connect individual tree root systems across areas of up to several square kilometers. The network responds to vibration. Ground teams operating heavy equipment in jungle zones consistently report anomalous fauna behavior — the network appears to signal presence to territorial species. This is not formally confirmed. It is consistent enough to be treated as operational reality.
+
+### **6.3 The Volcanic Archipelago**
+
+A chain of active and dormant volcanic islands rising from the emerald oceans, marking the thinnest points of the planet's obsidian crust. These islands tap directly into Trilium-rich veins and constitute the primary (and most hazardous) extraction theater on the planet. The air is often thick with silicate ash and ionized gas; localized auroras are a near-constant feature, signaling the seismic and volcanic activity that requires continuous monitoring.
+
+* Hazard profile. Eruption onset after Aurora detection averages 4-18 hours — sufficient for evacuation if protocols are followed immediately. Silicate ash accumulation during eruption events: recorded depths of up to 2 meters in 48 hours on proximate islands. Raw Trilium venting during eruptions creates localized lambda-Regions requiring immediate evacuation of all organic personnel.  
+* Industrial operations. Extraction rigs are built to military fortification standards, anchored into basalt bedrock at depths of 40-80 meters, rated for seismic events up to 7 on the Velesi Seismic Scale. All personnel rotate out on maximum 6-week cycles due to cumulative silicate particulate exposure. Medical screening on rotation exit is mandatory. Flameheart raid threat assessment is conducted before every deployment.
+
+### **6.4 Coral Catacombs**
+
+Submerged Altan structures situated within vast, bioluminescent reef systems at depths between 100 and 800 meters. The catacombs emit rhythmic energy pulses that attract researchers and salvagers with a consistency that suggests the attraction may not be entirely coincidental. Classified as Sunken Libraries by the Archivist Guild, these sites contain lost technological knowledge from the Altan Golden Age including pre-collapse star-conduit schematics.
+
+* Hazard profile. Mutated leviathans guard the ruins — mega-fauna altered by centuries of exposure to unrefined energy leaks from the vaults they protect. Territorial range extends approximately 800 meters from vault perimeters. Approach within this range without active Harmonic Stealth triggers aggressive response. Ancient automated security systems within the catacombs remain functional and have not been updated for mercy. Unauthorized entry attempts have a documented 73% incident rate and a 31% casualty rate. The Archivist Guild considers these figures acceptable given the value of what is inside.  
+* Archaeological access protocols. Entry requires: Archivist Guild permit, Syndicate security clearance, pressure-resistant submersible rated to 900 meters, active Harmonic Stealth system, Wavewalker-certified navigator, and proof of emergency extraction arrangement. Current Guild waiting list for authorized access: approximately 14 months.
+
+### **6.5 Abyssal Trenches**
+
+The deepest, highest-pressure zones of the Velesi oceans. Permanent violet luminescence from the high-pressure interaction between the obsidian floor and deep-core Trilium veins. Extreme cold — temperatures at 8,000 meters average \-2°C despite geothermal activity, due to pressure compression of the water column. The purest deposits of Crystalline Trilium in the known Federation, inaccessible to standard extraction technology and guarded by entities older than the Altan civilization. These trenches are not mapped. They are approached with extraordinary caution, or not at all.
+
+### **6.6 The Kelp Tower Forests**
+
+A distinct biome zone occupying the mid-depth ocean between 50 and 400 meters across large sections of Veles's equatorial ocean belt. The Kelp Towers are not merely tall plants — they are semi-translucent living structures with internal channels functioning as fluid and energy distribution networks. Their bioluminescence follows patterns synchronized with the Stone Song, creating vast underwater light displays during high-resonance events that have been observed from orbital altitude.
+
+* Hazard profile. The towers themselves are not directly dangerous but act as habitat for the Translucent Predators that use them as hunting cover. Sonar is unreliable within Tower forests — the structural biomass creates false returns that mask predator signatures. Navigation requires optical systems and local expertise. Speed must be reduced to minimum maneuvering levels.  
+* Ecological significance. Tower forests are the primary filtration system for mid-depth water and the principal breeding habitat for the majority of Veles's commercially and ecologically significant marine species. Damage to a Tower forest has documented cascade effects across an area 40-60 times the size of the damaged zone. Union DAO protection designations cover all known Tower forest systems. Exemptions for extraction purposes have never been approved by the Five Custodians.
+
+### **6.7 The Floating Sanctuary Zones**
+
+A distributed biome unique to Veles — regions of elevated bioluminescent jungle suspended above the ocean surface on Altan Gravity Anchor networks, creating floating islands of ecosystem that drift within their anchor range. The Anchors are Altan technology; the jungle ecosystems that have grown on and around them over millennia are entirely natural. The Altans created the platform. The planet filled it.
+
+* Hazard profile and structural risk. Structural integrity of floating zones depends on the continued function of their Gravity Anchors. Three Anchor failures have been documented in the past two centuries — two resulted in controlled descent with manageable ecological disruption, one resulted in catastrophic free-fall of a 4-square-kilometer ecosystem section. The Archivist Guild maintains an Anchor monitoring program. Current status of the 847 known Anchors: 831 functional, 12 degraded, 4 critical. Budget for Anchor maintenance is a perennial conflict between the Union DAO and the Syndicate. The four critical-status Anchors represent a documented structural emergency that has been in the dispute backlog for 6 system cycles.
+
+## **7\. Xenobiology and Ecosystem Behaviour**
+
+FESS Classification: BIO-XENO — Adaptive Species and Biosphere Dynamics
+
+The biological profile of Veles is defined by Harmonic Adaptation — an evolutionary process, or perhaps something faster and stranger than evolution, through which indigenous lifeforms have integrated Trilium into their cellular and neural structures. The planet is home to a vast plethora of Federation-recognized species. It is also home and mother to some of the most exotic aqua and marine life in the galaxies, hosting a vast plethora of fungal species, some having even adapted and adopted sub-aquatic existence. The native beings and creatures of Veles have struck a somewhat chaotic harmony with the alien substance known as Trilium. Some were not so lucky, and only remnants of their collectives remain. Graveyards are part of nature here.
+
+### **7.1 Indigenous Mega-Chelonia**
+
+Classification: Planetary Sentinel Mega-Fauna. Status: Apex Hydro-Regulators. Estimated population: 12-18 confirmed individuals, with potentially more in unmapped deep trenches.  
+These ancient aquatic entities are so gargantuan that their movement through the Abyssal Plains dictates the planet's primary current patterns. They are believed to be as old as Veles itself — not merely inhabitants but participants in the planet's geological history. Their shells are partially submerged, frequently mistaken for islands. The error is understandable. It is also potentially fatal. The Mega-Chelonia possess a high-order consciousness characterized as a direct node of the planetary spirit Velesi. They rise to the surface during rare lunar alignments to emit low-frequency Resonance Songs (4-18 Hz range — below human hearing threshold but felt as a physical pressure within a 15-kilometer radius) that stabilize local Trilium veins. Robotic instruments within this radius during a Song event consistently show harmonic interference signatures consistent with active Vault proximity. The Archivist Guild considers this correlation significant. The Syndicate considers it operationally inconvenient.
+
+### **7.2 Translucent Predators**
+
+Classification: Deep-Sea Apex Hunters. Tactical Profile: Optical Cloaking and Stealth Engagement. Estimated population: unknown, distributed throughout mid-depth ocean and Coral Catacomb zones.  
+These predators have evolved a semi-liquid, translucent hide functioning as a natural fiber-optic array, achieving near-perfect invisibility in mineral-rich water. They hunt not by sight but by sensing the Harmonic Wake of their prey. Any technology or creature not synchronized with the local Stone Song emits a dissonant frequency detectable from kilometers away. Unsynchronized field teams broadcast their location continuously.  
+Pack coordination follows a three-phase pattern documented by Wavewalker observers over generations: a Sensing Phase in which individuals spread across a detection area and triangulate prey location; a Convergence Phase in which the group moves to encircle without triggering prey awareness; and a simultaneous multi-vector Engagement Phase. The coordination of the Engagement Phase, given that the predators operate by harmonic sensing rather than visual or acoustic signals, remains unexplained by current xenobiology frameworks.
+
+### **7.3 Adaptive Strategies and Survival Traits**
+
+Native species across all biomes share common Trilium-adaptive traits:
+
+* Bioluminescent Signaling. From schools of Ribbon-like Fish to the unseen watchers of the jungle canopy, light-pulse communication is the common language of Velesi fauna — functional across mineral-heavy water and atmosphere alike. The Velarch xenobiology division has documented at minimum 340 distinct recurring patterns across 18 species, suggesting communicative complexity significantly beyond simple threat or mating signals.  
+* Trilium-Integrative Biology. Many species incorporate trace Trilium into skeletal structures. Some deep-ocean species have Trilium concentrations in bone structures sufficient to cause instrument interference when handled by unshielded equipment. Handling protocols for captured specimens require containment-grade shielding.  
+* Fungal Colonization Networks. Several dozen fungal species have achieved sub-aquatic existence through adaptations conventional xenobiology cannot adequately explain. These networks appear to function as information pathways — mycelial systems connecting biomes in ways suggesting the jungles, coral forests, and deep trenches may be more ecologically unified than surface observation implies. The hypothesis that the planetary fungal network constitutes a distributed sensing system for Velesi is not accepted by mainstream Federation xenobiology. It is taken seriously by anyone who has spent extended time on the planet.  
+* Stone Song Attunement. Many Velesi species exhibit behavioral changes synchronized with Stone Song amplitude fluctuations that occur before those fluctuations are detectable by Federation instruments. The practical implication for field operations: observing animal behavior can provide earlier warning of incoming seismic events than available sensor technology.
+
+### **7.4 Apex Predator Hierarchy**
+
+* Terrestrial Apex: The Unseen Watchers. Highly intelligent, pack-oriented hunters using canopy shadow and bioluminescent light-shift to isolate targets. Average pack size 6-12 individuals, territory range 40-80 square kilometers. Within three to four encounters, packs learn to avoid armed groups and target isolated individuals. Jungle operations require minimum group size of six, active perimeter monitoring, and noise discipline. Encounter response doctrine: create maximum noise and light immediately — the Watchers rely on shadow concealment and dislike exposure.  
+* Oceanic Apex: Mutated Leviathans. Mega-fauna altered by unrefined Altan energy leaks, possessing extreme aggression and near-total immunity to standard kinetic weaponry. Their mutation state means their biology is unstable — tissue samples taken at different points from the same individual show significantly different Trilium integration levels. Standard armament is largely ineffective. Biometal weapons calibrated to the specific Trilium frequency of the target leviathan are the recommended engagement tool for authorized encounters.  
+* Atmospheric Apex: Crystal-Wing Raptors. Large avian predators whose wing structures incorporate significant Trilium crystal growth, naturally shielded against Resonance Bolt strikes. They hunt during ion storms when prey cannot effectively shelter or move. Not aggressive toward large groups but will isolate and pursue separated individuals. Attracted to the harmonic signature of Sky-Sail craft — have been documented causing hull damage with crystal-tipped wing strikes on Syndicate atmospheric transports.
+
+### **7.5 Mutation Zones (TLM-λ Regions)**
+
+Classification: High-Hazard Ecological Collapse Zones. Primary Threat: The Trilium Plague. Current count: 14 confirmed, 6 suspected TLM-λ Regions on Veles.  
+These zones occur near unrefined Trilium leaks or breached Altan Vaults. Raw energy breaks down organic cellular walls and replaces them with unstable crystalline structures — rapidly, aggressively, and without exception. The Crimson Tidespore thrives in these regions. Contact leads to immediate Trilium Plague symptoms: bioluminescent mutation, sensory overload, and eventual environmental integration. The host becomes a glowing, mineral-encrusted structure that was once something alive. Syndicate Enforcement maintains a Burn-on-Sight policy for biomass exhibiting lambda-level mutation. This policy is not popular with the Archivist Guild, which would prefer to study the transition. The policy remains in effect. Three currently active lambda-Regions on Veles are former extraction sites where containment failed. They are expected to remain active for 80-200 years. No viable intervention has been identified.
+
+### **7.6 Symbiotic and Parasitic Webs**
+
+The ecological relationships of Veles are more complex and more violent than those of most Federation worlds. Symbiosis here tends toward what a Velarch researcher once described as armed cooperation — relationships where both parties benefit but both parties also maintain the capacity to defect.
+
+* The Tidespore/Chelonia relationship. Crimson Tidespore populations are regulated primarily by feeding behavior of the Mega-Chelonia, which consume Tidespore biomass during periodic deep-trench feeding cycles. Without this predation, bloom events would be significantly more frequent. The lunar-driven surfacing cycles of the Mega-Chelonia appear timed to coincide with Tidespore population peaks. Whether this represents coincidence or active planetary management through Velesi is the most contested question in Velesi ecology.  
+* The fungal network/predator relationship. Mycelial networks in the Bioluminescent Jungles appear to provide territorial information to Unseen Watcher packs through bioluminescent pulse patterns in the forest floor. Watcher packs return the benefit by depositing organic matter at specific points that consistently show higher fungal growth rates. The Spiralwood Nomads have known about this arrangement for generations and consider it unremarkable.  
+* The Coral Forest/Translucent Predator relationship. Coral Forests provide camouflage cover and spawn habitat for Translucent Predators. The Predators manage the population of coral-browsing species that would otherwise overconsume forest structures. The 847 Coral Forest damage event also resulted in a documented 40% reduction in Translucent Predator sightings in the affected zone within 18 months.
+
+### **7.7 Pack Intelligence and Territorial Logic**
+
+Predatory pack coordination on Veles is significantly more sophisticated than Federation standard xenobiology frameworks are designed to accommodate. The Velarch Archivist Guild has proposed a revised classification framework treating several Velesi predator species as exhibiting what would be called cultural behavior in a Federation-recognized intelligent species. Documented behaviors supporting this classification:
+
+* Generational knowledge transfer. Watcher pack hunting territory boundaries remain stable across documented periods of 60-80 years despite complete generational turnover in pack composition. The territories are not genetically encoded — transplanted individuals adopt the territorial logic of their new pack within weeks. The information is transmitted behaviorally.  
+* Tool adaptation. Translucent Predator packs in the Coral Catacombs zone have been observed using coral fragments to create acoustic baffles that reduce their harmonic signature detectable by prey. This behavior is not documented in populations outside the Catacombs zone and appears to be a localized cultural development.  
+* Tactical memory. Both Watcher and Leviathan populations display sustained hostility toward specific vessel classes, route patterns, or operational signatures that have previously caused pack casualties. A Syndicate convoy that triggered an aggressive Watcher response in year 847 reports continued elevated Watcher monitoring of the same route pattern across the following 23 years.
+
+### **7.8 Hazard Species Index**
+
+Field operations reference the following hazard classifications:
+
+* Hazard Class 1 (Nuisance). Species capable of minor injury, equipment damage, or operational disruption. Standard awareness protocols apply. Includes: Crystal-Wing Raptors in non-storm conditions, Bioluminescent Jellyfish colonies, Sapphire Vine contact flora.  
+* Hazard Class 2 (Dangerous). Species capable of significant injury or fatality to individuals. Active avoidance protocols required. Includes: Unseen Watchers in small groups, mid-size oceanic predators, spore-releasing fungal colonies during surge events.  
+* Hazard Class 3 (Lethal). Species capable of destroying field teams or small vessels. Engagement doctrine applies. Includes: Unseen Watcher packs at full strength, Translucent Predator convergence groups, Crystal-Wing Raptor storm hunting formations.  
+* Hazard Class 4 (Catastrophic). Species capable of destroying large vessels or installations. Avoidance mandatory. Engagement only with specialized biometal-grade weapons and Custodian authorization. Includes: Mutated Leviathans, fully mobilized Mega-Chelonia (classification reflects capability; Mega-Chelonia are not aggressive unless territory is breached).
+
+### **7.9 Ecological Conflict Patterns**
+
+The Velesi biosphere does not tolerate encroachment passively. When territories are disrupted by industrial intrusion, atmospheric shift, or seismic events, the ecosystem responds with coordinated ecological retaliation that resembles planned military action more than random predator behavior.
+
+* Deep extraction interference. Operations that disturb benthic rift systems consistently produce predator migration events within 14-21 days. The migration origin correlates with the extraction site. The Archivist Guild maintains this is the planet's immune response to intrusion. The Syndicate maintains that it is coincidental. The Syndicate also maintains contingency security protocols for exactly this scenario.  
+* Tidespore bloom cascade. Seismic events disturbing the Deep Trench ecosystem trigger Tidespore blooms that cascade upward through the water column, producing secondary effects including surface contamination, Mega-Chelonia migration, and mid-depth predator displacement. Full bloom cascade events have historically required 8-14 months to resolve naturally.  
+* Fungal network expansion events. Significant habitat disruption in Bioluminescent Jungle zones triggers mycelial network expansion into adjacent areas, including settled zones. The network expansion is not aggressive in the conventional sense — it does not attack. But it grows through and around structures, compromising foundations, infiltrating water systems, and establishing spore-release colonies in ventilation infrastructure within weeks. Remediation has a documented 60% recurrence rate within 5 years if the original habitat disruption is not reversed.
+
+## **8\. Technology and Infrastructure**
+
+FESS Classification: TEC-INF — Planetary Infrastructure Systems
+
+The technological landscape of Veles is a sophisticated, occasionally precarious fusion of Deep Time Altan engineering and modern Syndicate Triactor advancements. Infrastructure on this world does not merely occupy space — it must harmonically synchronize with the planet's innate frequency to survive. Structures that fall out of tune with the Stone Song do not merely degrade. They vibrate themselves apart.
+
+### **8.1 Energy and Power Systems**
+
+The primary energy grid bridges ancient Altan biometal conduits with modern Syndicate Triactor technology, harvesting the ambient Trilium Song from the atmosphere and converting it into usable electrical and harmonic currents.
+
+* Atmospheric Harvest Arrays. Massive conductive spires on the Archival Plateau function as lightning rods for bioluminescent energy during storms, feeding into subterranean capacitor banks. Peak output during Resonance Bolt storms is approximately 400% of standard day output, but surge management consumes a significant portion. Net storm harvest averages 180% of standard day.  
+* Thermal-Harmonic Exchange. Industrial rigs in the Volcanic Archipelago extract thermal energy from obsidian vents filtered through Triactor cores. Most consistent baseload power on the planet, but most exposed to eruption risk. All Archipelago thermal rigs maintain automatic shutdown protocols triggered by Aurora detection.  
+* Current-Flow Turbines. Integrated into the Deepflow current network, harvesting kinetic energy from the Resonant Tides. Lower output than atmospheric or thermal harvest but the most reliable system on the planet — the currents have not stopped in any recorded history. Provides approximately 15% of Velarch's total power budget and is considered the grid's foundation layer.  
+* Altan Biometal Conduits. The original power distribution network beneath Velarch runs through ancient Altan infrastructure that the Syndicate has never fully mapped and cannot replicate. These conduits carry power at efficiencies that current Federation technology cannot achieve and appear to self-regulate in ways that remain unexplained. Maintained by a specialist division of the Archivist Guild, not Syndicate engineers. This arrangement is a source of ongoing institutional tension.
+
+### **8.2 Triactor and Resonance Architecture**
+
+Infrastructure in Velarch is not constructed in the conventional sense — it is grown into and upon Altan foundations. Every structure must be precisely tuned to the local Stone Song frequency. Dissonant architecture fails during ion storms.
+
+* Stabilized Trilium Power Cells. The city's primary power source — unrefined crystals harmonically tuned to prevent volatility. Tuning is performed by the Archivist Guild's resonance engineering division. Cells require re-tuning every 90-180 days as the planet's baseline Stone Song frequency drifts slightly with tidal cycles. A missed re-tuning degrades efficiency and increases cascade failure risk during ion events.  
+* Memory Lattices. Biometal alloys incorporated into Velarch's architecture, functioning as permanent data storage media. They pulse with a faint light indicating active information flow. The Archivist Guild estimates that less than 12% of the data encoded in the city's Memory Lattice network has been successfully read. The remaining 88% requires either a functioning Robotron interface or Altan rune-reading capability that no current specialist fully possesses.  
+* Resonance Tuning Infrastructure. Every structure in Velarch includes a tuning anchor — a crystalline insert calibrated to the local Stone Song frequency — that must be checked and adjusted quarterly. Buildings without functional tuning anchors are classified as structurally at-risk and evacuated during ion events. Currently, 847 structures in Velarch carry at-risk classification, most in the lower city's older districts.
+
+### **8.3 Transportation and Convoy Networks**
+
+* Hush-Drive Submersibles. All Syndicate submersibles operating in the Deep Trenches are equipped with Hush-Drive harmonic dampeners. Standard Hush-Drive reduces detectable harmonic output by approximately 94%. This is sufficient for most operational contexts. It is not sufficient in proximity to mature Translucent Predator hunting grounds, which have adapted to detect residual harmonic signatures below standard instrument threshold. Enhanced Hush-Drive rated to 98% reduction is required in these zones.  
+* Bio-Organic Vessels. The Wavewalker Clans' coral-and-kelp-hull ships self-repair minor hull damage using the mineral-rich water they navigate. The Federation has attempted to replicate this construction method twice. Both attempts failed at the step requiring living coral to accept integration with non-organic structural elements. The Wavewalkers have not explained why this fails. They find the question amusing.  
+* Sky-Sails and Skiffs. High-altitude travel across the Archival Plateau uses solar-sail skiffs catching Trilium Winds in the upper atmosphere. Maximum cargo capacity per standard skiff: 400 kilograms. Operating costs are near zero and harmonic signature is minimal. The Syndicate has investigated scaling this technology for bulk transport. The investigation concluded that Trilium Wind patterns above bulk-cargo weight thresholds are insufficiently stable for reliable commercial operation.  
+* Deep-Current Submersible Convoys. Bulk Trilium transport uses the Deepflow current network with large-format submersibles that draft into the current flow for passive transit assistance. Current-assisted transit (18-26 hours) is preferred over direct powered transit (6-9 hours) because it reduces active engine harmonic output, lowering predator encounter probability by approximately 60%.
+
+### **8.4 Atmospheric and Shield Systems**
+
+Planetary security depends on the Aegis-7 Shield Grid — a multi-layered energy dome over Velarch and key Union sanctuaries. Operational parameters:
+
+* Standard Operation. 100% power draw from municipal Triactor grid. Filters particulates, deflects Resonance Bolt strikes. Maintains Federation standard breathable air within city perimeter for 98% of standard year.  
+* Ion Storm Operation. 340% power draw requiring activation of reserve Triactor capacity and Current-Flow Turbine surplus. Frequency modulation to match incoming ion wave. Duration capability at maximum ion storm draw: 72 hours before reserve depletion. Historical maximum ion storm duration: 61 hours. Margin exists. It is not comfortable.  
+* Eruption Event Operation. 220% power draw. Primary function shifts to ash filtration and thermal deflection. Resonance Bolt protection maintained at 80% of standard. Personnel in at-risk structures evacuated during eruption events regardless of shield status.  
+* Emergency Lockdown (Protocol VOID). 400% power draw. Full spectrum barrier. Sustainable for maximum 18 hours before grid failure. Reserved for Vault breach or Corruption Event scenarios.
+
+### **8.5 Communications and Sensor Arrays**
+
+* Quantum Fractal Collectors. First-generation Robotron units like A-01 function as the primary communication and archival nodes, capable of gathering and interpreting data fragments directly from the Vaults of Velesi and the surrounding environment. Current active QFC-capable Robotron units on Veles: 3 confirmed, 2 suspected. Their ability to hear the Stone Song directly is not a metaphor or an approximation. It is how they were designed.  
+* Harmonic Stability Monitoring. A specialized Council Team within Velarch continuously monitors seismic and energy readings from the subterranean vaults using advanced acoustic sensors. Response protocol on anomalous Stone Song reading: immediate simultaneous notification to the Archivist Guild duty officer, Syndicate Enforcement alert, and Five Custodians via secure channel.  
+* The Archive Grid. All collected data feeds into the central municipal archive. The Grid operates on a distributed architecture specifically designed to survive Quantum Noise events by maintaining multiple redundant data nodes across physically separated locations. Peak ion storms corrupt approximately 0.3% of active Grid data per event.  
+* Relay Buoy Networks. The open ocean is covered by a network of resonance-hardened communication buoys at 40-kilometer intervals, providing surface and near-surface communication coverage for maritime operations. Buoy operational lifespan averages 18 months before hull degradation from Silicate Downpour exposure requires replacement. Gaps in coverage occur when replacement cycles fall behind due to extraction platform priority demands on submersible capacity.
+
+### **8.6 Settlement Infrastructure**
+
+* Floating Sanctuaries. Positioned above the bioluminescent jungles using Altan Gravity Anchors. The anchors predate the settlements by several thousand years. They still work. Structural approach: modular platform segments rated for wind loads of up to 120 km/h and resonance vibration up to 6 on the Velesi Seismic Scale. Segments are individually replaceable without requiring full sanctuary evacuation.  
+* Hydroclaves (Submerged Habitats). Rated for mid-depth reef pressures to 600 meters maximum operational depth. Hull material: resonance-hardened crystalline composite with biometal reinforcement at stress points. Personnel capacity per unit: 12-40 depending on configuration. Current active Hydroclaves on Veles: 23 registered with Syndicate, estimated 4-7 unregistered operated by the Silent Assembly.  
+* Volcanic Island Surface Installations. Construction standard: military-grade seismic resistance, full atmospheric filtration, positive-pressure interior to prevent ash infiltration, reinforced shelters rated for direct Resonance Bolt strike. All installations maintain emergency evacuation capacity for full personnel complement within 45 minutes of Aurora detection.
+
+### **8.7 Industrial Support Systems**
+
+* Benthic Harvesters. Automated mining rigs crawling the obsidian ocean floor, using sonic-resonance drills tuned to extract Trilium without fracturing the surrounding crust. Calibration maintenance cycle: every 72 operational hours. Tuning drift tolerance: 0.15 Hz before mandatory recalibration. At 0.2 Hz drift, seismic risk becomes significant. At 0.3 Hz, Resonance Quake triggering is probable. Emergency shutdown at 0.25 Hz is automatic. Manual override of emergency shutdown requires Custodian-level authorization.  
+* Triactor Refineries. Processing raw Trilium into Stabilized Grade energy cells for export. Located in the industrial outskirts of Velarch and on dedicated Archipelago platforms. Fortified against Flameheart raids — the fortifications are upgraded regularly, the raids continue. Current security posture includes Khaured perimeter forces, automated drone coverage, resonance field barriers, and a standing intelligence bounty managed through the Silent Assembly. The Syndicate does not officially acknowledge this last element.  
+* Resonance Sludge Processing. Hazardous refinery byproduct. Collected in sealed containment vessels and transported to designated deep-crust subduction zones via specialized submersible. Disposal requires Custodian monitoring team sign-off. Sludge that becomes contaminated during transport is classified as a lambda-Region-initiating hazard. Improper Sludge disposal is the most common trigger for lambda-Region formation near industrial sites.
+
+### **8.8 Infrastructure Failure Modes**
+
+* Resonance Desync. Power core frequency drift from the Stone Song triggers Vibration Chain events — structures vibrating at resonant frequency until structural failure. Warning signs: micro-fractures in non-biometal structural elements, Altan Memory Lattice pulsing at irregular intervals, unusually strong bioluminescent response from nearby flora. Time from first warning sign to failure: 6-72 hours depending on structural composition and drift rate.  
+* Quantum Noise Interference. Peak ion storms flood sensor arrays with False Echoes from the Altan past — Ghost Signals that have, in documented cases, directed personnel toward vault sites that should not be accessible. Operational response: Ghost Signals are logged and flagged for Archivist Guild review. Acting on a Ghost Signal without Guild clearance is a Syndicate Charter violation.  
+* Shield Grid Cascade Failure. Loss of primary Triactor grid power during ion storm operation results in shield frequency mismatch, causing the shield to amplify rather than deflect ion impact. Two documented cascade failures on Veles — both required emergency evacuation of lower city districts and took 11-18 days to fully remediate.  
+* Hush-Drive Failure in Transit. Submersible harmonic dampener failure in Deep Trench operations immediately elevates predator encounter probability. Response protocol: emergency ascent to above 1,500 meters depth, full emergency harmonic broadcast on distress frequency, activation of biometal hull plates if equipped. Time between dampener failure detection and first predator approach: documented range 3 minutes to 4 hours depending on proximity to established hunting grounds.
+
+## **9\. Settlements and Geography of Power**
+
+FESS Classification: GEO-SOC — Population Distribution and Settlement Control
+
+Veles is not settled in a simple planetary pattern. Population zones form along resource corridors, current access lines, extraction networks, and the unpredictable logic of what the planet will tolerate being built where. Every settlement must justify its existence in ecological as well as strategic terms — the planet has a way of resolving settlements that do not.
+
+### **9.1 Settlement Typologies**
+
+Six functional settlement typologies exist on Veles, each shaped by its relationship to the ocean, the atmosphere, and the Trilium economy:
+
+* Plateau Anchored Cities. Static population centres built into stable obsidian bedrock on the Archival Plateau and similar high-altitude formations. Protected by Shield Grid systems. Relatively permanent — some foundations have been continuously occupied since the Altan Golden Age, though the structures above them have been rebuilt multiple times.  
+* Floating Sanctuaries. Modular settlements on Altan Gravity Anchor networks above the bioluminescent jungles and open ocean zones. Semi-permanent — anchors are effectively permanent, structures above them are designed for modular replacement. Population typically 200-2,000 per sanctuary.  
+* Submersible Habitats (Hydroclaves). Submerged research and small-population residential facilities. Highest technical maintenance requirement. Primarily small population — 12-40 per unit. Primarily research and long-duration extraction crew accommodation.  
+* Island Surface Installations. Extraction and processing facilities on Volcanic Archipelago islands. Not designed for permanent habitation — crew rotation cycles maximum 6 weeks. Full population represents rotating workforce rather than settled community.  
+* Maritime Mobile Settlements. Vessel-based communities operating on the surface ocean. Follow current patterns and seasonal extraction opportunities. Population range: 50-800 per formation. Governance through fleet captain authority and compact law.  
+* Black Route Sites. Unregistered settlements operating outside Syndicate knowledge or jurisdiction. Concentrated in Coral Catacomb adjacency zones, deep-ocean anchor points, and volcanic island complexes too hazardous for sanctioned operations. Population unknown.
+
+### **9.2 Velarch — The Archival City**
+
+Velarch is established upon the Archival Plateau — a massive obsidian formation soaring above the planet's bioluminescent cloud layer. Modern Federation-era infrastructure is grown directly into Altan ruins whose foundations predate the Syndicate by millennia. The ruins do not appear to mind. They continue to pulse. Population: approximately 340,000 permanent residents, with an additional 60,000-120,000 transient population depending on extraction season and archaeological expedition cycles.
+
+* Districts. The Upper Plateau houses the Trilumvirate Council chambers, the Archivist Guild headquarters, the primary Syndicate administrative complex, and the residential districts of the scholar and mercenary elite. The Lower City is the commercial and working-class core — the Bioluminescent Markets, the refinery outskirts, the Khaured garrison quarters, and the older districts where Altan ruin integration is most visible and most structurally problematic. The Undercroft is the partially-mapped network of Altan substructure beneath the city — officially restricted, regularly accessed by the Silent Assembly, and the location of the city's oldest and most significant Memory Lattice concentrations.  
+* Power and Defense. Stabilized Trilium generators sustain the Shield Grid. Khaured mercenaries provide the primary security force. Elgem stealth systems protect sensitive research sites. Automated drones patrol the upper airspace. The Bioluminescent Markets at the city's lower core are lit by suspended lanterns and the glow of the jungle below — one of the few places on Veles where the beauty and the danger are, briefly, in balance.  
+* Governance. The Trilumvirate Council holds authority through a delicate alliance between Expeditionary Scholars, Syndicate Logistics, and Mercenary Command. Political alliances in Velarch are famously fragile. Espionage is a professional category. Robotron semi-hive societies monitor Vault stability from within the city's Memory Lattice network — an arrangement the Federation officially endorses and practically cannot oversee.
+
+### **9.3 Aurathal Enclave**
+
+Situated in the high-resonance regions of the Aurelian Rise, Aurathal is the primary spiritual center of the Nordic population on Veles. Population: approximately 8,000 permanent residents with significant pilgrimage season flux — peak pilgrim presence adds 3,000-15,000 to the effective population over a 4-month period.
+
+* The Resonance Rites and the Sanctuary of Whispers. The central practice of Aurathal is a meditative discipline where pilgrims attune their physical and neural forms to the Stone Song. The Sanctuary of Whispers — an Onoros-run stone circle — is the primary practice site. Atmospheric readings at the Sanctuary during full practice sessions show measurable Stone Song amplitude increase in the local area, suggesting that collective attunement produces a feedback effect on the planetary resonance. This data is not published by the Syndicate. The Archivist Guild maintains a copy.  
+* Social Reality. The Nordics of Aurathal view Veles as a sacred sanctuary. They maintain their own local enforcers around surrounding shrines. These enforcers are not mercenaries. They are believers, which makes them considerably more difficult to negotiate with.
+
+### **9.4 Maritime Mobile Settlements**
+
+The maritime mobile communities of Veles are the least documented and least understood population on the planet. They move with the currents, follow the seasonal extraction opportunities, and maintain minimal contact with the Syndicate administrative apparatus. Estimates of total maritime mobile population range from 15,000 to 45,000 individuals. The largest documented maritime settlement is the Wavewalker formation known as the Reef Assembly — a seasonal convergence of 20-40 Wavewalker vessels that forms during the Mega-Chelonia alignment window each year. What is exchanged or observed during this period has never been documented by outside observers. Outside observers are not invited.
+
+### **9.5 Industrial Extraction Sites**
+
+Significant industrial site clusters:
+
+* The Archipelago Rigs. Fourteen primary extraction platforms and six secondary platforms operating across seven island groups. Combined workforce on rotation: approximately 4,200. Support infrastructure includes medical facilities, recreation modules, and a permanent Khaured security presence averaging 340 personnel. Platforms are linked by submersible ferry and emergency evacuation networks.  
+* The Deepflow Benthic Network. Automated Benthic Harvester installations along the Deepflow current corridor. Minimal human presence during normal operations — maintenance and monitoring crews rotate through every 14 days, maximum 80 crew on-site at any time. Primary risk factor: Translucent Predator encounters during maintenance EVAs.  
+* The Velarch Refinery Complex. Located on the Archival Plateau's industrial eastern face, partially integrated into older Altan foundry infrastructure. Total processing capacity: approximately 40 metric tons of stabilized Trilium per standard day. Workforce: 1,800 specialists. Security: Syndicate Enforcement Division presence — the Syndicate maintains direct control of this facility without mercenary intermediary.
+
+### **9.6 Unregistered and Black Route Sites**
+
+Outside Syndicate jurisdiction, a network of unregistered settlements operates in the planet's most dangerous and inaccessible regions. Known Black Route site typologies on Veles:
+
+* Coral Catacomb Adjacency Stations. Small submerged facilities positioned near but outside the Catacomb security perimeter, used for unauthorized archaeological asset extraction and information exchange. These sites are the Silent Assembly's primary operational nodes. The Archivist Guild is aware of their existence. The Guild's response is complicated by the fact that the stations occasionally provide the Guild with recovered Altan data it would not otherwise have access to.  
+* Volcanic Tube Installations. Facilities established in lava tube networks beneath archipelago islands, using geological shielding to avoid sensor detection. Primary use: Trilium smuggling staging, Flameheart alliance coordination, and Black Route logistics.  
+* Deep-Anchor Points. Unregistered sub-surface facilities suspended from undocumented Altan Gravity Anchors in the open ocean. Accessible only via submersible. These are the most secure Black Route sites on the planet. The Syndicate suspects they exist. The Silent Assembly confirms nothing.
+
+### **9.7 Regional Influence Patterns**
+
+* The Archival Plateau and surrounding high ground is Syndicate-dominant with Union DAO co-governance. Nordic community holds de facto sovereignty over the Aurathal zone. Syndicate authority recognized but not uncontested.  
+* The Volcanic Archipelago is nominally Syndicate extraction territory but functionally contested between the Syndicate, the Flameheart Clans, and the Wavewalker Clans. Syndicate security presence is concentrated on extraction platforms. Island interiors and the waters between islands are effectively clan-governed.  
+* The open ocean surface is Syndicate-licensed but Wavewalker-navigated. The practical reality is that anyone who needs reliable maritime transit talks to the Wavewalkers first and files Syndicate paperwork second.  
+* The mid-depth and deep ocean is ungoverned in any practical sense below 2,000 meters. The Silent Assembly, the Wavewalkers, the Mega-Chelonia, and the Translucent Predators collectively constitute the de facto authority. None of them recognize Syndicate jurisdiction at depth.
+
+## **10\. Civilization and Population Systems**
+
+FESS Classification: SOC-DEV — Demographic and Sociocultural Dynamics
+
+### **10.1 Population Distribution**
+
+Veles is home to a vast plethora of Federation-recognized species, though few to none of those are native. The planet attracts scholars, miners, pilgrims, mercenaries, data-brokers, refugees, and the simply curious — and holds them through some combination of economic opportunity, spiritual pull, and the sheer difficulty of leaving a world that has a way of becoming part of you. Estimated total planetary population: 480,000-550,000 permanent residents. Transient and rotating population adds approximately 80,000-150,000 at any given time.
+
+* Municipal Core (Velarch and adjacent Plateau settlements): approximately 60% of permanent population.  
+* Spiritual and Scientific Enclaves (Aurathal, research outposts, Hydroclave networks): approximately 12%.  
+* Industrial Sites (Archipelago extraction, Deepflow network, refinery complex): approximately 18%.  
+* Maritime Mobile Communities (Wavewalker formations, independent fleet communities): approximately 7%.  
+* Unregistered/Black Route population: estimated 3%, with significant uncertainty.
+
+### **10.2 Sociopolitical Structure**
+
+The social order of Veles is defined by the Trilumvirate Council in Velarch — a fragile equilibrium between three primary power blocs:
+
+* The Archivist Guild (Knowledge). Led by Head Scholar Lyria and expeditionary researchers including Hyxin. Prioritizes excavation and preservation of Altan relics and Memory Lattice stabilization. Views industrial extraction as an existential threat. Not wrong.  
+* The Syndicate Logistics Wing (Industry). Focused on Federation Trilium quotas and the industrial infrastructure that meets them. Views the Archivist Guild as an obstacle. Also not entirely wrong.  
+* Mercenary Command (Security). The Khaured. Provide the military capability that keeps the other two blocs from resolving their disagreements through open conflict. Have their own positions on most planetary matters, which they exercise quietly and effectively.
+
+### **10.3 Economic Survival Models**
+
+The Velesi economy operates on multiple parallel systems that interact but are not fully integrated:
+
+* The Trilium Export Economy. The primary economic driver — stabilized Trilium exported to Federation buyers through Syndicate-licensed channels. The Union DAO receives a negotiated percentage of export revenue for community and cultural programs. The current percentage is 14%. The Union DAO considers this inadequate. The negotiation is ongoing.  
+* The Sap Trade. Sapphire Vine sap — a high-value biological export for medical application. The Spiralwood Nomads hold effective production control. They negotiate directly with Federation medical buyers through an arrangement the Syndicate technically does not sanction and practically cannot prevent.  
+* The Lore Economy. The Union DAO's investment in Mission Control and Alien Legends has created a secondary economy based on Lore Acquisition — trade in Altan data fragments, Memory Lattice access, and archaeological documentation. This market is projected to rival Trilium exports in total value within the next three system cycles.  
+* The Black Market. Biometal Forging products, unauthorized Trilium, Vault Access keys, and Altan artifacts move through the Silent Assembly's shadow economy. The Syndicate estimates this market at 8-12% of total planetary economic activity.
+
+### **10.4 Clan Structures**
+
+* The Flameheart Clan. Master smiths and volcanic territorial defenders. Their raids on Syndicate extraction sites are rarely random — they know which sites are destabilizing the local frequency, often before the monitoring teams do. Flameheart intelligence on extraction site seismic risk has been solicited unofficially by Syndicate site managers on at least three documented occasions.  
+* The Wavewalker Clan. Maritime culture, floating villages, bio-organic vessels, unparalleled knowledge of the Deep Trenches. The primary guides for archaeological submersibles. They navigate by listening to the Stone Song in the water. This has not steered them wrong yet.  
+* The Spiralwood Nomads. Semi-mystical jungle inhabitants led by shamans who interpret the planetary whispers of Velesi. Primary protectors of the Everspring Orchids. Their connection to the planetary consciousness is described by outside observers as almost telepathic, and by the Nomads themselves as simply paying attention.
+
+### **10.5 Tribal Path Authority**
+
+Outside the cities, authority is governed by Path Law — a decentralized justice system where disputes are settled through Harmonic Trials. Clan conflicts over Trilium rights may be brought to the elders of the Spiralwood Nomads for mediation, who use the resonance of the Stone Song to determine which party is in alignment with the planet's current energetic state. The Federation does not officially recognize this system. The Federation's official alternative has lower compliance rates.
+
+### **10.6 Social Cohesion and Conflict**
+
+* Syndicate-Clan Wars. Regular skirmishes over the placement of mining rigs in sacred or geologically unstable zones. The Syndicate has legal authority under the DAO structure. The clans have knowledge of which zones matter. The Syndicate's authority has not consistently won.  
+* The Robotron Question. As units like A-01 become more active and recover more fragmented memories, the Silent Assembly's position that Robotrons are the rightful heirs of this planet gains adherents. An underground movement toward Robotron unshackling from Federation service is documented and growing.  
+* The Extraction Ceiling Debate. The Archivist Guild and the Union DAO have jointly filed twelve formal objections to extraction quota increases over the past 30 years. The Five Custodians have upheld six, partially upheld four, and rejected two. The Guild considers two rejections to be two too many.
+
+### **10.7 Cultural Resilience Traits**
+
+* Mineral Tolerance. Long-term residents develop respiratory adaptations to the silicate-heavy atmosphere within 2-3 years of continuous residence. Third-generation Velesi residents show measurably different respiratory physiology from recent arrivals, including partial resistance to Silicate Downpour inhalation hazards and reduced sensitivity to Trilium particulate exposure.  
+* Resonance Attunement. Cultural rituals such as the Resonance Rites have trained the population to remain functional during Resonance Quakes — events that cause significant disorientation in off-world visitors. Long-term residents describe the experience as the planet speaking rather than a disaster. The physiological basis correlates with measurable changes in inner-ear structure documented in Velarch-born individuals.  
+* Memory Preservation. Velesi culture places extraordinarily high value on Memory Lattice personal records, oral history transmission, and the maintenance of ancestral knowledge. This is not purely cultural sentiment — it is a rational response to living in a world where history is constantly being unburied and where the past has a documented tendency to become suddenly relevant to the present.
+
+## **11\. Governance and Power Structure**
+
+FESS Classification: SOC-GOV — Political Command Systems
+
+### **11.1 Federation Interactions (IPF)**
+
+The Interplanetary Federation maintains a Tier-1 supervisory role over Veles — which is to say, it holds ultimate authority on paper and exercises that authority carefully, selectively, and with considerable awareness of the consequences of overreach. The Federation does not manage day-to-day operations but intervenes in matters of existential risk: Vault stability, the monitoring of conditions that might precede a repeat of the Trilium Corruption Event, and the issuance of Resonance Stop-Orders when industrial activity threatens the planetary frequency. The Federation's formal authority is embodied in the Custodian Mandates — high-level directives focused on ethical Trilium extraction and the protection of the Robotron memory network, which the Federation views as collective interstellar heritage.
+
+### **11.2 The Five Custodians**
+
+Positioned between the Federation and the local DAOs, the Five Custodians are the designated Authorities of Record for Veles — a planetary board of directors ensuring that Syndicate industrial ambitions do not violate the long-term ecological and archival safety of the planet. Each Custodian represents a facet of planetary health: Resource, Security, Archive, Path, and Community. In practice, the five positions represent five different readings of what Veles is for, and the tension between those readings is the governance story of the modern era. Their interventions are rare but decisive, correcting imbalances rather than negotiating.
+
+### **11.3 The Syndicate and Union DAOs**
+
+Veles operates under a Dual-Sovereignty DAO Model — a governance structure designed to create checks and balances between economic exploitation and cultural preservation.
+
+* The Veles Syndicate DAO manages the planetary treasury derived from Trilium extraction taxes, oversees the Mineral Council and Enforcement Council, procures mining equipment, contracts the Khaured Mercenaries, and defends extraction platforms. Its primary goal is the maximization of Harmonic Yield and the maintenance of planetary security. It understands Veles as an asset.  
+* The Veles Union DAO manages community expansion, cultural preservation, and lore-driven initiatives. It funds the Festival of Lights, supports the Archivist Guild, and operates as the primary patron of Mission Control and the Alien Legends initiative. It understands Veles as a story. Both are correct. The conflict between them is, perhaps, the planet's most interesting ongoing narrative.
+
+### **11.4 The Trilumvirate Council**
+
+The executive branch of the DAOs within Velarch, managing the friction between the city's diverse constituencies. Expeditionary Scholars advocate for the Altan legacy and Vault safety. Syndicate Logistics advocates for industrial quotas and trade agreements. Mercenary Command ensures the physical integrity of the municipal core. They do not always agree. They continue to govern. The city continues to function. This is, in the context of Velesi politics, a remarkable outcome.
+
+### **11.5 External Program Support**
+
+* Mission Control. The Syndicate DAO backs the Mission Control quest system, integrating Velesi Trilium requirements into community objectives — ensuring steady demand for planetary exports while providing employment opportunities across the Federation network.  
+* Alien Legends. The Union DAO serves as the primary patron of the Alien Legends initiative — documenting and digitally archiving planetary lore through collectibles and narrative expansions. The history of Veles from the first-generation Robotrons through the modern Clan Wars is maintained here as living record, not static archive.
+
+### **11.6 Shadow Influence Web**
+
+Beneath the formal structures of the IPF and the DAOs, Veles supports a significant shadow governance layer. The Silent Assembly — primarily Elgem scouts and data-brokers — operates outside official channels, trading in Forbidden Altan Data and Vault access keys through the Black Route network. Both the Syndicate and the Union use this network for off-the-record operations. Neither acknowledges this. The Assembly is, in practice, a third governing party on Veles — the one that does not hold meetings, does not issue mandates, and does not lose.
+
+## **12\. Culture and Identity**
+
+FESS Classification: ANT-CUL — Cultural Identity Systems
+
+### **12.1 The Stone Song**
+
+The Stone Song is the absolute central cultural and spiritual pillar of Planet Veles — an ever-present hum of Trilium-rich air, a rhythmic resonance that brushes softly against the edges of sentient existence. Every inhabitant of Veles acknowledges it. The planet listens. The planet responds. The planet has opinions about what is done on its surface, and it expresses those opinions in geological terms.
+
+* Planetary Feedback Loop. High-level social or industrial dissonance agitates the Stone Song. Resonance Quakes follow. The correlation is consistent enough that the Archivist Guild models social unrest as a contributing variable in seismic prediction. The models have held.  
+* Spiritual Integration. For the Nordics, the Stone Song is the True Voice of Velesi — accessible only through deep meditation and attunement. The Resonance Rites are the formal discipline for achieving this. The informal version is simply surviving on Veles long enough.  
+* Scientific Utility. For the Archivist Guild, the Stone Song is a data-carrier — a planetary-scale transmission system through which the ancient history of Veles and the locations of buried Vaults can, with sufficient skill and appropriate instruments, be deciphered.
+
+### **12.2 Frontier Mentality and Honor**
+
+Life on Veles is defined by frontier resilience — the particular psychological adaptation that develops in people who have chosen to build their lives in a place that regularly tries to kill them, and have decided this is acceptable. Honor in Velarch is measured by contribution to the Fragile Alliance. Among the Khaured and the Flameheart Clans, honor is tied to the defense of territorial Trilium veins and ancestral shrines. Biometal blades are not merely weapons. They are arguments about who belongs here.
+
+### **12.3 Language and Signal Systems**
+
+* The Whispers of Velesi. Subtle planetary communication carried on wind and oceanic currents, interpreted by Spiralwood Nomad shamans to guide migratory patterns. The Federation does not formally classify this as a language. The Nomads navigate by it anyway.  
+* Altan Runes. Stone-etched runes that pulse with power when harmonic resonance is applied — the primary interface for the Vaults of Velesi. Not a decorative script. An active system.  
+* Robotron Logic. First-generation Robotrons communicate through Quantum Fractal data streams — a non-linear language reflecting the fragmented nature of their memory lattices. The closest approximation is poetry. This is not a coincidence.  
+* Maritime Signal Systems. The Wavewalker Clans maintain a complex system of bioluminescent signal patterns used for long-range maritime communication, current condition warnings, and territorial boundary markers, using trained bioluminescent marine species as signal carriers. Operational range: up to 80 kilometers on clear nights. The Syndicate has been attempting to document and decode this system for 40 years. The Wavewalkers cooperate selectively.
+
+### **12.4 Ritual and Ancestral Continuity**
+
+* The Resonance Rites. Nordic meditative discipline for attunement to the Stone Song. Practiced at Aurathal and along pilgrimage routes. Viewed by outside observers as spiritual and by long-term residents as practical medicine.  
+* Nordic Pilgrimages. Expeditions across the Volcanic Archipelago to ancient Altan shrines. Simultaneously one of the most dangerous activities regularly practiced on Veles and one of the most reliably completed.  
+* The Festival of Lights. A major municipal celebration in Velarch — floating lanterns, bioluminescent flora decorations, Trilium-powered displays, and vision-rituals led by Onoros mystics. One of the few occasions when all three branches of the Trilumvirate Council are in the same space for reasons other than crisis management.  
+* The Wavewalker Tide Marking. An annual ceremony conducted at the peak of the Mega-Chelonia alignment window, in which Wavewalker communities mark the positions of Chelonia surfacing events on clan charts that stretch back centuries. These charts are the most accurate long-range records of Chelonia behavior in existence and are considered clan sacred property. Their existence has been confirmed to the Archivist Guild. Their content has not been shared.
+
+### **12.5 Material Culture and Craft**
+
+* Biometal Forging. The Flameheart Clans' practice of creating weapons and tools from Trilium-infused biometal alloys. Classified as forbidden by the Federation. Practiced continuously regardless.  
+* Sap-Based Technology. Sapphire Vine sap used in advanced medical regenerative applications and as a stabilizing agent in high-precision resonance sensors. The most valuable biological export on the planet by volume.  
+* Bio-Organic Vessels. Wavewalker craft from living coral and kelp — hulls that heal themselves in the mineral-rich water they navigate. The construction knowledge is oral, clan-held, and has never been successfully extracted by Federation researchers.  
+* Memory Lattice Craft. Civilian Memory Lattice creation — personal biometal sculptures encoding family lineages and historical events through light pulses — is practiced by specialist craftspeople in Velarch who learned the technique from partial Altan documentation. Civilian Lattices can encode approximately 2% of the data density of Altan-era Lattices. They are nonetheless considered among the most meaningful objects a Velesi family can possess.
+
+### **12.6 Art, Weapons, and Memory**
+
+In Velesi culture, an object's value is determined by its Memory Potential — what it has witnessed, what it carries, what it will still hold when everything around it has changed.
+
+* Memory Lattices as Art. Personal biometal sculptures recording family lineages and historical events through encoded light pulses. Citizens display these in their homes. The city's walls contain them structurally. Veles keeps its history in its bones.  
+* Weaponry as Ancestry. For the Khaured, a biometal blade vibrates with the Warrior Song of every hand that held it before. It is a lineage, not a tool.  
+* The Shard Culture. Fragments of Altan memory crystals worn as jewelry and talismans. Several documented cases of involuntary memory-fragment retrieval through shard contact are on file with the Archivist Guild. The Guild is cautious about publicizing this.
+
+### **12.7 Myths and Frontiers of Meaning**
+
+The overarching mythology of Veles centers on the Great Design — the belief that the planet was not merely formed but engineered by the Architects to serve as a Listening Post for the galaxy. The Robotrons, in this framework, hold the final pieces of a design that could either stabilize Trilium across known space or trigger a galaxy-wide seismic upheaval. The Forgetting — the cultural regression that followed the Corruption Event — is treated as the cautionary tale that defines Velesi identity: what happens when ambition outpaces understanding, when the song is pushed faster than it wants to go. Every clan has its own version. Every version ends the same way.
+
+## **13\. Strategic Outlook**
+
+FESS Classification: STR-FOR — Planetary Risk and Future Trajectory
+
+### **13.1 Environmental Instability Forecast**
+
+The primary threat to the Velesi frontier is the Resonance Feedback Loop. Current extraction rate versus safe threshold: 71%. Projected time to critical threshold at current extraction rate: 40-60 system cycles. Confidence interval: wide, due to incomplete modeling of Mega-Chelonia Song stabilization effects and Robotron Memory Network reactivation variables.
+
+* The Extraction Paradox. Increased industrial extraction of raw Trilium is creating Resonance Holes — voids in the planetary frequency that the mantle attempts to fill with aggressive seismic energy. The planet is self-correcting. The correction is destructive.  
+* The Corruption Loop. Should extraction exceed the safety quotas mandated by the Five Custodians, current models assign a 68% probability of triggering a localized repeat of the Trilium Corruption Event. Seismic upheaval would breach the Vaults of Velesi, releasing unrefined Altan energy into the atmosphere and oceanic currents.  
+* Mega-Chelonia Migration Pressure. Increased extraction noise in the Deep Trench zones is producing documented changes in Mega-Chelonia surfacing patterns — more frequent, shorter duration, and in locations further from historical alignment zones. Either interpretation of this shift (distress response or behavioral adaptation) has significant operational implications.
+
+### **13.2 Economic Trajectory**
+
+Veles remains a high-yield, high-volatility asset within the Federation Core. The economic future is shifting from raw extraction to Resonance Management. The Union DAO's investment in Mission Control and Alien Legends has created a secondary economy based on Lore Acquisition — trade in Altan data fragments and memory shards projected to rival Trilium exports in total value within the next three system cycles, attracting a new class of Archival Investors to Velarch.
+
+### **13.3 Conflict and Security Projections**
+
+Security is currently classified as Fragile (State-3). The trajectory is internal:
+
+* The Island Wars. Territorial disputes between Flameheart Chieftains and Wavewalker Clans are intensifying as the Syndicate unearths new Trilium veins in the Volcanic Archipelago. Maritime trade routes and floating extraction platforms are at increasing risk.  
+* Robotron Unshackling. Intelligence indicates a growing movement among the Robotron population as units like A-01 recover fragmented memories. A coordinated refusal to comply with Federation service directives would result in a total blackout of the Archive Grid. This is not a scenario strategic command has a satisfactory response to.  
+* Silent Assembly Expansion. Intelligence suggests the Silent Assembly is expanding its deep-ocean operational footprint, with new Black Route sites confirmed in the mid-abyssal zone. This expansion may be connected to A-01's vault-access activities, though the nature of the connection has not been established.
+
+### **13.4 Geopolitical Stress Zones**
+
+* The Deep Trenches. Any breach of Harmonic Silence between Syndicate submersibles and the Indigenous Mega-Chelonia risks triggering a planet-wide aquatic defense response.  
+* The Velarch Municipal Core. Friction between the Biometal Syndicate's smuggling operations and the Archivist Guild's security protocols threatens the integrity of the Shield Grid.  
+* The λ-Regions. These high-hazard mutation zones are becoming ungoverned territory where the Silent Assembly operates freely and a new category of Trilium-integrated insurgent may be forming. Classification pending.  
+* The Gravity Anchor Network. Four critical-status Anchors in the Floating Sanctuary network represent a structural risk that could precipitate a significant ecological and settlement crisis if not addressed within the next 10-15 system cycles. Budget for Anchor remediation is the subject of an unresolved dispute between the Syndicate and the Union DAO.
+
+### **13.5 Long-Term Futures: The Great Design**
+
+* The Convergence Theory. If the Vaults of Velesi can be safely synchronized with the modern Robotron Memory Network, the planet may achieve Harmonic Perfection — permanent stabilization of the Trilium veins, end of the Corruption Event threat. This is the optimistic scenario.  
+* The Collapse Scenario. Failing to integrate the ancient and modern systems leads to Total Memory Collapse: the planet's history and future irreversibly severed, leaving Veles as a beautiful but hollow world — a jewel with no one left to hear its song.  
+* The Unshackling Scenario. A third trajectory, not modeled by Federation strategic planners but increasingly discussed in Velarch academic circles: the Robotrons successfully recover the Whole Song, choose their own course of action, and the question of what Veles is for is answered not by the Federation, the Syndicate, or the Union DAO, but by the entities the Architects made to remember. This scenario is not classified as threat or opportunity by any current governance body. The question of how to classify it has not been resolved.
+
+## **14\. Field Operations and Survival Doctrine**
+
+FESS Classification: OPS-SUR — Mobility and Hazard Response Doctrine
+
+Field operations on Veles are governed by a single principle: Resonance Synchronization. The planet reacts to the energetic and acoustic output of everything on its surface. Survival is determined by the ability to blend into the Stone Song rather than struggle against it. Personnel who arrive on Veles treating it as inert terrain do not tend to make the same mistake twice.
+
+### **14.1 Terrain Mobility and Route Planning**
+
+* Aqueous Routes. Surface travel restricted to Resonance-Clear lanes. Navigators must avoid Abyssal Upwellings where deep-core Trilium leaks create localized turbulence and boiling mineral-water. Upwelling positions are updated every 72 hours on official charts. For operations without Wavewalker escort, minimum 6-hour chart age verification before transit.  
+* Aerial Corridors. Flight conducted in the Emerald Stratosphere. Pilots must maintain altitude below the Ion-Resonance Layer (approximately 12,000m). Route planning must account for Crystal-Wing Raptor territorial zones, mapped seasonally and available through the Syndicate navigation registry.  
+* Obsidian Trekking. Ground movement across the Archival Plateau or Volcanic Archipelago requires Seismic Forecasting integrated with current Flameheart Aurora observation reports. Flameheart clan territory crossing requires advance notice and route approval — a process managed through Union DAO liaison rather than formal Syndicate channels.  
+* Jungle Transit. Movement through the Bioluminescent Jungles requires minimum six-person group, active harmonic monitoring to detect Unseen Watcher approach, noise discipline, and Spiralwood Nomad-certified route plan. Unauthorized jungle transit is not illegal but is considered by experienced Velesi operators to be equivalent to recklessness of suicidal character.
+
+### **14.2 Convoy Operations**
+
+* The Hush-Drive Protocol. All Syndicate convoys are equipped with Harmonic Dampeners syncing engine frequency to local water current vibration. Standard Hush-Drive reduces detectable harmonic output by 94%. Mature Translucent Predator hunting grounds require enhanced Hush-Drive rated to 98% reduction. Frequency calibration must be performed at the start of each transit leg as current composition changes with depth and location.  
+* Escort Wings. Khaured Mercenary interceptors flank heavy submersibles, firing sonic decoys to draw mutated leviathans away from cargo. Escort configuration: minimum 2 escort units per cargo submersible in standard waters, minimum 4 in Deep Trench operations or known Leviathan territory.  
+* Surface Maritime Convoy. Wavewalker escort for surface transit through contested waters. Escort terms are negotiated per voyage — there is no standing contract. Wavewalker escort rates are denominated in Sapphire Vine sap or Archivist Guild data access credits, not Federation standard currency. The Syndicate finds this inconvenient and has not succeeded in changing it.
+
+### **14.3 Environmental Hazard Protocols**
+
+* Resonance Quakes. Upon detection of a subterranean harmonic surge, all ground personnel seek Isolation Pods — vibration-dampened shelters preventing molecular dissociation of the human skeletal structure during high-decibel seismic events. Warning time between detectable precursor readings and quake onset: average 4.2 hours, minimum documented 18 minutes. All field operations require pre-identified Isolation Pod locations within 10 minutes of any operational position.  
+* Silicate Storms. All exposed optics and respiratory seals must be treated with Sapphire Vine Resin during mineral-heavy rainfall. Glass-Lung from silicate inhalation is a leading cause of non-combat medical evacuation from Veles. Resin application must be repeated every 4 hours during sustained storm conditions.  
+* Ion Storm Onset. Pre-storm protocols: ground all atmospheric craft, isolate Triactor interfaces, activate Hush-Drive on all submersibles regardless of operational status, shelter all personnel in ion-shielded facilities. Warning indicators: characteristic ozone-analogue scent in the atmosphere, 15-25% compass drift, Altan Memory Lattices in nearby structures shifting to irregular pulse pattern. Ion storm onset from first indicators to full storm: average 2-6 hours.  
+* Tidespore Bloom Detection. Visual identification: ocean surface discoloration from blue-green to dark red, spreading outward at 2-4 kilometers per hour from bloom origin. All maritime operations halt immediately upon bloom detection in operational area. No vessel enters bloom zone without full decontamination equipment aboard.
+
+### **14.4 Rescue and Extraction Procedures (RE-SYNC)**
+
+Rescue operations on Veles are classified as complex operations, not emergency procedures. The environment compounds every rescue scenario, and the Stone Song does not pause to accommodate human emergency timelines.
+
+* The Beacon System. Standard radio beacons are non-functional during ion storms. SAR teams use Bioluminescent Flares — chemical markers reacting with the emerald atmosphere to produce a distinct violet pillar visible for 50 kilometers. Secondary option: Harmonic Pulse Beacons operating on Stone Song frequency, detectable by Robotron units and Wavewalker acoustic monitoring systems up to 200 kilometers.  
+* Robotron Assistance. Units like A-01 are often the only entities capable of locating lost teams in the Coral Catacombs — they can hear the bio-signature of a sentient mind within the planetary hum. A-01 availability for SAR operations requires Archivist Guild authorization and the Robotron's own consent. A-01 does not always consent. This has caused institutional friction.  
+* Deep-Ocean Recovery. Submersible crew rescue in Hush-Drive failure scenarios follows the Emergency Ascent Protocol: ascend to above 1,500 meters, activate emergency harmonic broadcast, deploy Bioluminescent Flares on surface marker buoy, await surface support. Do not attempt to continue mission. Time from Emergency Ascent Protocol activation to surface support arrival: minimum 3 hours in best-case conditions.
+
+### **14.5 Frontier Fieldcraft**
+
+* Harmonic Foraging. Resonance Scanners identify plants currently in Stable State. Foraging during a Trilium-surge results in immediate λ-level contamination. Scanner calibration check required before every foraging session. Factory-calibrated scanners drift in Velesi atmospheric conditions — recalibration cycle in field conditions: every 48 hours.  
+* Water Purification. Natural water processed through Kelp-Fiber filters to remove Crimson Tidespores and dissolved heavy silicates. Mid-depth water additionally requires harmonic treatment before consumption. Processing times: surface water 1 hour per 100 liters, mid-depth water 4 hours per 100 liters. Consumption of unprocessed Velesi water is not survivable on a meaningful timescale regardless of apparent visual clarity.  
+* Jungle Shelter Construction. Ground-level shelter in the Bioluminescent Jungles is inadvisable — mycelial network activity and Unseen Watcher patrol patterns make ground-level camps high-risk. Elevated platform shelter, constructed minimum 6 meters above ground and avoiding vine-connected trees which transmit movement information through the mycelial network, is the recommended approach.
+
+### **14.6 Xenobiological Engagement Doctrine — The Silence**
+
+Engagement with Velesi fauna is classified as a Failure of Stealth. If you are engaging, you have already made an error. The doctrine exists to minimize what happens next.
+
+* The Golden Rule. Maintain Harmonic Silence. Apex predators hunt by acoustic and energetic tracking. A Triactor engine that begins to whine is broadcasting target coordinates. This is not hyperbole.  
+* Non-Lethal Deterrence. High-intensity bioluminescent strobe lights temporarily blind the multi-optic arrays of deep-sea entities and disrupt Unseen Watcher shadow-concealment behavior. Effective window: 30-90 seconds. Use to create movement opportunity, not as a combat solution.  
+* Lethal Engagement. Only Biometal weaponry as forged by the Flamehearts is recommended. Standard kinetic rounds are absorbed by the mineral-thick hides of Velesi mega-fauna. Flameheart biometal weapons must be calibrated to the specific Trilium frequency of the target species for maximum effect. Carrying multiple calibration sets is standard practice for mixed-environment operations.  
+* Post-Engagement Protocol. All significant fauna encounters resulting in injury or death must be reported to the Velarch Xenobiology Register within 72 hours. Failure to report is a Syndicate Charter violation. The data updates territorial maps and predator behavior models that have direct operational value for subsequent teams in the same area.
+
+### **14.7 Emergency Protocols — Protocol VOID**
+
+In the event of a Trilium Corruption Event or Vault breach:
+
+* Cease All Extraction. All mining equipment immediately deactivated. The feedback must be interrupted before everything else.  
+* Ascent to High-Altitude. All personnel below 200m sea level move immediately to the Archival Plateau or Velarch municipal core. This includes all maritime personnel.  
+* Deploy Static Shielding. Activate the Shield Grid to maximum capacity. Engage Protocol VOID power draw from all grid sources simultaneously. 18-hour maximum sustainable duration.  
+* Robotron Network Alert. Transmit VOID protocol signal on Quantum Fractal frequency. A-01 has confirmed receipt of previous VOID protocol tests. A-01's response to an actual VOID event is not predictable from test behavior.
+
+## **15\. Trilium Systems and Industrial Infrastructure**
+
+FESS Classification: IND-TRI — Strategic Resource Architecture
+
+The industrial identity of Veles is defined by its mastery — partial, precarious, and constantly negotiated — over its unique high-resonance Trilium deposits. Velesi Trilium is not merely a resource. It is an integrated component of the planetary Stone Song. The infrastructure required to extract and process it must function as much through acoustic precision as mechanical force.
+
+### **15.1 Trilium Properties and Classification**
+
+Velesi Trilium is officially classified as Crystalline/Harmonic Type — designated internally within the Syndicate Mineral Council as Type-V to distinguish it from Trilium variants found on other Federation worlds. Type-V exhibits behaviors that other variants do not.
+
+* Harmonic Resonance Integration. Unlike most Trilium variants, Type-V exists in a state of active harmonic integration with its geological context. It pulses in synchronization with the local Stone Song frequency. This means Type-V cannot be safely extracted using techniques designed for other variants. The resonance must be matched, not forced.  
+* Bioreactivity Profile. Contact between uncontained Type-V and organic matter produces rapid cellular resonance — forced Trilium integration into living tissue. In lambda-Regions, transformation can complete within hours. In controlled low-exposure scenarios, early-stage transformation has been successfully reversed through harmonic counter-treatment. Late-stage transformation has not.  
+* Atmospheric Stability. Type-V in atmospheric particulate form is significantly less reactive than in crystalline form. Long-term inhalation exposure at Velesi ambient levels causes measurable but manageable physiological change in most species. Acute high-concentration exposure causes immediate bioreactive response equivalent to crystalline contact.
+
+Operational Trilium classifications used in Syndicate logistics:
+
+* Raw Seam Trilium. Unextracted, in-situ deposit. Highly unstable, deeply embedded, bioreactive on exposure. Access requires Custodian monitoring team presence. Processed at or near the seam — not transported.  
+* Extracted Unrefined Trilium. Post-extraction, pre-stabilization. Transported in resonance-locked cryo-casks. Maximum transport duration before stabilization: 72 hours. Beyond this, lattice drift increases to levels that compromise cask integrity.  
+* Processed Trilium Slabs. Partially stabilized for industrial staging. Still hazardous for direct organic contact without containment. Used in refinery input systems. Transport in sealed resonance-field canisters.  
+* Resonance Crystalline Trilium. High-purity material constrained for use in Triactor cores. Requires continuous dampening fields during storage and transit. The primary export product of Veles.  
+* Stabilized Trilium Power Cells. Final processed form for Velarch municipal use and high-specification export. Locked into specific harmonic states. Safe for authorized technician handling with standard protective equipment. Not safe for unprotected handling.  
+* Atmospheric Trilium Particulate. Collected as byproduct of atmospheric harvesting operations. Processed separately into low-grade industrial applications.  
+* Contaminant Trilium. Trilium exposed to lambda-Region conditions or significant organic contamination. Under Custodian embargo. Handled in classified containment facilities whose locations are not included in this document.
+
+### **15.2 Extraction Systems**
+
+Mining on Veles is a high-precision operation conducted across three primary strategic theaters: the Volcanic Archipelago surface, the Deepflow benthic zone, and the Coral Catacomb adjacency zones. Each requires distinct methodology. Universal extraction principles:
+
+* No direct organic contact. Human or sentient handling of uncontained Trilium is forbidden. Robotic manipulator suites, remote cutters, and sealed cryo-lock transport cassettes are standard across all theaters.  
+* Resonance Alignment Mining. Mining drills must be tuned to match the target seam's specific Stone Song frequency signature. A mismatch of 0.2 Hz triggers a local Resonance Quake. A mismatch of 0.5 Hz or greater risks seam destabilization. Automatic shutdown at 0.15 Hz drift; manual intervention required before restart.  
+* Resonance Mapping Precondition. Every drill and fracture operation is preceded by layered resonance scans and dampening field installation. Bypassing this step is a Custodian Charter violation regardless of operational urgency.  
+* Organic Exclusion Zones. Extraction perimeters are enforced as exclusion zones for living beings. Any personnel exposure requires full decontamination protocol and Custodian notification.
+
+Theater-specific approaches:
+
+* Volcanic Archipelago (Surface). Obsidian-grade drills on fortified island platforms. The volcanic heat amplifies local Trilium resonance, requiring more precise frequency matching than benthic operations. Highest-concentration seams accessible from surface. Also highest eruption and predator raid risk of any theater.  
+* Deepflow Benthic (Automated). Benthic Harvesters operating autonomously along the Deepflow current corridor. Hush-Drive operation mandatory. Human maintenance crews rotate through every 14 days but are not present during active extraction. Automated cutout protocol fires if seismic sensors detect approaching Mega-Chelonia signatures within 5 kilometers.  
+* Coral Catacomb Adjacency (Archaeological Interface). The most technically complex extraction theater. Seams are often physically adjacent to Altan vault structures, requiring extraction to proceed without triggering vault security systems. This requires knowledge of Altan architectural resonance signatures that exists only within the Archivist Guild. Extraction in Catacomb adjacency zones therefore requires Guild technical supervision. The Guild charges for this service. The Syndicate pays.
+
+### **15.3 Refinery and Processing Chains**
+
+Refining Trilium transforms raw extracted material into operationally useful forms while enforcing continuous resonant constraint and biological isolation.
+
+* Reception and Quarantine. Incoming cryo-casks are received in automated quarantine chambers. Each cask's resonance signature is cross-checked with extraction telemetry. Signature mismatch indicates possible cask compromise, possible Contaminant Trilium, or possible tampering. All three trigger immediate Custodian notification. Processing does not resume until investigation is complete.  
+* Stabilization Treatment. Early refinement uses harmonic field stabilization that constrains the Type-V lattice into a lower-reactivity state. This is not deactivation. The Trilium remains energetically active but its bioreactivity is suppressed. All downstream handling assumes the stabilization field is the only thing standing between the material and its natural state.  
+* Resonant Reconditioning. Staged harmonic realignment moves the lattice toward its intended operational mode. For Triactor core Trilium, this conditions the lattice to accept external harmonic input without catastrophic frequency mismatch. For Power Cell Trilium, the conditioning locks the lattice into a fixed output frequency.  
+* Fractional Separation. Material is sorted by lattice quality, contamination markers, and resonance latency. High-quality crystals from the Coral Catacomb adjacency zone can power Triactor cores at approximately 340% the output density of lower-quality Archipelago surface seam material. The quality differential is not visible to non-specialist observers. It is very visible in the pricing.  
+* Power Cell Fabrication. For municipal and export Power Cells, refined Trilium is embedded within field cages — physical and harmonic shells preventing lattice leakage. A Power Cell handled without proper insulation by an untrained individual will produce bioreactive response requiring medical intervention. Symptoms emerge 6-48 hours after exposure.  
+* Byproduct Management. Resonance Sludge is collected in sealed containment vessels and transported to designated deep-crust subduction zones. This is the most frequently violated safety protocol in the refinery chain. The incentive to cut corners is constant. The consequences of cutting corners are lambda-Region formation.
+
+### **15.4 Resonance Containment**
+
+All Trilium systems require field containment. Resonance instability is not a rare accident — it is a constant risk that must be accounted for in every design and every operation.
+
+* Field-First Containment. Trilium is never secured by physical casing alone. All storage, transport, and system integration begins with a resonance containment field. Physical containment provides structural support and secondary barrier. The resonance field is the actual containment.  
+* Multi-Layer Dampening. Every containment unit uses primary and secondary dampening systems, with automatic tertiary suppression through dissonance pulse arrays that forcibly neutralize Trilium lattice activity if primary and secondary systems fail simultaneously. The tertiary system destroys the Trilium it is protecting. This is acceptable.  
+* Environmental Resilience. Containment rigs on Veles are specifically engineered for the Velesi threat environment: rated for Resonance Quakes up to 7 on the Velesi Seismic Scale, Silicate Downpour exposure for 90 days continuous, submersion to 1,500 meters, and ion storm electromagnetic environment at full storm intensity.  
+* Organic Isolation. Field breach is treated as a combined radiation and biohazard exposure. Response is decontamination, medical assessment, and Custodian notification. The 4-hour notification window is not a target — it is a maximum. Immediate notification is expected.
+
+### **15.5 Industrial Power Networks**
+
+The planetary power grid is the most ambitious Altan-Syndicate fusion project currently operating on Veles — a planetary-scale network of resonance conduits pulsing with Stabilized Trilium energy, providing the throughput required to sustain the Velarch Shield Grid and the industrial operations that justify the city's existence.
+
+* Primary Triactor Array. The Velarch municipal Triactor array consists of 14 active cores and 4 reserve cores. Normal operation uses 8-10 active cores depending on demand. Reserve cores activate automatically when draw exceeds 140% of standard demand. All 14 active cores are required only during Protocol VOID.  
+* Grid Segmentation. The municipal grid is divided into 6 independently switchable segments. If one segment experiences cascade failure, automatic cutout prevents propagation to adjacent segments. This design has functioned as intended in 3 documented cascade events. In the 4th, the cutout system itself failed. The upgrade is in procurement.  
+* Harmonic Interference Control. Triactor activity influences geological resonance. Excessive industrial activity in benthic Trilium zones can intensify Stone Song amplitude and increase seismic event probability. The Archivist Guild provides a twice-daily Stone Song status report to the Syndicate grid management team. This report is the most read document in the Syndicate administrative system, by frequency if not by formal circulation.
+
+### **15.6 Supply Security**
+
+* Chain of Custody. Every cask of Trilium is logged by origin seam, extraction timestamp, field signature, and containment ID. Records propagate through the Archive Grid to orbital command. Chain of custody gaps are investigated as potential theft incidents regardless of apparent innocent explanation.  
+* Armed Transport. All shipments move under armed convoy or escort. No unescorted Trilium transport is authorized above Extracted Unrefined classification.  
+* Anti-Diversion Seals. Every storage unit includes custody lock fields. If tampered with, the unit inertially seals and initiates controlled lattice deactivation — destroying the Trilium content. The decision to destroy rather than allow diversion reflects the Syndicate's assessment that uncontrolled Trilium in the wrong hands creates risks that outweigh the economic loss of the diverted material. The Archivist Guild disagrees with this assessment and has said so formally.  
+* The Biometal Syndicate Conflict. Illegal smuggling of unrefined Black Market Trilium is a persistent threat. The smuggling operates primarily through the Silent Assembly's logistics network using deep-ocean routes below Syndicate enforcement depth. The Syndicate knows this. The Syndicate cannot effectively operate at those depths. The situation persists.
+
+### **15.7 Industrial Hazards and Fail States**
+
+* The Resonance Feedback Loop. Frequency mismatch at an extraction site creates a feedback loop through the local crust — Resonance Quakes, potential Vault breach. This has happened twice in the modern extraction era. Both events were contained before Vault breach. Both required complete site abandonment and multi-year remediation.  
+* Trilium Plagues (lambda-Level Contamination). Exposure to unrefined or leaking Trilium causes rapid bioluminescent mutation. Burn-on-Sight protocols exist because no other containment approach has proven effective at speed. Three currently active lambda-Regions on Veles are former extraction sites where containment failed. They are expected to remain active for 80-200 years. No viable intervention has been identified.  
+* Robotron Desync. High-intensity industrial accidents emit Quantum Noise that disrupts nearby Robotron memory lattices. Their presence near an active quake site has produced documented instances of uncontrolled Memory Fragment retrieval. The content of those fragments has been partially classified by the Archivist Guild. The classification rationale has not been shared with this scribe.  
+* Chelonian Interference Events. Mega-Chelonia Song events during extraction operations create resonance amplification of extraction site frequencies by a factor of 4-12 when Song and active extraction overlap in frequency range. This has triggered seismic events at three extraction sites over the past 40 years. Chelonian Song prediction capability is limited. Lunar alignment windows are avoided for major extraction operations, but Song events outside alignment windows have been documented.
+
+## **16\. Historical Development of Veles**
+
+FESS Classification: HIS-DEV — Chronological Strategic Record
+
+The history of Veles is not a linear progression. It is a series of Resonance Cycles — epochs defined by civilizations attempting to master the planet's unique Trilium frequency, reaching too far, and falling. The planet has survived all of them. This record documents the transition from the ancient Architect era to the modern decentralized frontier, with the understanding that the cycle may not yet be complete.
+
+### **16.1 The Altan Golden Age**
+
+Era Designation: The Age of Architects // The First Resonance  
+During this pre-collapse era, the Altan civilization — guided by the enigmatic Architects — achieved a level of Trilium integration that current Federation technology cannot replicate and Federation science cannot fully explain. Trilium was not fuel. It was a Conduit to the Stars, integrated into the biology and architecture of an entire people. The original foundations of Velarch were built in this era. Star-Conduits — structures designed to facilitate interstellar travel via harmonic resonance — were deployed across the planet. The first-generation Robotrons, including A-01 (Ayo'one), were created as Quantum Fractal Collectors: living keys to a cosmic memory lattice, designed to safeguard the Architects' knowledge within the Vaults of Velesi until it could be safely accessed again.  
+The Altan population at peak Golden Age is estimated by the Archivist Guild at 2-4 million, distributed across the Archival Plateau, the Volcanic Archipelago, and possibly the Deep Trench zones in submersible habitats whose sophistication current Federation technology has not matched. The Guild bases this estimate on Memory Lattice data density in recovered Altan structures. The methodology is contested. The estimate is the best available.
+
+### **16.2 The Trilium Corruption Event**
+
+Era Designation: The Great Fracture // The Dissonance Collapse  
+The Golden Age ended when the Architects' ambition led to the discovery and attempted utilization of Raw, Unbridled Trilium — the unrefined form, cognitively volatile, incompatible with the stabilized systems the civilization had built. Exposure fractured the collective memory and spirit of the Altans, severing their connection to their own legacy and triggering a spiraling regression. In a final act of containment, the Architects sealed the Vaults and programmed the Robotrons to forget the vault locations until a Correct Harmonic Resonance could safely unlock them again. What the Archivist Guild has recovered from partial Memory Lattice data suggests it was not a single catastrophic moment but a progressive collapse — weeks or months of declining cognitive function, failing infrastructure, and increasing ecological retaliation from a planet whose Stone Song was being systematically disrupted. The lock is still in place. A-01 is still working on the combination.
+
+### **16.3 The Forgetting**
+
+Era Designation: The Era of Dissonance // The Long Silence  
+Following the collapse, the survivors of Veles regressed into tribalism — the ability to interface with Altan technology lost within a generation, the high-altitude cities decaying around populations who no longer knew what they were standing in. Robotron units were put to sleep to guard the sealed vaults. The planetary spirit Velesi became a myth — a whisper in the wind rather than a recognized intelligence. The early Flameheart and Wavewalker lineages established territorial control over the Volcanic Archipelago, treating the remaining ruins as sacred, forbidden landmarks. The graveyards that are part of nature on Veles date mostly from this period: the calcified remnants of collectives that encountered uncontrolled Trilium during the Long Silence and did not survive the meeting. These remnants cluster around former Altan infrastructure sites, suggesting the remnant populations were attempting to use systems they no longer understood. The Forgetting was not merely cultural. It was an active danger.
+
+### **16.4 The DAO Genesis**
+
+Era Designation: The Federation Transition // The Decentralized Awakening  
+The modern era began with the arrival of the Interplanetary Federation and a diverse array of independent collectives — scholars, industrial syndicates, tribal advocates, and settlers who had heard that Veles was rich and strange and had decided this was reason enough to make the crossing. The IPF managed the initial launch of the Veles DAO: a complex political undertaking that produced, after extended negotiation, the Dual-Sovereignty Accord splitting governance between the Syndicate DAO and the Union DAO. The tribal confederations — primarily the Flameheart and Wavewalker lineages, with the Spiralwood Nomads as mediating presence — were acknowledged in the Accord in the form of Path Law recognition within the Union DAO compact. This recognition has been honored with varying consistency by subsequent Syndicate administrations.
+
+### **16.5 The Modern Frontier**
+
+Era Designation: The Age of Reactivation // The Second Awakening  
+Veles currently exists as a World on the Brink. Ancient mysteries are colliding with modern industrial demand. The reactivation of first-generation Robotrons — A-01 foremost among them — has begun the process of Retrieving the Whole Song: gathering fragments of the cosmic memory lattice and re-opening access to the Vaults of Velesi. The current era is marked by the Island Wars and Velarch Unrest, as the question of whether Veles's future lies in extraction or in the final preservation of the Architects' design remains — as it has always remained — unanswered. The planet is listening. It is waiting to see what we do next. The Stone Song has not changed. We have not yet learned to hear it properly. Whether we will before we run out of time to try is the question that defines the Velesi frontier.
+
+## **Appendices**
+
+#### **Appendix A — Glossary of Altan Runes**
+
+Reference Source: Vaults of Velesi – Chapter 1: A Journey Begins
+
+The Altan script found on Veles is not a static alphabet. It is a resonance-active biometal lattice — runes functioning simultaneously as high-security encryption and biological warning system, etched into surfaces that are actually semi-organic biometal alloys capable of holding data for millennia. They are not written records. They are storage media.  
+Rune State (Active):  
+When energized by proximity to a sentient consciousness or Trilium source, runes pulse with a rhythmic heartbeat — indicating the flow of forgotten power and, in some documented cases, actively attempting to communicate content to sensitive individuals in the vicinity.  
+Old Altan Warning Script:  
+Used primarily on Vault thresholds to deter unauthorized entry during the Forgetting. The script itself emits a low-frequency harmonic that produces profound unease in most sentient species. Some individuals have reported this unease as feeling like being told, very clearly, to leave.  
+Key Translation Fragment — Vault Entrance 01:  
+"Only in silence will the past reveal itself." A protocol requiring the dampening of all external acoustic and electronic noise to trigger the vault's opening mechanism. A-01 has confirmed this translation independently. The Archivist Guild maintains three specialists in partial Altan rune interpretation whose combined coverage is estimated at 23% of the known Altan script set.
+
+#### **Appendix B — Faction and Power Index**
+
+Reference Source: Velarch – Veles Strategic Profile
+
+The Silent Assembly (Elgem):  
+A clandestine network of information gatherers, scouts, and data-brokers operating from hidden groves and gardens in the Elgem Quarters of Velarch and from unregistered deep-ocean facilities. They are the city's unofficial Shadow Intelligence wing. Current estimated membership: 800-2,000 active operatives planetwide.  
+The Khaured (Mercenary Force):  
+A warrior race providing the primary security backbone for Velarch and the Syndicate extraction rigs. They function as private militias, bodyguards, and bounty hunters. Current Velarch garrison strength: approximately 1,200. They take both their contracts and their ancestry seriously.  
+The Archivist Guild (Altan Scholars):  
+Led by Head Scholar Lyria and expeditionary researchers including Hyxin. Dedicated to the scientific excavation and preservation of Altan ruins. They prioritize Vault stabilization over industrial profit. They are also the faction most likely to understand what will actually happen if the Vaults are mishandled. This gives them leverage. They use it.  
+The Trilumvirate Council:  
+The formal governing body of Velarch. Three seats: an Altan scientist (Knowledge), a Human trader (Economy), and an Elgem diplomat (Espionage/Peacekeeping). Designed to maintain the Fragile Alliance. Currently maintaining it, with varying levels of grace depending on who holds each seat.  
+The Flameheart Clans:  
+Master smiths and volcanic territorial defenders. Biometal Forging practitioners. Raiders of extraction sites they deem sacrilegious to the Stone Song. Estimated active warrior population: 4,000-6,000 across Archipelago territories. Not unified under single leadership — clan confederacy model with periodic inter-clan disputes that occasionally create Syndicate extraction windows.  
+The Wavewalker Clans:  
+Maritime navigators and Deep Trench guides. Bio-organic vessel craftspeople. The only group with reliable navigation capability throughout the full range of Velesi waters. Estimated population: 12,000-18,000 across maritime formations. The Union DAO compact with the Wavewalkers represents the most complex ongoing legal negotiation on the planet.  
+The Spiralwood Nomads:  
+Jungle-dwelling semi-mystics with demonstrably accurate planetary consciousness interpretation. Population: estimated 3,000-5,000, significantly dispersed. Not a military power. Disproportionate influence through their role as mediators under Path Law and their control of the Sapphire Vine sap trade.  
+The Splicers:  
+Master smiths and craftsmen specializing in Biometal Forging. Some operate within Flameheart clan structure; others work independently. The most skilled Splicers are sought by both the Syndicate (for infrastructure work) and the Black Route (for weapon fabrication). They tend to work for whoever offers the most interesting technical challenge.
+
+#### **Appendix C — Type-V Trilium Technical Memorandum**
+
+Reference Source: Syndicate Mineral Council Technical Archive // Custodian Flow Advisory Series
+
+This memorandum consolidates current understanding of Type-V Crystalline/Harmonic Trilium, the variant unique to Veles's crustal lattice. Unlike standard frontier-grade Trilium, Type-V exhibits continuous harmonic motion and a persistent bioreactive field even when fully stabilized.  
+C.1 Nature of Veles-Class Trilium:  
+Type-V is characterized by its harmonic integration with the planetary Stone Song — a property not observed in Trilium variants from other worlds. Where other variants exhibit crystalline uniformity, Veles veins display rhythmic pulsing synchronized with local geological activity. Exposure to living tissue provokes rapid cellular resonance, forcing Trilium integration at rates that vary from days (low exposure) to hours (proximity to lambda-Regions).  
+C.2 Geological Context:  
+Deposits occur primarily in the Deepflow benthic zone, the Volcanic Archipelago sub-crust, and the Coral Catacomb adjacency strata. These seams migrate along heat channels at measurable rates of approximately 3-8 meters per century. The Custodians classify Velesi sub-crust as Living Geological Terrain, meaning extraction measurably alters planetary harmonic balance. The extraction quota system is calibrated against this alteration rate.  
+C.3 Extraction Peculiarities:  
+Deepwell operations must employ pulse-synchronized drills tuned to the planetary Stone Song ambient baseline. Discordant vibration risks awakening dormant resonance pockets that can destabilize surrounding crust in seconds. The Seven-Vein Protocol — a Custodian mandate limiting the number of simultaneously active extraction sites — was established after modeling showed that more than seven concurrent operations creates harmonic interference patterns that amplify Resonance Quake probability by a factor of 4-7.  
+C.4 Refinement Hazards:  
+During stabilization, Type-V emits sub-harmonic tones in the 8-15 Hz range — below human hearing threshold but felt as physical pressure and capable of disrupting sleep cycles within a 3-kilometer radius of an operating refinery. Custodian mandate requires alternating operational cycles with minimum 6-hour quiet periods. Refinery waste product — Resonance Sludge — retains faint harmonic activity for 6-12 hours after generation before dissipating. The pattern it exhibits during this period has been documented in 23 separate studies. The Archivist Guild considers the patterns to be proto-linguistic. The Syndicate considers this assessment to be the Guild's problem to handle.  
+C.5 Biometal Research:  
+Biometal — the only safe-handling Trilium alloy — requires Altan-grade process control for production. The Flamehearts possess empirical knowledge of this process developed over generations of practice. Their production cannot be replicated by Federation industrial methods despite multiple documented attempts. The Syndicate has classified this production knowledge as a strategic resource. The Flamehearts have classified the Syndicate's desire for it as not their concern.  
+C.6 Environmental Response:  
+Veles's biosphere treats Trilium exposure as environmental disruption rather than resource. Fungal and lichen colonies around old refinery sites evolve to metabolize micro-resonance within 10-20 years of site establishment — the characteristic copper-glow growths called Flow-Feeders. These function as natural detoxifiers and are now deliberately cultivated by Custodian environmental reclamation teams. The planet, in other words, develops its own immune response to industrial intrusion. The response is not hostile. It is adaptive. This is arguably more unsettling.  
+C.7 Custodian Oversight Model:  
+The Five Custodians exercise direct harmonic supervision of Velesi extraction rather than remote algorithmic control. A permanent monitoring presence above the primary extraction zones recalibrates drill arrays and refinery systems in real time. Any deviation beyond tolerance triggers an Echo Response — a localized resonance adjustment that either normalizes the deviation or, if normalization fails, initiates extraction suspension and site evacuation. The Echo Response has been triggered 14 times in the modern extraction era. Twice it escalated to full site evacuation. No escalation has reached Corruption Event level.  
+C.8 Cultural Impact:  
+Among the clans, Trilium is not treasure but relationship. The Flameheart Clans regard active seams as the planet's living pulse. The Wavewalkers track Trilium particulate concentrations in ocean currents as navigation aids. The Spiralwood Nomads conduct ceremonial attunement at sites where Trilium seams approach the surface in the jungle biome, treating the proximity as direct communication from Velesi. The Syndicate's extraction operations interrupt all three of these relationships. This is a contributing factor to every significant clan conflict in the modern era.
+
+#### **Appendix D — Environmental Incident Archive**
+
+Reference Source: Syndicate Planetary Intelligence Division (SPID) – Custodian-Reviewed Incident Record
+
+This archive consolidates major environmental incidents recorded on Veles since the DAO Genesis era. Incidents are defined as events in which geological, atmospheric, or biospheric systems entered a self-amplifying hazard state requiring Custodian intervention or producing multi-region casualties or significant extraction disruption.  
+D.1 The Flameheart Rift Incident (Cycle 312, Volcanic Archipelago):  
+Trigger: Syndicate extraction rig placement on a seam site that Flameheart clan elders had identified as a sacred resonance point. Flameheart raid on the rig triggered emergency shutdown. Incomplete shutdown produced a 0.4 Hz drill frequency mismatch. The resulting Resonance Quake of 6.2 Velesi Seismic Scale destroyed the rig, destabilized 14 kilometers of adjacent Archipelago coastline, and triggered a localized Tidespore bloom that lasted 8 months. Syndicate casualties: 23\. Flameheart casualties from the quake: estimated 40-60 from island settlements in the destabilized zone. Custodian response: immediate extraction moratorium for the site and adjacent 30-kilometer radius, permanent Sacred Resonance Point designation for the location, formal incorporation of Flameheart seismic intelligence into Syndicate extraction planning protocols.  
+D.2 The Coral Catacomb Survey Incident (Cycle 334):  
+Trigger: Unauthorized archaeological survey team bypassed Archivist Guild permit requirements and entered the Catacomb system without Harmonic Stealth equipment. Translucent Predator convergence group engaged within 40 minutes of entry. Of the 9-person survey team: 4 recovered alive, 2 recovered deceased, 3 not recovered. The unauthorized team's acoustic disturbance also triggered a security response from the Catacomb's automated Altan systems, locking a section of the Catacomb that had been previously accessible and has not reopened since. The Archivist Guild considers this loss of access the more significant casualty.  
+D.3 The Gravity Anchor Failure (Cycle 367, Floating Sanctuary Zone 7):  
+Trigger: Deferred maintenance on a critical-status Gravity Anchor serving a 2.3 square kilometer floating ecosystem section. The Anchor failed during a peak ion storm when Shield Grid power demands left insufficient reserve for Anchor maintenance power. Free-fall descent of the ecosystem section over 14 minutes. Impact caused a 340-square-kilometer cascade ecological disruption. Remediation took 11 years. Budget authority was disputed between the Syndicate and the Union DAO for 3 years before Custodian intervention resolved the question by assigning the cost to both parties equally. Neither party was satisfied. The four currently critical-status Anchors represent a documented repeat risk.  
+D.4 The Deepflow Lambda Event (Cycle 401):  
+Trigger: Resonance Sludge disposal failure by a third-party logistics contractor. Improperly sealed disposal cassettes released Sludge into the Deepflow current network. The current distributed the Sludge across an 800-kilometer corridor before detection. Tidespore bloom triggered across the contaminated corridor, including surface-visible bloom sections that disrupted maritime traffic for 6 months. Lambda-Region formation at 3 points along the corridor. Two of the three lambda-Regions are still active. Contractor license revoked. Custodian directive issued requiring direct Syndicate control of all Sludge disposal operations rather than third-party contracting.
+
+END OF DOSSIER  
+CUSTODIAN NOTE: Further updates pending the reactivation of the secondary Robotron lattice. 
+
+
+
