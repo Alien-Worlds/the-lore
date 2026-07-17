@@ -6754,3 +6754,2914 @@ Inter-tribal gatherings provide opportunities for cultural exchange, and tattoos
 ### A Testament to Identity
 
 Elgem tattoos are a vibrant, living testament to their harmony with Velgemmis and the diverse biomes they inhabit. These marks of identity, forged in the dyes and patterns of their environment, reflect the ingenuity, resilience, and cultural richness of their society. For the Elgem, their tattoos are connections to their world, their tribe, and their legacy.
+
+# NERI PLANETARY DOSSIER
+
+**Syndicate Strategic Command - Planetary Authority File**  
+**Document Code:** NSC/PA-DELTA-NERI-PRIME/EDITION V-EXPANDED  
+**Clearance:** RESTRICTED // CUSTODIAN-MANDATED ACCESS  
+**Distribution:** Tier-2 Strategic | Asset-Controlled  
+**Authority of Record:** Syndicate Governance under the Five Custodians  
+**Federation Status:** Treaty-limited observation rights only  
+**Prepared by:** Syndicate Planetary Intelligence Division (SPID)
+
+> **HANDLING NOTICE**  
+> Unauthorized duplication, alteration, or relay transmission is punishable under Syndicate Decree 7.6. Access creates a permanent audit record under Custodial Writ 14.9. Federation observers, corporate liaisons, and tribal envoys may receive excerpted sections only unless higher access is explicitly granted.
+
+---
+
+## EDITION V CHANGE NOTICE
+
+Edition V replaces Field Reports I-III, the unverified Geological Revision, Edition IV, and all illicit derivatives of the so-called Black Vault Edition.
+
+This expanded issue introduces five structural changes and restores detailed regional, civic, ecological, economic, and cultural records omitted from the compressed strategic release:
+
+1. Strategic facts, active risks, and planetary metrics now precede descriptive analysis.
+2. Type-N Trilium is treated as the central causal system linking geology, ecology, industry, and politics.
+3. Statements are tagged by evidential status rather than presented as equally certain.
+4. Named factions, settlements, species, and incidents are integrated into the main dossier.
+5. Field doctrine is presented as operational reference material rather than general exposition.
+
+### Evidence and Confidence Codes
+
+| Code | Meaning | Use |
+|---|---|---|
+| **V** | Verified | Repeated measurement, direct observation, or authenticated record |
+| **A** | Assessed | Best current SPID interpretation; evidence is strong but incomplete |
+| **D** | Doctrinal | Official Syndicate or Custodian position; may include policy language |
+| **C** | Cultural | Belief or inherited knowledge held by a named community |
+| **R** | Restricted hypothesis | High-clearance interpretation involving Oshi systems, cognition, or planetary-scale resonance |
+| **X** | Disputed | Material disagreement exists between competent authorities |
+
+Where no code is shown, information is considered routine operational fact.
+
+### Dating Standard
+
+Neri records use **administrative cycles**, each lasting 112 standard days and divided into four phases: Alpha, Beta, Gamma, and Delta. Sigma denotes an intercalary emergency or audit period and is not a normal phase. A date such as **229.Delta** means the Delta phase of Administrative Cycle 229. Historical conversion to Federation calendars remains inconsistent before the Accord of the Spires.
+
+### Metrics and Precision Note
+
+Figures in this dossier come from several kinds of record and should not be read as equally exact. **[V]** values derive from direct measurement, registered counts, or authenticated operational logs. **[A]** values are rounded planning estimates assembled from incomplete surveys, census correction, modelled terrain, or inferred populations. **[R]** values depend on restricted Custodian methods whose weighting cannot be independently audited through this edition. Decimal precision is retained where systems require it for navigation, engineering, or legal thresholds; elsewhere it indicates the current administrative estimate rather than permanent certainty. All population, terrain, evacuation, and extraction figures should be rechecked after a major seismic cascade, registration audit, or change in Custodian baseline.
+
+---
+
+# PLANET AT A GLANCE
+
+| Category | Current Strategic Record |
+|---|---|
+| Official name | Neri; survey designation Neri-41-KOVARI |
+| System | Kovari System, orbiting a moderately active K-type orange dwarf |
+| World class | Class-V unstable terrestrial biosphere world |
+| Strategic tier | ST-4 High-Value Instability Zone |
+| Radius | **[A]** 6,790 km; rounded operational estimate from orbital and surface models |
+| Surface gravity | **[A]** 1.08 standard gravity; regional variation is negligible for field planning |
+| Mean surface pressure | **[A]** 1.27 bar; strongly variable by elevation and storm state |
+| Mean oxygen fraction | **[A]** 16.8%; partial pressure remains broadly compatible with unassisted respiration in clean zones |
+| Local day | **[V]** 29.3 standard hours |
+| Orbital period | **[V]** 611.8 standard days |
+| Axial behaviour | Long-period precession complicated by dual-moon tidal forcing |
+| Moons | Kaval, large rocky moon; Ryn, smaller irregular moon |
+| Permanent orbital hub | Kaval IX, fortified command, customs, and relay complex |
+| Stable surface water | No open oceans; water concentrated in hydroclaves, rift rivers, polar ice, and subsurface lakes |
+| Registered population | **[V]** 31.8 million registered; **[A]** an additional 4-7 million remain outside reliable registration |
+| Static population | **[A]** Approximately 61% in shield cities, industrial settlements, and fixed enclaves |
+| Mobile population | **[A]** Approximately 39% in convoy cities, route societies, seasonal camps, and unaudited movements |
+| Principal strategic resource | Type-N Resonant Trilium |
+| Trilium uniqueness | **[V]** Only confirmed natural Type-N source; no equivalent deposit documented in surveyed records within 500 light-years |
+| Extraction state | **[R]** Composite audit estimate of 74% of Custodian Flow's current safe planetary threshold |
+| Maximum simultaneous primary veins | Seven under the Seven-Vein Rule |
+| Full evacuation feasibility | **[A]** Not feasible; current lift modelling places first-local-month capacity below 9% under intact orbital conditions |
+| Primary systemic risks | Resonance drift, hydroclave failure, ecological conflict waves, factional escalation, infrastructure cascade, restricted deep-structure activation |
+| Current continuity status | **[A]** Stable under strain; trend negative |
+
+> **Operational interpretation:** Neri is habitable, populated, productive, and impossible to treat as a conventional colony. Its systems remain viable only because extraction, movement, settlement, and warfare are constrained by overlapping authorities. The planet can support civilization. It cannot support unrestricted civilization.
+
+---
+
+# EXECUTIVE SUMMARY
+
+## Strategic Reality
+
+Neri is the only confirmed source of Type-N Resonant Trilium, a bio-reactive mineral phase embedded within a mobile planetary lattice. The material powers Triactor cores, harmonic shields, specialist biometal manufacture, and restricted resonance technologies. Control of Neri therefore affects energy security, military production, convoy logistics, and research capability well beyond the Kovari System.
+
+Type-N Trilium has to be understood within the world that produces it. Neri's seams migrate along heat channels, interact with fault networks, alter nearby organisms, and respond measurably to extraction. **[V]** Deep drilling changes local seismic behaviour. **[A]** Large-scale extraction alters regional ecological and atmospheric patterns. **[R]** Custodian Flow uses *Semi-Sentient Terrain* as a restricted analytic label for the lattice's capacity to retain and redistribute disturbance. The term does not establish planetary consciousness and is examined only in the dedicated technical and anomaly sections.
+
+Neri is also constrained by water. The planet has no stable oceans. Settlements depend on deep pressurized aquifers known as hydroclaves, chemically difficult rift rivers, polar melt operations, atmospheric condensers, and tightly defended distribution networks. Trilium is the basis of planetary wealth; water is the basis of planetary obedience.
+
+Authority is deliberately fragmented. The Syndicate administers Charter Law, extraction licensing, orbital control, major grids, and convoy registration. Tribal confederations hold movement sovereignty through Path Law and inherited environmental knowledge. Corporate blocs perform most industrial exploitation. Independent settlements buffer regions that no major power can occupy cheaply. The Black Route supplies forbidden, unaudited, or politically inconvenient needs. The Five Custodians intervene when local competition threatens planetary continuity.
+
+The result is a managed equilibrium sustained by mutual dependence, negotiated limits, and the credible threat of intervention.
+
+## Key Strategic Conclusions
+
+- **Trilium production is approaching a systemic limit.** Custodian Flow predicts unacceptable harmonic drift within twenty administrative cycles if throughput, waste load, and active-vein pressure continue on the present trajectory. **[R]**
+- **No faction can govern Neri alone.** The Syndicate lacks route knowledge, the tribes lack industrial scale, corporations lack legitimacy, and the Black Route lacks the capacity to sustain open administration.
+- **The Custodians are powerful but not cost-free.** Their interventions can stabilize one domain by damaging another. An Echo Purge may arrest resonance spread while destroying infrastructure, habitats, and memory records.
+- **Environmental hazards form chains.** A seismic event may breach a hydroclave; flooding may displace predators; predator movement may close convoy corridors; closure may starve a refinery; refinery shutdown may destabilize a shield city.
+- **The biosphere is not uniformly hostile.** Many organisms are neutral, beneficial, or essential. Ecological retaliation usually follows disturbance rather than mere presence, although several apex species attack opportunistically.
+- **The current political order depends on trusted limits.** If the Seven-Vein Rule, Path Accords, or Custodian neutrality is credibly broken, competitors will assume all restraints have failed and mobilize accordingly.
+- **Planetary evacuation is not a meaningful contingency.** Continuity planning must preserve habitation in place.
+
+## Active Strategic Watchlist
+
+| Zone | Immediate concern | Escalation indicator | Current action |
+|---|---|---|---|
+| Trinia Basin Central Refinery District | Persistent micro-drift following the Trinia Flash | Phase variance exceeding third-line breaker tolerance | Additional breaker installation; output restrictions under review |
+| South Polar Crosswind, Ridge Base 73 | Ion seeds beneath sub-ice ridges | Methane release synchronized with ice-quake onset | Blasting suspension; remapping and field stabilization |
+| Black Spine, Node 5-B | Repeating deep-structure echoes beneath granite dome | Signal evolution, independently recorded dream convergence, containment decay | Custodian Silence investigation; perimeter reinforcement |
+| Heron Circle Southern Marsh | Rising spore index and early mutation signatures | Copper luminescence spreading beyond Flow-feeder beds | Burn corridors, bio-dampeners, movement restrictions |
+| Rift-Eastern Corridor | Corporate expansion against tribal route sovereignty | Armed escort density, oath-marker removal, unsanctioned drill emplacement | Joint Path Council and Syndicate arbitration |
+
+---
+
+# 1. PLANETARY IDENTITY, SYSTEM CONTEXT, AND JURISDICTION
+
+**FESS Classification:** SYS-ID - Astronomic and Jurisdictional Context
+
+## 1.1 Designation and Names
+
+The legal name is **Neri**. Survey archives retain **Neri-41-KOVARI**, while local names reveal the speaker's relationship to the world.
+
+| Name | Principal users | Implied meaning |
+|---|---|---|
+| Neri | Syndicate, Federation, most urban populations | Administrative identity |
+| Dust Planet | Convoy networks | A world experienced through filtration and travel |
+| Cracked Land / Shattered Stone | Several tribal confederations | Terrain as ancestry and obligation |
+| Yellow World | Outer-system cartels | Commodity shorthand based on orbital colouration |
+| Testing Ground | Order of the Fifth Pillar | Hardship as proof of disciplined continuity |
+| Breaking Tomb | Deep-Rift sects | Neri as a sealed thing that may open |
+| The Heart Under Stone | Echo Mothers and some Sand Crown rites | Trilium lattice as living planetary anatomy |
+
+Only *Neri* has standing under Charter Law. Path Law permits ancestral names in oaths, route claims, and burial records.
+
+## 1.2 Kovari System
+
+Kovari is a moderately active K-type orange dwarf. Its long-lived output would ordinarily favour climatic stability, but Neri's internal heat, mineralized atmosphere, dual moons, and resonance activity dominate local conditions.
+
+The system contains an inner metallic debris belt, several minor bodies, and a distant diffuse gas giant unsuited to habitation. Neri is the only world with a developed native biosphere. The lack of alternate settlement sites makes the planet the system's economic, demographic, and military centre.
+
+Orbital traffic is controlled through Kaval IX. Incoming vessels submit cargo, crew, biological, and resonance manifests before descent authorization. Outbound Trilium shipments require continuous custody records from seam to orbital transfer. Unmanifested approach vectors are treated as smuggling attempts or hostile reconnaissance.
+
+### System Traffic Doctrine
+
+1. No descent without a current atmospheric corridor.
+2. No Trilium cargo without a lattice-baseline record.
+3. No biological export from a TLM-lambda region without Custodian Flesh clearance.
+4. No military deployment beyond treaty ceilings without Syndicate and Custodian authorization.
+5. No unscheduled approach to Kaval IX's refinery debris exclusion zone.
+
+## 1.3 Orbit and Moons
+
+Neri's orbit is stable over astronomical time, but its climate is complicated by axial precession and the competing tidal forces of Kaval and Ryn.
+
+**Kaval** is a large rocky satellite and the dominant tidal body. Kaval IX, despite its name, is an artificial fortified hub in Kaval's orbital jurisdiction rather than the ninth natural moon. It coordinates customs, defence, strategic communications, and high-clearance research transfer.
+
+**Ryn** is smaller, irregular, and dynamically disruptive. Its changing relationship with Kaval produces oscillating tidal harmonics that influence polar fracture cycles, mantle pressure, high-atmospheric circulation, and some Trilium resonance windows. These interactions are calculable but sensitive to initial conditions. For operational purposes, they are described as *chaotic* rather than truly random.
+
+Local seasons are therefore long, uneven, and regionally asynchronous. “Ash winter” may describe a hemisphere-scale atmospheric state rather than a calendar season. “Thermal drought” is similarly an environmental regime, not a fixed annual period.
+
+## 1.4 Legal Status
+
+Neri is a **non-colonial controlled sovereignty** under Syndicate Charter Control and Custodian Mandate. This formulation was adopted after the Rift War to prevent any offworld government, corporation, or resident bloc from claiming unrestricted planetary ownership.
+
+Authority is divided by function:
+
+| Authority | Recognized jurisdiction |
+|---|---|
+| Five Custodians | Planetary continuity, prohibited research, collapse prevention, final arbitration |
+| Syndicate | Charter Law, extraction licences, major grids, orbital control, convoy registry, strategic enforcement |
+| Tribal confederations | Path Law, ancestral routes, movement sovereignty, local hazard guardianship |
+| Corporate blocs | Contracted industrial zones and licensed infrastructure |
+| Independent settlements | Internal civic law, subject to continuity and route obligations |
+| Federation | Observation, diplomacy, sanctions, limited research; no direct territorial authority |
+| Black Route | No legal standing; de facto influence acknowledged in classified planning |
+
+In practice, possession requires enforceable access, while enforcement that lacks continuity legitimacy rarely lasts.
+
+## 1.5 Cartography and Geographic Reliability
+
+Neri's surface is divided into six functional continental regions, but maps prioritize survival value over traditional continental boundaries. Each region is indexed by:
+
+- seismic stability;
+- route accessibility;
+- water security;
+- atmospheric exposure;
+- predator pressure;
+- Trilium potential;
+- political control;
+- evacuation options.
+
+Static maps are suitable for strategic orientation but not field navigation. Rift edges, dune channels, river courses, ash depth, fungal boundaries, and safe air corridors may shift between surveys. Reliable movement depends on three layers used together:
+
+1. **Syndicate overlays:** orbital and ground-sensor data.
+2. **Convoy route ledgers:** recent passage, loss, and repair reports.
+3. **Tribal path knowledge:** local interpretation of terrain behaviour, animal movement, and hazard precursors.
+
+A route is considered current only if confirmed within its biome-specific validity period. In the Shattered Rift Belt, this may be hours. Across stable Black Spine corridors, it may be several cycles.
+
+---
+
+
+## 1.6 Functional Continental Regions
+
+Neri's six continental regions are administrative-operational constructs rather than stable geological continents. Their boundaries follow major rifts, transport bottlenecks, watershed behaviour, and the reach of emergency response systems. Names vary locally, but SPID uses the following designations for strategic planning.
+
+### Riftcore Meridian
+
+The Riftcore Meridian crosses the most active portion of the Shattered Rift Belt and contains the greatest concentration of licensed primary Trilium veins. It includes Trinia Basin, several Rift-Western extraction platforms, the Rift-Eastern Corridor, and numerous abandoned or periodically reoccupied drill sites. Most ground is S3 or S4. Permanent habitation is limited to shielded industrial bastions, wall-anchored platforms, and a small number of stable rock islands.
+
+The Meridian produces a disproportionate share of planetary revenue but consumes equally disproportionate quantities of power, water, replacement machinery, and security labour. Every major faction has interests there. Syndicate law is strongest inside registered industrial zones; Path Law dominates movement between them; corporate security controls many immediate perimeters; the Black Route occupies the spaces created when those systems fail to connect.
+
+The region's population is highly transient. Workers arrive under short contracts, specialist teams rotate through hazardous assignments, and convoy populations expand during maintenance seasons. Local identity nevertheless exists. Meridian workers distinguish between those who merely work near the rifts and those who have learned the sound of active stone. The latter regard themselves as a separate occupational culture and distrust managers who plan entirely from remote telemetry.
+
+### Western Sandsea and Glass Belt
+
+The Western Sandsea runs from the central equatorial dunes into a broken arc of Glasslands formed by ancient pyroclastic events. It is controlled less through fixed territory than through water knowledge, caravan schedules, and the ability to maintain vehicles in abrasive conditions. The Sand Crown Alliance is the principal route authority, while the Glaive Market, Ember-Crown Free Corps, and several Black Route networks operate within negotiated limits.
+
+The Glass Belt contains valuable optical minerals, trapped industrial metals, and salvage from repeated failed extraction attempts. Its economic rhythm is opportunistic. A storm or seismic movement may expose a profitable site for several days and then bury it beneath moving shards. Traders therefore finance scouts, weather interpreters, and mobile assay teams rather than permanent mines.
+
+The region's political disputes often concern interpretation rather than simple ownership. A corporation may claim a deposit licence, while the Sand Crown argues that no licence can override the seasonal passage of a convoy or the recovery period of a deep well. Such disputes are dangerous because both sides can present valid legal documents issued by different recognized authorities.
+
+### Northern Black Spine and Iron Plateau
+
+The Black Spine is the oldest and most structurally stable large region on Neri. It includes S1 and S2 cratons suitable for shield cities, archives, heavy fabrication, and military strongholds. The Iron Plateau extends south and west from the mountains into high basalt manufacturing zones. Together they contain Veyra Spire, Cindervault, Ironfall Bastion, major foundries, and several research vaults.
+
+Stability creates a distinctive form of danger. Institutions here can become permanent enough to accumulate wealth, bureaucracy, secrets, and inherited inequality. Residents of the Black Spine are more likely than other Neri populations to own fixed property, attend long-established schools, and identify with a city district rather than a route. They are also more likely to underestimate the logistical networks that sustain them.
+
+The deep harmonic anomalies beneath the Black Spine have strategic importance. Restricted structures, suspected cavities, and the Node 5-B convergence zone draw research orders and covert agencies. Custodian Silence maintains more direct operations here than public records acknowledge. Cindervault smiths report occasional temper variation in biometal stored near particular shafts, but controlled trials have not reproduced the effect consistently.
+
+### Southern Marsh Arc
+
+The Southern Marsh Arc includes the largest VOC wetlands, managed hydroclaves, biochemical cultivation zones, and amphibious transport corridors. Port Solace is its principal medical and logistical hub. The Heron Circle, Riverkin communities, independent wetland towns, and corporate biochemical interests share an uneasy dependence on one another.
+
+The Marsh Arc exports medicines, enzymes, sealants, food cultures, detoxifying organisms, and specialist filters. It also produces outbreaks that can spread beyond the region through cargo, patients, or contaminated machinery. For this reason, marsh communities maintain some of the most sophisticated practical quarantine systems on Neri. These are not always compatible with Syndicate procedure. A Heron Circle healer may isolate an entire household based on a scent change that no instrument has yet detected, while a Charter officer may refuse to recognize the restriction without a laboratory result.
+
+Local settlement is vertical. Habitation stands on piles, anchored floats, reinforced root mats, or artificial islands. Children learn to distinguish safe and unsafe surface films before they are allowed to travel without an adult. Waste handling is a public ritual as well as a technical requirement because one careless discharge can poison a channel or trigger an explosive bloom.
+
+### Eastern Canyon and Storm Marches
+
+The eastern region combines the Canyon Arches, high transit plateaux, and the lower approaches to the Stormlands. It is Neri's principal overland hinge between several otherwise isolated economic zones. Rhyne's Crossing, Warden Stations, relay monasteries, hidden supply chambers, and fortified bridge settlements occupy the most valuable choke points.
+
+Control is divided among route courts, tribal guardians, convoy alliances, and Syndicate relay commands. The region's stone arches and deep cuts make it defensible but vulnerable to blockade. A single collapsed bridge may add several weeks to a convoy route. As a result, bridge maintenance is treated as a civic duty, and deliberate damage to a recognized public crossing is among the few offences that can unite otherwise hostile factions.
+
+Stormland energy descends unpredictably into the canyons. Blue corona may form along metal surfaces hours before a major front. Canyon residents use conductive towers, sacrificial ground nets, and acoustic warning chambers. Certain old settlements are built around natural rock resonators that amplify low-frequency changes, allowing inhabitants to hear a storm before orbital systems classify it.
+
+### Polar Crown
+
+The Polar Crown includes northern and southern ice fields, bedrock islands, seasonal melt routes, and subglacial research zones. The south is more heavily exploited because of established extraction corridors and proximity to High March Station. The north remains less surveyed and contains several large blank areas on official maps.
+
+Polar water is comparatively clean but never free. Extraction requires energy, route protection, pressure management, and the consent or cooperation of local clans. The Pale Horn and Eshin Sunder traditions treat clean ice as a custodial trust rather than an ordinary commodity. They may sell water but resist contracts that imply permanent alienation of the source.
+
+Permanent residents experience long periods of physical isolation. Polar households often maintain redundant social and communication routines to detect psychological deterioration early. Shared meals, spoken maintenance logs, and scheduled light changes are considered health measures. Outsiders sometimes mistake these practices for excessive formality until a whiteout or communication failure removes every external point of reference.
+
+### Regional Interdependence
+
+No region is self-sufficient. The Riftcore Meridian supplies Trilium; the Black Spine converts it into machinery; the Polar Crown and hydroclaves supply water; the Marsh Arc supplies medicines and biological processing; the Sandsea and Canyon Marches provide movement; shield cities provide archives, finance, and specialist institutions. Political rhetoric frequently celebrates independence, but every major population centre depends on at least three other regions for continued survival.
+
+This interdependence is Neri's greatest restraint on total war. It is also the mechanism through which local failure becomes planetary crisis.
+
+---
+
+# 2. PHYSICAL WORLD: GEOLOGY, ATMOSPHERE, AND WATER
+
+**FESS Classification:** GEO-ATM-HYD - Integrated Planetary Systems
+
+## 2.1 Formation and Internal Heat
+
+Neri formed rapidly from heavy-element-rich material in the turbulent early Kovari system. Its core is dense, metal-rich, and still thermally active. Conventional radiogenic heat and moon-driven tidal flexing account for part of the observed output. Type-N Trilium resonance appears to redistribute additional energy through the mantle and crust. **[A]**
+
+This model resolves an apparent contradiction in earlier dossiers: Neri is ancient enough to possess a mature biosphere, yet behaves geologically like a much younger terrestrial world. The planet is not simply retaining primordial heat. It is continuously moving heat through a mineral lattice that couples with tidal, geothermal, and electromagnetic systems.
+
+Deep probes remain unreliable below the lower mantle transition. Instrument loss is caused by magnetic distortion, pressure, temperature, and resonance desynchronization. Several returns indicate large cavities or highly symmetrical structures beneath the Black Spine and Riftcore Meridian. These remain restricted hypotheses pending direct confirmation.
+
+## 2.2 Crustal Stability Zones
+
+Neri is unstable by inhabited-world standards, but not every surface location changes continuously. Edition V distinguishes four stability classes.
+
+| Class | Description | Typical use |
+|---|---|---|
+| S1 Stable craton | Major movement measured over decades; low resonance density | Shield cities, archives, major civic infrastructure |
+| S2 Managed ground | Active stress but predictable within engineering tolerances | Refineries, towns, convoy depots, fortified routes |
+| S3 Mobile terrain | Significant change over days to months | Temporary extraction, seasonal settlements, escorted transit |
+| S4 Active fracture | Change possible within minutes or hours | Restricted operations, remote systems, no permanent habitation |
+
+**[A]** Current terrain modelling places approximately 11% of surveyed land in S1, 24% in S2, 43% in S3, and at least 22% in S4 or insufficiently mapped. The percentages are rounded from overlapping surveys and change after major seismic cascades.
+
+Permanent structures survive by occupying stable cratons, distributing load, and accepting sacrificial outer modules. Ancient monuments endure where builders selected stable nodes or employed unknown reinforcement technologies. The existence of durable structures therefore does not imply general planetary stability.
+
+## 2.3 Rift Systems
+
+The **Shattered Rift Belt** is a spiralling network of primary, secondary, and tertiary fractures following rotational shear and Type-N lattice geometry. Primary rifts can expose mantle-heated rock and support industrial platforms anchored into their walls. Secondary fractures redirect gases, water, and predators. Tertiary cracks are often the first visible sign of a larger change.
+
+Rifts are both conduits and boundaries. They move heat, mineral material, gases, and water while separating populations and ecological territories. Mining operations seek them because Trilium is accessible there. Convoys avoid their interior because collapse, plume activity, and predatory funnels make recovery difficult.
+
+### Seismic Warning Sequence
+
+Common precursors include:
+
+- loss of small surface vibration rather than increased shaking;
+- metallic taste or static on exposed equipment;
+- abrupt animal silence followed by coordinated movement;
+- changes in groundwater temperature;
+- repeated low-frequency pulses at non-geological intervals;
+- pale dust lifting against the prevailing wind.
+
+No single sign confirms a major event. Two correlated signs require route reassessment. Three require withdrawal unless a Custodian-authorized operation states otherwise.
+
+## 2.4 Volcanism and Geothermal Activity
+
+Volcanism is concentrated rather than planetwide. Rift corridors, fault intersections, and thermal basins produce localized eruptions, ash columns, silica ejection, gas venting, and geothermal outbursts. Seismic change remains the more common direct threat, but volcanic material creates longer-lived atmospheric and terrain hazards.
+
+Geothermal energy is widely used because it is locally reliable and independent of Trilium supply. Its limitations are output and site dependence. Geothermal wells near active seams require resonance isolation to prevent the power network from becoming a transmission path for lattice disturbances.
+
+## 2.5 Atmospheric Composition
+
+At low-to-moderate elevation in clear conditions, Neri's atmosphere is respirable for most Federation species with compatible biochemistry. The danger lies in contamination and rapid variability.
+
+| Component | Typical clean-zone fraction | Operational significance |
+|---|---:|---|
+| Nitrogen and inert gases | 81.9% | Primary atmospheric bulk |
+| Oxygen | 16.8% | Safe partial pressure at average surface pressure; hazardous decline in high ash or VOC zones |
+| Carbon dioxide | 0.10% | Elevated near vents and decaying wetlands |
+| Water vapour | Highly variable | Low globally; locally high in basins and fungal regions |
+| Silica, ash, metal dust | Trace to lethal | Abrasion, equipment failure, lung damage, electrical charge |
+| Volatile organic compounds | Trace to explosive | Common in marshlands, fungal basins, and gas corridors |
+| Ionized particulates | Event-dependent | Communications loss, lightning, resonance overcharge |
+
+Unfiltered exposure during a quiet interval may appear safe and become lethal within minutes. Outdoor personnel therefore carry filtration or emergency masks even in nominally breathable regions.
+
+## 2.6 Weather and Macroclimate
+
+Neri's weather is driven by stellar heating, geothermal plumes, topography, particulate loading, and migrating high-altitude jetstreams. Forecasts are reliable at settlement scale for approximately twelve hours, useful with caution up to two standard days, and poor beyond that except for broad seasonal regimes.
+
+Major weather systems include:
+
+- **heat-surge fronts**, produced by rapid thermal exchange over exposed dark terrain;
+- **rift wind jets**, accelerated through fracture valleys;
+- **anvil squall lines**, anchored to fault boundaries;
+- **ash veils and ash winters**, varying from local fallout to hemisphere-scale sunlight loss;
+- **silica storms**, carrying abrasive or fused particles;
+- **ion storms**, generated by charged ash and pressure layers;
+- **wall-wind shear events**, short-lived pressure collisions capable of overturning heavy haulers.
+
+Clear skies do not imply atmospheric safety. Some of the most destructive shear events form under visually calm high-pressure layers.
+
+## 2.7 Electromagnetic Storms
+
+Electromagnetic storms are frequent along the Rift Belt, Glasslands, volcanic corridors, and jetstream intersections. Warning signs include a static pressure hum, hair or fibre lift, spontaneous instrument calibration, and blue-white crawling discharge along grounded metal.
+
+Standard response is to:
+
+1. ground vehicles and deploy surge sink lines;
+2. isolate Triactor and sensitive resonance interfaces;
+3. suspend exposed lifting, drilling, and weapons charging;
+4. shift communications to shielded tight-beam or physical relay;
+5. avoid glass ridges, isolated towers, and open water channels.
+
+Uncontrolled resonance shielding may amplify an ion event if tuned to the wrong phase. Automated systems therefore require local verification rather than blind activation.
+
+## 2.8 Hydrosphere
+
+Neri lacks stable oceans because surface water is limited, rapidly contaminated, lost into fracture systems, or redistributed through deep geothermal circulation. Regional wetness can still be high. Marshlands and fungal megaforests occupy basins connected to deep aquifers, while much of the planet remains arid.
+
+This creates a world that is **globally water-poor but locally water-rich**. The distinction is politically decisive. A basin may contain vast water volumes and still be unusable because of pressure, dissolved metals, methane, parasites, or route insecurity.
+
+### Principal Water Sources
+
+| Source | Benefit | Primary hazard |
+|---|---|---|
+| Hydroclaves | Large, persistent reserves | Pressure collapse, contamination, conflict |
+| Rift rivers | Accessible surface flow | Sudden redirection, boiling, predators, dissolved metals |
+| Subsurface lakes | Protected volume | Collapse, methane, disease, difficult access |
+| Polar ice | Comparatively clean | Ice-quakes, subglacial flooding, extreme logistics |
+| Atmospheric condensers | Local independence | High power demand, low yield in dry zones |
+| Reclamation systems | Efficient urban use | Vulnerable to sabotage and grid failure |
+
+## 2.9 Hydroclaves and Water Law
+
+Hydroclaves are pressurized aquifers trapped within fractured strata. Their geometry changes after seismic events. Extraction requires pressure modelling, chemical sampling, and bio-surveillance. A badly managed breach can flood a rift, collapse overlying ground, release methane, or redirect water away from multiple settlements.
+
+Water rights are therefore treated as time-limited responsibilities rather than permanent ownership. The Path Council regulates movement and ancestral access. The Syndicate licences industrial pump arrays. Local confederations and settlements enforce allocation. Corporate operators may tax distribution only within contracted infrastructure. Black Route wells remain illegal but often prevent humanitarian collapse when official supply fails.
+
+Water theft, contamination, and deliberate pressure manipulation are continuity offences. Penalties are typically harsher than ordinary property crimes because the consequences spread beyond the immediate victim.
+
+## 2.10 Integrated Hazard Chains
+
+Neri's systems should never be assessed in isolation. The following chain is representative:
+
+> Deep extraction changes lattice pressure -> local fault slips -> hydroclave wall fractures -> warm mineral water enters a fungal basin -> spore production rises -> grazers migrate -> predators follow -> a convoy corridor closes -> refinery supplies fail -> shield output is rationed -> a political dispute becomes an evacuation crisis.
+
+Operational planning must identify at least three downstream effects for every large intervention.
+
+---
+
+
+## 2.11 Seasonal Regimes and the Administrative Calendar
+
+Neri does not possess a single globally intuitive set of seasons. Its 611.8-day orbit, long local day, axial precession, dual-moon forcing, mineralized atmosphere, and geothermal output create overlapping regimes. Administrative phases were designed to coordinate taxation, licensing, schooling, convoy contracts, and maintenance across regions that do not experience the same weather at the same time.
+
+Each 112-day administrative cycle is divided into Alpha, Beta, Gamma, and Delta phases. Four cycles therefore cover 448 days, with the remainder of the orbital period absorbed through scheduled intercalation and, when required, Sigma audit periods. This is administratively inelegant but operationally useful: contracts refer to stable cycle phases, while local communities retain environmental calendars suited to their biome.
+
+### Major Environmental Regimes
+
+**Ash Veil** occurs when high-altitude particulate layers reduce light across one or more continental regions. It may last days or several phases. Solar output falls, filters clog, crops require artificial light, and long-range optical navigation becomes unreliable. Ash Veil is not always cold. In some basins, trapped heat produces dim, oppressive conditions with dangerous nighttime inversions.
+
+**Thermal Drought** describes prolonged heat, low surface moisture, and rapid loss from exposed storage. Hydroclave pressure may fall even when deep reserves remain substantial. Settlements ration washing, cooling, and industrial water. Predator conflict rises around remaining surface sources. Drought declarations automatically modify several water contracts, although corporate parties often dispute the threshold measurements.
+
+**Glass Wind** is common along the Sandsea and Glass Belt. Fine silica and mineral shards move at speeds capable of eroding exposed seals, optics, skin, and crop surfaces. A low-grade Glass Wind may be tolerated for travel; a severe event can strip paint and sensor housings from a convoy in minutes. Local pathfinders classify winds by sound against shield vanes rather than velocity alone.
+
+**Moon-Tide Fracture** occurs when Kaval and Ryn produce elevated crustal and ice stress. These windows are forecast years in advance but their local expression remains uncertain. Mining output is reduced, polar blasting is suspended, and convoy routes avoid long unsupported shelves. Illegal operators exploit the reduced official activity, often with fatal results.
+
+**Spore Rise** refers to the reproductive phase of major fungal systems. In megaforests it can transform air chemistry, visibility, and animal behaviour. In marsh regions it may activate dormant parasites. Spore Rise dates vary by basin because heat and water matter more than orbital light. Elgem and Heron Circle calendars are therefore locally authoritative.
+
+**Blue Charge** is a period of elevated atmospheric ionization. The first sign may be a metallic taste, hair or filament lift, or blue light along exposed edges. Communication windows shorten and storm organisms migrate. Some industries welcome mild Blue Charge because atmospheric harvesting becomes more efficient, but only within strict grounding limits.
+
+**Quiet Stone** is the name given by several route cultures to unusually low seismic and atmospheric activity. It is valued for construction, long convoy moves, and public gatherings. Experienced communities remain cautious because Quiet Stone can precede a major release of accumulated stress. The term therefore contains both celebration and warning.
+
+### Local Calendars
+
+Sand Crown route songs divide the year according to wind direction, well recovery, and the appearance of three migratory species. The Heron Circle records water colour, fungal skin, and gas-flower emergence. Polar clans name periods by ice sound and moon angle. Convoy cities often keep two calendars: the administrative cycle used for contracts and the route calendar used for actual movement.
+
+These systems are not folklore substitutes for science. They are compressed environmental models built from long observation. SPID forecasts improve when local calendar data is included, particularly in regions where instruments are sparse or resonance interference is high.
+
+### Civic Consequences
+
+Seasonal regimes shape labour and family life. Workers may spend Alpha and Beta at an extraction site, return during Gamma maintenance, and remain home through Delta hazard restrictions. Schools adjust terms to convoy routes. Marriages are often scheduled for Quiet Stone windows because guests can travel. Courts postpone non-urgent hearings during Spore Rise or Moon-Tide Fracture. Insurance prices change by region and phase.
+
+Emergency stockpiles are audited before locally recognized danger periods as well as at the start of an administrative year. Communities that privilege standardized bureaucracy over local timing have repeatedly suffered avoidable losses.
+
+---
+
+# 3. TYPE-N TRILIUM AND RESONANCE SYSTEMS
+
+**FESS Classification:** IND-TRI - Strategic Resource Architecture  
+**Restricted subsections:** 3.8-3.10
+
+## 3.1 Nature of Type-N Trilium
+
+Trilium is a resonance-reactive material whose behaviour depends on lattice geometry, harmonic state, temperature, contamination, and field constraint. The Neri variant, designated **Type-N Resonant Trilium**, retains a persistent bioreactive field even when stabilized.
+
+Trilium occurs on other known worlds. Neri alone is confirmed to produce **Type-N**, whose moving lattice and biological effects have not been reproduced reliably elsewhere. Standard frontier-grade material forms comparatively static crystals; Type-N veins pulse, migrate, and exchange energy with surrounding geology.
+
+Direct contact with living tissue can cause cellular resonance, necrosis, uncontrolled repair, mutation, neural disruption, or bio-organic crystallization. Effects vary by exposure state and cannot be treated as a predictable enhancement process.
+
+## 3.2 Operational Categories
+
+| Category | Description | Permitted use |
+|---|---|---|
+| Raw Seam Trilium | Unprocessed material within or newly removed from a living vein | Remote extraction only |
+| Processed Slab | Partially stabilized industrial material | Sealed transport and refinery staging |
+| Resonance Crystal | High-purity constrained material | Triactor cores, harmonic instruments |
+| Lattice-Linked Trilium | Intentionally coupled to a controlled field | Restricted research and weapon systems |
+| Passivated Biometal | Trilium alloy locked into a stable host matrix | Specialist tools, armour components, weapons |
+| Contaminant Trilium | Material with organic contact, TLM-lambda signatures, or unknown baseline | Custodian embargo and sequestration |
+| Grey Ash | Resonance-active refinery waste | Dampening, cryo-sequestration, monitored disposal |
+
+Trilium is not used as bulk structural plating. Apparent Trilium armour or architecture contains small field-managed inserts, resonance channels, or passivated biometal rather than exposed mineral mass.
+
+## 3.3 Biometal
+
+Biometal is the principal safe structural derivative of Trilium. It is produced by binding Trilium lattice nodes into a chemically compatible host metal while maintaining absolute resonant lock. Correctly manufactured material is safe to handle and does not produce the acute tissue effects of raw or merely processed Trilium.
+
+Altan engineers remain the foremost known **splicers**, with the most reliable methods for repeatable, high-grade biometal production. Elgem specialists are also highly advanced splicers, particularly in small-batch adaptive alloys and work involving biological harmonics, although Altan processes retain the strongest record for industrial consistency and safety margins. Khaured practitioners possess more limited but meaningful splicing knowledge, often directed toward durable tools, armour components, and military systems. Specialists from several other Federation peoples have studied aspects of the craft under Altan masters on Eyeke, producing narrow areas of competence without matching full Altan process control.
+
+Neri's authorized surface facility is operated by the Laan'Vareth Synergium under Altan supervision and continuous Custodian monitoring. Its workforce includes licensed Elgem and Khaured specialists, but all Type-N alloying remains subject to Altan-grade process standards. Attempts to reproduce Type-N biometal away from Neri frequently suffer spontaneous fracture or harmonic decay because the planet's ambient field appears to participate in stabilization. **[V/A]**
+
+## 3.4 Extraction Doctrine
+
+Primary seam mining is conducted only by licensed industrial operators. Small teams and independent prospectors may harvest secondary fragments only through sealed mobile systems.
+
+Mandatory controls include:
+
+- remote manipulators and organic exclusion zones;
+- pre-cut resonance mapping;
+- harmonic-matched low-vibration tools;
+- seismic anchoring and acoustic isolation;
+- hydroclave and gas-interaction modelling;
+- immediate transfer into cryo-lock casks;
+- baseline tagging and continuous chain of custody;
+- emergency inversion charges capable of sacrificing exposed material;
+- extraction windows aligned with mantle and tidal conditions.
+
+The Seven-Vein Rule limits Neri to seven simultaneously active primary veins. Attempting to open an eighth authorizes Custodian Flow to collapse the least stable site through engineered harmonic inversion. The limit is enforced as an operational safeguard rather than treated as a discretionary production target.
+
+## 3.5 Refinement Chain
+
+1. **Reception and quarantine:** cask signatures are compared with extraction telemetry.
+2. **Field-stabilization bath:** non-organic solvent media and harmonic fields reduce seam agitation.
+3. **Resonant reconditioning:** staged realignment produces the intended industrial mode.
+4. **Fractional separation:** material is sorted by quality, latency, and contamination.
+5. **Module fabrication or alloying:** resonance crystals enter field cages; biometal enters locked crucibles.
+6. **Waste treatment:** grey ash and volatile residues pass through dampener arrays and cryo-sequestration.
+7. **Custody verification:** output is weighed, scanned, sealed, and entered into the Resonant Ledger.
+
+Refineries alternate high-load and low-load periods to limit cognitive effects from subharmonic emissions. Personnel living near major facilities receive sleep monitoring and periodic removal from the resonance field.
+
+## 3.6 Energy and Industrial Uses
+
+Type-N Trilium drives:
+
+- Triactor energy cores;
+- settlement and convoy harmonic shields;
+- high-density industrial power systems;
+- resonance sensors and control instruments;
+- certain medical and genetic modulation systems;
+- restricted directed-energy and field weapons;
+- Triactor-linked ammunition systems;
+- experimental consciousness and data-processing research.
+
+“Bio-ammunition” is divided into unstable impact-mutagenic material and modulated specialist ammunition designed to produce a narrower biological response. Both are heavily restricted. Unlicensed possession is sufficient grounds for Custodian intervention.
+
+## 3.7 Failure Modes
+
+| Failure | Immediate effect | Secondary risk |
+|---|---|---|
+| Phase drift | Output instability, heat, field distortion | Grid cascade, neurological symptoms |
+| Lattice compression | Rapid energy accumulation | Detonation or local rock liquefaction |
+| Shield inversion | Protective field traps energy internally | Settlement-scale thermal and electrical damage |
+| Organic contamination | Mutation and bio-reactive spread | TLM-lambda formation |
+| Ledger desynchronization | Incorrect control values or custody data | Refinery loss, theft, unsafe installation |
+| Grey-ash release | Persistent low-level resonance | Ecological uptake, pattern formation, cognition effects |
+| Harmonic coupling between seams | Disturbance spreads beyond the active site | Regional seismic cascade |
+
+## 3.8 Living Lattice Assessment
+
+**[R]** Type-N seams do not behave as fixed mineral deposits. They migrate over decades along heat and pressure channels. Flow's listening spire records periodic pulses that correlate imperfectly with tidal stress, mantle activity, and large biological migrations.
+
+Custodian Flow uses **Semi-Sentient Terrain** as a restricted operational category, not as a declaration that Neri has a personality, language, or unified consciousness. The label records four behaviours unusual enough to affect extraction and continuity planning:
+
+1. retention of disturbance patterns;
+2. redistribution of energy away from some areas and toward others;
+3. repeated local responses to similar extraction behaviour;
+4. apparent threshold-setting that changes after major incidents.
+
+No consensus exists on whether these behaviours arise from emergent mineral computation, ancient engineering, an unknown physical process, or something that warrants the language of cognition.
+
+## 3.9 Environmental Response
+
+The biosphere treats Type-N contamination as a disturbance to be isolated, consumed, or incorporated. Fungal and lichen colonies around old refineries have evolved micro-resonance metabolism. These copper-glowing **Flow-feeders** are cultivated by reclamation crews as natural detoxifiers.
+
+Other organisms do not neutralize contamination. Some amplify it, especially in TLM-lambda regions. Ecological response is therefore site-specific. Burning all affected growth may remove a visible symptom while destroying the only organisms preventing wider spread.
+
+## 3.10 Current Threshold and Rebinding
+
+The latest Mandate audit assigns Neri a **74% safe-threshold load**. **[R]** This is a rounded composite index combining active-vein stress, refinery load, grey-ash burden, regional lattice drift, and ecological response. The underlying weighting remains restricted and the figure should not be interpreted as a directly measurable quantity of remaining mineable Trilium.
+
+Custodian Flow's current scenario model places unacceptable harmonic drift within roughly twenty cycles if output, waste burden, and active-vein pressure continue unchanged. **[R]** The horizon is a planning estimate rather than a countdown. Preparations have begun for a **planet-specific Rebinding**, an attempt to retune disturbed lattice regions into a coherent baseline. No Rebinding has been performed on an inhabited world. Potential costs include power interruption, seam collapse, atmospheric coupling, memory effects, and large-scale ecological migration.
+
+The decision to proceed is not yet authorized.
+
+
+---
+
+
+## 3.11 The Trilium Economy, Custody Chain, and Illicit Use
+
+Type-N Trilium is not traded as a single uniform commodity. Value depends on lattice integrity, contamination, phase stability, origin, processing history, and intended use. A small quantity of coherent medical-grade material may be worth more than a much larger industrial shipment. Prices are therefore quoted through classified quality bands rather than simple mass.
+
+### Licensed Custody Chain
+
+A legal shipment passes through the following stages:
+
+1. **Vein authorization:** the Mineral Council confirms that the site is within the Seven-Vein Rule and assigns a harmonic identity.
+2. **Path clearance:** local movement authorities approve personnel and convoy access.
+3. **Baseline recording:** Resonant Cartographers record the seam's phase, neighbouring biology, water relationship, and recent extraction history.
+4. **Controlled severance:** material is removed in small staged cuts so the lattice can redistribute stress.
+5. **Quench and isolation:** raw Trilium is placed in damped containers and separated from biological cargo.
+6. **Assay:** quality, contamination, and origin signatures are certified.
+7. **Transfer ledger:** every custody change is recorded through physical seals and encrypted records.
+8. **Refinement:** material is stabilized, graded, and allocated to licensed production.
+9. **Orbital release:** offworld cargo is transferred through Kaval IX after final comparison with the original baseline.
+
+Any break in this chain reduces legal value and raises the probability that the shipment will be seized, destroyed, or used only within the Black Route. The system is intended to prevent theft and dangerous handling. It also gives the Syndicate extensive power over workers, settlements, and buyers.
+
+### Labour and Revenue
+
+Trilium supports mining, refinement, shielding, convoy construction, finance, medical research, security, and orbital logistics. Yet most Neri residents never handle raw material. They experience the industry through wages, grid reliability, taxes, water demand, or the closure of routes around active sites.
+
+Revenue is divided through a contested formula. The Syndicate collects licensing and export duties; corporate operators retain contracted shares; route authorities receive passage and environmental compensation; settlement governments receive infrastructure allocations; Custodian programmes take non-negotiable continuity reserves. Disputes arise because environmental costs are delayed and difficult to assign. A refinery may profit in one cycle while a distant hydroclave fails several cycles later.
+
+The Ledger Bureau attempts to calculate **continuity debt**, the future cost created by present extraction. Corporate blocs oppose using the full estimate in taxation because the causal models remain uncertain. Tribal representatives argue that uncertainty should increase the reserve rather than reduce it.
+
+### Strategic Allocation
+
+Not all refined output may be exported. A minimum share is reserved for Neri's own shields, medical systems, repair capacity, and emergency stores. During crisis, Custodian Mandate can redirect private holdings. This power has prevented city collapse but has also created investment flight and secret stockpiles.
+
+Allocation disputes generally involve four claims:
+
+- planetary survival requires retaining more material;
+- offworld revenue is required to buy food, machinery, and political protection;
+- military reserves deter seizure attempts;
+- medical and research applications may reduce future dependence on extraction.
+
+No allocation satisfies all four.
+
+### Black Trilium
+
+Illicit Trilium enters the shadow economy through underreported cuts, salvage, false waste classification, theft during convoy transfer, unlicensed micro-veins, and material recovered from disaster zones. The Black Route distinguishes between **grey cargo**, whose origin is legal but custody is broken, and **black cargo**, extracted without authorization or taken from prohibited sites.
+
+Grey cargo is often used to keep isolated settlements operating when official allocation fails. Black cargo is more dangerous. It may carry unstable phase patterns, biological contamination, or signatures connected to restricted deep-structure sites. Buyers use portable assay cages, but these cannot reproduce a full laboratory baseline.
+
+Common illicit uses include:
+
+- unregistered shield cores;
+- weapon enhancement;
+- identity masking through resonance noise;
+- forced biometal adaptation;
+- cultic exposure rites;
+- unauthorized medical treatment;
+- research designed to bypass Custodian review;
+- counterfeit lattice seals.
+
+Some Black Route groups enforce strict handling rules because a resonance event is bad for trade. Others sell unstable material to desperate buyers. SPID therefore avoids treating the entire shadow market as one risk category.
+
+### Offworld Dependence
+
+Several neighbouring systems have built infrastructure around Neri-derived components. Official policy discourages total dependence, but substitutes are less efficient, larger, or unavailable for specialist applications. This gives Neri leverage and creates pressure to maintain output even when planetary indicators advise reduction.
+
+Federation observers periodically propose an international reserve or shared oversight regime. The Syndicate rejects such proposals as disguised seizure. Tribal councils object that no offworld arrangement can allocate a living planetary resource without local path authority. Custodian responses vary by domain.
+
+### The Price of Restraint
+
+Extraction restraint carries immediate social and economic costs: unemployment, grid shortages, medicine rationing, convoy contraction, corporate withdrawal, and possible offworld sanctions. Higher output may postpone those pressures while increasing the probability of a larger continuity failure.
+
+Neri's economy is therefore governed by an unresolved question: how much present hardship is justified to prevent a future catastrophe whose exact timing cannot be proven?
+
+---
+
+# 4. BIOMES AND REGIONAL OPERATING ENVIRONMENTS
+
+**FESS Classification:** ECO-BIO - Environmental Biome Index
+
+Neri's biomes are defined by coupled terrain, climate, water, resonance, and ecological processes. Boundaries move. A biome entry therefore describes a dominant operating environment rather than a permanent line on a map.
+
+## 4.1 Shattered Rift Belt
+
+| Field | Assessment |
+|---|---|
+| Terrain | Active chasms, fault terraces, exposed mantle-heated strata, industrial wall platforms |
+| Stability | Predominantly S3-S4 |
+| Water | Rift rivers and deep hydroclaves; access dangerous and politically controlled |
+| Resources | Highest Type-N Trilium density; geothermal energy; rare deep minerals |
+| Dominant hazards | Collapse, plume release, resonance coupling, predator funnels, route isolation |
+| Political profile | Syndicate and corporate extraction enclaves bordered by tribal route claims |
+| Named sites | Riftcore Meridian, Rift-Eastern Corridor, Outer Scar Front |
+| Travel rule | Skirt the rim unless a licensed wall route is current and escorted |
+
+The Rift Belt is Neri's economic centre and its most persistent source of planetary-scale risk. Industrial platforms are anchored into rift walls so that collapse beneath one module does not automatically destroy the entire installation. Supply arrives by crawler, cable lift, and occasional armoured atmospheric craft.
+
+Rift predators exploit the vertical terrain. Packs drive targets toward unstable shelves, blind corners, or heated vents. Acoustic weapons may worsen the situation by triggering rockfall or attracting organisms that interpret vibration as territorial intrusion.
+
+The Belt is not continuously erupting chaos. Long quiet periods allow industry to become complacent. Most major disasters begin after a successful run convinces operators that a temporary pattern is permanent.
+
+## 4.2 Plains of Smoke and Stone
+
+| Field | Assessment |
+|---|---|
+| Terrain | High basalt plains, ash-consolidated ground, concealed heat pockets |
+| Stability | S2-S3 |
+| Water | Sparse; small protected hydroclaves and convoy reserves |
+| Resources | Secondary minerals, transit access, grazing biomass |
+| Dominant hazards | Dust walls, glass abrasion, heat fractures, high-speed pack pursuit |
+| Political profile | Convoy corridors and seasonal tribal use; little fixed government |
+| Named sites | Iron Plateau approaches, Smoke Road, Three-Stack Basin |
+| Travel rule | Preserve speed, lateral escape, and long-range visibility |
+
+The Plains appear empty but sustain migratory stoneback herds, burrowing invertebrates, and short-lived growth after mineral rains. Their openness favours speed-based predation and long-range conflict. Heavy fortifications are less useful than mobile screens and early detection.
+
+Convoy drivers value the Plains because distances can be crossed quickly when conditions align. They fear them because shelter is scarce when conditions turn. Smoke plumes from micro-vents are watched as wind indicators, route markers, and signs of subsurface change.
+
+## 4.3 Sandsea Dunes
+
+| Field | Assessment |
+|---|---|
+| Terrain | Mobile mineral dunes, glass outcrops, buried rock shelves, heat basins |
+| Stability | S2 beneath dunes; surface navigation changes continuously |
+| Water | Deep wells, hidden oasis systems, caravan reserves |
+| Resources | Trilium-bearing sand in restricted zones, silica, salvage corridors |
+| Dominant hazards | Burial, abrasion, thermal extremes, ambush fauna, false horizons |
+| Political profile | Sand Crown Alliance, desert convoys, black-route crossings |
+| Named sites | Sandsea Frontier, Glaive Market circuit, Aurelion Sanctum |
+| Travel rule | Never navigate by dune shape alone; confirm the hard-ground layer |
+
+The Sandsea forms much of Neri's equatorial desert belt. Dunes migrate through wind and seismic vibration, erasing tracks and uncovering structures within hours. Daytime heat can damage exposed seals, while clear nights produce severe radiative cooling.
+
+Some sand contains microscopic Type-N fragments. Such regions are marked as restricted TLM-lambda territory. The risk is not simply radiation but biological and harmonic contamination. Sand Crown pathfinders identify these zones through subtle colour, sound, and animal absence that standard sensors often miss.
+
+The Sandsea has a rich nomadic culture. Route songs encode distance, wind, buried water, and safe camping substrate. To outsiders they sound ceremonial; to trained listeners they are compressed maps.
+
+## 4.4 Fungal Megaforests
+
+| Field | Assessment |
+|---|---|
+| Terrain | Towering fungal columns, layered mats, enclosed thermal basins |
+| Stability | S2-S3; root and mycelial structures sometimes reinforce ground |
+| Water | Locally abundant through geothermal aquifers and biological storage |
+| Resources | Medicines, enzymes, polymers, food strains, Flow-feeders |
+| Dominant hazards | Toxic bloom, metal digestion, parasitism, sensory deception |
+| Political profile | Elgem specialists, research orders, local path communities |
+| Named sites | Copper Choir Basin, Luminous Nave, West Spore Margin |
+| Travel rule | Treat sound, heat, and chemical traces as deliberate signals |
+
+The megaforests are not forests in the terrestrial sense but vertically layered fungal ecosystems. Canopies trap moisture and generate local weather. Mycelial networks redistribute nutrients, reinforce some slopes, and weaken others. Their responses to intrusion range from indifference to rapid predation.
+
+Many growths are useful. Settlements cultivate edible tissue, sealants, medicines, and detoxifying species. Others digest metal, mimic distress signals, or release spores that alter judgment before producing obvious physical symptoms.
+
+Elgem expertise is highly valued because Elgem field teams read colour shifts, spore rhythm, and substrate vibration as a combined ecological language. Their success reflects negotiation with a system most outsiders can barely perceive, not domestication.
+
+## 4.5 Marshlands and VOC Wetlands
+
+| Field | Assessment |
+|---|---|
+| Terrain | Saturated rift basins, floating mats, gas pockets, elevated islands |
+| Stability | S2-S4 depending on subsurface pressure |
+| Water | Abundant but chemically and biologically difficult |
+| Resources | Biochemicals, rare organic compounds, medicinal cultures |
+| Dominant hazards | VOC ignition, corrosion, parasites, amphibious predators, sink collapse |
+| Political profile | Heron Circle, Riverkin, Port Solace networks |
+| Named sites | Heron Circle Southern Marsh, Port Solace, Saltline channels |
+| Travel rule | No open flame, unshielded spark, or untested footing |
+
+Wetlands form where deep water, organic decay, volcanic gas, and low terrain meet. The atmosphere can become explosive without visible warning. Equipment must be sealed against chemical corrosion as well as water.
+
+The Heron Circle maintains raised settlements, burn corridors, cultivation ponds, and biological warning systems. Their knowledge supports a major trade in medicines and industrial enzymes. Black Route transports exploit hydroclave tunnels, making enforcement difficult and local cooperation indispensable.
+
+## 4.6 Stormlands
+
+| Field | Assessment |
+|---|---|
+| Terrain | High ridges, eroded blades, exposed plateaux, electrical strike fields |
+| Stability | Mostly S2-S3 |
+| Water | Ice pockets, condensers, rare protected basins |
+| Resources | Limited minerals, atmospheric research sites, relay positions |
+| Dominant hazards | Lightning, ion burn, wall winds, communication loss |
+| Political profile | Sparse; specialist stations and pilgrimage routes |
+| Named sites | Warden Stations, Halo Step, Blue-Needle Ridge |
+| Travel rule | Move during measured low-charge intervals, not visual calm |
+
+The Stormlands occupy elevations where jetstreams intersect broken terrain. Permanent electrical activity makes aviation unreliable and exposes poorly grounded equipment to repeated failure. The region has limited extractive value but immense strategic value as a natural barrier and sensor platform.
+
+Several religious orders cross the Stormlands because the difficulty deters pursuit. Lantern Pilgrims maintain emergency shelters recognizable by shielded blue-green lamps.
+
+## 4.7 Polar Expanses
+
+| Field | Assessment |
+|---|---|
+| Terrain | Fractured ice fields, subglacial caverns, geothermal melt channels |
+| Stability | Surface variable; bedrock ranges S1-S4 |
+| Water | Largest comparatively clean reserves |
+| Resources | Fresh water, untouched mineral fields, research access |
+| Dominant hazards | Ice-quakes, explosive fracture, methane, whiteout, subglacial flood |
+| Political profile | Pale Horn Clans, Eshin Sunder navigators, High March Station |
+| Named sites | South Polar Crosswind, Ridge Base 73, High March Station |
+| Travel rule | Never trust an untested ice shadow or a silent pressure ridge |
+
+Polar operations follow tidal and geothermal windows. Ice that appears solid may be tension-loaded above a melt cavity. Large fractures can propagate faster than surface vehicles.
+
+Seasonal extraction provides critical water to southern routes. Permanent settlement is restricted to stable rock islands and heavily instrumented bases. Clan guides inherit knowledge of sound, light, and ice texture that remains difficult to encode in machine models.
+
+## 4.8 Glasslands
+
+| Field | Assessment |
+|---|---|
+| Terrain | Black glass plains, fractured sheets, moving shard dunes |
+| Stability | S2-S3, but surface failure is violent |
+| Water | Very limited; carried or recovered from protected cavities |
+| Resources | Trapped industrial minerals, relic exposure, research sites |
+| Dominant hazards | Cutting debris, blinding reflection, static storms, reflection camouflage |
+| Political profile | Experimental crews, Glaive Market, pilgrims, scavengers |
+| Named sites | Glass Belt Perimeter, Glaive Market route, Fifth Reflection Field |
+| Travel rule | Polarize optics, isolate static, and avoid resonance weapons near sheet fields |
+
+Ancient pyroclastic and resonance events fused broad regions into glass. Thermal stress and seismic vibration cause delayed fracture, making apparently solid ground unreliable. Local animals use reflected movement to conceal their true position.
+
+The Glasslands attract salvagers and researchers because new fractures expose trapped minerals and buried structures. Casualty rates remain high. The semi-mobile Glaive Market changes position to exploit trade while avoiding taxation, predators, and predictable pursuit.
+
+## 4.9 Canyon Arches
+
+| Field | Assessment |
+|---|---|
+| Terrain | Stone labyrinths, natural bridges, deep channels, cliff settlements |
+| Stability | S1-S3; individual arches may fail without warning |
+| Water | Seasonal channels and deep river systems |
+| Resources | Route control, hidden storage, stone and mineral deposits |
+| Dominant hazards | Ambush, collapse, acoustic attraction, flooding |
+| Political profile | Independent settlements, route clans, covert caches |
+| Named sites | Rhyne's Crossing, Long Echo Gate, Seven Bridges |
+| Travel rule | Control sound and confirm both ends of every choke point |
+
+The Arches form Neri's most dramatic natural transport network. Bridges and canyon floors create defensible corridors, but sound carries over great distances. Convoys use coded silence intervals and decoy vibrations to reduce detection.
+
+Rhyne's Crossing occupies a strategic junction under dual Custodian-tribal jurisdiction. Its markets, courts, and repair yards serve factions that would not meet safely elsewhere.
+
+## 4.10 Black Spine Highlands
+
+| Field | Assessment |
+|---|---|
+| Terrain | Mantle-forged mountains, stable domes, deep caverns |
+| Stability | Highest concentration of S1 and S2 terrain |
+| Water | Snow, protected aquifers, deep springs |
+| Resources | Undiscovered seams, fortress sites, possible restricted deep-structure complexes |
+| Dominant hazards | Territorial conflict, harmonic anomalies, deep-structure activation |
+| Political profile | Red Vein March, corporate claims, military citadels, research restrictions |
+| Named sites | Node 5-B, Ironfall Bastion, Cindervault |
+| Travel rule | Geological stability does not imply informational or resonance safety |
+
+The Black Spine is attractive because its weather is harsh but comparatively predictable and its stone unusually stable. It supports fortifications, archives, foundries, and long-term settlements.
+
+Deep scans return symmetrical cavities and repeating harmonic echoes. Node 5-B is under active investigation after personnel reported convergent dreams and instruments recorded night-cycle signals from beneath a granite dome. Public explanations attribute the readings to old extraction infrastructure. This explanation is not considered sufficient at Tier-3 clearance.
+
+---
+
+
+## 4.11 Ecotones, Migration Corridors, and Environmental Services
+
+The boundaries between Neri's major biomes are often more dangerous and more productive than their interiors. These transition zones, known operationally as **ecotones**, combine species, weather, and terrain processes that normally remain separate. They also contain many of the routes used by migrating animals, convoys, and displaced populations.
+
+### Principal Ecotones
+
+The **Ash-Green Margin** lies where fungal megaforests extend into the Plains of Smoke and Stone. Fungal mats stabilize ash and create temporary grazing zones. Stoneback herds feed there, attracting Rift hounds and Ash skimmers. Settlements harvest food strains and medicines but must monitor whether the forest is advancing, retreating, or preparing a toxic bloom.
+
+The **Shard Dune Interface** joins the Sandsea to the Glasslands. Dunes move over fractured sheets, hiding voids and producing deceptive thermal patterns. Glass mantids, burrowing predators, salvage crews, and smugglers all favour the same terrain. Sand Crown guides mark the interface with temporary vibration poles because visible markers are rapidly buried or reflected into false positions.
+
+The **Wet Rift Steps** occur where marsh basins meet active fault terraces. Hydroclave seepage, warm rock, and mineral-rich water support exceptional biodiversity. They also produce methane pockets, parasitic swarms, and unstable slopes. Heron Circle cultivation projects succeed here only when extraction pressure remains low.
+
+The **Ice-Black Verge** marks the transition from polar ice to exposed Black Spine rock. Meltwater, mineral dust, and seasonal light support dense microbial films and Frost Comber migrations. High March Station monitors the Verge because a change in its biological productivity often precedes altered melt behaviour.
+
+The **Storm Arch Corridor** carries atmospheric charge from the high Stormlands into the Canyon Arches. It is a natural migration route for Storm Talons and several conductive dispersers. Relay stations use it for energy harvesting during controlled conditions, but severe fronts can turn every bridge and tower into a strike path.
+
+### Migration as Infrastructure
+
+Native migrations also function as environmental infrastructure. They alter safe routes, water quality, vegetation, predator pressure, and ground stability. Some herds compact loose substrate into temporary roads. Burrowing species expose hidden mineral layers. Spore dispersers sustain food-producing fungi. Apex predators prevent grazers from remaining long enough to destroy water margins.
+
+Communities therefore distinguish between a **hazard migration** and a **service migration**. The same species may produce both. A stoneback herd can block a convoy for days while also revealing safe ground and carrying nutrients across barren plains. Destroying the herd solves the immediate obstruction but damages future route quality.
+
+Path Law includes seasonal right-of-passage provisions for several keystone species. Corporations frequently challenge these protections when migrations interrupt production. Custodian Flesh generally supports the protections; Custodian Structure may permit limited diversion if critical infrastructure is threatened.
+
+### Ecological Services
+
+The role categories in Section 5.3 describe these systems in greater detail. For regional planning, four services are especially important: detoxification by fungi and lichens, nutrient movement by grazers and scavengers, water and substrate maintenance by filter feeders and burrowers, and early warning supplied by storm, ice, and migration-sensitive organisms.
+
+Older industrial doctrine treated these processes as background conditions. Edition V records them as functional infrastructure. Destroying a detoxifying colony beside a refinery can therefore be equivalent to damaging a treatment plant, even when no constructed asset is visible.
+
+### Restoration Practice
+
+Ecological restoration on Neri is difficult because the target condition is rarely static. Projects aim to restore function rather than recreate an exact past landscape. A damaged marsh may be replanted with Flow-feeders, gas-consuming microbes, and root mats in stages. A depleted Plains corridor may require grazer access, predator exclusion for a limited period, and later predator return.
+
+Successful programmes combine local knowledge with controlled research. Failed programmes often result from importing a useful organism without its regulating relationships. Several aggressive fungal outbreaks began as well-intentioned erosion control.
+
+### Corridor Conflict
+
+Migration corridors overlap with convoy routes, drilling licences, water lines, and military positions. Closure decisions therefore have cascading effects. A corporation may request lethal clearance, a tribe may demand delay, a settlement may face food shortages, and a convoy may carry time-sensitive medicine.
+
+Joint corridor boards were created after the Marsh Bloom Siege to make these decisions. Their effectiveness depends on current data and political trust. When trust fails, each faction acts on a different timescale: corporations consider production days, convoys consider route hours, tribes consider seasonal recovery, and Custodians consider planetary continuity.
+
+---
+
+# 5. XENOBIOLOGY AND ECOSYSTEM BEHAVIOUR
+
+**FESS Classification:** BIO-XENO - Adaptive Species and Biosphere Dynamics
+
+## 5.1 Biosphere Model
+
+Earlier reports overemphasized aggression and gave the false impression that every native organism behaves as a weapon. Neri's biosphere is complete and productive. It includes photosynthetic and chemosynthetic primary producers, grazers, filter feeders, decomposers, pollinators, parasites, symbionts, and apex predators.
+
+What distinguishes it is the intensity of environmental selection. Organisms must cope with mobile terrain, mineralized air, scarce clean water, abrupt contamination, and rapidly changing territory. Many species therefore possess redundant organs, distributed sensory systems, dormancy cycles, or unusually flexible development.
+
+The biosphere often appears coordinated because many organisms respond to the same seismic, chemical, fungal, and resonance signals. True pack intelligence exists in several species, but not every mass movement is conscious strategy.
+
+## 5.2 Evolutionary Mechanisms
+
+Neri life adapts through conventional heredity, developmental plasticity, symbiosis, and Type-N resonance effects. These must not be conflated.
+
+- **Evolutionary adaptation** occurs over generations.
+- **Developmental response** changes an individual organism within its lifetime.
+- **Symbiotic acquisition** adds functions through another organism.
+- **TLM-lambda mutation** can produce rapid biological change but is often unstable, sterile, or lethal.
+
+Some populations inherit resonance-sensitive regulatory systems that accelerate selection by exposing variation quickly. This can make change appear instantaneous at ecological scale without violating basic inheritance.
+
+## 5.3 Ecological Roles
+
+| Role | Representative organisms | Strategic significance |
+|---|---|---|
+| Primary producers | Ashleaf mats, thermal reeds, mirror lichens, fungal towers | Fix carbon and mineral nutrients; stabilize ground |
+| Grazers and filters | Stonebacks, basin strainers, frost combers | Support predator populations; indicate water and contamination |
+| Pollinators and dispersers | Lantern motes, dust sails, spore runners | Maintain plant and fungal reproduction |
+| Decomposers | Acid scavengers, marrow mould, red-thread colonies | Rapidly recycle biomass; can damage equipment |
+| Detoxifiers | Flow-feeders, salt moss, copper veil lichen | Remove low-level resonance and metal contamination |
+| Mesopredators | Glass mantids, marsh hooks, ash skimmers | Control grazer populations; threaten isolated personnel |
+| Apex predators | Rift hounds, dune maws, storm talons | Define large territories and movement risk |
+| Parasites | Vein leeches, dream spores, host-wire colonies | Medical, behavioural, and containment hazard |
+
+## 5.4 Selected Species Index
+
+### Stoneback Grazer
+
+Large herd animal of the Plains of Smoke and Stone. Layered mineral plates protect it from ash abrasion and pack attacks. Herd movement predicts deep vibration changes several hours before most mechanical systems. Tribes avoid hunting lead animals because disrupting their route knowledge can cause entire herds to enter settlements.
+
+**Threat:** Low unless cornered.  
+**Value:** Meat, hide, seismic warning, route indication.  
+**Doctrine:** Give herds lateral space; never divide adults from young.
+
+### Rift Hound
+
+A collective-hunting apex predator adapted to terraces and chasms. Packs use scouts, feints, and controlled pursuit. They do not possess a formal command hierarchy in the military sense, but experienced adults coordinate through vibration and scent markers.
+
+**Threat:** Severe.  
+**Value:** Keystone control of rift grazers and scavengers.  
+**Doctrine:** Break coordination, preserve an exit, avoid prolonged siege.
+
+### Dune Maw
+
+Burrowing Sandsea ambush predator capable of sensing sustained vehicle vibration. The animal often ignores light foot travel and attacks heavy machinery because it has adapted to large migratory prey.
+
+**Threat:** Severe to vehicles; moderate to dispersed personnel.  
+**Value:** Aerates deep sand layers and exposes mineral-rich substrate.  
+**Doctrine:** Vary engine rhythm; deploy vibration decoys away from the route.
+
+### Glass Mantid
+
+Mid-sized predator whose shell refracts local light and reflects motion from misleading angles. It hunts around fractured sheets and is dangerous primarily because personnel misjudge its location.
+
+**Threat:** High in close terrain.  
+**Value:** Controls shard-boring pests; shell used in optical research.  
+**Doctrine:** Use thermal and acoustic confirmation, not vision alone.
+
+### Storm Talon
+
+High-altitude hunter with conductive filaments that ride electrical gradients. It is attracted to poorly grounded field equipment and may follow charged convoys across large distances.
+
+**Threat:** High during ion conditions.  
+**Value:** Atmospheric charge indicator.  
+**Doctrine:** Ground early; do not fire high-energy weapons into a flock.
+
+### Marsh Hook
+
+Amphibious ambush predator concealed beneath floating organic mats. It uses gas release to destabilize footing before attacking.
+
+**Threat:** High near untested platforms.  
+**Value:** Controls explosive-gas grazers and carrion accumulation.  
+**Doctrine:** Probe substrate chemically and mechanically; travel elevated.
+
+### Frost Comber
+
+Polar filter feeder that moves beneath thin ice and gathers microbial films with comb-like mouth structures. Its migration channels often mark stable subglacial water, but dense colonies weaken the ice above them.
+
+**Threat:** Low directly; high terrain implication.  
+**Value:** Water-quality indicator and emergency food source.  
+**Doctrine:** Do not follow a colony onto untested ice.
+
+### Lantern Mote
+
+Small bioluminescent disperser found in fungal basins. Swarm colour reflects spore chemistry. Elgem teams use changes in the swarm to identify toxic blooms before instruments register them.
+
+**Threat:** Minimal except as spore vector.  
+**Value:** Pollination, early warning, cultural ornament.  
+**Doctrine:** Observe colour and movement; do not collect during red-phase swarms.
+
+### Flow-Feeder
+
+Copper-glowing fungal and lichen complex adapted to micro-resonance contamination. Cultivated near retired refineries and grey-ash sites.
+
+**Threat:** Low unless saturated.  
+**Value:** Natural detoxification and contamination mapping.  
+**Doctrine:** Never burn a healthy colony without replacement containment.
+
+### Vein Leech
+
+Parasitic organism attracted to Trilium-exposed tissue and some biometal implants. It attaches without immediate pain and alters local electrical signaling.
+
+**Threat:** High if undetected.  
+**Value:** Medical research into resonance exposure.  
+**Doctrine:** Scan after any contaminated-zone operation; remove only under isolation.
+
+### Dream Spore
+
+Fungal propagule that disrupts sleep and causes recurring shared imagery among exposed groups. Most cases result from neurochemical effects. A small subset correlates with restricted node activity and remains under Custodian Silence review.
+
+**Threat:** Variable; severe for command judgment.  
+**Value:** Limited controlled medical research.  
+**Doctrine:** Rotate personnel, compare dream logs without prompting, isolate anomalous convergence.
+
+### Ash Skimmer
+
+Fast mesopredator that uses dust fronts for concealment. It usually hunts small native animals but learns to target exposed convoy equipment, food waste, and wounded personnel.
+
+**Threat:** Moderate individually, high in opportunistic swarms.  
+**Value:** Carrion control.  
+**Doctrine:** Secure waste and maintain rear thermal watch during storms.
+
+## 5.5 Symbiosis and Parasitism
+
+Neri's ecological relationships range from mutual benefit to coercive parasitism. Examples include:
+
+- Flow-feeders reducing contamination around structures while receiving heat and mineral runoff;
+- grazers carrying spore colonies that protect wounds but influence migration;
+- parasite swarms strengthening a host predator while altering aggression;
+- fungal networks connecting territories through chemical and vibrational information;
+- scavengers following apex kills and preventing carcass-driven toxic blooms;
+- storm organisms using conductive hosts to gain altitude.
+
+The same relationship may shift with season or contamination. A harmless protective symbiont can become invasive after resonance exposure.
+
+## 5.6 Pack Intelligence
+
+Confirmed intelligent or quasi-intelligent behaviours include reconnaissance, route memory, feigned retreat, target isolation, and learned avoidance of specific weapons. These behaviours are concentrated in long-lived social predators.
+
+Field teams should assume that a failed tactic has been observed and may not work again. Abstract reasoning is not required for this result; repeated, conspicuous behaviour is enough to teach the local population.
+
+## 5.7 TLM-Lambda Regions
+
+**TLM-lambda** is the operational designation for **Trilium-Lattice Mutation, lambda-class**. These zones combine active resonance contamination with biological systems capable of sustaining or spreading altered traits.
+
+Typical effects include:
+
+- aberrant growth and organ duplication;
+- rapid regeneration followed by collapse;
+- altered electrical and movement sensing;
+- bio-organic crystallization;
+- aggression linked to harmonic fluctuations;
+- temporary hive-like coordination;
+- contamination of tools, waste, and water by biological carriers.
+
+Entry requires resonance suppression, sealed biological containment, decontamination capacity, and a defined withdrawal threshold. Collection is prohibited unless the operation's scientific value exceeds the risk of transporting a self-propagating hazard.
+
+## 5.8 Significant Event-based Ecological Disruptions
+
+SPID designates large cross-species responses as **SEEDs**. Common triggers are hydroclave collapse, major fire, deep mining, refinery waste, predator removal, and resonance events.
+
+A SEED may include grazer flight, pack convergence, spore bloom, scavenger swarms, and disease spread. Conscious retaliation is not assumed. For planners, the relevant fact is that disturbance can make continued occupation progressively harder across an entire region.
+
+---
+
+
+## 5.9 Expanded Native Species Register
+
+The following profiles supplement the selected species index. They are included because each organism affects travel, settlement, industry, or public health beyond its immediate ecological role.
+
+### Mirror Lichen
+
+A low, silver-black growth found across Glassland rock and some shielded urban exteriors. Its surface changes reflectivity in response to atmospheric charge and trace resonance contamination. Settlements cultivate controlled patches as passive warning panels. Saturated lichen becomes brittle and may release irritant dust.
+
+**Threat:** Low.  
+**Value:** Atmospheric and resonance indication; surface sealing.  
+**Cultural use:** Glass Belt communities press dried patterns into mourning tablets because the reflectivity fades slowly after removal.  
+**Doctrine:** Compare against a clean reference patch; never rely on colour alone during Ash Veil.
+
+### Thermal Reed
+
+Tall segmented producer growing near geothermal seepage. It stores heat in mineral-filled chambers and releases it gradually after sunset. Marsh and rift communities use cultivated reeds for low-grade heating, cooking, and temperature stabilization. Damaged mature reeds may vent scalding fluid.
+
+**Threat:** Moderate when cut incorrectly.  
+**Value:** Heat storage, fibre, water indication, habitat stabilization.  
+**Doctrine:** Harvest above the third node and vent pressure before transport.
+
+### Dust Sail
+
+A broad, translucent aerial organism that rides convection and carries microscopic reproductive packets between isolated basins. It is often mistaken for debris or fabric at distance. Large seasonal gatherings can obscure sensors and attract Storm Talons.
+
+**Threat:** Low directly.  
+**Value:** Pollination and long-distance gene flow.  
+**Cultural use:** Convoy children make paper models to mark the first safe journey of a cycle.  
+**Doctrine:** Reduce intake suction during mass passage; do not burn swarms near crops.
+
+### Basin Strainer
+
+A slow-moving aquatic filter feeder inhabiting chemically difficult subsurface lakes and marsh channels. Its layered organs concentrate heavy metals, making the flesh unsafe without expert preparation. Healthy populations improve water quality by removing suspended biological waste.
+
+**Threat:** Low.  
+**Value:** Water purification, contamination sampling, limited food after treatment.  
+**Doctrine:** Sudden surface congregation indicates oxygen collapse or deep chemical release.
+
+### Salt Moss
+
+Dense blue-grey mat occurring around mineral springs and desalination outflow. It binds salts and several toxic metals. Overharvesting reduces bank stability and may release stored contaminants back into the water.
+
+**Threat:** Low unless chemically saturated.  
+**Value:** Purification, wound packing after sterilization, route marking.  
+**Doctrine:** Harvest in strips and leave connected root bands.
+
+### Red-Thread Colony
+
+A decomposer collective resembling tangled vascular cord. It rapidly consumes carrion, cloth, and some polymers. Colonies are valuable around controlled waste pits but catastrophic inside stores or medical facilities. They retreat from specific copper-salt mixtures used in settlement barriers.
+
+**Threat:** High to supplies and injured personnel.  
+**Value:** Waste reduction and soil formation.  
+**Doctrine:** Maintain copper-salt lines; never transport a warm colony in ordinary cargo.
+
+### Host-Wire Parasite
+
+A thin conductive organism that enters through wounds and grows along peripheral nerves. Early infection may improve reflexes or pain tolerance, encouraging exposed individuals to conceal symptoms. Later growth causes involuntary movement, aggression, and cardiac disruption.
+
+**Threat:** Severe.  
+**Value:** Restricted neurological research.  
+**Doctrine:** Any unexplained reflex enhancement after field exposure is a medical emergency, not an adaptation benefit.
+
+### Canyon Bell
+
+Sessile organism growing in shaded Canyon Arches. Its hollow mineral shell resonates with low-frequency ground movement. Colonies produce changing tones before rockfall, predator passage, or distant storms. Local communities maintain them near bridges but avoid artificial amplification, which can damage the organisms and create false alarms.
+
+**Threat:** Minimal.  
+**Value:** Structural warning and cultural music.  
+**Doctrine:** Track changes in rhythm before interpreting volume.
+
+### Ember Tick
+
+Small heat-seeking arthropod common around engines, thermal reeds, and sleeping bodies in cold regions. It feeds on salts and trace metals rather than blood, but can compromise seals, wiring, and implants. A mass infestation often indicates an unnoticed warm leak.
+
+**Threat:** Moderate to equipment.  
+**Value:** Early warning of insulation failure.  
+**Doctrine:** Search the heat source before treating the infestation.
+
+### Blue Veil Jelly
+
+Translucent floating colonial organism found above some marsh channels. It consumes VOC-rich aerosols and glows faintly when saturated. Colonies reduce fire risk but may descend onto warm machinery and block intakes. Port Solace cultivates them in controlled ventilation gardens.
+
+**Threat:** Low to personnel, moderate to machinery.  
+**Value:** Air detoxification and gas monitoring.  
+**Doctrine:** Divert with cool airflow; do not destroy a colony during a gas peak.
+
+### Stone Singer
+
+Large burrowing grazer of the Black Spine foothills. It grinds mineral crust with resonant jaw plates, producing low tones that carry through bedrock. The patterns appear to coordinate spacing between individuals and may map underground cavities. Illegal prospectors follow them to locate seams, despite the risk of entering unstable or restricted sites.
+
+**Threat:** Moderate if approached underground.  
+**Value:** Soil turnover and cavity indication.  
+**Cultural use:** Altan smiths reproduce selected rhythms during low-temperature forging.  
+**Doctrine:** Never pursue a retreating animal into an unmapped shaft.
+
+### Pale Lantern Tree
+
+Branching fungal-organic structure found near polar geothermal vents. It stores antifreeze compounds and emits a steady white light during long darkness. Clans harvest small amounts for medicine and emergency illumination. Removing the central crown kills the colony and destabilizes the warm microbial pocket beneath it.
+
+**Threat:** Low.  
+**Value:** Medicine, light, habitat, thermal indication.  
+**Doctrine:** Harvest peripheral branches only under local licence.
+
+### Route Crab
+
+Armoured scavenger that follows convoy tracks across Plains and Canyon margins, feeding on spilled organic material and mineral residue. It learns recurring stops and may gather beneath kitchens or waste outlets. Large groups attract predators but also remove refuse that would otherwise support parasites.
+
+**Threat:** Low individually; moderate as an attractant.  
+**Value:** Waste control and trail persistence indicator.  
+**Doctrine:** Redirect waste deliberately and do not allow colonies beneath wheel assemblies.
+
+### Needle Bloom
+
+Small desert plant that remains buried for most of the cycle. After rare condensation events it erupts into sharp reflective stems and flowers within hours. The bloom indicates shallow moisture but can puncture light vehicle skirts and animal feet. Sand Crown communities harvest the seeds for oil.
+
+**Threat:** Moderate to tyres and soft seals.  
+**Value:** Water indication, edible oil, temporary soil binding.  
+**Doctrine:** Do not drive directly through a new bloom; moisture may conceal unstable substrate.
+
+### Choir Eel
+
+Long amphibious predator inhabiting rift rivers and deep marsh channels. Groups produce harmonic pulses that disorient prey and interfere with simple sensors. They are usually territorial rather than actively aggressive toward large vehicles. Refinery discharge can cause mass migration and violent feeding behaviour.
+
+**Threat:** High in water.  
+**Value:** Controls invasive filter feeders; tissue used in acoustic research.  
+**Doctrine:** Shut down non-essential sonar and withdraw from synchronized pulse patterns.
+
+### Ecological Intelligence Caution
+
+Named species categories simplify field communication but can conceal regional variation. A Rift Hound pack near a refinery may behave differently from one in an undisturbed canyon. Fungal and colonial organisms may also exchange traits or functions without fitting conventional species boundaries. Field doctrine therefore prioritizes observed behaviour, local knowledge, and current contamination state over confidence in a familiar name.
+
+---
+
+# 6. TECHNOLOGY, INFRASTRUCTURE, AND FAILURE SYSTEMS
+
+**FESS Classification:** TEC-INF - Planetary Infrastructure Systems
+
+## 6.1 Design Philosophy
+
+Neri infrastructure is designed around four assumptions:
+
+1. the ground may move;
+2. the air may become hostile;
+3. the grid may fail;
+4. assistance may not arrive.
+
+Systems prioritize modularity, redundancy, rapid isolation, repair under pressure, and the ability to abandon outer components without losing the core population.
+
+## 6.2 Power Architecture
+
+Neri uses a mixed energy system.
+
+| Source | Strength | Limitation | Typical users |
+|---|---|---|---|
+| Geothermal | Reliable local base load | Site-specific, moderate output | Civilian settlements, industry |
+| Triactor cores | Very high output, compact | Resonance hazard and custody burden | Shield cities, refineries, orbital systems |
+| Methane capture | Useful in wetlands | Explosive and corrosive | Marsh settlements, local industry |
+| Mobile micro-reactors | Flexible and independent | Fuel and maintenance intensive | Convoys, field bases |
+| Solar and thermal recovery | Low-risk supplementary power | Ash and storm vulnerable | Remote stations, domestic systems |
+
+No major settlement relies on one source. Triactor output is reserved for shields, heavy industry, emergency loads, and strategic systems where possible.
+
+## 6.3 Triactor Cores
+
+A Triactor core converts controlled lattice energy through three interacting harmonic fields. The triadic architecture prevents a single oscillation from dominating under normal operation. Failures occur when phases drift, control data is corrupted, or the physical cage is damaged.
+
+Every core has:
+
+- an active containment field;
+- a passive sacrificial shell;
+- independent phase monitoring;
+- manual and automated shutdown paths;
+- a physical separation zone from population modules;
+- a Custodian-access override at strategic sites.
+
+Routine maintenance is socially prestigious and psychologically taxing. Core crews undergo rotation because prolonged exposure can disrupt sleep, mood, and time perception even below formal safety limits.
+
+## 6.4 Shields and Environmental Control
+
+Resonance shields deflect or disperse particulates, thermal bursts, pressure fronts, and some biological material. They do not create invulnerability. A shield must be tuned to local conditions, and the wrong setting may trap heat, attract charge, or amplify a pressure wave.
+
+Shield cities use multiple nested fields so one layer can fail without exposing the core. Convoys use directional shields because full spherical coverage consumes too much power. Industrial sites combine shields with physical barriers, sacrificial baffles, and remote equipment.
+
+## 6.5 Transportation
+
+Permanent roads exist only on stable cratons and within defended urban regions. Elsewhere, transport follows temporary corridors.
+
+### Common Vehicle Classes
+
+- **Heavy tracked crawlers:** cracked plains, ice, rubble, and long-haul cargo.
+- **Adaptive desert haulers:** broad pressure footprint, self-clearing intakes, vibration control.
+- **Storm-frame rigs:** grounded superstructure, insulated systems, retractable masts.
+- **Marsh skimmers:** low-pressure hover or distributed pontoons, sealed drives.
+- **Wall crawlers:** rift-face movement, cable anchor redundancy.
+- **Modular convoy platforms:** habitation, workshops, water recovery, schools, clinics, command.
+
+Aircraft are used for urgent transfer, reconnaissance, and military action. Ordinary bulk movement remains ground-based because atmospheric hazards make flight expensive and unreliable.
+
+## 6.6 Communication and Sensors
+
+Long-range communication combines orbital relays, tight-beam towers, physical courier systems, and short encrypted bursts. Atmospheric ionization and Trilium interference can corrupt timing, location, and identity data.
+
+Critical decisions require multi-source verification. A sensor report is not trusted merely because it is precise. Tribal Pathwatchers and experienced convoy scouts remain essential because they recognize contextual patterns that automated systems miss.
+
+Radio silence is an active defence. Some predators detect regular energy emissions; hostile groups can triangulate persistent transmitters; restricted deep-structure anomalies have been observed to echo or distort repeated signals.
+
+## 6.7 Settlement Construction
+
+Static settlements use flexible alloy-bonded frames, sliding joints, sacrificial service corridors, and compartmentalized atmosphere systems. Core structures are anchored to stable bedrock. Outer districts may be detachable or designed to fail away from inhabited sections.
+
+Mobile settlements use standardized couplings so clinics, schools, workshops, housing, and defence platforms can change position within the formation. A convoy city is not a random column of vehicles but a reconfigurable urban machine.
+
+## 6.8 Industrial Bastions
+
+Extraction and refinery settlements resemble fortresses because they face environmental, biological, and political attack. Workers receive technical and defensive training. Repair stores, emergency shelters, dampener systems, and armed response units are built into the production chain.
+
+Continuous-process facilities cannot always shut down safely. Thermal contraction, pressure imbalance, or lattice drift may make an uncontrolled stop more dangerous than continued low-output operation. Emergency plans therefore distinguish between *power loss*, *controlled rundown*, and *forced severance*.
+
+## 6.9 Common Cascade Failures
+
+| Initial failure | Likely cascade | Required first action |
+|---|---|---|
+| Main grid trip | Shield reduction, water-treatment loss, communication failure | Protect life support and isolate nonessential load |
+| Anchor shear | Pipeline rupture, module collision, structural breach | Detach damaged segment and clear fall zone |
+| Shield inversion | Heat and charge trapped inside perimeter | Kill field, vent through sacrificial corridor |
+| Refinery phase drift | Core instability, cognitive effects, grey-ash release | Isolate phase band and evacuate exposure radius |
+| Communication blackout | Route confusion, convoy separation, delayed rescue | Revert to physical markers and prearranged timing |
+| Hydroclave pump failure | Water rationing, pressure damage, civic unrest | Stabilize pressure before maximizing extraction |
+| Sensor spoofing | False evacuation or concealed hazard | Cross-check independent physical indicators |
+
+## 6.10 Infrastructure Priorities During Crisis
+
+Continuity doctrine ranks systems in this order:
+
+1. breathable atmosphere and shelter integrity;
+2. water pressure and purification;
+3. medical and contamination control;
+4. shield and structural stabilization;
+5. communications and route awareness;
+6. food preservation and heat management;
+7. industrial assets;
+8. recoverable cargo.
+
+Trilium is strategically priceless. It is still abandoned when carrying it would kill the unit.
+
+---
+
+# 7. SETTLEMENTS AND THE GEOGRAPHY OF POWER
+
+**FESS Classification:** GEO-SOC - Population Distribution and Settlement Control
+
+## 7.1 Settlement Types
+
+| Type | Character | Principal vulnerability |
+|---|---|---|
+| Shield city | Static political and industrial centre on S1 ground | Grid dependence and siege |
+| Convoy city | Mobile urban formation with full civic systems | Route closure and formation fracture |
+| Frontier town | Modular outpost serving exploration, salvage, or trade | Rapid population and allegiance change |
+| Industrial settlement | Production-centred fortress | Cascade failure and sabotage |
+| Trade hub | Neutral exchange point at route intersections | Loss of neutrality or corridor viability |
+| Tribal stronghold | Seasonal or semi-fixed centre tied to route guardianship | Outsider misunderstanding of sovereignty |
+| Hidden haven | Unregistered refuge, laboratory, or shadow port | Discovery, supply dependence, internal coercion |
+| Research enclave | Sealed specialist installation | Containment breach and political isolation |
+
+## 7.2 Shield Cities
+
+Shield cities contain the most stable populations, largest hospitals, central archives, major markets, and administrative institutions. Entry may require a Syndicate permit, factional sponsorship, work charter, or oath bond.
+
+They are secure by Neri standards, not safe in absolute terms. Their dependence on power and supply makes them vulnerable to sabotage. Most maintain evacuation districts and mobile reserves capable of leaving even when the central city cannot.
+
+### Veyra Spire
+
+Strategic summary: a communications, finance, and long-range trade centre built around a dormant drill fortress. Its fuller civic profile appears in Section 7.8.
+
+### Ironfall Bastion
+
+Strategic summary: a self-defended manufacturing republic whose elected institutions share power with veteran companies and foundry guilds. Its fuller civic profile appears in Section 7.8.
+
+### Cindervault
+
+Strategic summary: a subterranean Black Spine centre for biometal craft, specialist engineering, and restricted archives. Its fuller civic profile appears in Section 7.8.
+
+## 7.3 Convoy Cities
+
+Convoy cities may consist of hundreds of linked or coordinated platforms. They contain habitation, schools, foundries, medical systems, water recovery, markets, religious spaces, livestock or culture vats, and defensive units.
+
+During movement, the convoy captain holds emergency authority. Civic councils resume full authority during encampment. This division prevents debate from paralyzing a hazard response while limiting permanent military rule.
+
+Power comes from controlling reliable movement, not owning land. A respected convoy can redirect trade, carry refugees, deny repair support, and transmit information across otherwise isolated regions.
+
+### Rhyne's Crossing
+
+Strategic summary: a semi-mobile canyon settlement whose courts specialize in route disputes, cargo oaths, and inter-faction compensation. Its fuller civic profile appears in Section 7.8.
+
+## 7.4 Trade Hubs and Markets
+
+Trade hubs arise where routes, water, repair capacity, and political neutrality coincide. Their value is relational rather than territorial.
+
+**The Glaive Market** is a semi-mobile Glass Belt exchange dealing in licensed trade, salvage, and information. **Port Solace** is a hydroclave-based medical and logistics centre whose neutrality depends partly on covert supply. **High March Station** coordinates polar traffic, relay, refuelling, and rescue for factions that cannot afford open conflict there. Fuller civic profiles appear in Section 7.8.
+
+## 7.5 Industrial Geography
+
+The main industrial zones include:
+
+- **Trinia Basin:** high-output refinement and lattice processing; current micro-drift concern.
+- **Iron Plateau:** heavy fabrication, vehicle manufacture, and shield components.
+- **Rift-Western Basins:** primary seam access and geothermal production.
+- **Outer Scar Fields:** secondary mining, salvage, and disputed research.
+- **Black Spine foundries:** biometal, specialist tools, military production.
+- **Marsh biochemical belts:** medicines, polymers, enzymes, and dangerous experimental compounds.
+
+Industrial boundaries move with licences, viable seams, and route access. A corporate map showing a permanent colour block should be read as an aspiration, not a fact.
+
+## 7.6 Unregistered Sites
+
+Unregistered sites include refugee camps, shadow ports, hidden laboratories, outlaw wells, abandoned platforms, and communities that reject Syndicate registration. Some are criminal enterprises. Others exist because official systems refused service, demanded impossible compliance, or would expose residents to retaliation.
+
+The Black Route uses obsolete telemetry, resonance masking, false manifests, and physical couriers. Eradication campaigns repeatedly fail because the network is not a single organization and because legitimate factions quietly depend on it.
+
+## 7.7 Regional Influence
+
+Neri power is best represented as overlapping networks rather than borders:
+
+- **Syndicate influence** follows grids, licences, orbital access, and registered routes.
+- **Tribal influence** follows paths, water knowledge, seasonal movement, and ancestral obligation.
+- **Corporate influence** follows production, debt, employment, and infrastructure.
+- **Convoy influence** follows trust, transport capacity, and repair support.
+- **Black Route influence** follows secrecy, scarcity, and compromised need.
+- **Custodian influence** is latent everywhere and explicit only at threshold events.
+
+A single map cannot represent all six networks usefully. Edition V therefore recommends separate influence overlays by function.
+
+
+---
+
+
+## 7.8 Settlement Gazetteer and Civic Character
+
+The following profiles expand on settlements whose influence exceeds their population or formal jurisdiction.
+
+### Veyra Spire
+
+Veyra Spire rises around a dormant drill fortress embedded in S1 Black Spine rock. The original shaft is now a sealed central void surrounded by concentric civic rings. Upper levels contain long-range relays, financial exchanges, diplomatic chambers, and the offices of several Syndicate councils. Lower levels house workshops, food production, transit docks, and the oldest emergency shelters.
+
+The city presents itself as neutral, but neutrality is actively manufactured. Veyra controls information routing, arbitration services, and credit instruments used across Neri. No faction wishes a rival to dominate it, and all therefore tolerate a municipal government that constantly balances access. Political scandals usually involve data priority, concealed debt, or selective communication failure rather than open territorial ambition.
+
+Residents identify strongly with vertical district. Upper-ring families may spend years without visiting the foundry levels; lower-ring workers speak of “those above the weather” even though the entire city is enclosed. Evacuation drills deliberately mix districts to reduce the risk that class separation becomes fatal during crisis.
+
+### Ironfall Bastion
+
+Ironfall began as a corporate military redoubt and broke from its owner during a failed wage seizure. The surviving security regiments, foundry guilds, and civilian councils formed a republic built around armed self-reliance. Every adult citizen completes civil-defence service, but command authority remains contested between elected representatives and veteran companies.
+
+Ironfall manufactures heavy crawler parts, armour, and structural anchors. Its products are reliable and deliberately simple to repair. The city distrusts both corporate dependence and Custodian secrecy. It cooperates with the Syndicate when interests align but refuses permanent garrisons.
+
+Public life is argumentative. Debates are broadcast from foundry halls, and speakers are expected to state the practical cost of their proposal. Ironfall humour is famously blunt. The local insult “polished shield” describes something impressive that fails under stress.
+
+### Cindervault
+
+Cindervault occupies a network of old excavation chambers beneath the Black Spine. Altan smithing families, archive orders, and specialist engineers dominate its economy. The city is darker and quieter than most Neri settlements because many workshops use controlled light and acoustic conditions.
+
+The upper vaults are open to trade. The lower vaults contain restricted foundries, family archives, and sealed passages associated with harmonic anomalies. Visitors are warned not to touch wall markings, hum near sealed doors, or carry active resonance devices without escort. These instructions are presented as technical safety, though some local rituals suggest older explanations.
+
+Cindervault's finest products are not weapons but adaptive joints, surgical tools, shield components, and repair instruments designed to remain functional after deformation. The city's craft law requires makers to maintain records of every material source and major repair. An object without a history is considered untrustworthy.
+
+### Rhyne's Crossing
+
+Rhyne's Crossing occupies a broad Canyon Arch junction where three convoy corridors and two ancestral paths intersect. Much of the settlement can detach and move if the main arch becomes unsafe. Its permanent core contains courts, water stores, bridge machinery, and a market built on stepped stone platforms.
+
+The Crossing is renowned for route law. Cases may involve damaged markers, delayed rescue, disputed salvage, animal migration, cargo contamination, or incompatible oaths. Judgments are often paid through service rather than money. A convoy that damaged a path may be ordered to carry repair crews for a full phase.
+
+The population expands dramatically during Quiet Stone. Markets, marriages, performances, and political negotiations fill every safe platform. During hazard periods the settlement contracts into its hardened core, leaving outer modules empty or dispersed.
+
+### Port Solace
+
+Port Solace floats above a managed hydroclave and linked marsh channels. It is constructed from anchored hulls, elevated bridges, medical barges, cultivation gardens, and sealed treatment towers. The public charter guarantees emergency care without initial proof of status or payment.
+
+That policy makes Solace essential and controversial. It treats contaminated workers, unregistered migrants, failed cult initiates, corporate fugitives, and patients carrying politically sensitive evidence. The clinics maintain strict internal neutrality, while the surrounding logistics network includes both licensed and Black Route suppliers.
+
+The city smells of antiseptic resin, wet metal, cultivated fungi, and saltleaf. At night, Blue Veil Jelly colonies glow beneath ventilation towers. Residents say that Solace is the only place on Neri where asking what happened comes after stopping the bleeding.
+
+### Glaive Market
+
+The Glaive Market is a semi-mobile trading community that reassembles at changing sites along the Glass Belt. Its modules have independent drives, false exterior profiles, and multiple legal identities. The schedule is known through invitation chains rather than public announcement.
+
+The Market sells optical minerals, salvage, water futures, repair labour, weapons, art, biological cultures, and information. Some lanes operate under Syndicate licence; others are protected by tribal oath; a third category exists only while specific enforcers look elsewhere. Disputes are settled by merchant arbiters whose authority depends on continued recognition.
+
+The Market's mobility is partly commercial and partly defensive. Repeated attempts to seize it have captured empty ground, decoy modules, or a respectable legal fair while the prohibited trade continued elsewhere.
+
+### High March Station
+
+High March Station stands on a stable polar rock island above several seasonal routes. It coordinates rescue, weather data, water transfer, research flights, and long-range communication. All major factions maintain representatives there, and its neutrality is protected by mutual dependence.
+
+The Station's social culture is shaped by isolation. Meals are communal during severe weather, and personnel from rival factions share maintenance duties. Open weapons are prohibited inside the central pressure ring. Arguments are common, but sabotage is rare because everyone understands how quickly a private conflict could kill the whole station.
+
+A wall in the rescue hall lists expeditions recovered alive, recovered dead, or never located. Names are added without factional title.
+
+### Aurelion Sanctum
+
+The Aurelion Sanctum is a fortified research monastery within the Sandsea. Its scholars study mutation geometry, controlled adaptation, and the boundary between medicine and prohibited enhancement. The institution claims that ritual discipline reduces cognitive bias and laboratory error. Critics describe the rituals as a method of obedience.
+
+The Sanctum provides valuable treatments for resonance injury and unusual environmental disease. It has also been accused of retaining patients as research subjects and testing adaptations that would not pass ordinary review. Custodian Flesh protects some programmes while Custodian Mind has suspended others.
+
+The complex is built around deep shaded courts, condensation towers, and laboratories isolated within sand-damped chambers. Its exact relationship with the Pale Engine Collective remains disputed.
+
+### Settlement Comparison
+
+| Settlement | Primary strength | Principal dependency | Persistent tension |
+|---|---|---|---|
+| Veyra Spire | Information and finance | External food, water, and route access | Neutrality versus hidden influence |
+| Ironfall Bastion | Heavy manufacture and defence | Trilium components and trade | Civil authority versus military culture |
+| Cindervault | Specialist craft and archives | Controlled access and stable supplies | Tradition versus restricted research |
+| Rhyne's Crossing | Route law and transit | Bridge integrity and tribal cooperation | Competing jurisdictions |
+| Port Solace | Medicine and humanitarian legitimacy | Marsh ecology and covert supply | Neutral care versus political pressure |
+| Glaive Market | Flexible exchange and information | Secrecy, mobility, water | Legal commerce versus shadow trade |
+| High March Station | Rescue and polar logistics | Shared neutrality and reliable power | Strategic value versus demilitarization |
+| Aurelion Sanctum | Advanced biological treatment | Custodian protection and secrecy | Healing versus experimentation |
+
+---
+
+# 8. POPULATION, ECONOMY, AND EVERYDAY LIFE
+
+**FESS Classification:** SOC-DEV - Demographic and Sociocultural Dynamics
+
+## 8.1 Population Structure
+
+**[V]** Neri's current registry contains approximately 31.8 million residents. **[A]** SPID estimates that another 4-7 million live outside reliable registration through Black Route communities, unlicensed convoys, isolated tribal populations, hidden research sites, or administrative duplication. The estimate is derived from water draw, convoy movement, settlement capacity, and duplicated identity audits rather than a complete census.
+
+Species composition changes rapidly through contract migration and cannot be stated with the precision claimed by older census files. The population includes humans, Elgem, Altans, and numerous other Federation and frontier peoples. Civic status is more consequential than ancestry. Common status categories include:
+
+- shield-city resident;
+- charter worker;
+- convoy citizen;
+- path-bound tribal member;
+- independent freeholder;
+- licensed transient;
+- unaudited or unregistered resident;
+- bonded specialist under fixed-term industrial contract.
+
+The last category is controversial. Charter Law formally prohibits hereditary bondage, but debt, medical dependency, and transport restrictions can make fixed-term contracts coercive in practice.
+
+## 8.2 Mobility and Household Life
+
+**[A]** Planning models place roughly 39% of the population in mobile residence for much of the administrative year. Mobility does not imply rootlessness. Convoy households may occupy the same modules for generations, carry extensive family archives, and follow routes older than many shield cities.
+
+A typical mobile household maintains:
+
+- two emergency departure loads, one personal and one communal;
+- water and air reserve independent of the convoy grid;
+- a route-memory object, such as a marked plate, textile, carved tool, or song record;
+- a designated refuge module;
+- practical roles for every member old enough to assist during seal, fire, or separation drills.
+
+Static households also prepare for departure. In many cities, children learn the location of evacuation corridors before they learn the formal street grid.
+
+## 8.3 Childhood and Education
+
+Education is practical but not narrowly vocational. Core schooling normally includes:
+
+- reading, mathematics, and systems literacy;
+- air-seal and fire response;
+- route symbols and hazard codes;
+- water accounting;
+- basic repair;
+- local ecological recognition;
+- oath and contract law;
+- the history of the Prospect Wars and Rift War;
+- at least one artistic or oral-memory discipline.
+
+Convoy schools operate in rotating modules and adapt lessons to travel. Tribal education emphasizes observation, route memory, environmental reciprocity, and oral record. Shield-city academies provide advanced technical training but are criticized for producing graduates who trust instruments more than terrain.
+
+Children are not treated as miniature soldiers. Communities that normalize excessive child exposure show higher later rates of risk-seeking, dissociation, and doctrine failure. Custodian Mind has repeatedly instructed schools to separate preparedness from fatalism.
+
+## 8.4 Food and Domestic Resources
+
+Neri food systems combine imported seed stock, native cultivation, fermentation, fungal agriculture, animal husbandry, and high-efficiency culture vats.
+
+Common staples include:
+
+- ash-grain flatbread grown in shielded hydroponic beds;
+- cultivated fungal loaves and protein curd;
+- saltleaf tea used to replace minerals lost through filtration masks;
+- stoneback meat in Plains communities;
+- marsh-root stews treated to remove VOC compounds;
+- preserved polar combers and ice algae;
+- convoy broth made from rotating communal ingredients;
+- copper-spice derived from safe Flow-feeder companion cultures.
+
+Fresh fruit and uncontaminated open-water fish are luxuries. Clean ice from the polar routes is gifted at weddings, reconciliations, and major oath ceremonies.
+
+Water is measured in domestic life without making every sip ceremonial. Wealthier settlements hide scarcity behind automatic systems; poorer communities record household draw visibly. During shortage, water fraud becomes a source of class resentment because elites may preserve gardens, baths, or industrial output while imposing public rationing.
+
+## 8.5 Work and Social Class
+
+Neri's occupational hierarchy rewards those who keep systems running under danger. Highly respected professions include pathfinder, seal engineer, hydrochemist, Triactor technician, convoy medic, fungal interpreter, structural rigger, and rescue pilot.
+
+Social status is shaped by four overlapping resources:
+
+1. access to protected water;
+2. control of movement;
+3. technical indispensability;
+4. enforceable relationships.
+
+The sharpest class divide is often between people who can leave a failing settlement and those whose contract, health, family, or debt keeps them there.
+
+Corporate blocs present dangerous work as honourable frontier service. Tribal critics argue that industry turns necessity into moral pressure. Both claims can be true: much of the work is genuinely essential, and that essentiality is frequently exploited.
+
+## 8.6 Health and Medicine
+
+Medical infrastructure is strongest in shield cities, Port Solace, major convoy cities, and corporate bastions. Common conditions include:
+
+- silica and ash damage;
+- chronic filter-related infections;
+- pressure and hearing injuries;
+- industrial trauma;
+- sleep disruption near resonance facilities;
+- contamination anxiety;
+- grief associated with non-recovery zones;
+- contract dependency following expensive augmentation or treatment.
+
+Medical augmentation is common but unevenly regulated. Biometal implants are safe when manufactured correctly, yet can attract specialized parasites or interact with resonance fields. All implant recipients working near Type-N systems undergo regular baseline scans.
+
+Mental health rotations are mandatory for rescue crews, Triactor teams, deep researchers, and personnel exposed to convergent dream events. Compliance remains inconsistent in underfunded sectors.
+
+## 8.7 Leisure and Pleasure
+
+Neri culture is not continuous austerity. Common recreation includes:
+
+- crawler racing on certified circuits;
+- signal choirs that combine percussion, light, and coded gesture;
+- route dramas performed across moving convoy platforms;
+- competitive repair contests;
+- carved-memory games in which players reconstruct a journey from incomplete symbols;
+- market festivals held during route convergence;
+- glass projection art;
+- communal baths where water supply permits;
+- low-gravity festivals on Kaval IX;
+- deliberately impractical clothing worn inside secure shields.
+
+Humour is dry, technical, and frequently directed at official certainty. A common convoy joke describes a “permanent road” as a route that remains open until the paint dries.
+
+## 8.8 Currency and Exchange
+
+Syndicate credit is reliable in shield cities, major industrial zones, and registered trade hubs. Outside them, value is diversified.
+
+Accepted exchange includes:
+
+- water allocations;
+- fuel cells;
+- spare parts;
+- medical treatment;
+- route escort;
+- safe shelter;
+- ammunition;
+- verified information;
+- labour time;
+- debt cancellation;
+- Trilium custody rights.
+
+The Ledger Consortium clears large transactions. The Sable Concord trades in information rather than conventional currency. Tribal agreements may treat a fulfilled obligation as more valuable than a high nominal payment from an unreliable party.
+
+## 8.9 Crime and Punishment
+
+Crime is defined partly by consequence. Theft from a private dwelling and theft from an emergency cache are not treated as equivalent. Common high-severity offences include:
+
+- contaminating water;
+- falsifying resonance data;
+- removing oath markers;
+- abandoning a convoy formation without warning;
+- trafficking active biological contamination;
+- opening an unlicensed Trilium seam;
+- spoofing evacuation orders;
+- knowingly concealing a pressure or structural failure.
+
+Punishment varies by authority. Syndicate sanctions include licence loss, asset seizure, confinement, forced restitution, and continuity detention. Path Law emphasizes compensation, route exclusion, public memory, and in extreme cases execution by Wardens. Black Route networks punish betrayal through exclusion, debt transfer, identity exposure, or disappearance.
+
+## 8.10 Death, Recovery, and Memory
+
+Not every body can be recovered. Neri societies therefore separate physical recovery from social recognition.
+
+A person declared lost in a non-recovery zone may receive a **return marker**, an object placed in the household, convoy, or route shrine. The marker records name, obligation, final known position, and unresolved debts. Some communities leave a place blank at communal meals for one cycle. Others dismantle and redistribute the lost person's tools so that useful labour continues through the group.
+
+Unrecovered death is painful but not considered incomplete. What is considered intolerable is unrecorded death.
+
+---
+
+
+## 8.11 Family, Age, Disability, and Civic Institutions
+
+Neri institutions are shaped by the expectation that households will experience separation, injury, displacement, and occupational change. The strongest communities do not assume uninterrupted family life. They create procedures for continuity when people disappear, convoys divide, or entire districts evacuate.
+
+### Household Forms
+
+Households may be based on kinship, partnership, work crews, oath groups, or long-term shared modules. Convoy citizens frequently maintain **split households**, with members living in different vehicles or route branches so one accident cannot eliminate the entire family. Shield-city families may sponsor mobile relatives in exchange for route access and information.
+
+Formal partnership contracts address water entitlement, evacuation priority, dependent care, debt, and ownership of portable property. Romantic language exists around these contracts, but legal precision is considered an act of care. To leave a partner uncertain about medical authority or rescue obligation is viewed as avoidable cruelty.
+
+### Childhood and Adolescence
+
+Children participate in maintenance and drills according to age, but responsible communities protect them from adult risk economies. Historical periods that used children in mines, courier networks, or militia support produced long-term social damage. Modern Charter Law prohibits hazardous industrial labour before civic majority, although covert violations continue.
+
+Adolescence is often marked by a first independent route task, seal certification, public repair, or contribution to a communal archive. The rite differs by culture. Sand Crown youths may navigate between known markers; shield-city youths may complete a systems audit; marsh youths may identify a safe cultivation bed through biological signs.
+
+### Older People
+
+Age carries authority when experience remains shareable. Older pathfinders, engineers, healers, and oath witnesses preserve information not captured in formal records. Communities therefore invest heavily in mobility support, memory aids, and adapted work.
+
+The romantic image of every elder as a wise survivor is misleading. Some hold obsolete knowledge, resist necessary change, or use reputation to conceal abuse. Custodian Mind encourages institutions to preserve testimony while allowing challenge.
+
+### Disability and Adaptation
+
+Injury is common, but disability does not automatically exclude a person from civic life. Settlements use prosthetics, biometal interfaces, environmental controls, altered work roles, and shared support. The most serious barriers are often infrastructural: narrow evacuation shafts, interfaces designed for one body type, or contracts that treat reduced output as moral failure.
+
+Resonance-adaptive prosthetics are especially controversial. They can restore function beyond conventional devices but may respond unpredictably near active Trilium. Some users report sensory awareness of field changes. SPID classifies this as a possible practical benefit and a potential medical risk, not evidence of mystical attunement.
+
+### Medicine and Consent
+
+Emergency medicine permits treatment without complete administrative review, but experimental adaptation requires informed consent and independent witness. In practice, workers facing contract termination or loss of transport may not be free to refuse. Port Solace and several Lantern Pilgrim clinics provide second opinions outside corporate systems.
+
+Mental health practice focuses on accumulated stress, sleep disruption, grief without remains, survivor guilt, sensory exposure, and command burden. Shared dream events require special care because investigators must gather useful data without reinforcing suggestion.
+
+### Civic Institutions
+
+Common institutions include:
+
+- **seal houses**, which certify environmental equipment and train households;
+- **memory courts**, which authenticate testimony, inheritance, and lost-person records;
+- **water boards**, which allocate use and investigate contamination;
+- **route schools**, which teach movement law and environmental observation;
+- **repair commons**, where tools and labour are shared during crisis;
+- **quiet rooms**, shielded spaces for sensory and psychological recovery;
+- **departure registries**, which record who left, with whom, and under what obligation;
+- **return kitchens**, community meals for rescued or long-absent travellers.
+
+These institutions matter because formal government may be distant. A settlement whose seal house, water board, and memory court remain trusted can survive a change of factional control. A settlement that loses trust in them may collapse without a single shot being fired.
+
+### Inequality
+
+Neri's rhetoric celebrates shared hardship, but risk is distributed unequally. Wealthy residents live behind better shields, possess private evacuation options, and can purchase clean food, specialist medicine, and legal representation. Poor residents take longer contracts, occupy outer districts, and accept contaminated work.
+
+Mobile populations are not uniformly poor. Some convoy families control valuable transport networks, while some shield-city residents are trapped by debt. The central divide is often between those who can choose when to move and those whose movement is controlled by an employer, route authority, illness, or lack of equipment.
+
+### Hospitality and Sponsorship
+
+Because registration systems exclude many legitimate travellers, personal sponsorship remains important. A sponsor guarantees conduct, debt, or departure. This can provide humane access to a city, but it also creates opportunities for exploitation. Reforms proposed by Veyra Spire would limit sponsor liability and create temporary civic status. Security councils argue that the reforms would make infiltration easier.
+
+Neri's social resilience depends on finding a balance between verification and refuge. Systems that admit everyone may fail under sabotage. Systems that admit no one without perfect documentation abandon the displaced precisely when documentation is most likely to be lost.
+
+---
+
+# 9. GOVERNANCE, FACTIONS, AND POWER
+
+**FESS Classification:** SOC-GOV - Political Command Systems
+
+## 9.1 Governance Model
+
+Neri is governed through layered, conditional authority. No institution possesses unrestricted sovereignty, and none could exercise it without destroying the systems on which it depends.
+
+The central political principle is not abstract balance but **mutual incompleteness**:
+
+- the Syndicate can regulate but cannot map every safe path;
+- tribal confederations can guide movement but cannot maintain orbital grids;
+- corporations can produce at scale but cannot legitimate limitless extraction;
+- independent settlements can mediate but cannot deter every major power;
+- the Black Route can bypass failure but cannot provide transparent public order;
+- the Custodians can intervene but cannot do so continuously without severe cost.
+
+## 9.2 The Five Custodians
+
+The Custodians are planetary-scale authorities associated with five domains.
+
+| Custodian | Domain | Typical intervention | Known limitation or cost |
+|---|---|---|---|
+| **Structure** | Physical stability, architecture, infrastructure | Sealing fractures, stabilizing cities, imposing construction limits | Stabilization can redirect stress elsewhere |
+| **Flow** | Energy, Trilium, water, atmospheric and systemic movement | Vein control, Echo Purge, Rebinding preparation | Interventions may destroy output, habitats, or routes |
+| **Mind** | Cognition, social coherence, dangerous information effects | Psychological containment, command fitness, memory protocols | Cannot distinguish consent cleanly from stabilization in every case |
+| **Flesh** | Biology, mutation, disease, adaptation | Quarantine, sterilization, genetic containment | Aggressive containment can erase beneficial ecologies or populations |
+| **Silence** | Secrecy, anomalies, intelligence boundaries | Null Orders, erasure, covert intervention | Secrecy obstructs coordination and creates conspiracy pressure |
+
+The Custodians are not always aligned. Their disagreements are usually concealed as procedural delay or conflicting technical requirements.
+
+### Documented Tensions
+
+- Flow may demand reduced extraction while Structure warns that power loss will collapse shield infrastructure.
+- Flesh may seek to preserve a new adaptive organism that Silence classifies as an information hazard.
+- Mind may require disclosure to prevent panic, while Silence judges the underlying knowledge destabilizing.
+- Structure may stabilize a settlement by redirecting seismic load into an ancestral route, provoking tribal resistance.
+
+Custodian authority is final at continuity threshold, but jurisdictional disputes below that threshold are real and politically exploitable.
+
+## 9.3 The Syndicate
+
+The Syndicate was created after the Rift War from surviving corporations, convoy authorities, refinery alliances, and enforcement structures. It functions as a planetary administrative mechanism rather than a nation-state, and its legitimacy derives from continuity performance and Custodian mandate.
+
+### Command
+
+The **Syndarchic Council** contains seven executives aligned with Custodian charters. Members can be removed without public process. Beneath the Council are Charter Divisions, Enforcement Corps, Convoy Authorities, technical agencies, and embedded Custodian observers.
+
+Two broad blocs shape internal politics:
+
+- **Continuity Bloc:** prioritizes strict output limits, redundancy, and Custodian compliance.
+- **Autonomy Bloc:** seeks greater human and institutional discretion, faster industrial growth, and reduced hidden oversight.
+
+The Custodians tolerate this division because total consensus would reduce scrutiny and make institutional failure harder to detect.
+
+### Strategic Assets
+
+- Kaval IX and orbital defence lattice;
+- refinery licensing and export control;
+- Convoy Registry Authority;
+- Charter Law enforcement;
+- Resonance Data Network;
+- major credit and customs systems;
+- continuity strike capability.
+
+### Principal Sub-Factions
+
+- **Trinium Charter Guild:** treasury and refinery operations.
+- **Convoy Registry Authority:** movement licences and route authorization.
+- **Sector Enforcement Division:** sanctioned continuity strikes.
+- **Ledger Consortium:** planetary credit and debt clearing.
+- **Sable Circuit:** secure communications monopoly.
+- **Orphic Branch:** anomaly containment and covert Custodian functions.
+
+## 9.4 Tribal Confederations and Path Law
+
+Tribal confederations predate Syndicate authority. They are decentralized, oath-bound societies defined by environmental knowledge, route responsibility, and inherited obligation.
+
+Land is not treated as a permanently ownable object. A group may hold responsibility for a route, well, basin, or seasonal refuge. Authority is demonstrated through care, memory, and the capacity to prevent reckless use.
+
+### Institutions
+
+- **Path Councils:** assemblies of representatives from major tribal blocs.
+- **Waykeepers:** maintain routes, markers, and safe-passage records.
+- **Wardens:** enforce Path Law and mediate or punish violations.
+- **Seers of the Blood Memory:** preserve inherited strategic and historical knowledge.
+
+### Major Confederations
+
+- **Sand Crown Alliance:** southern desert clans, navigation, water guardianship, ambush defence.
+- **Path of Ash and Wind:** northern league using coded sound and gesture.
+- **Riverkin:** amphibious and wetland-adapted diplomatic couriers.
+- **Red Vein March:** mountain confederation enforcing Black Spine neutrality.
+- **Echo Mothers:** matriarchal seers and oral historians.
+- **Pale Horn Clans:** subpolar nomads and convoy escorts.
+- **Silent Path Council:** intertribal forum dealing directly with Custodian and Syndicate authorities.
+
+Path Law protects movement, water, and collective safety. Removing a route marker is treated as an attack because it may kill people who never saw the offender.
+
+## 9.5 Corporate Power Blocs
+
+Corporate blocs are licensed instruments of production. They descend from Prospect War survivors and are permitted to compete so long as competition does not threaten planetary continuity.
+
+They operate like semi-militarized production states with research divisions, security forces, logistics fleets, and internal courts. Sabotage and espionage are common, but direct war is constrained by Charter Law and Custodian redlines.
+
+### Principal Blocs
+
+| Bloc | Primary domain | Current vulnerability |
+|---|---|---|
+| Azurion Incorporated | Trilium extraction and lattice research | Aggressive expansion into disputed route zones |
+| G'Kellor Construction | Rift stabilizers and seismic anchors | Liability for failures across multiple clients |
+| KavTech Enterprises | Triactor cores and shield systems | Mirrorline defection network and patent theft |
+| Alterna Holdings ILC | Logistics, brokerage, market manipulation | Dependence on politically fragile offworld finance |
+| Laan'Vareth Synergium | Biotechnical mutation and terraforming research | High Custodian scrutiny and public mistrust |
+| Magmazone Industries | Volcanic-basin energy | Emissions risk and geothermal overdraw |
+| Velgen Prospectors' Union | Independent fringe exploration | Limited capital and high casualty rate |
+
+Corporate rhetoric emphasizes innovation and employment. Critics note that risk is distributed downward while extraction profits travel upward and offworld.
+
+## 9.6 The Black Route
+
+The Black Route is a decentralized hidden economy of unregistered convoys, shadow ports, smugglers, information brokers, illicit laboratories, and refugee channels.
+
+The Black Route survives by solving needs that official systems refuse to acknowledge, while parts of the same network traffic people, dangerous organisms, stolen Trilium, and prohibited technologies. Any serious assessment has to account for both its relief function and its predation.
+
+The network is organized through reputation-based **Chains** rather than central command. Movement requires sponsorship. Betrayal damages not only the individual but everyone whose credibility supported them.
+
+### Major Networks
+
+- **Hollow Chain:** live Trilium and biological specimen transport.
+- **Dusk Port Collective:** refit services and false manifests.
+- **Gray Choir:** information exchange through coded harmonic tones.
+- **Saltline:** submerged transport through hydroclave channels.
+- **Cradle Consortium:** forbidden Trilium-flesh research.
+- **Obsidian Market:** auction of illegal Trilium, deep-structure relics, and restricted technology.
+- **Pale Exchange:** movement of Custodian artifacts between factions.
+- **Sable Concord:** information cartel; debts are paid in verified secrets.
+
+The Custodians have never confirmed that the Black Route is deliberately tolerated. Operational evidence suggests selective suppression rather than eradication.
+
+## 9.7 Militias and Paramilitary Orders
+
+Militias provide convoy defence, industrial security, salvage, enforcement, and deniable violence. Their quality varies from disciplined professional corps to predatory contract bands.
+
+Most follow a recognizable contract culture because reputation is their primary long-term asset. Custodian-tolerated units may employ licensed resonance tacticians and accept restrictions on biological weapons, active Trilium, and settlement-scale force. The title **Triarch** is reserved for the isolated Altan sect associated with Trilium-frequency research and is not used for a militia role.
+
+### Notable Groups
+
+- **Ashlance Division:** elite resonance suppression and convoy defence.
+- **Gallowfront Reclaimers:** salvage militia operating in rift ruins.
+- **Iron March Compact:** former Syndicate regiment devoted to honour contracts.
+- **Veilguard:** proxy force used against TLM-lambda outbreaks.
+- **White Halo Company:** rigid ex-corporate security guild.
+- **Ember-Crown Free Corps:** nomadic desert mercenaries serving tribal clients.
+- **Black Warrant:** execution unit activated only through Custodian Red Orders.
+
+## 9.8 Independent Settlements
+
+Independent settlements survive by being useful, defensible, and politically expensive to absorb. They operate through rotating councils, elected or tolerated wardens, technical guilds, and local militias.
+
+Their neutrality is rarely moral purity. It is a carefully maintained exchange in which each major faction receives enough access to prefer continued independence over conquest.
+
+Notable freeholds include Veyra Spire, Cindervault, Rhyne's Crossing, Port Solace, Ironfall Bastion, the Glaive Market, and High March Station.
+
+## 9.9 Religious and Ideological Movements
+
+Belief systems encode survival, hope, labour, rebellion, and interpretations of the planetary lattice.
+
+- **Resonant Path:** healing and biofield harmonization; useful and dangerous.
+- **Order of the Fifth Pillar:** Custodian-aligned obedience to the Five Principles.
+- **Children of the Hollow Light:** deep-Rift cult seeking to awaken a core consciousness.
+- **Lantern Pilgrims:** pacifist mobile aid network.
+- **Doctrine of Iron Flesh:** labour as sanctification; favoured by some corporate overseers.
+- **Chorus of Dust:** decay as Neri's natural language.
+- **Voice Unheard:** resistance philosophy rejecting Custodian Mandate.
+
+Custodian Silence suppresses movements judged capable of spreading destabilizing information. This has sometimes strengthened the mythology surrounding them.
+
+## 9.10 Intelligence and Covert Agencies
+
+Neri's intelligence system is dense because every important asset is mobile, contested, or hidden.
+
+Principal agencies include:
+
+- **Orphic Branch:** anomaly containment and cognitive erasure.
+- **Ledger Bureau of Auditors:** financial intelligence and corruption mapping.
+- **Mirrorline Directorate:** corporate theft and counter-hacking.
+- **Veil Operative Guild:** mercenary observers serving multiple clients.
+- **Tribal Pathwatchers:** oral, environmental, and dream-based intelligence network.
+- **Sable Concord:** secret exchange under Black Route protection.
+- **Custodian Silence Direct Division:** issuer of Null Orders and knowledge restrictions.
+
+**Null Mirrors**, devices said to erase digital and biological identity simultaneously, are confirmed to exist in limited form. Their full function remains restricted.
+
+## 9.11 Research Orders
+
+Scientific work operates under the Custodian Science Mandate. High-risk projects are divided among cells so no single researcher holds the full operational design.
+
+Major sites and orders include:
+
+- Halo Array, orbital resonance observation ring;
+- Deep Vault, subterranean archive and containment complex;
+- Warden Stations, atmospheric regulation experiments;
+- Aurelion Sanctum, xenogenetic monastery in the Sandsea;
+- Aurelion Order, mutation geometry research;
+- Vaultkeepers of Deep Vault, extinct-species genetic memory;
+- Resonant Cartographers, mapping of the Type-N lattice;
+- Null Scholars, study of resonance termination;
+- Project Helix Array, mobile atmospheric and bioengineering fleet;
+- Lattice Monks, ritualized data analysis;
+- Pale Engine Collective, suspected self-replicating bio-machine research.
+
+The official doctrine is that losing data is preferable to releasing an uncontrollable process. Several research orders dispute how often this principle has been used to destroy politically inconvenient results.
+
+---
+
+
+## 9.12 Active Inter-Faction Disputes
+
+The following disputes are assessed as capable of producing regional escalation within three administrative cycles.
+
+### Rift-Eastern Expansion Dispute
+
+Azurion Incorporated has placed survey markers and armed escort points along a corridor recognized by the Ash-Spine League as a recovery route. The company argues that its extraction licence includes temporary security control. Tribal authorities argue that no mineral licence grants the right to remove oath markers or interrupt seasonal passage.
+
+The Syndicate Mineral Council initially supported Azurion's interpretation. The Path Council issued a contradictory ruling. Custodian Structure favours continued access to the seam; Custodian Flow has warned that the route is also used by migrating grazers whose displacement may increase Rift predator pressure.
+
+A violent incident would likely draw convoy guilds into the dispute because the same corridor serves three major supply lines.
+
+### Trinia Output Controversy
+
+The Trinia Basin refinery remains below its pre-Flash capacity, but offworld contracts assume gradual restoration. Corporate blocs claim that micro-drift readings are within revised tolerance. Resonant Cartographers argue that the revised tolerance was created to meet economic targets rather than scientific evidence.
+
+Workers fear both outcomes. Increased output raises exposure and accident risk; prolonged restriction threatens wages and settlement services. Black Route buyers are offering high prices for diverted material, increasing theft and corruption.
+
+### South Polar Water Allocation
+
+A sequence of poor melt seasons has reduced expected southern water transfer. Pale Horn representatives demand priority for local reserves and ecological maintenance. Industrial districts argue that shield and refinery systems require guaranteed supply. Port Solace has requested a humanitarian reserve for marsh disease treatment.
+
+The dispute is legally complex because polar water is subject to clan custodianship, Syndicate emergency powers, and long-term corporate transport contracts. Any forced seizure would endanger future cooperation and possibly provoke sabotage along the ice routes.
+
+### Port Solace Neutrality Crisis
+
+A corporate security bloc has demanded access to patients accused of stealing restricted biological data. Port Solace refuses transfer until independent medical and legal review is complete. The corporation threatens to restrict licensed pharmaceutical inputs. Black Route suppliers have offered replacement cargo, which would deepen claims that the city shelters fugitives.
+
+Lantern Pilgrims and several independent settlements support Solace. The Syndicate is divided between preserving medical neutrality and preventing the city from becoming an immunity zone for espionage.
+
+### Kaval IX Oversight Dispute
+
+Federation observers seek expanded access to Kaval IX safety records following the Drift Crisis. The Syndicate argues that full disclosure would expose Trilium security protocols. Custodian Silence has redacted portions of the incident archive, including the behaviour of several sensor systems before failure.
+
+The dispute may appear diplomatic, but insurance, export certification, and orbital traffic rights depend on confidence in Kaval IX. A collapse of external trust could restrict trade even without formal sanctions.
+
+### Research Mandate Conflict
+
+Custodian Flesh supports controlled continuation of several Aurelion adaptation programmes. Custodian Mind has suspended trials involving memory alteration and group synchronization. Custodian Silence refuses to reveal whether related techniques were used during earlier containment operations.
+
+Researchers are fragmenting into compliant, clandestine, and exile networks. The greatest risk is not a public institutional break but the dispersal of partial methods to poorly equipped laboratories.
+
+### Black Route Accommodation
+
+The Syndicate officially seeks to suppress the Black Route. In practice, remote settlements, intelligence agencies, and even corporate sites depend on it during supply failure. Enforcement campaigns therefore alternate between targeted seizure and tacit tolerance.
+
+Hardline officers argue that accommodation legitimizes trafficking and prohibited research. Continuity planners argue that eradication would strand millions of unregistered residents. Black Route leaders exploit the contradiction while resisting any structure that would make them accountable as a unified authority.
+
+### Custodian Legitimacy
+
+The Voice Unheard and several independent councils question whether Custodian decisions can be appealed, audited, or meaningfully understood by those who bear their consequences. Supporters respond that continuity action must sometimes occur faster than ordinary politics and may involve information too dangerous to release.
+
+This dispute is likely to intensify as Rebinding preparations advance. Consent cannot be easily defined for a planetary intervention, but absence of consent does not eliminate the need to act.
+
+---
+
+# 10. CULTURE, IDENTITY, AND SOCIAL CONTRACT
+
+**FESS Classification:** ANT-CUL - Cultural Identity Systems
+
+## 10.1 Frontier Mentality
+
+Neri cultures value preparedness, repair, memory, and practical competence. These traits are not universal personality characteristics. They are social expectations produced by repeated exposure to systems that punish hidden failure.
+
+The admired person is not necessarily fearless. They are the person who notices deterioration early, speaks before certainty, and does not make others pay for their pride.
+
+## 10.2 Honour and Trust
+
+Honour on Neri is operational. It concerns whether others can safely act on a person's word.
+
+An oath may govern:
+
+- safe passage;
+- water allocation;
+- rescue obligations;
+- cargo custody;
+- silence concerning a hidden refuge;
+- neutrality at a trade hub;
+- compensation after accidental harm;
+- return of tools, remains, or memory records.
+
+Breaking an oath damages the network around the offender. A reliable enemy may receive more respect than an unreliable ally because their behaviour can be planned around.
+
+## 10.3 Language and Signals
+
+Spoken languages are supplemented by systems designed for noise, masks, distance, and radio silence.
+
+Common forms include:
+
+- coded hand and body gestures;
+- convoy light sequences;
+- impact and hull percussion;
+- route knots and carved markers;
+- harmonic tones used by the Gray Choir;
+- coloured lantern signals;
+- temporary dust or ash inscriptions;
+- silence intervals that themselves convey meaning.
+
+Signal competence carries social status. Misusing an emergency sign is a serious offence even when no immediate harm follows.
+
+## 10.4 Ritual and Ancestry
+
+Rituals preserve knowledge where archives can be lost or censored. A route song may encode water intervals. A funeral pattern may record the direction of a hazardous migration. A smithing prayer may contain the correct pause between resonant phases.
+
+Not all ritual is secretly technical. Communities also need ceremony that expresses grief, joy, affection, belonging, or beauty without instrumental purpose.
+
+Important practices include:
+
+- three breaths of silence before first Triactor ignition;
+- Echo Mothers “singing shut” an exposed seam after withdrawal;
+- clean-ice gifts at major bonds;
+- route-mark renewal festivals;
+- the redistribution of a lost person's tools;
+- convoy naming after the first completed hazard crossing;
+- black-stone oath inscriptions recalling the Accord of the Spires.
+
+## 10.5 Material Culture
+
+Objects are designed for repair. Clothing uses replaceable abrasion panels. Furniture locks into floors and walls. Personal items often contain hidden emergency functions: a decorative clasp may be a seal patch, a bracelet may record medical data, and a ceremonial knife may double as a structural cutter.
+
+Decoration concentrates on surfaces least likely to be sacrificed. Convoy interiors may be richly painted even when exteriors are plain and battered.
+
+Biometal is prestigious but not ostentatious. A well-made tool with a small Altan-forged component may carry more status than an elaborate weapon.
+
+## 10.6 Art and Music
+
+Neri art often uses motion, light, vibration, and memory.
+
+- **Convoy murals** are designed to align across several vehicles when the formation is correct.
+- **Signal choirs** blur art with communication, using safe frequencies and controlled light.
+- **Glass projection** turns fractured landscapes into moving images.
+- **Route drama** is staged across platforms that separate and reunite during performance.
+- **Memory carving** records events through patterns read by touch in darkness.
+- **Dust compositions** are deliberately temporary, emphasizing survival without permanence.
+
+Weapons may bear names and records, but weapon culture is not uniform. Some groups commemorate every use. Others erase markings after a contract to prevent violence becoming identity.
+
+## 10.7 Myths and Interpretations of Neri
+
+Five broad interpretive traditions recur across unrelated communities:
+
+1. **Neri as test:** hardship reveals discipline and worth.
+2. **Neri as organism:** land, Trilium, and life form one body.
+3. **Neri as prison:** Oshi structures contain something beneath the crust.
+4. **Neri as wound:** extraction repeats an ancient injury.
+5. **Neri as unfinished machine:** the planet awaits activation, repair, or completion.
+
+SPID records these traditions as cultural frameworks rather than verified history. Custodian Silence monitors selected variants where metaphor may preserve restricted observations, but most versions function primarily as moral and political language.
+
+## 10.8 Internal Cultural Differences
+
+There is no single “Neri frontier culture.”
+
+- Shield-city residents may value documentation and regulated security.
+- Convoy citizens value mobility, reciprocity, and formation discipline.
+- Tribal communities emphasize guardianship and inherited route obligation.
+- Corporate workers may identify with technical excellence, production teams, or opposition to management.
+- Black Route communities value discretion and sponsorship.
+- Religious orders interpret restraint through very different moral systems.
+
+Conflicts arise when one group's survival ethic is treated as universally applicable. A convoy's need to move quickly can violate a tribe's requirement to wait for a route to recover. A city's insistence on registration can endanger people fleeing a corporate contract.
+
+---
+
+
+## 10.9 Festivals, Etiquette, Humour, and Private Life
+
+Survival doctrine does not exhaust Neri culture. People mark time, flirt, quarrel, decorate, waste time, make bad art, and celebrate events whose value cannot be measured in continuity statistics.
+
+### Common Festivals
+
+**First Seal** marks the beginning of the local high-risk season. Households inspect masks, doors, emergency loads, and shared shelters. The practical work ends with food, music, and the ceremonial exchange of small seal patches decorated with personal symbols. Giving someone a patch implies that their survival matters to the giver.
+
+**Route Renewal** occurs when major paths reopen after recovery or hazard closure. Guardians replace markers, recite losses, and invite the first convoy to travel slowly with minimal cargo. Markets and performances follow once the route is declared stable. Corporations often pressure councils to accelerate the declaration.
+
+**Quiet Stone Gatherings** are held during unusually calm environmental windows. They may include outdoor meals, public theatre, races, craft fairs, and memorial walks. The celebration is intentionally temporary because the calm cannot be trusted to last.
+
+**The Seven Lamps** commemorates the adoption of the Seven-Vein Rule. Seven lights are lit and one is extinguished before the meal, representing the vein that must remain unopened. Syndicate ceremonies emphasize restraint; labour movements use the event to remember workers lost before the rule existed; the Children of the Hollow Light interpret the extinguished lamp as a hidden eighth path.
+
+**Clean-Ice Day** began in polar communities and spread through water-scarce settlements. Small quantities of exceptionally pure water are shared without charge. Even wealthy households avoid extravagant use because the point is common access, not display.
+
+**Return Night** welcomes convoys or expeditions that were missing beyond their expected window. A meal is prepared before confirmation of survival so that hope has a physical place. When travellers do not return, the food is redistributed and their names enter the memory record.
+
+### Etiquette
+
+Visitors are expected to ask before connecting equipment to a local grid, disposing of water, opening an exterior seal, or transmitting at high power. These rules are technical and social. Violating them implies that the visitor considers private convenience more important than communal safety.
+
+Offering water can mean hospitality, apology, courtship, or recognition of debt. The amount and vessel matter. A full clean cup is intimate in some desert communities; an unopened emergency pouch is formal and difficult to refuse.
+
+Touching another person's mask, route marker, repair tools, or memory object without permission is offensive. Complimenting equipment by asking who repaired it is often better received than praising its original price.
+
+Silence is not automatically awkward. People accustomed to radio discipline may sit together without speaking. Conversely, unexplained silence during a maintenance task can cause anxiety because it may signal concealed failure.
+
+### Humour
+
+Neri humour is frequently technical, dark, and regional. Convoy jokes exaggerate city dependence; city jokes portray convoy citizens as unable to remain still long enough to finish an argument. Marsh humour delights in outsiders' fear of harmless organisms. Polar stories may spend several minutes establishing solemn danger before revealing that the missing item was a cooking spoon.
+
+Workers use humour to challenge authority while preserving deniability. A manager who repeatedly announces “temporary tolerances” may be called a calendar engineer. An overcomplicated solution is a Veyra ladder: elegant, expensive, and pointed at the wrong level.
+
+Dark humour can become exclusionary. Communities monitor whether jokes allow people to process fear or pressure them to deny injury. Custodian Mind training explicitly distinguishes resilience from compulsory cheerfulness.
+
+### Courtship and Partnership
+
+Courtship practices reflect mobility. Couples exchange route access, repair labour, shared storage, or permission to add marks to a household object. In convoy cultures, allowing someone to choose music or lighting during a long maintenance shift may be more intimate than a formal gift.
+
+Partnership ceremonies commonly include a practical act performed together: sealing a chamber, repairing a tool, preparing a departure load, or carrying water to a communal store. Affection is not reduced to utility; competence and care are understood as inseparable.
+
+Separation agreements are detailed because partners may remain in the same convoy or settlement. Communities prefer clear allocation of tools, dependents, debts, and memory records to prolonged ambiguity. Public cruelty during separation damages reputation more than the separation itself.
+
+### Clothing and Appearance
+
+Outer clothing is shaped by abrasion, filtration, and temperature. Inner clothing allows greater variation. Bright linings, embroidered seals, reflective thread, beadwork, and painted prosthetics are common. People often reserve delicate materials for interior spaces where environmental damage is limited.
+
+Occupational marks can be worn with pride or concealed for safety. Rift workers use layered shoulder patches indicating survived zones. Healers may wear scent-neutral fabrics. Black Route couriers avoid patterns that can be tracked between settlements.
+
+Hair, skin, shell, implants, and other species-specific features are adapted to local equipment rather than forced into one standard. Poorly designed universal gear is a recurring source of discrimination and injury.
+
+### Food as Identity
+
+Meals vary widely. Shield cities produce controlled versions of regional dishes; route communities mock them as “archive food.” Convoys maintain starter cultures carried for generations. Marsh cooks value sharp fermented flavours that survive filtration. Polar cuisine emphasizes fat, salt, heat, and shared serving vessels.
+
+Hospitality meals often include one imported or difficult ingredient to show that the guest is worth consuming reserves. Refusing such food without explanation may be insulting. Medical, religious, and species dietary needs are normally accepted, but a guest is expected to state them before preparation when possible.
+
+### Private Dissent
+
+Public respect for Custodian authority does not imply private belief. Families tell stories of interventions that saved cities and interventions that erased communities. Workers may obey the Seven-Vein Rule while believing the revenue system is corrupt. Tribal guardians may cooperate with the Syndicate while rejecting its claim to name the planet's laws.
+
+Dissent survives through jokes, songs, private archives, altered rituals, and selective silence. Custodian Silence monitors some of these channels, but complete suppression would destroy the cultural memory needed to identify repeated mistakes.
+
+---
+
+# 11. HISTORICAL DEVELOPMENT
+
+**FESS Classification:** HIS-DEV - Chronological Strategic Record
+
+## 11.1 Pre-Survey and Ancestral Record
+
+Tribal traditions place route societies on Neri long before the first surviving offworld survey archives. Whether these populations are wholly indigenous or descend from undocumented migrations remains disputed; accessible evidence does not establish a direct connection to the restricted deep structures discussed elsewhere in this dossier.
+
+Ancestral records describe sealed lights beneath the ground, moving veins, and periods when routes changed without earthquakes. These accounts were dismissed by early prospectors and later proved operationally useful.
+
+## 11.2 Survey Age
+
+Neri was initially catalogued as a hostile Class-V world with limited settlement value. Advanced scans later detected unusual subsurface formations. Competing survey teams arrived, drilled aggressively, and confirmed the first Trilium seam.
+
+The discovery transformed Neri into a strategic target. Claims multiplied faster than legal authority. Early contact with route tribes was poor. Surveyors requested maps as property data, while local communities understood them as obligations that could not be transferred without relationship.
+
+The era ended with the first major Rift collapse, triggered by uncontrolled excavation. Casualty figures remain uncertain because records were destroyed, falsified, or never kept.
+
+## 11.3 Prospect Wars
+
+With no accepted authority, corporations and prospecting alliances fought through mercenaries, sabotage, convoy interdiction, orbital pressure, and destructive extraction. Roughly half the original survey population died or disappeared.
+
+Resonance detonations nearly propagated along a primary fault network. Entire platforms vanished. Trilium ceased to be understood as merely valuable and became recognized as an existential hazard.
+
+The central historical lesson of the Prospect Wars is not that competition is inherently fatal. It is that competition without shared limits converts every safety measure into a temporary disadvantage.
+
+## 11.4 Accord of the Spires
+
+Survivors from industrial groups, route clans, tribal confederations, and convoy authorities negotiated the first durable framework.
+
+The Accord established three foundational laws:
+
+1. no faction may open resonance without containment;
+2. sanctioned movement routes must remain accessible under negotiated law;
+3. no faction may claim absolute rule over Neri.
+
+The terms were carved into black stone pillars across major rift approaches. Several pillars still stand. Others have been moved, copied, destroyed, or incorporated into later settlements. Debates over authentic wording continue to shape legal disputes.
+
+## 11.5 Rise of the Syndicate
+
+The Syndicate emerged from failing corporate alliances, convoy guilds, refinery commands, and logistics authorities. It centralized Trilium regulation, convoy certification, industrial safety, customs, and orbital access.
+
+Its early rule was violent. Rogue drill fleets were destroyed, unauthorized orbital assets seized, and Charter Law imposed. The Syndicate made industry more predictable rather than inherently humane.
+
+Custodian influence during the earliest Syndicate period is unclear. Official history describes the Custodians as later arbiters. Restricted records suggest embedded oversight may have shaped the organization before public recognition.
+
+## 11.6 Rift War
+
+Unauthorized extraction breached ancient structures in deep rift zones. The resulting seismic spiral displaced predators, opened new fronts, and destabilized existing claims. Syndicate forces, tribal hosts, Black Route militias, and corporate strike teams fought across a terrain that changed under them.
+
+No faction achieved a sustainable advantage. A Custodian intervention ended the war through a ceasefire doctrine backed by direct control of resonance, infrastructure, and information.
+
+The war established the modern order: distributed authority under Custodian threshold control.
+
+## 11.7 Custodian Era
+
+The Five domains were formalized across recognized institutions. The Custodians sealed restricted zones, established extraction limits, regulated research, and prevented total war.
+
+The era brought harsh stability. Violence continued but became bounded. Industry expanded under licensing. Tribal Path Law gained formal recognition. The Black Route adapted rather than disappeared. Independent settlements flourished in spaces between major authorities.
+
+Several Council removals, research sterilizations, and Null Orders occurred during this era. Their full records remain inaccessible.
+
+## 11.8 Major Modern Incidents
+
+- **Trinia Flash, 229.Delta:** containment breach produced the first recorded Resonance Storm and tested Echo Purge deployment.
+- **Kaval IX Drift Crisis:** ledger desynchronization caused orbital refinery loss; charged debris remains visible as violet streaks called Flow's Scars.
+- **Marsh Bloom Siege:** resonance-triggered fungal expansion and predator aggregation threatened Heron Circle settlements.
+- **South Polar Pressure Fracture:** extraction activity and tidal stress opened a subglacial flood corridor, destroying multiple bases.
+- **False Echo Purge:** sensor spoofing triggered an unnecessary automated response and exposed weaknesses in verification systems.
+
+Detailed records appear in Appendix C.
+
+## 11.9 The Modern Frontier
+
+Current conditions combine increasing Trilium demand, visible harmonic drift, rising Black Route activity, ecological pressure, offworld interest, and disagreement over the limits of Custodian rule.
+
+Neri has outgrown the category of resource world. Its modern history tests whether an inhabited civilization can draw energy from a system with finite tolerance, measurable feedback, and possible engineered components without allowing demand to erase restraint.
+
+
+---
+
+# 12. STRATEGIC OUTLOOK
+
+**FESS Classification:** STR-FOR - Planetary Risk and Future Trajectory
+
+## 12.1 Current Assessment
+
+Neri remains governable and habitable, but the margin separating controlled instability from systemic crisis is narrowing. No single indicator shows imminent collapse. The concern is convergence: refinery strain, active-vein pressure, water competition, ecological displacement, and political distrust are rising together.
+
+### Planetary Risk Register
+
+| Risk | Probability within 10 cycles | Consequence | Trend | Primary mitigator |
+|---|---:|---:|---|---|
+| Major refinery resonance event | High | Severe regional, possible planetary coupling | Worsening | Flow, Syndicate, KavTech |
+| Hydroclave failure affecting multiple settlements | High | Severe humanitarian and political crisis | Worsening | Path Councils, local water authorities |
+| Corporate-tribal armed conflict | Moderate-high | Route closure and extraction disruption | Worsening | Syndicate arbitration, Silent Path Council |
+| Large SEED ecological event | High | Regional displacement and infrastructure loss | Worsening | Flesh, local ecological specialists |
+| Black Route strategic theft | High | Technology proliferation, political crisis | Stable-high | Orphic Branch, Sable Circuit |
+| Custodian jurisdictional conflict becoming public | Low-moderate | Crisis of legitimacy and compliance | Slowly worsening | Custodian internal mechanisms |
+| Restricted deep-structure activation | Unknown | Potentially catastrophic or transformative | Indeterminate | Silence, Structure, research orders |
+| Orbital blockade or Federation intervention | Low | Severe trade and sovereignty crisis | Stable | Diplomacy, Kaval IX defence |
+| Planetary Rebinding failure | Not yet applicable | Planetary-scale disruption | Rising as option approaches | Flow and all continuity authorities |
+
+## 12.2 Environmental Forecast
+
+Seismic activity is expected to remain elevated along the Rift-Eastern Corridor and Trinia Basin. Polar instability will increase during the next Kaval-Ryn harmonic convergence. Ashfall risk is high in the western volcanic belts, but continent-scale ash winter is not currently forecast.
+
+The larger environmental concern is loss of recovery time. Regions can survive major events when infrastructure, ecology, and population have time to reset. Increasing industrial throughput and route congestion are shortening the interval between disturbances.
+
+## 12.3 Economic Forecast
+
+Trilium demand will continue to rise because no substitute matches Type-N performance in compact resonance systems. Production cannot safely expand at the same rate.
+
+Expected economic effects include:
+
+- increased licence prices;
+- greater value placed on recycling and low-loss Triactor systems;
+- expansion of illicit secondary-fragment mining;
+- corporate consolidation around safe infrastructure;
+- conflict over water and labour rather than seams alone;
+- rising offworld pressure for transparency and access;
+- growth in biometal smuggling;
+- increased strategic value of geothermal, solar, and non-Trilium alternatives.
+
+The most dangerous economic assumption is that technical efficiency automatically permits higher total output. Efficiency may reduce waste while still increasing cumulative lattice stress if production expands to fill the saved capacity.
+
+## 12.4 Political Forecast
+
+The Syndicate's legitimacy depends on enforcing limits equally. If major corporate blocs receive exemptions unavailable to smaller operators or tribal communities, Path compliance will deteriorate.
+
+The Autonomy Bloc will argue that hidden Custodian control is preventing rational development. The Continuity Bloc will point to the 74% threshold and active watchlist as evidence that discretion has already gone too far.
+
+The Black Route is likely to expand as official controls tighten. Suppression without humanitarian alternatives will increase recruitment and public sympathy.
+
+## 12.5 Strategic Scenarios
+
+### Scenario A: Managed Contraction
+
+**Probability:** Moderate  
+**Horizon:** 3-10 cycles
+
+Extraction is capped or reduced. High-risk facilities close. Trilium prices rise sharply, but infrastructure survives. Corporate blocs consolidate and unemployment increases. The Syndicate must fund conversion, resettlement, and non-Trilium energy or face unrest.
+
+**Early indicators:** licence suspensions, strategic stockpiling, worker transfer programmes, reduced export commitments.
+
+### Scenario B: Extraction Crisis
+
+**Probability:** High  
+**Horizon:** 1-6 cycles
+
+A major refinery or vein becomes unavailable. Competing factions attempt to replace lost supply before the lattice stabilizes. Black Route mining expands. The Seven-Vein Rule comes under direct pressure.
+
+**Early indicators:** emergency procurement, cask theft, unexplained drilling signatures, militia movement toward secondary deposits.
+
+### Scenario C: Custodian Schism
+
+**Probability:** Low but increasing  
+**Horizon:** Unknown
+
+Two or more Custodian domains issue visibly incompatible orders. Factions choose the ruling that benefits them, destroying the assumption of a single final authority.
+
+**Early indicators:** delayed Null Orders, contradictory permit states, repeated override failures, public disagreement between embedded Custodian agents.
+
+### Scenario D: Ecological Withdrawal
+
+**Probability:** Moderate  
+**Horizon:** 5-20 cycles
+
+Large regions become progressively harder to inhabit as key species migrate, detoxifying ecologies fail, and water systems change. The planet does not collapse dramatically; settled space contracts.
+
+**Early indicators:** Flow-feeder dieback, repeated grazer route abandonment, persistent spore boundary expansion, increasing non-recovery zones.
+
+### Scenario E: Rebinding Success
+
+**Probability:** Unknown  
+**Horizon:** Decision within 20 cycles
+
+A Rebinding reduces lattice drift and creates a new stable extraction baseline. Success may still require temporary shutdowns and territorial change. Political struggle shifts toward control of the new baseline data.
+
+### Scenario F: Rebinding Failure
+
+**Probability:** Unknown  
+**Consequence:** Extreme
+
+The procedure couples multiple veins, grids, and ecological systems into a single disturbance. Contingency planning assumes prolonged power loss, route collapse, mass migration, and direct Custodian control.
+
+### Scenario G: Oshi Disclosure
+
+**Probability:** Unknown
+
+Conclusive evidence shows that Oshi structures control or constitute part of Neri's lattice. Existing legal claims, tribal histories, and Custodian legitimacy are destabilized. Scientific discovery becomes a sovereignty crisis.
+
+## 12.6 Recommended Strategic Actions
+
+1. Freeze net extraction growth until the Trinia micro-drift is resolved.
+2. Expand non-Trilium power and shield-efficiency programmes.
+3. Establish independent water and lattice auditing with tribal participation.
+4. Publish a limited explanation of the 74% threshold to reduce conspiracy pressure.
+5. Create conversion guarantees for workers displaced by contraction.
+6. Increase Flow-feeder cultivation and ecological restoration capacity.
+7. Require multi-source verification for every automated Purge or evacuation order.
+8. Develop a public legal framework for Rebinding authorization before an emergency removes the possibility of debate.
+9. Clarify Custodian conflict-resolution procedure.
+10. Expand lift, shelter, and distributed survival capacity rather than relying on full evacuation.
+
+---
+
+# 13. FIELD OPERATIONS AND SURVIVAL DOCTRINE
+
+**FESS Classification:** OPS-SUR - Mobility and Hazard Response Doctrine
+
+## 13.1 Universal Field Rules
+
+1. Carry independent air, water, location, and seal capacity.
+2. Maintain a primary route, fallback route, and no-go threshold.
+3. Treat every map as time-limited.
+4. Verify automated warnings against physical conditions.
+5. Never approach active Trilium, grey ash, or unknown biological material without containment.
+6. Preserve lateral escape; avoid terrain that forces movement into a single funnel.
+7. Report unusual animal silence, convergent dreams, repeated signal echoes, and unexplained instrument synchronization.
+8. Abandon cargo before mobility.
+9. Do not perform a solo rescue.
+10. Record loss even when recovery is impossible.
+
+## 13.2 Standard Personal Loadout
+
+| Category | Minimum equipment |
+|---|---|
+| Atmosphere | Emergency respirator, spare filters, seal hood |
+| Water | Two independent containers, local purification kit, contamination strips |
+| Navigation | Current route overlay, physical compass or inertial fallback, marker set |
+| Shelter | Ground-cold layer, compact pressure shelter, thermal sheet |
+| Medical | Trauma kit, exposure scan patch, anti-spore barrier, species-compatible medication |
+| Communication | Encrypted burst unit, optical signal, physical message medium |
+| Repair | Seal patches, universal couplings, cutting tool, grounding cable |
+| Survival | Heat source appropriate to biome, rations, waste containment |
+| Identification | Medical baseline, route permissions, emergency contact chain |
+| Weapons | Mission-dependent; non-lethal coordination breakers preferred for fauna |
+
+## 13.3 Route Planning Procedure
+
+Before departure, command confirms:
+
+- route validity timestamp;
+- weather and seismic windows;
+- water access and reserve margins;
+- current Path permissions;
+- predator and SEED reports;
+- communication dead zones;
+- shelter points and extraction limits;
+- known political checkpoints;
+- cargo-specific hazards;
+- criteria for aborting the mission.
+
+A route is rejected if the team cannot state how it will withdraw after losing its largest vehicle, primary communications, or intended water source.
+
+## 13.4 Convoy Formation
+
+A standard large convoy is organized into:
+
+1. **Path and sensor screen:** scouts, drones, environmental readers.
+2. **Forward defence:** intercepts hazards without blocking the main route.
+3. **Command and navigation core:** separated from the most visible lead vehicle.
+4. **Habitation and medical modules:** protected near the centre.
+5. **Cargo and industrial platforms:** distributed to prevent single-point loss.
+6. **Rear defence and recovery:** monitors pursuit, breakdowns, and separated units.
+7. **Mobile reserve:** capable of reinforcing any side or forming a refuge perimeter.
+
+Convoys do not stop in an unprepared line. They either continue moving or form a defensible geometry.
+
+## 13.5 Biome Equipment Matrix
+
+| Biome | Essential additions |
+|---|---|
+| Rift Belt | Seismic clamps, fall arrest, low-frequency tools, gas sensors |
+| Plains | Long-range optics, dust seals, speed reserve, heat-ground probes |
+| Sandsea | Wide-pressure gear, vibration decoys, thermal reserve, hard-ground locator |
+| Fungal Megaforest | Full biological seal, spore analysis, decontamination, quiet movement tools |
+| VOC Wetlands | Spark isolation, chemical suit, elevated probes, gas mapping |
+| Stormlands | Heavy grounding, surge sinks, redundant inertial navigation |
+| Polar Expanses | Ice radar, tension probes, cold reserve, subglacial flood beacon |
+| Glasslands | Polarized optics, cut-resistant skins, static control, thermal sensing |
+| Canyon Arches | Acoustic discipline, bridge scan, choke-point overwatch |
+| Black Spine | Deep resonance scan, psychological baseline, restricted-zone clearance |
+
+## 13.6 Environmental Emergency Cards
+
+### Seismic Event
+
+- Stop drilling, lifting, and heavy movement.
+- Move away from fracture edges, structures under tension, and confined channels.
+- Use high ground only after confirming it is not an unstable ridge.
+- Activate dampeners where authorized.
+- Account for personnel before attempting equipment recovery.
+- Expect secondary gas, water, and predator effects.
+
+### Ion or Electromagnetic Storm
+
+- Ground all vehicles and exposed structures.
+- Isolate Triactor interfaces and charged weapons.
+- Retract masts and suspend flight.
+- Shift to optical or physical communication.
+- Do not shelter beside isolated tall conductors or glass ridges.
+
+### Ash or Silica Storm
+
+- Seal breathing and machine intakes.
+- Confirm wind origin before choosing shelter.
+- Maintain convoy contact through tether, light, or close inertial tracking.
+- Assume predators may use the visibility loss.
+- Clear load-bearing surfaces before accumulated ash becomes structural weight.
+
+### Hydroclave Breach
+
+- Move out of depressions and downstream channels.
+- Treat all released water as contaminated until tested.
+- Monitor methane, heat, and structural collapse.
+- Do not maximize pumping until pressure geometry is understood.
+- Notify every dependent settlement, not only the licence holder.
+
+### Biological Contamination
+
+- Stop movement that may spread spores, fluids, or organisms.
+- Establish hot, warm, and clean zones.
+- Isolate exposed personnel without removing protective equipment.
+- Scan tools and waste as well as bodies.
+- Do not burn unknown growth unless ecological advice confirms it is not a detoxifier.
+
+### Resonance Anomaly
+
+- Disconnect nonessential harmonic systems.
+- Record baseline time, sound, sensation, and instrument behaviour.
+- Withdraw from repeating geometry, synchronized equipment, or grey-ash patterning.
+- Separate exposed personnel for independent debriefing.
+- Contact Flow and Silence channels if cognition or restricted deep-structure indicators are present.
+
+## 13.7 Rescue Doctrine
+
+Rescue is treated as a combat operation because injury attracts predators, reduces mobility, and concentrates attention.
+
+A rescue commander must define:
+
+- maximum exposure time;
+- perimeter responsibility;
+- casualty priority;
+- route out;
+- conditions under which the attempt stops;
+- whether recovering remains or strategic cargo is permitted after survivors are removed.
+
+Non-recovery zones exist where intervention is expected to create more casualties than it can save. These designations require review after each major environmental change. A permanent non-recovery label is not accepted merely for administrative convenience.
+
+## 13.8 Xenobiological Engagement
+
+The objective is passage, not domination.
+
+Preferred tools disrupt coordination, obscure scent or vibration, redirect attention, or open an escape. Lethal force is used when no safe alternative exists. Large kills must be managed because exposed biomass attracts scavengers, fungi, and parasites.
+
+Never assume that removing an apex predator makes a route safer. It may release smaller populations, alter grazing, or trigger territorial replacement by a more aggressive group.
+
+## 13.9 Exposure Symptoms
+
+### Trilium or Resonance Exposure
+
+| Stage | Common signs | Response |
+|---|---|---|
+| Early | metallic taste, skin heat, time distortion, sleepiness, repeated sound perception | Leave field, isolate equipment, record baseline |
+| Moderate | tremor, tissue discoloration, synchronized movement, intrusive pattern recognition | Medical isolation, resonance dampening, Custodian report |
+| Severe | necrosis, rapid tissue growth, crystallization, seizure, identity disturbance | Full containment; no conventional transport without clearance |
+
+### Spore or Parasite Exposure
+
+Warning signs include unusual calm, inappropriate confidence, repeated counting, smell or colour hallucination, memory gaps, localized numbness, and changes in group sleep patterns. Behavioural symptoms may precede fever or visible infection.
+
+## 13.10 After-Action Reporting
+
+Every significant operation records:
+
+- route version and permissions;
+- environmental conditions;
+- equipment failures;
+- biological encounters;
+- unusual sensor or cognitive events;
+- resources consumed;
+- casualties and non-recoveries;
+- changes to terrain, water, or local ecology;
+- deviations from doctrine and their results;
+- recommendations for route validity and future operations.
+
+Blame assignment is secondary to preserving actionable information. Deliberate concealment is a continuity offence.
+
+---
+
+# 14. RESTRICTED ANOMALIES AND DEEP-STRUCTURE ASSESSMENT
+
+**FESS Classification:** ANO-OSHI - Tier-3 Restricted
+
+> **ACCESS WARNING**  
+> This section contains unverified or cognitively sensitive material. Treat associations as investigative leads, not established causal facts.
+
+## 14.1 Oshi Remains
+
+Oshi structures are identified by unnatural symmetry, harmonic response, material continuity across geological boundaries, and resistance to conventional dating. Confirmed or suspected remains occur beneath the Black Spine, Riftcore Meridian, several Glassland fracture fields, and deep Kaval IX archives.
+
+Known forms include:
+
+- sealed cavities with no visible entrance;
+- pillar arrays aligned to Type-N seams;
+- conduits that resemble mineral growth until activated;
+- surfaces that return different internal dimensions across scans;
+- nodes that emit repeating signals only during specific tidal relationships.
+
+No complete Oshi settlement, body, or unambiguous written archive has been publicly authenticated.
+
+## 14.2 Relationship to Type-N Trilium
+
+Three models remain under consideration.
+
+### Natural-Lattice Model
+
+Oshi builders discovered and used an existing planetary phenomenon. Their structures are interfaces, not the source of Type-N behaviour.
+
+### Engineered-Lattice Model
+
+The Type-N network was modified or created to regulate energy, geology, ecology, or cognition. Neri may be a constructed planetary system whose original purpose is unknown.
+
+### Containment Model
+
+The lattice and Oshi structures restrain a deeper process or entity. Extraction reduces containment integrity. This model is culturally widespread and scientifically weak, but several Node 5-B observations remain difficult to explain otherwise.
+
+## 14.3 Grey-Ash Script
+
+Fresh grey ash sometimes forms branching patterns before losing coherence. Most patterns can be explained by heat, charge, airflow, and particle geometry. A minority repeat across isolated facilities or resemble local route symbols unknown to refinery personnel.
+
+Custodian Silence prohibits unsupervised pattern catalogues because prolonged comparison has produced obsessive interpretation and false correlation. Researchers are instructed to store raw images without arranging them into sequences.
+
+## 14.4 Convergent Dreams
+
+Shared dream content occurs after exposure to subharmonic refinery output, dream spores, social suggestion, and sleep deprivation. These causes explain most events.
+
+Restricted cases involve personnel separated before exposure who report matching spatial layouts, sounds, or instructions later correlated with deep-structure signals. Node 5-B is the most active current case.
+
+No operational decision may be based solely on dream content. Convergence is treated as a sensor anomaly requiring independent corroboration.
+
+## 14.5 Custodian Ontology
+
+The origin and nature of the Custodians are not resolved in accessible records. Competing interpretations describe them as artificial intelligences, distributed institutions, post-biological entities, Oshi successors, or interfaces to the planetary lattice.
+
+Their effects are real. Their claimed unity is less certain.
+
+## 14.6 Rebinding Unknowns
+
+A Rebinding may restore a prior lattice state, create a new one, or connect systems that currently remain partially isolated. Critical unknowns include:
+
+- whether the lattice contains recoverable memory;
+- whether Oshi structures will activate;
+- whether biological systems will interpret the change as contamination;
+- whether Custodian domains can maintain separate control during the procedure;
+- whether a successful Rebinding changes who or what can access Type-N Trilium.
+
+All Rebinding planning must include scientific, political, cultural, and humanitarian review. Treating it as an engineering repair alone is prohibited.
+
+---
+
+
+## 14.7 Deep-Structure Field Cases
+
+The following cases remain unresolved. They are included because they affect safety, classification, and command judgment, not because SPID accepts a single extraordinary explanation for them. Each case may involve several overlapping physical, biological, cognitive, or informational causes.
+
+### The Hollow Temperature Event
+
+A Black Spine survey team entered a cavity whose walls remained at uniform temperature despite active geothermal gradients outside. Equipment registered no conventional heat transfer. Personnel reported that their own body heat appeared to decline only while they moved and stabilize when they remained still. The team withdrew after a member began walking without conscious intent toward a sealed passage.
+
+No lasting medical injury was identified. Three independent instruments showed missing time of between eleven and fourteen minutes, while external observers recorded continuous telemetry. Custodian Silence sealed the cavity. Natural explanations include sensor desynchronization and a localized electromagnetic field. The coordinated motor behaviour remains unexplained.
+
+### The Nine-Voice Return
+
+During a failed probe beneath Node 5-B, an autonomous unit transmitted nine simultaneous versions of its status signal. Eight contained minor timing differences. The ninth included a route description leading to an unmapped chamber. A later seismic scan found a void in the stated direction.
+
+The probe was never recovered. Software review found no capacity to generate the route description from stored data. Custodian Structure classifies the result as corrupted prediction; Custodian Mind considers the signal a possible interaction between machine inference and lattice echo.
+
+### Grey-Ash Nursery
+
+A maintenance crew discovered grey ash arranged in repeating arcs around dormant Flow-feeder beds near an abandoned refinery. When the beds were watered, the ash patterns dissolved and the organisms resumed growth despite years without recorded viability. The new tissue contained trace isotopic ratios matching material from a distant licensed vein.
+
+Possible explanations include undocumented contamination transport, fungal spore persistence, or lattice-mediated mineral movement. Tribal observers describe the event as the planet returning seed to damaged ground.
+
+### The Unfinished Door
+
+An Oshi wall beneath Cindervault contains an apparent doorway whose edge stops before forming a complete frame. Scans show no cavity beyond it. Over decades, separate observers have reported that the missing section appears longer or shorter, although calibrated images show no change.
+
+Personnel who spend extended time near the wall often dream of completing a simple task they cannot remember on waking. The effect is weak, inconsistent, and highly susceptible to suggestion. Access is nevertheless restricted because dream convergence increased after researchers discussed the pattern openly.
+
+### Interpretation
+
+These cases do not prove that Neri is conscious, engineered, imprisoned, or predictive. They demonstrate that several deep phenomena interact with measurement, biology, cognition, and expectation at the same time. Any model that explains only the physical anomaly or only the psychological response remains incomplete.
+
+---
+
+# APPENDIX A: GLOSSARY
+
+**Administrative Cycle:** 112-standard-day reporting and planning unit divided into Alpha, Beta, Gamma, and Delta phases.
+
+**Ash Winter:** Extended high-particulate atmospheric condition reducing sunlight, travel, and surface production. Not necessarily aligned with the astronomical season.
+
+**Biometal:** Passivated host-metal alloy containing resonantly locked Trilium nodes. Safe for normal handling when correctly manufactured.
+
+**Black Route:** Decentralized hidden economy and movement network operating outside normal registration.
+
+**Charter Law:** Syndicate legal framework governing contracts, extraction, licensing, infrastructure, and registered movement.
+
+**Continuity Offence:** Act whose likely effects threaten multiple communities or planetary systems, including water contamination, seam tampering, sensor spoofing, and concealed structural failure.
+
+**Convoy City:** Mobile urban formation containing habitation, civic, industrial, educational, medical, and defensive systems.
+
+**Cognitive Drift:** Sleep, mood, memory, timing, or judgment disturbance associated with prolonged resonance exposure.
+
+**Custodian Mandate:** Authority exercised by the Five Custodians to preserve planetary continuity.
+
+**Echo Purge:** Localized resonance storm initiated by Custodian Flow to cauterize an unstable lattice event.
+
+**Flow-feeder:** Copper-glowing fungal or lichen complex that metabolizes low-level resonance contamination.
+
+**Flow's Scars:** Charged debris from the Kaval IX Drift Crisis, visible as violet orbital streaks.
+
+**Grey Ash:** Resonance-active waste produced during Type-N refinement.
+
+**Hydroclave:** Deep pressurized aquifer contained within fractured strata.
+
+**Kaval IX:** Fortified orbital command, customs, relay, and research hub in Kaval's orbital jurisdiction.
+
+**Lattice Baseline:** Recorded harmonic signature used to track a Trilium seam, cask, component, or facility.
+
+**Non-Recovery Zone:** Area where rescue or remains recovery is prohibited because expected losses exceed likely benefit.
+
+**Null Mirror:** Restricted identity-erasure technology associated with Custodian Silence.
+
+**Null Order:** High-level directive restricting knowledge, identity, access, or continued operation.
+
+**Oath Bond:** Enforceable personal or collective commitment recognized by a governing authority.
+
+**Oshi:** Unknown ancient technological culture or system associated with deep structures on Neri.
+
+**Path Law:** Tribal legal and ethical system governing movement, route guardianship, water access, and collective safety.
+
+**Rebinding:** Proposed planetary-scale procedure intended to retune disturbed Type-N lattice regions.
+
+**Resonant Ledger:** Custody and control system recording extraction, transport, processing, and use of Trilium.
+
+**SEED:** Significant Event-based Ecological Disruption; a multi-species response to major disturbance.
+
+**Seven-Vein Rule:** Limit of seven simultaneous primary Type-N extraction veins.
+
+**Shadow Port:** Hidden Black Route trade, refit, or transfer site.
+
+**Shear Event:** Sudden destructive wall-wind produced by colliding pressure systems.
+
+**TLM-Lambda:** Trilium-Lattice Mutation, lambda-class; an active resonance-biological contamination zone.
+
+**Triactor:** Three-field harmonic reactor or control architecture using constrained Trilium.
+
+**Type-N Trilium:** Neri-specific bio-reactive Trilium phase embedded in a mobile living lattice.
+
+**Waykeeper:** Tribal specialist responsible for route maintenance and knowledge.
+
+**Warden:** Path Law enforcer, mediator, and in extreme cases executioner.
+
+---
+
+# APPENDIX B: FACTION AND POWER INDEX
+
+| Faction | Type | Principal asset | Public objective | Primary concern |
+|---|---|---|---|---|
+| Syndicate | Administrative-enforcement system | Orbital control, licences, grids | Maintain continuity and production | Legitimacy, internal bloc division |
+| Sand Crown Alliance | Tribal confederation | Sandsea routes and water knowledge | Protect desert paths and sleeping veins | Corporate expansion |
+| Path of Ash and Wind | Tribal league | Signal systems and northern routes | Preserve movement sovereignty | Surveillance and route militarization |
+| Riverkin | Tribal culture | Wetland passage and diplomacy | Keep water corridors open | Chemical and political contamination |
+| Red Vein March | Mountain confederation | Black Spine access | Enforce regional neutrality | Restricted deep-structure research and competing claims |
+| Echo Mothers | Matriarchal seer network | Oral history and inherited knowledge | Preserve memory and interpret the lattice | Custodian censorship |
+| Pale Horn Clans | Subpolar nomads | Polar navigation | Protect seasonal routes | Water industrialization |
+| Azurion Incorporated | Corporate bloc | Extraction and lattice research | Increase safe output | Route conflict, threshold pressure |
+| G'Kellor Construction | Corporate bloc | Seismic anchors | Stabilize industrial expansion | Systemic liability |
+| KavTech Enterprises | Corporate bloc | Triactors and shields | Control high-value infrastructure | Espionage and core failures |
+| Alterna Holdings ILC | Corporate bloc | Logistics and brokerage | Dominate offworld trade | Finance and sanctions |
+| Laan'Vareth Synergium | Corporate-research bloc | Type-N biometal and biotech | Develop controlled adaptation | Mutation scandals and Custodian limits |
+| Magmazone Industries | Corporate bloc | Geothermal and volcanic energy | Expand non-Trilium supply | Emissions and overdraw |
+| Velgen Prospectors' Union | Independent industrial guild | Fringe survey expertise | Open small deposits | Capital, casualties, regulation |
+| Hollow Chain | Black Route network | Live hazardous transport | Profit through forbidden logistics | Infiltration and containment |
+| Dusk Port Collective | Black Route network | Mobile repair and false manifests | Keep unaudited movement possible | Discovery and internal betrayal |
+| Gray Choir | Information network | Harmonic communications | Trade protected intelligence | Signal compromise |
+| Saltline | Smuggling network | Hydroclave tunnels | Control submerged transport | Water-law retaliation |
+| Cradle Consortium | Rogue research network | Trilium-flesh experimentation | Produce adaptive biological systems | TLM-lambda outbreak |
+| Obsidian Market | Shadow auction | Restricted goods exchange | Monetize scarcity | Custodian seizure |
+| Ashlance Division | Mercenary corps | Resonance suppression | Sell reliable defence | Political capture |
+| Veilguard | Proxy militia | Biohazard elimination | Contain mutation events | Excessive force, secrecy |
+| Lantern Pilgrims | Religious aid network | Trust and mobile relief | Preserve life without conquest | Exploitation by armed factions |
+| Order of the Fifth Pillar | Custodian-aligned faith | Institutional access | Teach obedience to the Five Principles | Loss of credibility during conflict |
+| Resonant Path | Healing order | Biofield methods | Harmonize living systems | Unsafe experimentation |
+| Voice Unheard | Resistance philosophy | Clandestine cells | End Custodian domination | Infiltration and suppression |
+| Orphic Branch | Covert Syndicate-Custodian unit | Anomaly containment | Prevent forbidden spread | Unaccountable power |
+| Sable Concord | Information cartel | Verified secrets | Control truth exchange | Exposure of sponsors |
+| Aurelion Order | Scientific-religious order | Xenogenetics | Understand mutation geometry | Crossing containment limits |
+| Resonant Cartographers | Research order | Lattice maps | Model planetary Trilium | Knowledge restrictions |
+| Pale Engine Collective | Suspected rogue order | Self-replicating bio-machines | Unknown | Planetary contamination |
+
+---
+
+# APPENDIX C: SELECTED ENVIRONMENTAL INCIDENT ARCHIVE
+
+## C.1 Trinia Flash - Cycle 229.Delta
+
+**Location:** Trinia Basin Central Refinery District  
+**Classification:** Resonance cascade and atmospheric coupling  
+**Cause:** Phase drift in a high-output refinery band combined with insufficient breaker separation.  
+**Event:** A containment breach produced a self-reinforcing resonance storm. Flow initiated the first recorded operational Echo Purge.  
+**Impact:** Severe refinery damage, regional grid interruption, atmospheric electrical effects, and long-term micro-drift.  
+**Policy consequence:** Third-line breaker standards, revised phase-isolation distances, and alternating load cycles.  
+**Unresolved issue:** The refinery band continues to produce small phase deviations.
+
+## C.2 Kaval IX Drift Crisis
+
+**Location:** Kaval IX orbital refinery jurisdiction  
+**Classification:** Ledger desynchronization and orbital asset loss  
+**Cause:** Control data drifted from the physical lattice state; automated systems continued operating on valid but outdated values.  
+**Event:** Refinery modules lost phase control and fragmented.  
+**Impact:** Orbital debris, export interruption, fatalities, and the charged fragments known as Flow's Scars.  
+**Policy consequence:** Independent physical-state verification and separation of custody data from live control systems.  
+**Unresolved issue:** Some debris changes charge state without a clear solar or orbital trigger.
+
+## C.3 Marsh Bloom Siege
+
+**Location:** Heron Circle wetlands  
+**Classification:** SEED ecological event  
+**Cause:** Resonance-active industrial runoff entered a mycelial water network.  
+**Event:** Rapid fungal expansion altered gas chemistry, displaced grazers, and attracted amphibious predators around elevated settlements.  
+**Impact:** Route closure, structural corrosion, casualties, and prolonged food and medical shortage.  
+**Policy consequence:** Mandatory biological treatment of refinery waste and Flow-feeder cultivation.  
+**Unresolved issue:** Some fungal colonies retain altered signalling behaviour generations later.
+
+## C.4 South Polar Pressure Fracture
+
+**Location:** South Polar Crosswind Zone  
+**Classification:** Geological-hydrological cascade  
+**Cause:** Blasting during a tidal stress window above an unrecognized melt cavity.  
+**Event:** Ice fracture opened a subglacial flood path and released methane.  
+**Impact:** Loss of bases and convoy units, water contamination, and long-term route displacement.  
+**Policy consequence:** Polar blasting windows, mandatory tension mapping, and independent clan consultation.  
+**Unresolved issue:** Current ion seeds near Ridge Base 73 resemble pre-event data.
+
+## C.5 False Echo Purge
+
+**Location:** Restricted  
+**Classification:** Sensor spoofing and automated response failure  
+**Cause:** Black Route actors injected phantom resonance signatures into a monitoring network.  
+**Event:** An Echo Purge was authorized against a non-existent cascade.  
+**Impact:** Minor ecological and atmospheric disturbance, no serious casualties, significant loss of confidence.  
+**Policy consequence:** Dual authorization, expanded spoofing libraries, and mandatory human-context review.  
+**Unresolved issue:** The perpetrators accessed signal characteristics believed confined to Custodian systems.
+
+## C.6 Node 5-B Convergence Event
+
+**Location:** Black Spine Highlands  
+**Classification:** Deep-structure echo and cognitive anomaly  
+**Cause:** Unknown.  
+**Event:** Separate teams recorded repeating deep signals and later reported matching dreams of a descending geometric chamber.  
+**Impact:** No confirmed physical casualties; command fitness degraded and operations suspended.  
+**Policy consequence:** Independent dream logging, personnel rotation, and Silence oversight.  
+**Unresolved issue:** A later scan identified a cavity corresponding imperfectly to the reported geometry.
+
+### Cross-Incident Root Causes
+
+1. harmonic phase drift;
+2. geological assumptions treated as permanent;
+3. atmospheric and electromagnetic coupling;
+4. biological response omitted from industrial planning;
+5. sensor corruption or overreliance on automation;
+6. resource overdraw;
+7. doctrine drift under output pressure;
+8. factional competition delaying response;
+9. information restriction preventing local preparation;
+10. failure to model second- and third-order consequences.
+
+---
+
+# APPENDIX D: CONTINUITY LEGISLATION
+
+## D.1 Trilium Resonance Safety Act
+
+Requires multilayer containment, live harmonic monitoring, emergency dampening, organic exclusion, and full custody records for extraction, transport, and processing. Unauthorized field manipulation is a planetary security offence.
+
+## D.2 Dynamic Seismic and Extraction Licensing
+
+All deep operations require zone-specific licences reviewed against current seismic, hydrological, ecological, and lattice conditions. Compliance with the Seven-Vein Rule is mandatory. Emergency shutdown and evacuation plans must be rehearsed.
+
+## D.3 Atmospheric and Emissions Regulation
+
+High-energy venting, weapon tests, and reactor exhaust are prohibited during elevated hazard indices or within active weather corridors. Strategic sites must maintain filtration, scrubbers, and independent atmospheric monitoring.
+
+## D.4 Hydrological Security and Aquifer Protection Law
+
+Hydroclave and rift-water extraction is capped by live pressure and ecological feedback. Independent monitoring is required. A breach triggers immediate suspension pending investigation.
+
+## D.5 Ecological Hazard and Mutation Control Statute
+
+Resonance-active waste and biological hazards must be neutralized before release. TLM-lambda operations require Custodian oversight, containment teams, and quarterly ecological audit.
+
+## D.6 Cross-Faction Emergency Response Mandate
+
+Licensed operators participate in joint drills and maintain interoperable alerts, supply caches, evacuation corridors, and rescue agreements. Route communities must be included where their territory or knowledge is relevant.
+
+## D.7 Sensor Integrity and Data Security Law
+
+Critical networks require independent verification, anti-spoofing systems, and audit trails. Tampering with environmental or evacuation sensors is classified as a continuity offence.
+
+## D.8 Adaptive Policy Review Clause
+
+Environmental legislation must be reviewed every two cycles using new incident, scientific, and route data. Emergency Custodian measures expire unless ratified or renewed through defined continuity procedure.
+
+## D.9 Rebinding Authorization Requirement
+
+No planetary Rebinding may proceed solely under industrial authority. Authorization requires a joint continuity finding from the Five Custodian domains, Syndicate command, recognized Path representatives, major settlement delegates, and independent scientific review. Emergency override remains possible only after a documented extinction-level threshold.
+
+---
+
+# APPENDIX E: CURRENT WATCHLIST
+
+## E.1 Trinia Basin - Central Refinery District
+
+Persistent micro-drift remains after the Trinia Flash. Output increases are suspended pending proof that the third-line breaker can contain phase movement without transferring stress into adjacent bands.
+
+**Escalation triggers:** repeated sleep-cycle disturbance beyond the monitored radius; grey-ash pattern persistence; synchronized phase changes across isolated modules.
+
+## E.2 South Polar Crosswind - Ridge Base 73
+
+Ion seeds have appeared beneath sub-ice ridges near methane and pressure anomalies. Blasting remains suspended.
+
+**Escalation triggers:** convergent electromagnetic pulses, sudden frost-comber migration, subsurface temperature rise, or loss of tension-sensor agreement.
+
+## E.3 Black Spine - Node 5-B
+
+Deep-structure echoes continue during night cycles. Custodian Silence and Structure disagree over whether to reinforce, open, or abandon the perimeter.
+
+**Escalation triggers:** increasing signal complexity, dream convergence among unexposed staff, physical geometry matching reported imagery, or Type-N movement toward the node.
+
+## E.4 Heron Circle Southern Marsh
+
+Spore indices and copper luminescence are increasing. Flow-feeder activity may represent successful detoxification or saturation.
+
+**Escalation triggers:** predator aggregation, Flow-feeder colour shift from copper to white, VOC composition change, or fungal boundary crossing established burn corridors.
+
+## E.5 Rift-Eastern Corridor
+
+Azurion survey assets and tribal Wardens remain in a tense proximity dispute. No open engagement has occurred.
+
+**Escalation triggers:** removal of oath markers, installation of fixed artillery, unlicensed harmonic scanning, or convoy rerouting without Path Council recognition.
+
+## E.6 Kaval IX Debris Exclusion Zone
+
+Flow's Scars remain charged and intermittently alter formation. Salvage attempts have increased as Trilium prices rise.
+
+**Escalation triggers:** debris synchronization, unauthorized tug deployment, or signals linking orbital fragments to surface lattice changes.
+
+---
+
+# FINAL CONTINUITY STATEMENT
+
+Neri is not held together by one government, one technology, or one people. It endures because incomplete powers constrain one another and because millions of inhabitants perform small acts of maintenance before failure becomes spectacle.
+
+Danger shapes Neri without exhausting its identity. The world contains cities, routes, schools, rituals, markets, arguments, jokes, gardens under shield glass, and families who know exactly how long it takes to seal a room in darkness. Its inhabitants have built civilization inside conditions that make permanence difficult rather than impossible.
+
+The immediate question is no longer whether Neri can be exploited. It can. The question is whether those who depend on its power can accept that continued access may require less extraction, more disclosure, and a definition of prosperity that does not treat every unused margin as waste.
+
+**END OF EDITION V STRATEGIC DOSSIER**
