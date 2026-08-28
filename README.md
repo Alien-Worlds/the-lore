@@ -6754,3 +6754,679 @@ Inter-tribal gatherings provide opportunities for cultural exchange, and tattoos
 ### A Testament to Identity
 
 Elgem tattoos are a vibrant, living testament to their harmony with Velgemmis and the diverse biomes they inhabit. These marks of identity, forged in the dyes and patterns of their environment, reflect the ingenuity, resilience, and cultural richness of their society. For the Elgem, their tattoos are connections to their world, their tribe, and their legacy.
+
+
+# **FEDERATION PLANETARY INTELLIGENCE FILE**
+
+## **SUBJECT: PLANET B. — PP-B**
+
+### ***The Quiet World — emerging colloquial designation***
+
+---
+
+FEDERATION BUREAU OF CARTOGRAPHIC & PLANETARY AFFAIRS  
+INTELLIGENCE ANNEX DIVISION — FRONTIER SURVEY DIVISION
+
+DOCUMENT REFERENCE:    FBCPA-PPB-0001-REV.03  
+CLASSIFICATION:        RESTRICTED DISTRIBUTION — GRADE 3 MINIMUM  
+                       \[PUBLIC SUMMARY APPENDED — SEE SECTION I\]  
+SUBJECT WORLD:         PP-B / Planet B.  
+STATUS:                ACTIVE SURVEY — COLONISATION PHASE 1  
+SURVEY AUTHORITY:      Federation Bureau of Frontier Assessment  
+                       in coordination with Altan Survey Corps  
+                       and Elgem Cartographic Division  
+COMPILED BY:           Intelligence Annex Division,  
+                       Sub-Bureau of Frontier & Strategic  
+                       World Assessment — RAPID RESPONSE TEAM  
+AUTHORISED BY:         IAD Senior Coordinator  
+                       \[IDENTITY REDACTED — FIP 14.7\]  
+INITIAL SURVEY:        Standard Cycle 1089.3  
+LAST REVISED:          Standard Cycle 1091.9  
+NEXT REVIEW:           Standard Cycle 1092.6 or upon  
+                       significant survey development —  
+                       whichever occurs first  
+DISTRIBUTION:          See Appendix F  
+HANDLING:              This document covers an active frontier  
+                       discovery under ongoing survey. Contents  
+                       are subject to rapid revision. Do not  
+                       treat any figure or assessment herein  
+                       as settled intelligence.  
+                       Federation Intelligence Statute 7.14  
+                       applies throughout.
+
+---
+
+> *"We have been here six months. We have more questions than when we arrived. This is either a very good sign or a very bad one. We are not yet certain which."* — Lead Survey Commander \[REDACTED\], PP-B Surface Team Alpha; field log excerpt, Cycle 1090.1
+
+> *"The ruins predate everything we thought we knew. Adjust your frameworks accordingly."* — Dr. \[REDACTED\], Altan Survey Corps Archaeology Division; internal communication, Cycle 1090.7
+
+> *"I have surveyed forty-one worlds. None of them looked at me back."* — Field Operative \[REDACTED\], Elgem Cartographic Division; personal log, Cycle 1091.2; classification disputed; included at editorial discretion
+
+---
+
+## **DOCUMENT STATUS NOTE**
+
+This is Revision 3 of an active frontier survey document. It is not a mature intelligence file. It is a working record of what is currently known about Planet B. and its system — compiled under field conditions, subject to continuous amendment, and carrying uncertainty ranges that the analytical team acknowledges are uncomfortable for a document of this type.
+
+The standard FBCPA dossier format has been applied where possible. Where it cannot be applied because the information does not yet exist, this document says so directly rather than filling space with speculation dressed as assessment.
+
+Readers accustomed to mature planetary dossiers should adjust their expectations. Planet B. is not a mature world. It is not a catalogued world. It is the Federation's most recent significant discovery and, by the assessment of the teams working it, among the strangest.
+
+*— IAD Rapid Response Team, Frontier Survey Division*
+
+---
+
+## **REVISION HISTORY**
+
+| Rev. | Cycle | Principal Changes | Authorised By |
+| ----- | ----- | ----- | ----- |
+| REV.01 | 1089.3 | Initial compilation following first contact survey. System overview. Planet surface preliminary scan data. | IAD-SC \[REDACTED\] |
+| REV.02 | 1090.4 | Ruins discovery formally documented. Anomalous interference first recorded. Colonisation Phase 1 authorised. BNB Mission framework established. | IAD-SC \[REDACTED\] |
+| REV.03 | 1091.9 | **Current edition.** Expanded system survey. Asteroid belt Trilium confirmation. Interference analysis updated. Ruins extent revised upward. Oshis assessment section added at Grade 4\. Incident log initiated. Three surveillance vessel signatures added. | IAD-SC \[REDACTED\] |
+
+> **Note:** This document is expected to require significant revision within the next two to four standard cycles as survey operations continue. Personnel working from this file should verify revision currency before acting on any specific assessment.
+
+---
+
+## **EXECUTIVE SUMMARY**
+
+Planet B. (Federation Designation: PP-B) is the most recently identified world of significant Federation interest. It was formally surveyed beginning Standard Cycle 1089.3 following detection of anomalous energy signatures and spatial phenomena in a previously uncharted system in \[LOCATION DETAILS — GRADE 3\].
+
+It is not a mature world. It is not a developed world. It is a world in the earliest stages of exploration and colonisation whose significance is already apparent and whose full nature is entirely unknown.
+
+**What is confirmed:**
+
+* The planet hosts extensive ruins of non-Federation, non-modern origin  
+* The system contains a Trilium-bearing asteroid belt of commercial interest  
+* The system exhibits spatial and electromagnetic anomalies not accounted for by standard astrophysical models  
+* Broad planetary scans detect faint Trilium signatures on the planet's surface — these cannot be precisely localised due to interference of unknown origin  
+* No naturally occurring Trilium has been confirmed in extractable deposits on the planet's surface  
+* The ruins, the anomalies, and the interference pattern together suggest a connection to the Oshis
+
+**What is not confirmed:** almost everything else.
+
+Active colonisation is underway under the BNB Mission framework. The planet is being settled by early colonists whose land claims and operational charters are registered with the Federation Bureau of Frontier Settlement. These colonists are operating in an environment that is still being understood.
+
+---
+
+## **QUICK REFERENCE — CURRENT KNOWN DATA**
+
+*(All figures subject to revision — Active Survey Cycle 1091\)*
+
+| Metric | Status | Confidence | Notes |
+| ----- | ----- | ----- | ----- |
+| Planet classification | Habitable — Class 2 Provisional | Moderate | Full classification pending |
+| Surface survey completion | \~34% | Moderate | Terrain complexity slowing progress |
+| Atmospheric conditions | Breathable — standard Triactor adaptation recommended | High | Localised anomalous zones noted |
+| Native Trilium deposits | None confirmed | Moderate | Signatures detected; locations unresolvable |
+| Ruins extent (confirmed) | Significant — 6 major complexes, 14+ minor sites | High | Full extent unknown |
+| Ruins origin | Oshis — preliminary assessment | Low–Moderate | See Grade 4 annex |
+| System anomalies | Multiple — classification ongoing | High | See Part 1 |
+| Asteroid belt Trilium | Confirmed commercially viable | High | Extraction operations pending |
+| Population (colonists) | Active registry — see BNB Mission Authority | High | Growing; Phase 1 ongoing |
+| Infrastructure | Early-stage | High | Minimal permanent installations |
+| Interference source | Unknown | Very Low | Active investigation |
+| Unidentified surveillance vessels | 3 confirmed | High | See Part 5 |
+
+---
+
+## **RISK MATRIX — CURRENT ASSESSMENT**
+
+*(Frontier Survey Context — Cycle 1091.9)*
+
+| Threat Category | Likelihood | Impact | Trend | Notes |
+| ----- | ----- | ----- | ----- | ----- |
+| Environmental hazard — standard | Moderate | Moderate | Stable | Expected for frontier world |
+| Environmental hazard — anomaly-related | Moderate | High | **Increasing** | Deeper survey zones |
+| Uncontrolled Trilium exposure | Low | High | Stable | No confirmed natural deposits |
+| Ruins site instability | Moderate | Moderate–High | Stable | Several sites structurally compromised |
+| Unknown biological hazards | Low–Moderate | Unknown | Unknown | Survey incomplete |
+| Interference event (equipment disruption) | High | Moderate | Stable | Routine occurrence |
+| Interference event (severe) | Low | High | Unknown | Two recorded to date |
+| Factional claim dispute | Moderate | Moderate | **Increasing** | Colonisation expanding |
+| Unauthorised excavation | Moderate | High | **Increasing** | Ruins access protocols under pressure |
+| External intelligence interest | High | Unknown | **Increasing** | Multiple parties monitoring |
+
+---
+
+# **PART ONE: SYSTEM OVERVIEW**
+
+---
+
+## **I. THE PP-B SYSTEM**
+
+The PP-B system was flagged for investigation in Standard Cycle 1088 following detection of anomalous energy signatures by long-range scanning arrays during routine frontier mapping. The signatures did not conform to known stellar or geological phenomena. A dedicated survey mission was dispatched.
+
+### **I.i — The Primary Star**
+
+The PP-B system's primary star is a stable G-type main sequence star — unremarkable in astronomical terms. Age, luminosity, and spectral characteristics are consistent with planetary habitability. The star is not the source of the system's anomalous properties. This has been confirmed through extensive analysis. The star is doing exactly what a star of its type should do. Everything unusual about the PP-B system originates elsewhere.
+
+### **I.ii — System Anomalies**
+
+The PP-B system exhibits a cluster of spatial and electromagnetic phenomena that, individually, would be flagged for investigation. Together, they constitute one of the most anomalous system profiles in Federation survey records.
+
+**Gravitational variance zones:** Several system regions exhibit gravitational readings inconsistent with the mass distribution of known bodies. The variance does not present navigation hazards at standard transit speeds, but is consistently measurable and consistently unexplained. Survey vessels in these zones report instrument drift requiring more frequent recalibration than standard protocols anticipate. The moon PP-B-M2's irregular orbit is one documented expression of this; the astrophysics team's current models cannot fully account for it.
+
+**Electromagnetic interference bands:** Distributed throughout the system in patterns that do not correspond to stellar activity cycles, planetary magnetospheres, or any identified natural source. The interference affects communications, sensor systems, and Triactor technology at intensities above background. It is not random noise — signal analysis by the Altan Survey Corps and Elgem Cartographic Division, working independently, has confirmed the interference has structure: repeating patterns on timescales ranging from seconds to what appear to be much longer cycles. It responds — subtly, inconsistently, but measurably — to certain electromagnetic outputs from survey equipment.
+
+**Spatial echo phenomenon:** Survey teams have documented sensor returns suggesting the presence of objects or structures that subsequent direct observation does not confirm. The returns are consistent in location across multiple survey passes by independent teams, ruling out simple instrument malfunction. Full analysis is classified at Grade 4\.
+
+> ██████████████████████████████████████████ **SPATIAL ECHO PHENOMENON — DETAILED ASSESSMENT** **CLASSIFICATION: GRADE 4 — RESTRICTED** Covers: full sensor return data; theoretical models from Altan Survey Corps physics team; cross-reference with known Oshis site phenomena on Frontier worlds. Reference: FBCPA-PPB-0001-REV.03-ANNEX-G4-A ██████████████████████████████████████████
+
+**Distributed Trilium resonance:** The system exhibits a faint but consistent Trilium resonance not corresponding to any identified Trilium deposit within sensor range. The resonance appears distributed rather than point-source — as though it emanates from the system rather than from any specific location within it. Multiple theoretical explanations have been proposed by survey physicists. None has been confirmed.
+
+> **Analyst's Note:** The combination of gravitational variance, structured electromagnetic interference, spatial echoes, and distributed Trilium resonance in a single system has no documented parallel in Federation survey records. The Altan Survey Corps has classified PP-B as a Category One Anomalous System — the highest priority classification for unexplained phenomena. This classification has been assigned three times in Federation survey history. One prior assignment was eventually explained. One was not.
+
+### **I.iii — The Trilium-Bearing Asteroid Belt**
+
+The PP-B system contains an asteroid belt with confirmed commercially viable Trilium deposits in multiple bodies — solid crystalline form, occurring in veins within metallic asteroid bodies in the belt's inner zone. Deposit quality is consistent with Standard Energy-Grade refining output. Not exceptional in quality. Exceptional in density relative to belt survey area.
+
+Twenty-three Trilium-bearing bodies have been confirmed as of the Cycle 1091 survey. Additional bodies are expected as survey continues.
+
+Extraction operations are pending finalisation of the BNB Mission operational framework and resolution of competing claim filings. Commercial extraction has not yet commenced at scale.
+
+The primary operational challenge for future extraction is the interference, which affects mining equipment calibration at levels requiring more frequent adjustment than standard asteroid operations.
+
+> **Analyst's Note:** Several survey team members have noted that the presence of commercially significant Trilium in the asteroid belt, while the planet's surface shows only unlocatable faint signatures, creates an unusual resource profile. Asteroids are not typical primary Trilium sources — geological formation is standard. Whether the belt Trilium is related to whatever produces the planet's surface signatures is an open question with economic as well as scientific implications.
+
+### **I.iv — Other System Bodies**
+
+**PP-B-1:** Small, airless, high-temperature inner rocky world. No survey priority. No anomalous readings.
+
+**PP-B-2:** Moderate rocky world, thin atmosphere, no liquid water. No Trilium detected. Low survey priority.
+
+**PP-B-4:** Large gas giant, outer system. Three moons of potential interest; none yet surveyed in detail. The gas giant's magnetosphere contributes to the system's electromagnetic environment in ways the survey team is still characterising.
+
+**PP-B-M1 and PP-B-M2 (Planet B. moons):** PP-B-M1 is tidally locked, rocky, atmosphereless. Surveyed — no Trilium, no ruins. PP-B-M2 has an irregular orbit inconsistent with standard gravitational models and has not yet been surveyed.
+
+---
+
+# **PART TWO: PLANET B. — SURFACE ASSESSMENT**
+
+---
+
+## **II. PLANETARY OVERVIEW**
+
+Planet B. is a habitable world. Its atmospheric composition, gravitational parameters, and surface conditions are compatible with unassisted habitation by most Federation species, with standard Triactor adaptation recommended for extended stays.
+
+The planet's surface is approximately 34% surveyed as of this revision. Survey progress has been slower than initial estimates due to terrain complexity, equipment recalibration demands in high-interference zones, and the density of ruins in coastal areas requiring methodical rather than rapid approach.
+
+Colonists have begun referring to the planet informally as *The Quiet World* — a name that originated from the observation that, despite its abundant ecology, the planet's fauna is unusually silent relative to habitable worlds of comparable biodiversity. The name has spread through the colonist community and is appearing in informal operational communications. It is noted here without official endorsement.
+
+### **II.i — Surveyed Geography**
+
+The 34% of Planet B.'s surface that has been surveyed is itself diverse enough to suggest the full planet will prove considerably more varied than initial orbital scans implied.
+
+**The Ashglass Plains (Northern Coastal Zone):** The largest single surveyed terrain feature. Broad lowland plains of pale, semi-translucent mineral substrate — a silicate formation that the geology team has not found in the Federation mineral registry. The surface has a faint natural luminosity at night, producing a dim phosphorescent glow across the plains that early survey teams noted as visually striking. The mineral substrate is not Trilium and does not exhibit Trilium properties, but its formation mechanism is not fully understood. Complex Alpha is situated at the eastern margin of the Ashglass Plains.
+
+**The Mirrorfen Coast:** The coastal zone adjacent to the Ashglass Plains. A series of shallow brackish tidal basins separated by low ridges of dark rock. The water in the Mirrorfen basins has an unusual surface reflectivity — almost perfectly flat under standard conditions, reflecting the sky with a clarity that survey hydrologists attribute to exceptionally low particulate content and unusual mineral composition. Water quality tests confirm purity comparable to Naron's renowned resources, which the hydrology team noted with surprise in their preliminary report and has been confirmed by two subsequent independent assessments.
+
+**The Greywood Interior:** The dense vegetation region inland from the northern coast, covering the approach to the equatorial highland system. Forested terrain dominated by a tree analogue the xenobotany team has provisionally designated *Umbral Column* — broad-trunked, with deep grey bark and canopy structure that absorbs rather than reflects light, producing an unusual darkening effect beneath the canopy even at midday. Navigation in the Greywood is significantly complicated by the canopy's effect on surface-based sensor systems, which require recalibration more frequently in Greywood conditions than in open terrain.
+
+**The Ashridge Escarpment:** The western terrain surveyed to date terminates at a significant escarpment system — cliff faces rising several hundred metres to the plateau system above. The escarpment geology shows evidence of ancient significant geological event — not standard tectonic formation. The geology team's preliminary assessment describes it as consistent with "rapid large-scale surface displacement of a type not associated with standard planetary geological processes." Complex Beta sits at the base of the escarpment, partially buried by material that appears to have come down the escarpment face.
+
+**The Equatorial Corridor Survey Zone:** A narrow surveyed corridor running roughly east-west through the equatorial region, establishing connectivity between the coastal surveys and the eastern lowland basin. This corridor intersects Complex Gamma — which sits at its midpoint — and has proved the most operationally challenging surveyed zone due to interference intensity.
+
+**The Eastern Lowland Basin:** The largest interior surveyed zone. A broad, relatively flat depression with a distinct ecology from the coastal and interior zones. Complex Delta is located here. The basin floor shows evidence of ancient extensive water coverage — a geological palimpsest of what may have been a substantial inland sea.
+
+### **II.ii — Atmospheric and Environmental Conditions**
+
+Atmospheric composition is breathable by most Federation species without supplementary equipment. Standard Triactor adaptation is recommended for extended surface operations given the ambient electromagnetic interference and its documented interactions with Triactor systems.
+
+Surface temperatures are within habitable ranges throughout surveyed areas. No extreme temperature events have been recorded.
+
+**Anomalous atmospheric zones** have been confirmed at three locations, all associated with major ruins complexes. These zones exhibit deviations from planetary atmospheric baseline including unusual electromagnetic readings, intermittent pressure variations, and in one case — the zone associated with Complex Gamma — a persistent low-frequency phenomenon that survey instruments measure as an acoustic signal but that personnel in the area describe in terms that do not map cleanly onto standard acoustic experience.
+
+> **Field Report Extract — Survey Team Gamma-3, Cycle 1091.3:** "Instrument readings confirm a signal at 12–18 Hz throughout the zone. Personnel report the sensation differently. Operative \[REDACTED\] describes 'a pressure that has rhythm.' Operative \[REDACTED\] describes 'something underneath the silence.' I describe it as the feeling of being in a large occupied room where everyone has simultaneously stopped talking. I include this because I cannot find a more accurate description and I believe accurate description matters more than professional caution in a document like this one. — Team Lead \[REDACTED\]"
+
+### **II.iii — Trilium Signatures**
+
+Broad planetary scans detect faint Trilium signatures distributed across significant portions of the surface and subsurface. These have been confirmed by multiple independent scanning systems using different methodologies. They are not instrument artefacts.
+
+They cannot be localised.
+
+Every attempt to resolve the signatures to a specific point or zone has failed. The signatures appear to shift position between scan passes — a behaviour inconsistent with geological deposits, which do not move. Whether the signatures themselves are mobile, whether the interference that prevents their localisation is itself mobile, or whether something else entirely is occurring that current Federation sensor technology does not account for, is unknown.
+
+**Incident PPB-T-001 (Cycle 1090.8):** Survey team deployed ground-penetrating sensor array in Zone 7 following particularly strong signature reading. Array confirmed strong Trilium presence at depth of approximately 200 metres directly below deployment point. Excavation authorised. At 40 metres depth, sensors reported signature had shifted approximately 800 metres northeast. Excavation halted. Team redeployed. Signature was not at the new location. It was not at the original location. It was not detectable at all for approximately six hours, after which it reappeared in a third location and behaved as a standard geological signature for twelve hours before becoming unlocalisable again. Full incident record at Grade 3\.
+
+**Incident PPB-T-002 (Cycle 1091.4):** Coordinated multi-array triangulation attempt using three sensor teams simultaneously. Triangulation achieved momentarily — all three teams confirmed convergent readings pointing to a subsurface location in the southern Greywood. Teams converged on location. Ground-penetrating scan at location showed nothing. Signature dispersed into background resonance within minutes of the convergence. Two of the three sensor teams reported equipment recalibration requirements immediately after. Full incident record at Grade 3\.
+
+The practical consequence: no commercially viable Trilium extraction from the planet's surface is possible under current conditions. Whether this represents a solvable operational problem or something more fundamental is the most economically significant open question in the survey.
+
+---
+
+# **PART THREE: ECOLOGY AND NATURAL ENVIRONMENT**
+
+---
+
+## **III. BIOSPHERE ASSESSMENT**
+
+The biosphere of Planet B. is, in the words of the survey xenobiology team lead, "superficially mundane and specifically wrong." Flora and fauna are present throughout the surveyed zones. Initial assessments suggested an ecology broadly consistent with a habitable terrestrial world of comparable age and atmospheric composition. Closer examination has produced a growing list of exceptions to that generality.
+
+The planet is not hostile. It is not immediately dangerous in any confirmed biological sense. It is a world whose natural life, when examined with the attention that frontier survey demands, consistently produces findings that fall outside established Federation xenobiological frameworks in ways that are individually explicable and collectively difficult to dismiss.
+
+### **III.i — Flora**
+
+**Umbral Column** *(provisional — Dendriform Absorptus)* — The dominant tree analogue of the Greywood Interior. Trunk diameter 2–4 metres standard. Height averaging 35 metres in mature specimens. The canopy structure of mature Umbral Columns directs photosynthetic surface area downward rather than upward — the underside of each broad leaf contains the photosynthetic structures, which are oriented to capture reflected and diffuse light from below rather than direct light from above. This inverted photosynthetic strategy has no parallel in the Federation xenobotanical record. Theoretically feasible given the planet's atmospheric light diffusion characteristics. Why this strategy evolved on this world, when standard photosynthetic orientation would function adequately, is unexplained.
+
+**Resonance Moss** *(provisional — Bryophyta Frequens)* — A moss analogue found growing on the surfaces of ruins structures throughout all surveyed complexes. It does not grow on non-ruins surfaces within proximity of ruins sites, or on any surface in zones away from ruins. The xenobotany team cannot identify a nutrient differential that would explain this distribution specificity. The moss exhibits mild bioluminescence at night and releases spores in response to electromagnetic signals within the frequency range produced by survey sensor equipment. The spore release appears to be a stress response. Survey equipment appears to stress it.
+
+**Mirrorbulb** *(provisional — Reflexia Aquatica)* — An aquatic plant found throughout the Mirrorfen tidal basins. Leaf surfaces are highly reflective — the source of the Mirrorfen basins' unusual surface characteristics. The reflective coating is biological in origin: a film produced by the plant that spreads across the water surface in the absence of significant wave action. The film is not harmful to non-plant life forms. It serves, as far as the xenobotany team can determine, no function for the plant's reproduction or nutrition. The team's current hypothesis is that the reflective film reduces ultraviolet exposure to subsurface root systems — a function that would be more efficiently achieved by other means. The team has noted this in their report and moved on.
+
+**Ashglass Anchors** *(provisional — Lithovita Radiculis)* — Low ground-covering plants found throughout the Ashglass Plains. Root systems penetrate the plains' mineral substrate to depths of up to 12 metres. The roots appear to be in chemical interaction with the substrate in a process that the xenochemistry team describes as "consistent with mineral processing, but producing output compounds we cannot account for in the plant's known metabolic pathways." The Ashglass Plains' distinctive mineral substrate may be, in part, biologically produced or biologically modified. This possibility has not been confirmed and has significant implications if confirmed.
+
+### **III.ii — Fauna**
+
+**Vaultmoth** *(provisional — Lepidoptera Structura)* — A large airborne insect analogue found throughout surveyed zones. Wingspan 20–30 centimetres. Unremarkable in appearance. Notable in behaviour: Vaultmoths navigate by producing pulses of electromagnetic radiation in a frequency range that interacts with the planet's ambient interference — effectively using the interference as a navigation medium the way standard echolocating species use sound. They are the only confirmed species that demonstrably benefits from, and actively uses, the interference for a biological function. Whether they evolved this capability with or without the interference is a question the xenobiology team considers significant.
+
+**Greywood Stalkers** *(provisional — Predatoria Silens)* — The apex confirmed predator in the Greywood Interior. Large hexapedal carnivores, approximately 2 metres at the shoulder. No acute threat to equipped survey teams, though field protocols require caution. What the xenobiology team finds notable is not their size or predatory capability but their silence: Greywood Stalkers produce no vocalisation, no deliberate acoustic signal, and move through the Umbral Column forest without the incidental sound production that comparable-mass fauna on other Federation worlds generate. They hunt by stillness — remaining motionless for periods the observation teams describe as requiring active effort not to anthropomorphise. Their silence is the original source of the "Quiet World" designation.
+
+**Basin Spirals** *(provisional — Columnaris Aqua)* — Aquatic fauna of the Eastern Lowland Basin, observed in the basin's larger water bodies. Cylindrical body plan, rotating motion. Entirely standard in morphology. What the xenobiology team cannot explain is their spatial distribution: Basin Spirals are found only in water bodies whose depth exceeds a precise threshold of 4.7 metres. In water bodies of 4.6 metres or less, they are absent. The threshold has been confirmed across eleven separate water bodies. Why 4.7 metres constitutes a biological boundary is unknown. The number is too precise to be coincidence and too specific to have an obvious adaptive explanation.
+
+**The Colonial Builders** *(provisional — Formica Architecta)* — The colonial insect-analogue species flagged in REV.02. Found throughout surveyed zones. Individual units unremarkable — small, broadly standard insect-analogue morphology. Colony structures, however, are not standard. The Builders construct above-ground structures using locally sourced mineral material cemented with biological compounds. These structures range from simple mounds to geometrically complex multi-chambered architecture. The geometry has attracted the most attention: the architectural proportions of Builder structures are consistent across geographically separated colonies with a precision that standard collective intelligence models — which produce architecture through local rule-following rather than coordinated design — do not predict. Colonies separated by hundreds of kilometres are building to the same proportions. The xenobiology team has not determined how.
+
+> **Field Observation — Survey Xenobiologist \[REDACTED\], Cycle 1091.5:** "I have collected Builder structure measurements from fourteen separate colonies across the surveyed zone. The ratio of primary chamber height to secondary chamber diameter is 1.618 in every case, to three decimal places. Measurement error does not account for this consistency. Either these colonies are communicating across distances that should exceed the range of their confirmed signalling mechanisms, or they are all following a template that exists somewhere other than in the individual colonies. I do not know what that means. I am reporting it."
+
+**Ashglass Grazers** *(provisional — Herbivora Vitrea)* — Medium-sized ground fauna found on the Ashglass Plains. Herding species, broadly unremarkable. One documented anomaly: Ashglass Grazers refuse to enter the area within approximately 200 metres of any ruins site in the Ashglass zone. The avoidance is consistent and absolute — no individual has been observed crossing the threshold. The threshold does not correspond to any identified chemical, acoustic, or electromagnetic boundary. Survey team behavioural observation is ongoing.
+
+---
+
+# **PART FOUR: THE RUINS**
+
+---
+
+## **IV. RUINS — OVERVIEW**
+
+The ruins of Planet B. are the discovery that defines the planet's significance.
+
+They were identified within the first weeks of surface survey — not because the survey team was looking for them, but because they are impossible to miss in the surveyed coastal zone. Structures of non-natural origin, of a scale and construction character entirely outside Federation architectural traditions, extending across areas of the planet's surface that initial assessment described as vast and subsequent survey has confirmed are vaster still.
+
+Current dating estimates place the ruins as significantly older than any confirmed Oshis site on the six Frontier worlds. If this estimate is correct, Planet B. may not merely be an Oshis site. It may be among the oldest Oshis sites ever identified — predating even the Frontier world guardian installations by a margin the archaeology team considers extraordinary.
+
+The ruins are constructed from materials not found naturally on Planet B.'s surface. The construction methodology is unlike anything in Federation engineering. Structures that should not be stable by standard structural analysis are standing — some completely intact. The survey engineering team has spent considerable effort attempting to determine how this is possible. They have not yet produced a satisfactory answer.
+
+> ██████████████████████████████████████████ **OSHIS SITE ASSESSMENT — PLANET B.** **CLASSIFICATION: GRADE 4 — RESTRICTED** Comparative analysis against known Oshis site characteristics; preliminary attribution assessment; implications of age estimates; Triarchs presence and interest; cross-reference with Robotron guardian programming and creator assessment. Reference: FBCPA-PPB-0001-REV.03-ANNEX-G4-D ██████████████████████████████████████████
+
+### **IV.i — Complex Alpha — Suspected Function: Civic or Administrative**
+
+**Location:** Eastern margin of the Ashglass Plains, northern coastal zone. **Extent:** Largest confirmed complex. Surface footprint comparable to a significant metropolitan district on a developed Federation world. **Condition:** Mixed. Approximately 60% substantially intact; remainder partially collapsed or showing evidence of ancient energetic event damage. **Access:** Partial interior — three levels confirmed, deeper levels suspected but not yet reachable.
+
+Alpha is characterised by an arrangement of structures around open central spaces that the archaeology team reads as designed for the movement and gathering of large numbers of individuals. The scale of the passages, the proportions of the open areas, and the distribution of what appear to be secondary structures around primary ones are consistent — in functional logic if not aesthetic — with civic infrastructure: spaces where many beings gathered, processed, and dispersed. What they gathered for, what was processed, and what they were before and after, the team cannot determine.
+
+Alpha-Central — the largest single structure in the complex — rises to a height visible from significant distances across the Ashglass Plains. Its interior chambers contain the highest density of inscription systems found at any site. The inscriptions are not decorative. Their distribution follows a logic the Elgem linguistic analysis team describes as "structured information display" — the equivalent of signage or instructional content rather than narrative or ceremonial text.
+
+**Incident Alpha-1 (Cycle 1090.9):** During interior survey of Alpha-Central Level 2, survey operative \[REDACTED\] reported that the inscription surfaces on the western wall appeared to change configuration between two observation passes separated by approximately four minutes. A second operative confirmed the change. Photographic records from both passes are identical — the inscriptions show no difference in the captured images. The operatives' descriptions of what they observed are consistent with each other and inconsistent with the photographic record. Full incident record at Grade 3\.
+
+### **IV.ii — Complex Beta — Suspected Function: Technological or Research Installation**
+
+**Location:** Base of the Ashridge Escarpment, partially buried by escarpment material. **Extent:** Second largest. Buried portions estimated at 30–40% of full complex. **Condition:** Buried sections better preserved than most surface structures. Burial appears post-construction. **Access:** Surface structures partially accessible; subsurface requires excavation.
+
+Beta's interior organisation is markedly different from Alpha. Where Alpha suggests spaces designed for many individuals, Beta is organised around what the archaeology team reads as workstations — compact, individual-scale configurations of fixed surface elements that appear purpose-built for specific tasks. The analogy to a research facility or technical workshop has been noted in multiple independent assessments. The Altan Survey Corps architecture specialist describes it as "the physical grammar of concentrated intellectual work."
+
+The most significant finding at Beta is the presence of what appear to be functional devices — not structural elements, not inscriptions, but apparatus designed to perform a specific operation, currently in what the technology analysis team describes as a standby state. Activation protocols are classified at Grade 4\. The devices have not been activated.
+
+**Incident Beta-1 (Cycle 1091.1):** Survey Operative \[REDACTED\] was conducting close-range visual documentation of Device Array B-7 when the operative's personal Triactor Jack produced an unsolicited diagnostic output — a full resonance scan of the operative's genetic profile, uninitiated by the operative or any known external command. The output was logged by the jack's internal systems. The scan corresponded to no profile in the operative's jack's Data Core library. Duration of the event: approximately three seconds. The operative was unharmed. The device array showed no registered change in status before or after the event. Full incident record at Grade 4\.
+
+> ██████████████████████████████████████████ **COMPLEX BETA — DEVICE ANALYSIS** **CLASSIFICATION: GRADE 4 — RESTRICTED** Detailed description of identified devices; operational status assessment; activation protocol recommendations; cross-reference with known Oshis technology from Frontier world discoveries. Reference: FBCPA-PPB-0001-REV.03-ANNEX-G4-E ██████████████████████████████████████████
+
+### **IV.iii — Complex Gamma — Suspected Function: Unknown — Possible Signal or Transmission Origin**
+
+**Location:** Equatorial corridor, midpoint. Intersection of two anomalous atmospheric zones. **Extent:** Third largest confirmed. Extends into unsurveyed territory — full extent unknown. **Condition:** Heavily weathered exterior. Interior conditions unknown. **Access:** None achieved. Entry points not located.
+
+Gamma is the most operationally challenging complex in the survey. The interference intensity at its location is the highest recorded at any surface point. Survey equipment requires continuous recalibration during operations in the vicinity. On three occasions, equipment has failed entirely in proximity to Complex Gamma and required replacement.
+
+The structure has no visible entry points despite its scale and evident complexity. The archaeology team has proposed that entry systems may be technology-dependent — accessible only through mechanisms the team does not possess — rather than physical openings. This hypothesis is consistent with the complex's suspected function as something other than a space primarily designed for physical access.
+
+The archaeology team's interpretation of Gamma as a possible signal or transmission installation is based on its geometry: the complex's surface structure, as far as can be determined without interior access, is oriented outward rather than inward — its primary architectural features face away from the planet's surface, toward the sky. Whether this is meaningful or a projection of Federation architectural assumptions onto non-Federation construction is openly acknowledged as uncertain.
+
+**Incident Gamma-1 (Cycle 1091.7):** The strongest interference event recorded in the survey period originated from the Gamma vicinity. Duration: approximately 40 minutes. During this period, all sensor equipment within a 3-kilometre radius was non-functional. Survey teams in the zone reported the cessation of the persistent low-frequency atmospheric phenomenon normally present at Gamma, followed — at the 22-minute mark — by a single, distinct pulse that instrument records captured before the equipment failed, and that personnel in the zone describe uniformly as the first moment during their time on Planet B. that the environment felt, in their words, like it noticed them. Equipment recovered full function after the event. No structural change at Complex Gamma was confirmed. Full incident record at Grade 3\.
+
+### **IV.iv — Complex Delta — Suspected Function: Archive or Repository**
+
+**Location:** Eastern Lowland Basin. **Extent:** Moderate. **Condition:** Good exterior access; interior partial. **Access:** Partially achieved.
+
+Delta contains the highest density of inscription systems in the ruins — more inscription per surface area than any other confirmed site. The inscriptions cover not only interior wall surfaces but structural elements, floor surfaces, and what appear to be purpose-built display panels arranged in sequences that the linguistic analysis team reads as organised information rather than continuous text.
+
+The Elgem linguistic analysis team lead has described Delta as "a building that is made of language." The team's current working hypothesis — held with low confidence — is that Delta functioned as a repository of recorded information: an archive. If this interpretation is correct, and if the inscriptions can be decoded, Delta may contain more direct information about the ruins' creators than any other site.
+
+Progress on inscription decoding is slow. The script system does not correspond to any known system in the Federation linguistic database. Elgem linguistic methodology — the most sophisticated available for unknown script analysis — has established that the system is consistent and structured and uses a base-12 numerical framework. Beyond this, the team is working.
+
+### **IV.v — Complex Epsilon — Suspected Function: Hydrological or Environmental Management**
+
+**Location:** Southern coastal zone. Partially submerged. **Extent:** Moderate. Tidal action has exposed and concealed different sections across the survey period. **Condition:** Compromised by extended water exposure. Structurally unstable in several sections. **Access:** Selective — marine-adjacent methodology required.
+
+Epsilon contains what appear to be deliberate water management systems: channels, basins, and structural elements that the archaeology team reads as designed for the collection, movement, and possibly treatment of water. The scale of these systems — if the interpretation is correct — suggests operation at a level significantly beyond individual facility use.
+
+The presence of a hydrological management complex at a coastal location, combined with the unusual purity of the planet's water resources confirmed in the Mirrorfen surveys and elsewhere, has prompted the hydrology team to raise the question of whether Planet B.'s exceptional water quality is natural or the residual effect of systems that were once actively managing it. This question has not been resolved.
+
+### **IV.vi — Complex Zeta — Suspected Function: Unknown — Possible Residential or Individual-Scale Use**
+
+**Location:** Margin between surveyed and unsurveyed territory. **Extent:** Smallest of the six confirmed major complexes. **Condition:** Best preserved of all six sites. **Access:** Early stage — survey beginning.
+
+Zeta's exceptional preservation, relative to other sites, is the most immediately notable feature. The archaeology team's preliminary assessment is that Zeta's proximity to the high-interference zone transition at the survey boundary may have contributed to its condition — the possibility that the interference itself has a preservative effect on the ruins materials is being investigated.
+
+Interior access has been partially achieved. Early observations describe a structural organisation different from all other complexes — smaller chambers, more complex internal spatial divisions, and a scale throughout that suggests use by individual beings rather than groups. If the other complexes can be described as civic, technical, communicative, archival, and environmental infrastructure, Zeta's preliminary read is the closest to what Federation architectural tradition would recognise as residential. What that implies about the nature of whatever civilisation created these ruins is a question the team is approaching carefully.
+
+---
+
+# **PART FIVE: INTELLIGENCE PICTURE**
+
+---
+
+## **V. EXTERNAL INTEREST AND SURVEILLANCE**
+
+The PP-B system is being monitored by at least three entities that have not declared their presence to Federation survey authorities. All three have been identified through passive sensor detection during survey operations. None has responded to standard Federation hailing protocols. None has entered the inner system during the survey period.
+
+### **V.i — Surveillance Vessel Alpha (Provisional Designation: WATCH-1)**
+
+**First confirmed detection:** Cycle 1089.9 — the earliest confirmed surveillance presence in the system, predating the ruins discovery's public documentation. **Position:** Maintains a consistent position at the outer system margin, approximately 0.3 light-hours beyond the asteroid belt. The position gives direct line-of-sight to the planet and the belt simultaneously. **Behaviour:** Highly stable. WATCH-1 has maintained its position with minimal variation across the entire observation period. It does not approach. It does not withdraw. When survey vessels have moved to positions that would allow closer visual assessment, WATCH-1 has adjusted position to maintain the same distance — not evasively, but with a precision suggesting automated station-keeping rather than crewed manoeuver. **Vessel assessment:** Vessel signature suggests a medium-range observation platform. Not a combat vessel by emission profile. Configuration consistent with long-duration stationary observation — substantial power supply relative to apparent size, suggesting it is designed to stay where it is for extended periods. **Intelligence assessment:** WATCH-1 was in position before the ruins discovery became known outside survey authority channels. Either the operator identified the system's significance before Federation survey did, or they were watching for something else and found what we found. The former possibility is considered more concerning.
+
+### **V.ii — Surveillance Vessel Beta (Provisional Designation: WATCH-2)**
+
+**First confirmed detection:** Cycle 1090.6 — appeared approximately three weeks after the ruins discovery was formally documented internally within the survey authority. **Position:** Variable. WATCH-2 does not maintain a fixed position. It moves in a slow, consistent patrol pattern around the outer system, covering approximately the same spatial volume over each 72-hour period. The pattern does not suggest random drift — it is too consistent for that — but it is not a standard reconnaissance pattern either. The survey team navigator who first documented the pattern described it as "a search grid that has already found something and hasn't stopped looking." **Behaviour:** WATCH-2 has made two approaches toward the inner system — both halted at the same distance threshold and reversed without entering. The approaches occurred at Cycles 1090.9 and 1091.3, coinciding respectively with Incident Alpha-1 and the Cycle 1091.3 period during which Complex Gamma activity was elevated. These coincidences have been noted. **Vessel assessment:** Different class from WATCH-1. Larger, with an emission profile suggesting crew capacity. The patrol behaviour implies active decision-making rather than automated station-keeping. **Intelligence assessment:** WATCH-2 appears to be responding to events within the system rather than merely observing a fixed target. Its two inner-system approach attempts both correlating with documented anomalous events suggests it is monitoring those events specifically. What it is monitoring for, and what threshold would prompt it to complete rather than reverse an approach, is unknown and operationally significant.
+
+### **V.iii — Surveillance Vessel Gamma (Provisional Designation: WATCH-3)**
+
+**First confirmed detection:** Cycle 1091.1 — the most recent of the three. **Position:** WATCH-3 operates differently from both prior vessels. It has been detected in multiple positions across the system over the observation period — not in a consistent location or patrol pattern, but appearing, holding position briefly, and then being lost from sensor contact before reappearing in a different location. Survey sensor teams have characterised the detection pattern as consistent with a vessel using active concealment technology, periodically dropping concealment to observe and then reinstating it. **Behaviour:** The concealment-and-observe pattern is the most sophisticated surveillance behaviour of the three vessels. WATCH-3 has been detected within the inner system on two occasions — inside the asteroid belt. These are the only confirmed instances of any unidentified vessel entering the inner system. **Vessel assessment:** The concealment technology, if the detection pattern interpretation is correct, is beyond standard Federation capabilities for vessels of the assessed size. Elgem concealment technology is considered the most capable in the Federation at this level. This is noted without attribution. **Intelligence assessment:** WATCH-3 is not merely observing the system from a distance. It has been inside the asteroid belt. What it was doing there — sampling Trilium, examining belt bodies, accessing something not identified in survey records — is unknown. WATCH-3's operational sophistication relative to WATCH-1 and WATCH-2 suggests either a different operator with significantly more advanced technology, or the same operator with a dedicated specialist asset deployed for close-range work.
+
+> ██████████████████████████████████████████ **EXTERNAL SURVEILLANCE — ATTRIBUTION ASSESSMENT** **CLASSIFICATION: GRADE 3 — RESTRICTED** Available vessel signature analysis; working attribution assessments for WATCH-1, WATCH-2, and WATCH-3; strategic implications; recommended response protocols. Reference: FBCPA-PPB-0001-REV.03-ANNEX-G3-A ██████████████████████████████████████████
+
+### **V.ii — The Triarchs**
+
+The Triarchs — the reclusive Altan sect known for studying deep-pattern Trilium phenomena and sites exhibiting unexplained behaviour — have been confirmed present in the PP-B system since Cycle 1090.7. Their vessels have maintained observation positions in the outer system without making contact with the survey authority.
+
+The Triarchs differ from the three unidentified surveillance vessels in one significant respect: they are known. Their identity has been confirmed through vessel recognition and does not require the attributed uncertainty that characterises the WATCH designations. They are present. They have not chosen to communicate. Their presence in a system of this character is consistent with every documented pattern of Triarch activity on record.
+
+What the Triarchs know or suspect about the PP-B system that prompted their attention — and what they have concluded from their observation — are questions IAD considers among the most significant intelligence gaps in the current assessment. The Triarchs do not share their conclusions. Their conclusions, if available, would likely be more advanced than anything in this document.
+
+---
+
+## **VI. OPEN INTELLIGENCE QUESTIONS**
+
+**Q-01: What is the source of the interference?** Structured, responsive, system-wide. Not a natural phenomenon in any recognised category. The interference is the central unsolved problem. Everything else is downstream of it.
+
+**Q-02: What do the Trilium signatures represent?** Real signatures that cannot be localised, that appear to move, and that behave differently from geological deposits. If they are deposits, why can't they be found? If they are not deposits, what are they?
+
+**Q-03: What are the devices at Complex Beta?** Functional. Apparently in standby. The Triactor event at Incident Beta-1 suggests they may interact with Federation biological systems in ways that are not passive. What they are designed to do, and what activating them would do, are the most operationally consequential open questions in the ruins assessment.
+
+**Q-04: What is the spatial echo phenomenon?** Consistent sensor returns suggesting structures or objects that direct observation does not confirm. Not instrument error. Not explained.
+
+**Q-05: Why are the Triarchs here, and what have they concluded?**
+
+**Q-06: Who operates WATCH-1, WATCH-2, and WATCH-3?** Three vessels. Three different operational profiles. Potentially three different operators. Potentially one operator with three different assets. WATCH-3's concealment technology is the most operationally significant unknown in the external intelligence picture.
+
+**Q-07: What happened to the builders?** The ruins suggest a civilisation of extraordinary capability operating at significant scale. They are gone. Something ended them or ended their presence here. Whether that something is finished is the question the analytical team considers most important and least answerable with current evidence.
+
+---
+
+# **PART SIX: COLONISATION & CURRENT OPERATIONS**
+
+---
+
+## **VII. BNB MISSION FRAMEWORK AND COLONISATION STATUS**
+
+Planet B. is in active colonisation under the BNB Mission framework — the Federation's operational structure for managing the settlement and early-stage resource development of newly discovered frontier worlds of significant interest. The BNB Mission authority maintains the active registry of colonist operations.
+
+### **VII.i — Current Settlement Character**
+
+**Infrastructure:** Minimal permanent installations. Survey outposts, provisional landing zones, basic life support facilities, and the beginnings of a communications relay network. Nothing approaching the infrastructure that Planet B. will eventually require if its significance proves to be what current evidence suggests.
+
+**Population:** Small and growing. Primarily survey-adjacent operations — resource scouts, independent researchers, early claim-stakers, and support personnel. Diverse in species composition. Not large.
+
+**Services:** Limited. Colonists are expected to be operationally self-sufficient in most respects. Medical capability is present but not extensive. Security is primarily self-provided or contracted.
+
+**Character:** Frontier. The people on Planet B. are people who chose to be on the edge of what is known. The environment rewards adaptability.
+
+### **VII.ii — What Colonists Report**
+
+The Survey Authority's community liaison team has conducted field interviews with colonists across the first two settlement cycles. Several consistent themes have emerged.
+
+Colonists whose land claims are in proximity to ruins sites report a range of reactions. Some describe a sense of historical weight. Others report unease they struggle to attribute to specific causes. Several have requested relocation away from ruins proximity, which has been accommodated. Others have specifically requested proximity to ruins sites.
+
+The Greywood Stalkers have been observed by multiple colonists independently. The consistent description — "silence as a skill, not an absence" — has become part of the informal vocabulary of the colonist community and extended, for many, to describe the planet itself.
+
+The Colonial Builders have attracted particular colonist attention. Several colonist groups have independently begun monitoring Builder colonies near their claims. One colonist group has submitted a formal observation report to the Survey Authority documenting apparent changes in Builder architecture in the weeks following the Gamma-1 incident — changes in proportion that the colonists describe as "like the buildings got a message."
+
+The Survey Authority is following up on this report.
+
+### **VII.iii — Operational Recommendations for Personnel Deploying to Planet B.**
+
+**Triactor maintenance:** Reduce calibration intervals by 40% across all surface zones, up to 70% in high-interference areas.
+
+**Equipment:** Carry redundant systems for any operationally critical function.
+
+**Communication:** Plan critical communications with the assumption of first-attempt failure. The relay network is expanding; current coverage maps available from Survey Authority.
+
+**Ruins protocols:** Do not enter ruins sites without Survey Authority authorisation and current structural assessment. Do not remove anything from ruins sites. Do not attempt to activate, modify, or interact with any device or mechanism within ruins sites. Do not enter Complex Gamma without explicit Survey Authority clearance and interference management team escort.
+
+**Reporting:** Report any anomalous experience immediately. The survey team cannot explain most of what gets reported. They need to know about it regardless.
+
+---
+
+# **PART SEVEN: STRATEGIC CONSIDERATIONS**
+
+---
+
+## **VIII. STRATEGIC SIGNIFICANCE — PRELIMINARY ASSESSMENT**
+
+Any strategic assessment of Planet B. at this stage is necessarily preliminary. The following is the analytical team's best current assessment, held with appropriate uncertainty.
+
+### **VIII.i — Known Strategic Value**
+
+**Asteroid belt Trilium:** Commercially significant. Certainty: high. Timeline to extraction: two to four standard cycles pending framework completion.
+
+**Planet surface Trilium:** Potentially significant. Certainty: very low. The signatures are real. Their nature and accessibility are unknown.
+
+**Scientific significance:** Extraordinary if the Oshis assessment is confirmed. The ruins may represent the most significant archaeological discovery in Federation history. The knowledge potentially encoded in them — about the Oshis, their technology, what happened to them — could reshape Federation understanding of its own pre-history. This is not an economic value. It is a civilisational one.
+
+**Strategic significance of the unknown:** Planet B. is a world about which critical questions remain entirely open. In a Federation whose major strategic calculations are based on known quantities, a world whose nature and contents are genuinely unknown represents a different kind of asset — and a different kind of risk.
+
+### **VIII.ii — The Comparison to Aethon**
+
+For context: Aethon (FA-1), the Federation's primary Trilium vault and transit hub, represents centuries of accumulated development on a world whose fundamental character was understood from early survey. The six established Frontier worlds similarly represent known quantities at varying stages of development.
+
+Planet B. is none of these things. It is a world whose fundamental character is not yet understood. It may become a source of Trilium. It may become a source of knowledge about a civilisation that predates the Federation by a margin the archaeology team declines to estimate in public. It may become something else entirely that current frameworks do not anticipate.
+
+What is certain: it is the most significant open question in Federation space. Everything else in the Federation's strategic picture is, in some sense, a known quantity. Planet B. is not.
+
+---
+
+# **APPENDICES**
+
+---
+
+## **APPENDIX A — GLOSSARY**
+
+**BNB Mission** — The Federation operational framework for settlement and early-stage resource development of newly discovered frontier worlds of significant interest.
+
+**Category One Anomalous System** — The highest priority classification assigned by the Altan Survey Corps to systems exhibiting unexplained phenomena. Assigned three times in Federation survey history.
+
+**Colonial Builders** *(Formica Architecta — provisional)* — Colonial insect-analogue species on Planet B. exhibiting geometrically precise collective architecture inconsistent with standard colonial behaviour models.
+
+**Complex Alpha through Zeta** — The six major confirmed ruins complexes on Planet B., designated provisionally pending formal Federation Archaeological Registry naming.
+
+**Frontier Heritage Statute 14.2** — Federation law prohibiting unauthorised excavation or removal of materials from identified alien ruins sites on frontier worlds.
+
+**Greywood Stalkers** *(Predatoria Silens — provisional)* — Apex predator of the Greywood Interior. Characterised by complete acoustic silence in movement and behaviour.
+
+**Interference** — The structured electromagnetic phenomenon pervading the PP-B system, most intense on the planet's surface near ruins sites. Unattributed. The central unexplained feature of the PP-B survey.
+
+**Oshis** — The ancient civilisation whose remnants have been found on multiple Frontier worlds. Disappeared under unknown circumstances. Technology level significantly beyond current Federation capability. Planet B. is a suspected Oshis site of unusual significance and possible great age.
+
+**PP-B** — Administrative designation for Planet B. in Federation internal systems.
+
+**Resonance Moss** *(Bryophyta Frequens — provisional)* — Bioluminescent moss analogue found exclusively on ruins surfaces. Releases spores in response to survey sensor electromagnetic output.
+
+**Spatial Echo Phenomenon** — Sensor returns in the PP-B system suggesting the presence of objects or structures not confirmed by direct observation. Consistent across independent survey teams. Unexplained.
+
+**The Quiet World** — Emerging colonist colloquial designation for Planet B. Originated from the unusual acoustic silence of the planet's fauna relative to comparable worlds.
+
+**Triarchs** — Reclusive Altan sect studying deep-pattern Trilium phenomena. Present in PP-B system without formal declaration of interest.
+
+**Trilium Signatures** — Faint Trilium readings confirmed across significant portions of Planet B.'s surface and subsurface. Real but unlocalizable due to interference. No commercially viable deposits confirmed on the planet's surface.
+
+**Umbral Column** *(Dendriform Absorptus — provisional)* — Dominant tree analogue of the Greywood Interior. Exhibits inverted photosynthetic orientation with no parallel in Federation xenobotanical records.
+
+**Vaultmoth** *(Lepidoptera Structura — provisional)* — Airborne insect analogue that uses Planet B.'s electromagnetic interference as a navigation medium.
+
+**WATCH-1, WATCH-2, WATCH-3** — Provisional IAD designations for three unidentified surveillance vessels maintaining positions in the PP-B system without declaring presence to Federation survey authorities.
+
+---
+
+## **APPENDIX B — SECURITY CLASSIFICATION GUIDE**
+
+| Grade | Designation | Access |
+| ----- | ----- | ----- |
+| Public | Open Distribution | Unrestricted |
+| Grade 1 | General Administrative | Federation personnel |
+| Grade 2 | Operational | Field personnel; contractors |
+| Grade 3 | Sensitive | Senior field personnel; divisional heads |
+| Grade 4 | Restricted | Senior IAD; authorised external |
+| Grade 5 | Classified | IAD-SC written authorisation required |
+
+---
+
+## **APPENDIX C — DISTRIBUTION LIST (REV.03)**
+
+| Recipient Body | Tier Received |
+| ----- | ----- |
+| Federation Congress Standing Committee on Frontier Affairs | Public summary \+ Grade 3 |
+| Intelligence Annex Division | Full document \+ all annexes |
+| Altan Survey Corps | Full document \+ Grade 4 annexes |
+| Elgem Cartographic Division | Full document \+ Grade 4 annexes |
+| Federation Bureau of Frontier Settlement | Public summary \+ Grade 3 |
+| Military Logistics Directorate | Public summary only |
+| BNB Mission Authority | Public summary \+ Grade 3 |
+| All registered PP-B colonist operations | Public summary only |
+
+---
+
+## **APPENDIX D — SURVEY PROGRESS SUMMARY**
+
+PLANET B. — SURFACE SURVEY COVERAGE (Cycle 1091.9)  
+════════════════════════════════════════════════════
+
+SURVEYED (\~34%):  
+  Northern Coastal Zone        Ashglass Plains (full)  
+                               Mirrorfen Coast (full)  
+                               Ashridge Escarpment base  
+  Greywood Interior            Western margin only  
+  Equatorial Corridor          Narrow survey strip — full length  
+  Eastern Lowland Basin        Central and northern sectors
+
+RUINS SITES IN SURVEYED ZONE:  
+  Major complexes confirmed:   6 (Alpha, Beta, Gamma, Delta,  
+                                  Epsilon, Zeta)  
+  Minor sites confirmed:       14+  
+  Sites in unsurveyed zone:    Unknown — new sites still being  
+                                identified in surveyed territory
+
+UNSURVEYED (\~66%):  
+  Interior highland region     High interference — access slowed  
+  Southern polar approach      Not yet reached  
+  Deep coastal complex         Ruins density — access methodical  
+  Eastern plateau system       Terrain — access methodical  
+  Full southern hemisphere     Survey not yet commenced
+
+REVISED COMPLETION ESTIMATE:   Not projected at current confidence
+
+---
+
+## **APPENDIX E — INTERFERENCE INTENSITY MAP (SCHEMATIC)**
+
+PLANET B. — INTERFERENCE INTENSITY ZONES (Cycle 1091.9)
+
+INTENSITY SCALE:  
+░ \= Baseline     ▒ \= Elevated      ▓ \= High      █ \= Extreme
+
+NOTE: Boundaries are approximate and subject to variation.  
+      Complex Gamma vicinity has shown the most temporal variation.  
+      Intensity increased by one level across most zones during  
+      Incident Gamma-1 and returned to baseline within 6 hours.
+
+NORTHERN COASTAL ZONE:    ░░▒▒▒▒░░░░   \[Complex Alpha: ▓\]  
+                          ░░▒▒▓▓▒▒░░   \[at Alpha-Central\]  
+ASHRIDGE ESCARPMENT:      ░░░▒▒▒▒▒░░   \[Complex Beta: ▒▓\]  
+GREYWOOD INTERIOR:        ░░░░▒▒▒░░░   \[Canopy sensor effects\]  
+EQUATORIAL CORRIDOR:      ▒▒▒▓▓▓█▓▓▒   \[Complex Gamma: █\]  
+EASTERN LOWLAND BASIN:    ░░░▒▒▓▒▒░░   \[Complex Delta: ▒\]  
+SOUTHERN COASTAL ZONE:    ░░▒▒▒▓▓▒░░   \[Complex Epsilon: ▒▓\]  
+SURVEY MARGIN (ZETA):     ░░░▒▒▒▒▓▓▓   \[Complex Zeta: ▒▓\]  
+UNSURVEYED (estimated):   ??? Unknown ???
+
+---
+
+## **APPENDIX F — PLANETARY TIMELINE (CURRENT)**
+
+| Cycle | Event | Classification |
+| ----- | ----- | ----- |
+| 1088 | Anomalous energy signatures detected in uncharted system. Flagged for dedicated survey. | Historical |
+| 1089.1 | Survey mission dispatched. | Historical |
+| 1089.3 | First contact survey. Planet confirmed habitable. Asteroid belt Trilium confirmed. System anomalies documented. REV.01 compiled. | Public |
+| 1089.7 | First ruins site identified (Complex Alpha). Survey priority upgraded. | Public |
+| 1089.9 | WATCH-1 first confirmed in system — predating ruins public documentation. | Grade 3 |
+| 1089.11 | Interference pattern analysis begun independently by Altan Survey Corps and Elgem Cartographic Division. | Public |
+| 1090.1 | Ruins discovery formally documented at Grade 3\. Colonisation Phase 1 authorised. BNB Mission framework established. | Public |
+| 1090.2 | First colonists arrive. | Public |
+| 1090.4 | REV.02. Anomalous interference formally documented. Complex Beta devices identified. | Public |
+| 1090.6 | WATCH-2 first confirmed in system. Complex Beta device analysis classified Grade 4\. | Grade 3/4 |
+| 1090.7 | Triarchs vessels confirmed in outer system. | Grade 3 |
+| 1090.8 | Incident PPB-T-001 — Trilium signature apparent movement during excavation attempt. | Grade 3 |
+| 1090.9 | Incident Alpha-1 — inscription apparent reconfiguration event, Alpha-Central Level 2\. WATCH-2 first inner-system approach, halted and reversed. | Grade 3 |
+| 1091.1 | WATCH-3 first confirmed — multiple positions, apparent active concealment. | Grade 3 |
+| 1091.1 | Incident Beta-1 — Triactor unsolicited diagnostic event adjacent to Device Array B-7. | Grade 4 |
+| 1091.3 | Complexes Delta, Epsilon, Zeta confirmed. Incident PPB-T-002 — coordinated triangulation attempt fails. WATCH-2 second inner-system approach, halted and reversed. | Public/Grade 3 |
+| 1091.4 | Oshis preliminary attribution assessment completed and classified Grade 4\. | Grade 4 |
+| 1091.5 | Colonial Builder geometric consistency formally documented by xenobiology team. | Public |
+| 1091.6 | Seismic event at Complex Alpha eastern wing. Access suspended. | Public |
+| 1091.7 | Incident Gamma-1 — 40-minute equipment failure event, Gamma vicinity. | Grade 3 |
+| 1091.7 | Colonial Builder apparent architectural response to Gamma-1 reported by colonist group. Under investigation. | Grade 3 |
+| 1091.9 | REV.03 — Current edition. | Public |
+
+---
+
+## **APPENDIX G — ACTIVE ADVISORIES (Cycle 1091.9)**
+
+**ADVISORY PPB-SURV-1091-001** *Issued by: PP-B Survey Authority — Active* All personnel operating in Complex Alpha eastern wing: access suspended pending engineering assessment following Cycle 1091.6 seismic event. Western and central wings continue under enhanced monitoring.
+
+**ADVISORY PPB-SURV-1091-002** *Issued by: PP-B Survey Authority — Active* Elevated interference zone confirmed in northern equatorial corridor since Cycle 1091.7. Reduce Triactor recalibration intervals to half standard frontier recommendation in this zone. Personnel experiencing unusual Triactor feedback should withdraw immediately and report to medical.
+
+**ADVISORY PPB-SURV-1091-003** *Issued by: PP-B Survey Authority — Active* Colonists and independent operators are reminded that removal of any material from ruins sites is prohibited under Federation Frontier Heritage Statute 14.2. This advisory has been reissued four times in the current survey cycle. Violations will be prosecuted.
+
+**INTELLIGENCE NOTICE — PPB-INT-1091-001** *Issued by: Intelligence Annex Division — Grade 3 — Active* IAD has confirmed three unidentified vessel signatures in the PP-B system. All personnel are advised to report any direct contact from unidentified vessels immediately. Do not engage without Survey Authority coordination. WATCH-3 has been confirmed inside the inner system on two occasions. Personnel conducting asteroid belt operations should be aware of this.
+
+---
+
+## **APPENDIX H — CLASSIFIED ANNEX INDEX**
+
+| Reference | Title | Grade |
+| ----- | ----- | ----- |
+| ANNEX-G4-A | Spatial Echo Phenomenon — Detailed Assessment | Grade 4 |
+| ANNEX-G4-B | Interference Pattern Analysis — Full Data | Grade 4 |
+| ANNEX-G4-C | Ruins Artefact Catalogue and Analysis | Grade 4 |
+| ANNEX-G4-D | Oshis Site Assessment — Planet B. | Grade 4 |
+| ANNEX-G4-E | Complex Beta — Device Analysis | Grade 4 |
+| ANNEX-G3-A | External Surveillance Assessment — WATCH-1, 2, 3 | Grade 3 |
+
+---
+
+## **APPENDIX I — RECOMMENDED READING**
+
+**"Robotrons — Origin Assessment and Frontier World Guardian Sites"** — FBCPA historical analysis. Context for ruins assessment. Grade 2\.
+
+**"The Triarchs — Known Activity and Operational Patterns"** — IAD assessment. Context for Triarchs presence. Grade 3\.
+
+**"Frontier World Development Timelines — Comparative Analysis"** — FBCPA. What Planet B. may become. Grade 1\.
+
+**"Electromagnetic Interference in Frontier Survey Contexts — Field Protocols"** — Technical guidance. Mandatory for all survey personnel. Grade 1\.
+
+**"Uncontrolled Trilium Exposure — Medical Protocols"** — Federation Medical Standards Authority. Grade 1\.
+
+---
+
+*End of Document — FBCPA-PPB-0001-REV.03*
+
+*This is a living document. The survey team is working to find out what they have found.*
+
+*"The Federation thanks you for your compliance. Stay curious. Stay careful. Report everything."*
+
