@@ -6754,3 +6754,2048 @@ Inter-tribal gatherings provide opportunities for cultural exchange, and tattoos
 ### A Testament to Identity
 
 Elgem tattoos are a vibrant, living testament to their harmony with Velgemmis and the diverse biomes they inhabit. These marks of identity, forged in the dyes and patterns of their environment, reflect the ingenuity, resilience, and cultural richness of their society. For the Elgem, their tattoos are connections to their world, their tribe, and their legacy.
+
+# MAGOR PLANETARY DOSSIER
+
+Federation Frontier Survey Authority - Far Reach Planetary Reference File
+
+Document Code: FSA/PF-MGR-FAR/Edition IV
+
+Clearance Level: RESTRICTED // EXTREME-HAZARD FRONTIER OPERATIONS
+
+Distribution Class: Tier-2 Strategic \| Industrial-Sensitive \| Remote-Frontier
+
+**FSA FAR REACH OFFICE**
+
+EXPANDED FEDERATION PEOPLES REFERENCE EDITION
+
+## Document Classification Summary
+
+- **Planetary Name:** Magor
+
+- **System:** Tarqesh System
+
+- **Planetary Status:** Extreme-Hazard Frontier Resource World
+
+- **Primary Resource Sovereignty:** Trilium, volcanic metals, geothermal energy
+
+- **Strategic Tier:** ST-5 Extreme Hazard / Remote Resource World
+
+- **Authority of Record:** Federation Frontier Survey Authority, Far Reach Office
+
+- **Federation Status:** Licensed extraction and settlement jurisdiction with limited direct administrative reach
+
+- **Planetary Jurisdiction:** Fragmented concession, charter-settlement, and frontier claim regime under Federation baseline law
+
+- **Element Association:** Fire
+
+## Purpose
+
+This dossier consolidates verified and assessed intelligence concerning Magor, the most environmentally severe of the six recognised Frontier Planets. It is intended for survey authorities, expedition commanders, extraction planners, xenobiologists, settlement administrators, security contractors, Trilium specialists, and commercial operators whose work places them inside the Tarqesh System.
+
+Magor is not a volcanic world in the decorative sense. Volcanism is the organising fact of the planet. It shapes the atmosphere, water economy, settlement geography, biological evolution, industrial technology, local law, and the particular form in which Trilium occurs. The world is large, hot, dry, cratered, ash-laden, and remote from the political centre of Federation space. Its settlements are few. Its law is real but thinly distributed. The distance between official policy and practical survival can still be measured in days of travel across terrain where a failed coolant loop or blocked heatline can kill more efficiently than armed attack.
+
+Magor is strategically important because substantial quantities of Trilium occur as solid or microcrystalline phases physically and resonantly bound within lava, magma-adjacent rock, and rapidly cooling igneous structures. The host material may be molten while the Trilium lattice remains compositionally distinct. Extraction therefore requires specialist high-temperature separation technology rather than a new state of Trilium. Magmazone Industries has built much of its molten-world reputation around solving that problem at scale.
+
+## Authority and Control
+
+This file is issued under joint standing authority of the Federation Frontier Survey Authority Far Reach Office, Federation Extreme Environment Safety Service, Frontier Resource Licensing Commission, Federation Xenobiological Assessment Directorate, Tarqesh Orbital Traffic Authority, and Magor Concession Review Board. Site-specific annexes may also incorporate Magmazone Industries, Khaured Heavy Extraction Delegation, charter-settlement, or independent freeclaim data where provenance is declared.
+
+Local claim custom and concession practice may exceed the practical reach of Federation enforcement. Legal authority remains valid on Magor. Immediate authority, however, often belongs to whoever controls the condenser, landing pad, refuge vault, repair yard, or only pass not covered by fresh basalt.
+
+## Distribution Notice
+
+Trilium extraction coordinates, active magma-channel maps, settlement emergency capacities, restricted mutation-zone data, and live heatline routing are excluded from public circulation. Corporate operators receive site-specific annexes under concession agreement. Independent prospectors receive abridged hazard editions unless separately licensed.
+
+## Planet at a Glance
+
+| **Category**                                | **Current Strategic Record**                                                                                                  |
+|---------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| Official name                               | Magor; survey designation MGR-4-TARQESH                                                                                       |
+| System                                      | Tarqesh System, inner habitable-zone region of a G8V yellow-orange star                                                       |
+| Galactic position                           | Anti-coreward Far Reach of Federation space; approximately 27,600 light-years from the Galactic Centre                        |
+| Distance from Federation central hub        | Approximately 5,700 light-years by direct cartographic measure; longest Frontier Planet supply line                           |
+| World class                                 | Class-VI volcanic terrestrial biosphere world                                                                                 |
+| Radius                                      | 7,760 km, operational estimate                                                                                                |
+| Surface gravity                             | 1.17 standard gravity                                                                                                         |
+| Mean surface pressure                       | 1.34 bar; locally higher in deep volcanic basins                                                                              |
+| Mean oxygen fraction                        | 15.4%; near-Earth oxygen partial pressure at mean surface pressure, but degraded by local gases and particulates              |
+| Mean surface temperature                    | 43 C global mean; extreme regional variance                                                                                   |
+| Local day                                   | 34.8 standard hours                                                                                                           |
+| Orbital period                              | 318.6 standard days                                                                                                           |
+| Axial tilt                                  | 8.9 degrees                                                                                                                   |
+| Major moon                                  | Vark, iron-rich and close-orbiting; contributes measurable tidal mantle stress                                                |
+| Surface water                               | Scarce; saline seas, geothermal pools, steam aquifers, deep condensate, compact polar ice caps                                |
+| Registered permanent population             | Approximately 1.42 million                                                                                                    |
+| Estimated transient/unregistered population | 0.45-0.80 million depending on extraction cycle                                                                               |
+| Largest settlement                          | Cinderhook, approximately 186,000 registered residents                                                                        |
+| Primary strategic resource                  | Magmatic-bound Trilium composite                                                                                              |
+| Primary industrial actor                    | Magmazone Industries                                                                                                          |
+| Major native hazard                         | Ground-dominant megafauna; mutation-associated territorial lineages near Trilium-bearing lava                                 |
+| Principal systemic risks                    | Eruption, pyroclastic flow, ash loading, sulphur exposure, water failure, lava-route isolation, Trilium-lava breach, sabotage |
+| Current strategic status                    | Productive under severe constraint; commercial pressure rising                                                                |
+
+**Operational interpretation:** Magor is technically habitable, economically valuable, and structurally under-governed. Permanent settlement is possible only where air, cooling, water, power, and transport are engineered continuously. Unlike Neri, Magor does not threaten through a planetwide moving lattice. Unlike Kavian, it is not primarily governed by deeply rooted local tenure. Its defining condition is exposure: to heat, distance, ecological pressure, and the consequences of equipment failure where rescue is rarely close.
+
+## CONTENTS
+
+Strategic Quick Reference
+
+Evidence and Field-Use Notes
+
+1\. Executive Summary
+
+2\. Planetary Identity & System Context
+
+3\. Geophysical Structure & Environment
+
+4\. Atmosphere & Climate
+
+5\. Hydrology and Water Systems
+
+6\. Biomes of Magor
+
+7\. Xenobiology and Ecosystem Behaviour
+
+8\. Technology and Infrastructure
+
+9\. Settlements and Geography of Power
+
+10\. Civilisation and Population Systems
+
+11\. Governance and Power Structure
+
+12\. Culture and Identity
+
+13\. Strategic Outlook
+
+14\. Field Operations and Survival Doctrine
+
+15\. Trilium Systems and Industrial Infrastructure
+
+16\. Historical Development of Magor
+
+Appendix A - Glossary of Terms
+
+Appendix B - Faction and Power Index
+
+Appendix C - Trilium on Magor
+
+Appendix D - Environmental Incident Archive
+
+Appendix E - Settlement and Installation Gazetteer
+
+Appendix F - Volcanic Province and Wave Reference
+
+Appendix G - Demographic, Supply, and Precision Notes
+
+Appendix H - Federation Peoples and Industrial Integration
+
+Final Continuity Statement
+
+
+## Strategic Quick Reference
+
+### Primary Operating Doctrine
+
+Treat Magor as an infrastructure-dependent extreme environment, not a conventional habitable world with unusually active volcanoes. A team with excellent weapons and poor cooling is poorly equipped. A settlement with reinforced walls and one condenser loop is not secure. A profitable Trilium claim without two independent evacuation options is not a viable claim.
+
+Experienced crews act on converging indicators rather than spectacle. Lava does not need to be visible to sever a route. Ash does not need to be thick to destroy a filter. Sulphur does not need to incapacitate immediately to create cognitive danger. Trilium does not need to be exposed as a clean seam to remain biologically hazardous. The correct Magori question is rarely "Has the emergency begun?" It is "Which failure becomes irreversible if we wait another hour?"
+
+### Hazard Priority Matrix
+
+| **Hazard**                  | **Typical Warning**                                        | **Primary Consequence**                          | **Required Response**                                          |
+|-----------------------------|------------------------------------------------------------|--------------------------------------------------|----------------------------------------------------------------|
+| Lava-route interception     | Rising subsurface heat, tube resonance, fresh gas vents    | Road or pipeline burial; isolation               | Reroute before surface breakthrough                            |
+| Pyroclastic density current | Plume collapse, pressure surge, rapid thermal front        | Near-instant lethal heat and ash                 | Immediate perpendicular withdrawal; never shelter in valleys   |
+| Heavy ashfall               | Distant eruption column, darkening sky, electrostatic rise | Filter loss, roof loading, engine abrasion       | Seal habitats, reduce traffic, clear load continuously         |
+| Sulphur inversion           | Falling wind, basin haze, SO2 rise                         | Respiratory injury, sensory impairment           | Positive-pressure refuge; suspend exposed work                 |
+| Steam-aquifer breach        | Pressure oscillation, well temperature spike               | Flash boiling, scalding, water-system loss       | Remote isolation and staged pressure release                   |
+| Trilium-lava breach         | Resonance drift in molten composite                        | Mobile contamination vector                      | Divert flow, exclude organics, sacrifice equipment if required |
+| Mutated megafauna incursion | Prey displacement, abnormal heat signatures                | Territorial attack, coolant damage               | Preserve movement corridors; avoid funnel traps                |
+| Confuser amplification      | Sulphur-rich air plus unauthorised device activity         | Prolonged disorientation and secondary accidents | Device isolation, atmospheric evacuation, medical observation  |
+
+### Settlement Survival Minimums
+
+A permanent Magori settlement is considered operationally credible only if it maintains independent redundancy across air, cooling, water, power, and escape. Federation guidance calls for two physically separated air-processing loops, two cooling paths capable of sustaining refuge loads, water reserves sufficient to outlast predictable heatline closure, distributed generation rather than one central plant, and at least two evacuation methods that do not depend on the same road, bridge, pad, or lava tube.
+
+Small freeclaim camps frequently relax these requirements. Competent crews compensate with mobility, cached water, small populations, and willingness to abandon machinery. Incompetent crews compensate with optimism. Magor has a long record of distinguishing the two.
+
+### Major Strategic Locations
+
+**Cinderhook** is Magor's largest independent settlement, principal repair market, and busiest claim-law centre. Its influence exceeds its population because it is one of the few locations where corporate, Federation, freeclaim, Khaured, and independent security interests regularly negotiate on non-corporate ground.
+
+**Farwatch Orbital Station** is the system's customs, rescue, export-verification, and traffic-control choke point. It can support major local emergencies but cannot evacuate the planetary population. Magor's emergency doctrine therefore assumes continuity-in-place rather than mass lift.
+
+Azingoth Province contains one of Magor's most famous active volcanic systems and several historically important Trilium-bearing flows. Its cultural reputation derives partly from the Galactic Fireblade, whose lava-derived core materials included material recovered from an Azingoth channel.
+
+**The Magori Wave Chain** comprises five volcanic centres linked by a recurrent sequence of pressure release. Once a Wave episode begins, eruption onset propagates through the chain at approximately two Federation Standard days per step. The interval is highly regular but not perfectly clocklike: modern instrumentation records variation of several hours. No confirmed Wave has reversed sequence or skipped a member.
+
+**The Glass-Sand Anomaly** is a broad pale and amber dune region whose sediment volume, grain chemistry, and buried void network do not fit simple local erosion models. Geological, impact-derived, hydrothermal, and archaeological explanations remain under active review. Federation policy requires deep-ground imaging before heavy emplacement.
+
+## Evidence and Field-Use Notes
+
+This dossier distinguishes stable strategic facts, operational assessments, local frontier practice, and unresolved hypotheses even where those categories are not tagged line by line. Orbital values, atmospheric baselines, settlement registers, mapped volcanic systems, and licensed extraction data are formal survey products. Forecasts concerning future Wave coupling, deep Trilium migration, mutation pathways, and the origin of the Glass-Sand Anomaly remain assessed rather than proven.
+
+Field crews must privilege current local telemetry over dossier averages. A route listed here as normal may already be beneath new basalt. A dormant cone may be under elevated watch. A clean highland may receive ash from a distant eruption. A freeclaim town can be abandoned between survey cycles, while an illegal camp can become a functioning community before the administration formally acknowledges it.
+
+The same caution applies to social intelligence. Magmazone is dominant but not sovereign. Cinderhook is influential but does not govern the planet. Claim Courts possess authority only where their judgements are accepted and enforceable. Freeclaim custom can matter as much as statute during emergencies. This dossier is therefore a strategic map of Magor's systems, not a replacement for mission-specific volcanic, atmospheric, water, route, xenobiological, and concession overlays.
+
+## 1. Executive Summary
+
+**FESS Classification:** STR-HAZ - Strategic Planetary Assessment
+
+Magor is the Federation frontier stripped of insulation. Distance, heat, scarce water, aggressive biology, and commercial appetite intersect here without the thick institutional buffers found on older worlds. The planet is productive only because engineered pockets of civilisation maintain themselves against a system that does not become safer simply because a concession has been licensed.
+
+### 1.1 Purpose of the Dossier
+
+This dossier defines Magor as the extreme-hazard volcanic end-member of the Frontier Planet group and treats geology, extraction, ecology, infrastructure, and governance as a connected system. It is written for operators who need to know not only what a hazard is, but what else fails when that hazard interrupts cooling, water, transport, communications, or rescue capacity.
+
+The practical purpose is predictive. Magor's worst disasters rarely begin with the most dramatic event. They begin with a compromised filter before an ash surge, a half-empty water reserve before a heatline closure, a delayed maintenance order before a separator breach, or a claim dispute that removes the only safe route from common use. The dossier therefore prioritises dependencies, thresholds, and historical failure modes over scenic description.
+
+### 1.2 Key Strategic Realities
+
+Magor orbits near the inner habitable-zone region of Tarqesh and runs hot before geothermal output is considered. It is unusually dry for a biosphere world of its size. Its surface gravity is high enough to shape settlement design and native body plans, while its atmosphere combines useful pressure with persistent volcanic contaminants. A great deal of the planet is survivable in principle and lethal in practice.
+
+Its Trilium occurs in volcanic composite forms requiring specialist separation systems. Its settlements are sparse and heavily dependent on engineered survival nodes. Federation oversight is real but slow. Commercial pressure is strong. Large territorial animals complicate route planning, especially where Trilium exposure has produced altered lineages. These facts do not sit beside one another; they compound. A new extraction site can create a new heatline, which creates a new water burden, which can cross a migration corridor, which can create a security problem long before the first shipment leaves the planet.
+
+### 1.3 Overview of Magor's Significance
+
+Magor is the most distant of the six Frontier Planets from the Federation's principal coreward hub region. Its Trilium contribution is not the largest by volume, but its unusual volcanic composite occurrence makes the world important to specialist materials science, high-temperature extraction engineering, and limited classes of advanced fabrication research. Magmazone Industries has consequently made the planet a proving ground for equipment later sold to other geothermally extreme worlds.
+
+The planet is culturally important for a different reason. Generations of settlement-born residents from multiple Federation peoples have developed a recognisable Far Reach identity built around competence, repair, claims, shared survival infrastructure, and a refusal to confuse formal authority with immediate capability. Khaured, Onoros, Human, Robotron, Altan, Elgem, Lopati, and other residents do not experience Magor identically, yet long-term settlement has created habits and institutions that increasingly cut across species origin. Magor's strategic value therefore lies in both what it exports and what it has learned: methods for keeping fragile inhabited systems alive beside geological systems that cannot be negotiated with in any political sense.
+
+## 2. Planetary Identity & System Context
+
+**FESS Classification:** SYS-ID - Astronomic and Jurisdictional Context
+
+Magor's remoteness is not background colour. It is a physical component of every emergency, every concession, every supply contract, and every argument about how much independence local authorities should possess.
+
+### 2.1 Designation and Nomenclature
+
+Federation registries catalogue the world as MGR-4-TARQESH, but "Magor" has been universal in operational use for generations. Common secondary names include the Furnace World, Far Burn, and Last Claim. None has formal standing, though "Far Burn" appears so often in private shipping logs that Tarqesh Orbital Traffic Authority software accepts it as a destination alias.
+
+"Magori" denotes settlement-born residents and long-term inhabitants rather than an indigenous species. The term crosses species lines. A Khaured mechanic born in Cinderhook, a Human water engineer whose family has lived at Rimehook for three generations, and an Elgem survey specialist raised in a mobile freeclaim caravan may all describe themselves as Magori before identifying a local settlement. Place names work in similar fashion. Many preserve practical history: Dead Valve Ridge, Second Shelter, Red Ford, Cold Pipe, Five-Bell Junction, and Black Noon Cut are warnings disguised as geography.
+
+### 2.2 Tarqesh System Overview
+
+Tarqesh is a stable G8V yellow-orange star. Magor is the only body in the system with a substantial native biosphere. Two inner rocky planets are heavily irradiated and geologically exhausted at the surface; neither supports permanent Federation habitation. Beyond Magor lies a sparse debris belt and, farther out, a cold gas giant used primarily as a navigation and fuel-processing reference point by long-haul traffic.
+
+The system itself is quiet compared with Magor. This matters because many early surveys misattributed the planet's severity to stellar conditions alone. Tarqesh provides a high baseline heat load, but most operational extremes on the surface arise from Magor's own mantle, atmosphere, and water distribution. Farwatch Station and its satellite constellation therefore devote more processing capacity to planetary thermal behaviour than to stellar weather.
+
+### 2.3 Galactic Position and Federation Remoteness
+
+Magor lies anti-coreward of the Federation's principal Orion Spur hub region, approximately 27,600 light-years from the Galactic Centre and about 5,700 light-years from the Federation's central planetary hub by direct cartographic measure. Among the six Frontier Planets, it has the longest sustained logistics line back toward the political centre.
+
+Distance reshapes governance. Specialist inspectors cannot be summoned casually. Replacement parts that are trivial elsewhere can become strategic assets if a local fabrication shop cannot reproduce them. Relief fleets arrive after local authorities have already made the decisive choices. Far Reach offices therefore exercise unusually broad discretion, while settlement councils and Ash Marshals possess emergency powers that would be considered excessive on more centrally administered worlds.
+
+This autonomy should not be mistaken for separatism. Most Magori institutions regard themselves as Federation institutions adapted to distance. Their recurring complaint is not that the Federation governs too much, but that it often issues rules from a distance too great to understand the timing of the problem.
+
+### 2.4 Orbital Mechanics and Moon Vark
+
+Magor's 34.8-hour day and low axial tilt produce limited conventional seasonal contrast. Regional climate is governed far more strongly by elevation, volcanic activity, ash cover, and water proximity than by latitude. The 318.6-day orbit creates a relatively short hot year, but the planet's major ecological and industrial calendars are often tied to eruption cycles instead.
+
+Vark, Magor's dense iron-rich moon, orbits close enough to contribute measurable tidal stress to the mantle. Survey models include Vark's position when forecasting some volcanic provinces, but no credible agency treats the moon as a simple eruption clock. The correlation is strongest when existing magma reservoirs are already pressurised. In practice, Vark is one variable among many, useful for improving probability windows rather than predicting a precise eruption time.
+
+### 2.5 Planetary Classification and Legal Status
+
+Magor is a Class-VI extreme volcanic biosphere world open to licensed Federation settlement and extraction. No indigenous sapient civilisation has been confirmed. Native ecological protections therefore derive from Federation biosphere law, protected-zone designation, and specific xenobiological restrictions rather than treaty with a local sapient population.
+
+The surface is divided among corporate concessions, charter settlements, freeclaims, protected biological zones, high-hazard exclusion areas, and large tracts with no active claim. Federation baseline law applies everywhere, but enforcement thins rapidly outside Cinderhook, Farwatch-linked facilities, and major company settlements. Claim Courts and Writ Stations handle most routine disputes because central courts cannot operate on the timescales required by mobile lava, movable resource bodies, and emergency route decisions.
+
+### 2.6 Cartographic Summary
+
+Magor's surface is dominated by mountain arcs, active and dormant volcanic provinces, impact-basin badlands, iron-rich rocky deserts, lava plains, sulphur flats, and compact polar ice fields. Small saline seas occupy a handful of deep basins. Broad river systems are absent. Permanent surface water is uncommon outside springlands, controlled reservoirs, and a few protected highland catchments.
+
+The map is unusually provisional. New lava can bury roads, split claims, dam drainage, open caves, expose mineral deposits, or destroy them. The most important operational maps therefore combine conventional topography with thermal tomography, gas forecasts, ashfall models, active lava-tube data, water reserves, wildlife corridors, and refuge locations. A legally accurate map that lacks those layers can still be operationally useless.
+
+### 2.7 Planetary Regions and Hemispheric Geography
+
+Conventional continental language is of limited use on Magor because the planet has no broad oceanic divisions comparable with wetter terrestrial worlds. Most of the surface is connected dry land interrupted by saline basins, volcanic highlands, impact depressions, and young lava provinces. The Far Reach Office therefore divides Magor into operational macroregions defined by terrain history, water access, and volcanic behaviour rather than by coastlines alone.
+
+The broadest feature is the Cinderbelt, a broken middle-latitude arc of active and dormant volcanic provinces extending across more than a third of the planet. Azingoth lies within its western-central sector, while the Wave Chain occupies a more easterly branch where deep plumbing appears unusually coupled. Pyrestead and several of Magmazone's highest-output concessions sit on stable shelves within the Cinderbelt rather than inside its most active cores. The belt is not a continuous wall of volcanoes. It is a sequence of mountain arcs, caldera plains, old basalt plateaus, and narrow lower-flux corridors that have become the principal east-west routes through the inhabited world.
+
+North of the belt lies the Northern Ember Plateau, a huge expanse of older basalt, eroded shields, dormant vents, ironrock desert, and scattered crater country. Emberline occupies its southern margin where access to the Cinderbelt remains practical but the ground is stable enough for a settlement not owned by one large concession. Farther north, the plateau breaks into wind-carved uplands and seasonal cold basins before rising toward the northern ash-ice crown. Rimehook is built where a chain of ancient impacts exposes strong bedrock above one of the safest polar approach corridors.
+
+East and south-east of the Wave Chain lies the Kharad Crater Arc. It is less continuously volcanic than Azingoth but more structurally broken, with overlapping impact scars, steep cones, spring corridors, and deep intrusive systems. Kharad Hold stands on one of the arc's reinforced crater rims. The region's mixture of mineral wealth and biological refuges explains why industrial and xenobiological interests collide there so often. Several Furnaceback migrations move along the same elevated passes required by heavy extraction vehicles.
+
+The Southern Sulphur Basin occupies a broad low-latitude depression south of the main Cinderbelt. Its yellow-white fumarole flats, metal-rich hydrothermal systems, gas-prone basins, and saline water bodies make it visually distinct from the black volcanic uplands. Sulphur Gate sits on the cleaner western margin where prevailing winds usually carry the worst basin emissions away from the settlement. Farther east, the basin descends toward the Nareth Sea, Magor's largest exposed saline body. Nareth is too mineralised to function as an easy water source, but its coastline moderates local temperature enough to support a narrow chain of repair ports, evaporation works, and protected littoral ecosystems.
+
+The western interior is dominated by old crater shields and the Glass-Sand Anomaly. This region receives less current volcanic heat than the Cinderbelt but presents a different kind of uncertainty: buried cavities, poorly resolved sediment history, intermittent hydrothermal vents, and large areas where surface topography gives little indication of what lies beneath. The Anomaly's dunes are bounded to the north by dark ironrock mesas and to the south by the shallow Veyr Basin, an intermittently flooded depression whose brines expand after rare high-precipitation years. The nearest permanent settlements remain deliberately small because neither geology nor water reliability supports rapid growth.
+
+The polar crownlands form two final macroregions rather than one. The northern crown is more economically developed because Rimehook and several ice-haul stations exploit relatively accessible high-purity deposits. The southern crown is steeper, colder, and more isolated. Southglass Station is its principal permanent node, serving science first and extraction second. Both caps preserve ash histories that link distant provinces, allowing researchers to correlate eruptions that left little surviving evidence on the resurfaced lowlands.
+
+These regions are connected by three strategic transport spines. The Cinderhook-Farwatch corridor links the largest independent settlement to the principal orbital lift network. The Ember Spine joins Cinderhook, Emberline, and northern water routes through a chain of high plateaus and thermal refuges. The Southern Line connects Five-Bell Junction to Sulphur Gate and the Nareth Sea through a sequence of routes that must be altered after major Wave episodes. None is a single road. Each is a family of heatlines, rail segments, crawler tracks, landing fields, and refuge nodes capable of substituting for one another when parts of the network are lost.
+
+The practical consequence is that Magor has no geographic centre in the ordinary civic sense. Cinderhook is central to independent law and repair, Pyrestead to corporate extraction, Five-Bell to Wave response, Rimehook to strategic water, and Farwatch to off-world movement. Planetary geography therefore reinforces the political pattern described throughout this dossier: influence gathers where terrain permits a function that cannot easily be reproduced elsewhere.
+
+## 3. Geophysical Structure & Environment
+
+**FESS Classification:** GEO-STR - Planetary Structural Analysis
+
+Magor's geology is not background scenery. The crust is an active industrial landscape built by mantle plumes, impacts, and repeated volcanic resurfacing. Most strategic decisions eventually become decisions about where heat is moving beneath the ground.
+
+### 3.1 Planetary Genesis and Accretion
+
+Magor formed as a large, metal-rich terrestrial world with a comparatively dry mantle and high retained internal heat. Current models favour accretion from refractory-rich material close to Tarqesh, followed by early differentiation into a dense metallic core and silicate mantle. Water was present, but initial inventories were lower than on wetter biosphere worlds.
+
+The young planet was repeatedly resurfaced by large igneous provinces. Later impacts excavated deep crustal material and created basins that survived only where subsequent lava coverage was incomplete. This mixed history explains why Magor can present fresh basaltic plains beside ancient crater rims within the same continental-scale region. It also created unusually varied access to deep mineral assemblages, including impact melts and magma-contact zones now important to extraction.
+
+### 3.2 Mantle Dynamics and Heat Budget
+
+Magor retains an exceptionally active convecting mantle. Its heat budget combines residual formation energy, radiogenic decay, and tidal contribution from Vark. Rather than one dominant global rift system, the planet expresses heat through several long-lived mantle-plume provinces linked by deep feeder structures.
+
+These provinces can remain active for millennia while individual cones migrate, collapse, or become dormant. This makes "inactive" a local term rather than a regional guarantee. Settlement surveyors distinguish between dead vents, dormant edifices, cooling intrusive bodies, and genuinely low-flux crust. Much of the insurance and concession law that appears excessive to newcomers exists because older generations repeatedly discovered that a quiet mountain and a quiet mantle are not the same thing.
+
+### 3.3 Volcanic Provinces and Magma Highways
+
+Deep tomography reveals networks of reservoirs, feeder dykes, sills, and hot channels informally called magma highways. The term is imperfect because the structures do not behave like permanent pipes, but it captures their operational significance: pressure and melt can move beneath the surface between volcanoes separated by great distance.
+
+Magor supports shield volcanoes, steep composite cones, fissure eruptions, lava lakes, caldera systems, and broad basaltic flood events. Underground lava tubes can carry molten material beneath apparently stable ground and release it far from a visible vent. This is why industrial maps rely heavily on thermal imaging and seismic interpretation. The most expensive road on Magor is still disposable if the subsurface model changes.
+
+### 3.4 The Magori Wave Chain
+
+The Magori Wave Chain is the planet's most famous geophysical anomaly. Five volcanic centres, known in modern survey records as Orun, Kheled, Tarsa, Brannoc, and Sevra, participate in recurrent coupled episodes. When a Wave begins at Orun, eruption onset propagates through the chain in the same order. The average interval between major onsets is close to two Federation Standard days, but modern records show a spread of several hours rather than perfect clockwork precision.
+
+Wave episodes themselves are not continuous. They recur after irregular quiet periods as pressure rebuilds within the connected deep system. Once the first member has entered the characteristic eruptive phase, however, the sequence becomes one of Magor's most reliable large-scale forecasts. No confirmed modern Wave has skipped a volcano, reversed order, or stopped after an early member. Several apparent historical exceptions have been traced to incomplete observation rather than genuine failure of sequence.
+
+The leading scientific model proposes pressure transfer through a deep partially molten corridor coupled with volatile exsolution at successively lower thresholds. Competing models invoke tidal modulation by Vark, resonant interaction with Trilium-bearing intrusions, or a combination of both. None explains the observed regularity completely. The anomaly is therefore operationally predictable without being scientifically solved.
+
+For settlements within the affected atmospheric and transport region, the practical consequence is profound. Industrial plants enter a continuous Wave shutdown rather than reopening between eruptions. Heatlines are rerouted in advance. Water and filter inventories are locked before Orun's escalation threshold. Public rituals, memorials, contract dates, and local timekeeping have grown around a phenomenon that is simultaneously a hazard calendar and an unresolved planetary question.
+
+### 3.5 Impact Craters and Ancient Basins
+
+Magor retains numerous large impact scars because volcanic resurfacing is extensive but uneven. The oldest preserved basins occur mainly in crustal blocks isolated from major plume provinces. Their rims provide elevated, relatively stable bedrock and have therefore attracted sensor stations, settlement foundations, and emergency shelters.
+
+Impact excavation exposes rare metals and deep lithologies that would otherwise require dangerous drilling. Some impact melts also contain Trilium-bearing glass where ancient impacts intersected pre-existing deposits. These sites are valuable but operationally treacherous. Basin floors trap heat and volcanic gases, while shattered crater walls can fail during seismic episodes. A high rim may be one of the safest places in a region; the floor beneath it may be among the worst.
+
+### 3.6 Subsurface Lava Tubes and Thermal Cavities
+
+Extensive lava-tube systems, drained magma conduits, collapsed chambers, and insulated geothermal voids occur throughout older volcanic terrain. Properly surveyed tubes can provide excellent foundations for shelters and small settlements because surrounding rock buffers temperature and protects against ash loading. Improperly surveyed tubes can become traps for gas migration, renewed lava incursion, or structural collapse.
+
+Several relict ecosystems also occupy stable geothermal cavities. These communities are biologically valuable because they preserve lineages isolated from surface catastrophe. Federation construction rules now require xenobiological inspection before large dormant tubes are converted to habitation. The rule followed several early settlements that unintentionally destroyed rare cave ecosystems while attempting to protect themselves from surface hazards.
+
+### 3.7 Environmental Hazards and Terrain Evolution
+
+Magor's surface evolves through lava burial, ash deposition, cone collapse, landslides, crater-wall failure, hydrothermal explosions, and wind redistribution of fine volcanic material. A single eruptive episode can erase a road network, create a new mineral field, dam a valley, reroute drainage, and turn a legal claim boundary into a line passing through inaccessible rock.
+
+The result is a culture of conditional permanence. Engineers design some routes and outer structures to be sacrificed. Claim law includes procedures for deposits that physically migrate with lava. Settlement charters maintain emergency powers to abandon districts without treating abandonment as political failure. Magor's landscape is not temporary, but its usable geography often is.
+
+## 4. Atmosphere & Climate
+
+**FESS Classification:** ATM-DYN - Atmospheric Systems and Hazards
+
+The atmosphere translates volcanic activity into regional and sometimes planetary pressure. Heat, sulphur, ash, aerosol loading, and pressure inversions make weather forecasting inseparable from eruption monitoring.
+
+### 4.1 Atmospheric Composition
+
+Magor has a dense nitrogen-dominant atmosphere with 15.4 percent oxygen, elevated carbon dioxide relative to Earth norms, and persistent volcanic trace gases. The oxygen fraction can sound dangerously low in isolation, but at the mean surface pressure of 1.34 bar it produces an oxygen partial pressure close to Earth sea level. Baseline oxygen availability is therefore adequate for many Federation species that tolerate the pressure regime.
+
+The real atmospheric danger comes from variability and contamination. Sulphur dioxide, hydrogen sulphide, acidic aerosols, ash, and fine silicate dust can rise rapidly around active provinces or become trapped by basin inversions. Deep basins also produce higher total pressure and may accumulate gases to concentrations incompatible with unprotected work. Filtration is standard equipment even where the atmosphere is technically breathable.
+
+### 4.2 Heat Regimes and Macroclimate
+
+Magor's 43 C global mean conceals enormous local variation. Inner-habitable-zone stellar heating establishes a high baseline, while geothermal flux raises temperatures dramatically above active provinces. Elevation is often more important than latitude. Highland nights can be cold, polar summits preserve ice, and shaded crater walls can remain habitable while nearby lowlands exceed safe working temperatures.
+
+The planet's low axial tilt limits strong seasonal cycling. Instead, climate arrives in volcanic pulses: ash-darkened skies, temporary aerosol cooling, sulphur-rich haze belts, rainfall changes around geothermal regions, and heat anomalies above active magma systems. Settlements therefore build cooling capacity for the normal climate and reserve capacity for eruption-driven extremes.
+
+### 4.3 Ashfall and Sulphur Haze
+
+Ashfall ranges from nuisance deposition to settlement-scale emergency. Fine ash abrades seals, destroys exposed bearings, blocks filters, reduces solar output, contaminates open water, and accumulates on roofs whose thermal structures are already under stress. Coarser deposits can bury roads and change drainage. Electrical charge inside plumes creates lightning and damaging static loads across long exposed structures.
+
+Sulphur haze can reduce daylight for days and, under stagnant conditions, settle into basins or low industrial corridors. The combination of ash and sulphur is particularly destructive because filtration systems must handle abrasive solids and reactive gases simultaneously. Magori building codes therefore treat air-processing consumables as strategic stores rather than routine maintenance supplies.
+
+### 4.4 Pyroclastic Weather
+
+The field term "pyroclastic weather" covers eruption-driven hazards that behave like fast-moving atmospheric systems: hot ash density currents, surge clouds, eruption winds, plume collapse, pressure pulses, and lightning-bearing ash fronts. The term is useful because crews must forecast and route around these events as they would severe storms, even though their energy source is geological.
+
+Ground-hugging density currents are among Magor's most lethal hazards. They can outrun surface vehicles in confined terrain and ignore the apparent protection of valleys or road cuts. Federation doctrine therefore emphasises perpendicular withdrawal from predicted flow paths and prohibits using canyon shelter during major explosive eruptions. Several older refuge sites were decommissioned after modelling showed that their "protected" geometry would have funnelled hot gas directly through them.
+
+### 4.5 Magori Wave Atmospheric Effects
+
+A Wave episode injects ash and sulphur into the atmosphere in five overlapping stages. The first eruption often produces manageable local disruption. By the third, transport planners are dealing with cumulative aerosol loading, shifting winds, and reduced filter life. The fourth and fifth can interact with material already suspended by earlier members, extending airspace closures beyond the immediate volcanic provinces.
+
+This cumulative behaviour is why the Five-Bell Overrun remains central to safety training. Early operators treated each eruption as a discrete event and repeatedly restarted industry between stages. Modern practice treats the Wave as one extended atmospheric emergency. Temporary regional cooling can occur beneath dense aerosol layers, but it does not reduce the heat burden inside ash-choked machinery or enclosed settlements.
+
+### 4.6 Sulphur Amplification and Confuser Restrictions
+
+Magor-specific regulation restricts Confuser devices because several incidents show that sulphur-rich atmospheric conditions can amplify or prolong their disorienting effects. The mechanism remains incompletely understood. Current research favours an interaction between device output, sensory stress, and inhaled volcanic compounds rather than a simple chemical enhancement of the device itself.
+
+Whatever the mechanism, the operational pattern is clear enough for law. Confuser transport through inhabited zones requires sealed containment. Use inside settlements, pressure refuges, or active industrial sites is prohibited except under tightly defined security authority. Unauthorised discharge during a sulphur inversion is treated as an environmental endangerment offence as well as a weapons offence.
+
+### 4.7 Hazard Airspace Considerations
+
+Magor's strong thermals might appear favourable to atmospheric flight, but ash ingestion, plume lightning, abrupt hot updrafts, poor visibility, and turbulent density boundaries make routine light aviation hazardous. Most dependable surface-to-surface flight uses armoured lift craft with redundant intakes and rapid diversion capability.
+
+Airspace around eruption columns, active Wave sectors, and sulphur storm bands is dynamically restricted. In practice, this means surface transport remains strategically important even where atmospheric flight is technologically possible. The same conditions help explain the scarcity of large sustained flying fauna: short-range gliders and powerful cliff nesters survive, but exposed long-duration flight is repeatedly punished by the environment.
+
+## 5. Hydrology and Water Systems
+
+**FESS Classification:** HYD-NET - Planetary Water Systems and Control Zones
+
+Water is Magor's quiet scarcity. The world contains enough water to sustain a biosphere and engineered settlement, but little of it is cool, clean, or easy to reach. Every usable litre carries an energy, infrastructure, and political cost.
+
+### 5.1 Hydrosphere Overview
+
+Magor's hydrosphere is small for a living planet of its size. Current models suggest the world accreted from comparatively dry material, then gained additional water through volcanic outgassing and later impacts. Early surface reservoirs were larger than those visible today, but high stellar heating, vigorous hydrothermal circulation, and long-term atmospheric escape progressively reduced the accessible surface inventory.
+
+A substantial fraction of surviving water is now stored below ground. Steam aquifers, mineralised deep reservoirs, pore water in old crust, and hydrothermal systems collectively hold more water than the exposed lakes and seas. Compact polar ice caps preserve a strategic surface reserve, while a handful of saline inland seas occupy deep basins where evaporation is balanced by subsurface recharge. Magor has no planet-spanning river system and few permanent surface streams outside springlands and managed catchments.
+
+### 5.2 Polar Ice Caps
+
+The polar ash-ice caps survive through latitude, elevation, limited seasonal tilt, and the local shielding effect of high terrain. They are small by planetary standards but strategically important because their ice is chemically simpler than most geothermal water. Federation and charter authorities therefore treat polar extraction as a controlled resource rather than an open mining opportunity.
+
+Ash darkening is the principal environmental concern. Even thin dark deposits can increase solar absorption and accelerate melt across exposed ice. Monitoring stations track albedo, ice thickness, and contaminants after major eruption cycles. Water extraction quotas are adjusted when successive ash years reduce the expected recovery margin.
+
+Two permanent settlements depend directly on polar operations. **Rimehook**, built into a cratered ridge south of the northern cap, processes high-purity ice and maintains one of Magor's largest emergency water reserves. **Southglass Station**, smaller and more scientific in character, monitors ash-darkening, atmospheric escape indicators, and long-term changes in ice chemistry. Both are considered strategic despite modest populations because many inland towns purchase reserve water ultimately sourced through them.
+
+### 5.3 Steam Aquifers and Deep Condensate
+
+Many of Magor's most important water systems are too hot to emerge as liquid. Deep wells intersect groundwater near geothermal sources, producing steam or superheated brine that must be brought through staged pressure reduction and condensation plants. Improper drilling can create flash-boil events, explosive mineral scaling, or sudden loss of the entire well column.
+
+Large settlements therefore build water plants as layered safety systems. Remote valves isolate the bore. Sacrificial chambers absorb pressure excursions. Mineral separators protect later stages. Condensation towers recover vapour before final filtration and storage. The engineering culture around these systems is one reason water technicians carry unusually high social status on Magor. A competent condenser chief can keep a town alive through a heatline closure; a negligent one can turn abundance below ground into scarcity above it.
+
+### 5.4 Geothermal Springs and Boiling Pools
+
+Geothermal springlands are among Magor's rare visually lush environments. Heated groundwater reaches the surface through fracture networks, creating mineral terraces, acidic pools, steaming channels, and local wetlands. Where chemistry permits, reedlike plants, low woody growth, fungal mats, and dense microbial communities form ecological refuges that stand in sharp contrast to surrounding rock deserts.
+
+Visible water should never be equated with usable water. Some pools are near-neutral and biologically productive. Others contain dissolved metals, sulphuric compounds, or temperatures incompatible with unprotected contact. Springlands also attract large herbivores and the predators that follow them. Many protected xenobiological zones are therefore also prime settlement sites, creating recurring conflict between conservation and water access.
+
+### 5.5 Saline Seas and Rocky Coasts
+
+Magor's largest surface water bodies are several mineral-heavy inland seas and flooded calderas rather than true global oceans. Their shorelines are rocky, steep, and frequently interrupted by evaporite flats. Littoral ecosystems exist, but biological productivity is uneven because water chemistry varies dramatically among basins.
+
+Conventional desalination is only the first stage of treatment. Dissolved volcanic metals, borates, sulphides, and fine ash require specialised removal. Some industrial sites use saline basins as cooling sinks, but this creates corrosion problems and strict discharge regulation. Historical proposals to expand large-scale water extraction from the seas have repeatedly foundered on cost, ecological impact, and the difficulty of transporting treated water across unstable terrain.
+
+### 5.6 Water Economy and Settlement Control
+
+On Magor, water infrastructure is political infrastructure. Condenser capacity, well rights, ice allocations, cryo-barrel reserves, and pipeline access determine which settlements can expand and which claims remain marginal. Company towns with redundant water systems can offer stability that independent settlements struggle to match. That technical advantage is also a source of corporate leverage.
+
+Cinderhook attempts to counter this through a public reserve system and mandatory emergency release clauses. Rimehook operates under a charter requiring a percentage of annual ice output to remain available for crisis redistribution. Magmazone settlements generally honour Federation emergency provisions but negotiate aggressively over who pays for redirected supply. Freeclaim camps rely more heavily on mobile tanks, shared caches, and reciprocal water debt.
+
+Deliberate contamination of a shared water source is among the few offences that can unite otherwise hostile settlements. A claim dispute may be forgotten. A poisoned condenser is remembered for generations.
+
+### 5.7 Hydrothermal Hazards
+
+Water and heat create some of Magor's least intuitive disasters. Steam explosions can rupture wellheads. Sudden pressure changes can collapse a bore. Acidic spray can compromise external seals. Mineral scaling can silently reduce heat-transfer efficiency until a plant crosses into runaway failure. Several historical casualty studies show that secondary hydrothermal events have killed more workers than direct contact with open lava.
+
+The danger is highest where water systems intersect active extraction. Trilium-bearing volcanic material can contaminate a geothermal circuit, turning a water emergency into a biosafety emergency. Modern plants physically separate drinking-water capture from industrial cooling wherever possible, even when combining the systems would be cheaper.
+
+## 6. Biomes of Magor
+
+**FESS Classification:** ECO-BIO - Environmental Biome Index
+
+Magor's biomes are stages in volcanic time. Fresh lava, cooling basalt, ash soil, ancient crater basins, sulphur flats, springlands, and rare wet refuges sit beside one another as different ages of the same planetary process. Eruption does not merely destroy habitat; it resets ecological succession and forces life to migrate, burrow, or begin again.
+
+### 6.1 Pyroclast Ranges
+
+The Pyroclast Ranges form mountainous spines around several active volcanic provinces. Black slopes, unstable scree, ash gullies, old lava ridges, and exposed intrusions dominate the terrain. Vegetation is sparse on young surfaces but increases sharply where older ash has weathered into mineral-rich soil.
+
+Large ground fauna use ridgelines as migration corridors because high ground offers cleaner air and fewer sudden lava channels than valley floors. This makes the ranges dangerous to industrial traffic even when volcanic activity is moderate. A safe geological route may be an ecological bottleneck. Several heatlines now include seasonal closure windows after repeated collisions with migrating Furnaceback and Basalthorn herds.
+
+### 6.2 Active Caldera Fields
+
+Active caldera fields contain lava lakes, fissure eruptions, open vents, collapsing crust, and continually renewed basalt. They also contain the highest concentration of commercially attractive magmatic-bound Trilium. Permanent habitation is rare. Most infrastructure is modular, remote-operated, or built with the assumption that outer components will eventually be lost.
+
+Life persists at the margins. Heat-tolerant microbial mats, burrowing scavengers, and specialised predators exploit zones that would appear sterile from a distance. Trilium-bearing sites require separate biological monitoring because apparently ordinary organisms may carry contamination in mineralised tissue or gut contents.
+
+### 6.3 Dormant Cone Country
+
+Older volcanic provinces support some of Magor's most habitable land. Dormant cones provide caves, elevation, stable catchments, and weathered soils. Several long-established settlements occupy crater rims or old lava terraces here because the terrain combines defensible bedrock with access to geothermal power.
+
+"Dormant" remains a technical category rather than a promise. Deep imaging distinguishes genuinely low-flux systems from cones whose surface plumbing has merely cooled. Settlement foundations are periodically re-surveyed, and charter law allows mandatory relocation if a previously quiet system shows renewed inflation or gas migration.
+
+### 6.4 Ironrock Deserts
+
+Vast Ironrock Deserts cover older basalt plains where erosion has produced oxidised gravel, broken slabs, wind-carved stone, and sparse mineral crusts. They are cooler than active fields but punishingly dry, with little shade and long distances between reliable water sources.
+
+These deserts form the backbone of several overland transport corridors. Their apparent emptiness is deceptive. Burrowing animals use old lava fractures, while concealed vents and hollow basalt can make heavy vehicle travel dangerous. Experienced convoy crews pay as much attention to ground temperature gradients as to visible terrain.
+
+### 6.5 The Glass-Sand Anomaly
+
+The Glass-Sand Anomaly is a broad dune field of pale, amber, and locally translucent grains unlike the dominant dark rock deserts elsewhere on Magor. The sand contains volcanic glass, impact-derived minerals, weathered feldspathic material, and trace components whose proportions vary in ways not fully explained by known local source rock.
+
+Several models remain viable. One proposes that an ancient impact shattered and vitrified a buried felsic crustal block later exposed by erosion. Another argues for repeated explosive interaction between magma and a vanished water body. A third suggests the sand has been concentrated from multiple distant sources by a long-lived atmospheric circulation cell. Archaeological interest persists because subsurface imaging has identified large cavities and a small number of surfaces that appear unnaturally regular, but no confirmed pre-Federation city or technological complex has been demonstrated.
+
+The Pale Dune Sink incident strengthened both caution and speculation after a camp collapse exposed worked-looking stone beneath the sand. Subsequent analysis remains inconclusive. Federation policy deliberately preserves the ambiguity: prospecting is permitted under licence, but heavy emplacement requires deep imaging and any apparently artificial material triggers archaeological review.
+
+The unresolved evidence is contradictory rather than simply incomplete. Thermoluminescence dating of several deep glass horizons suggests at least three major formation periods separated by intervals too long for one catastrophic event. Grain-shape analysis in the central dunes points toward repeated abrasion and transport, yet some deeper lenses contain angular fragments that appear to have moved very little since vitrification. Trace chemistry links part of the sand to distant volcanic provinces, while other samples match no mapped surface source closely enough to identify an origin.
+
+The apparently artificial surfaces are equally troublesome. Two radar-defined planes beneath the Pale Dune Sink region show regular spacing over distances uncommon in ordinary fracture systems. A third, initially described by prospectors as a buried wall, proved on excavation to be a natural cooling joint in welded impact glass. The worked-looking slab exposed during the original sink incident bears parallel grooves, but microscopy cannot determine whether they are tool marks or the product of stress fracturing along mineral bands. Each new survey has therefore produced evidence that strengthens one interpretation while weakening another.
+
+Biology complicates the picture further. Several deep cavities contain microbial communities genetically related to surface springland organisms but separated long enough to show substantial divergence. That finding supports the existence of ancient subsurface water and long-lived voids without requiring sapient construction. At the same time, one cavity contains a repeating sequence of stone shelves whose geometry remains difficult to explain through known hydrothermal deposition. The shelves are not accompanied by artefacts, inscriptions, or technological residues. FSA archaeological teams consequently classify them as anomalous structures, not ruins.
+
+This uncertainty has become part of local politics. Prospectors argue that indefinite caution protects an empty mystery at the expense of real claims. Archaeologists counter that heavy drilling could erase the only evidence capable of resolving the question. Glass-Sand settlements tend to favour limited access because their water systems depend on the same buried cavities researchers wish to protect. The result is a rare Magori dispute in which everyone agrees that the ground contains value and disagrees almost completely about what kind of value it is.
+
+### 6.6 Crater Badlands
+
+Crater Badlands combine ancient impact rims, fractured ejecta, later lava intrusions, and deep basin floors. The broken topography provides abundant cover, sudden elevation changes, and hidden cavities. It is consequently favoured by ambush predators, unregistered camps, and prospectors seeking impact-exposed rare metals.
+
+Gas pooling is the principal environmental trap. Deep floors can accumulate sulphur compounds even when nearby rims have clean air. The vertical difference between a safe camp and a lethal one can be only a few hundred metres. Some badland settlements place atmospheric beacons on crater walls specifically to warn travellers that conditions below are worse than those at the approach road.
+
+### 6.7 Sulphur Flats
+
+Sulphur Flats form around old fumarole fields, hydrothermal basins, and evaporative depressions. Their yellow-white surfaces can be visually striking, but glare hides shallow fractures and thin mineral crusts over hot ground. Corrosive chemistry and gas release make them poor sites for permanent settlement.
+
+Microbial mats thrive in some flats and support small scavenging food webs. Their biological importance is disproportionate to biomass because they help stabilise mineral surfaces and process sulphur compounds. Industrial disturbance can therefore have consequences far beyond the immediate footprint of a mine.
+
+### 6.8 Geothermal Springlands
+
+Springlands are rare valleys where sustained water flow creates pockets of high productivity. Reeds, low forests, fungal growth, mineral-tolerant shrubs, and dense invertebrate analogues support herbivore concentrations far above Magor's average. These regions are among the few places where a visitor can feel surrounded by life rather than geology.
+
+That abundance creates conflict. Herbivores arrive for food and water. Predators follow. Settlements covet the same dependable water. Xenobiologists seek protection. Several of Magor's most difficult land-use negotiations involve areas that are both the best biological refuges and the cheapest places to keep people alive.
+
+### 6.9 Polar Ash-Ice Caps
+
+The polar biomes combine compact ice, black ash bands, frozen scree, exposed rock, and fierce winds. Seasonal melt produces brief biological pulses along protected margins, drawing migratory fauna and supporting cold-adapted microbial communities.
+
+The caps are not pristine. Ash from distant eruptions is preserved as dark historical layers, allowing scientists to reconstruct major events over long timescales. This makes ice cores important to both climate research and volcanic chronology. Industrial extraction must therefore work around designated scientific reference zones.
+
+### 6.10 Sheltered Relict Biospheres
+
+Relict biospheres survive in protected crater valleys, dormant lava tubes, deep spring basins, and highland pockets where temperature, water, and ash exposure remain unusually stable. Some support low forests or extensive fungal systems absent from exposed terrain. Others are almost entirely subterranean.
+
+These environments matter because they preserve evolutionary lineages repeatedly erased elsewhere by resurfacing. Their rarity also makes them politically vulnerable. A relict valley can contain a unique ecosystem, a usable aquifer, geothermal power potential, and mineral-bearing rock in the same square kilometre. Federation protection decisions therefore become direct economic decisions, which is why several such zones are recurring sites of legal and political conflict.
+
+## 7. Xenobiology and Ecosystem Behaviour
+
+**FESS Classification:** BIO-XENO - Adaptive Species and Biosphere Dynamics
+
+Life on Magor has been shaped by gravity, heat, abrasive air, water scarcity, and repeated catastrophe. Most visible animals are heavily built ground forms whose anatomy prioritises traction, thermal control, shelter-seeking, and survival after habitat loss. Near Trilium-bearing lava, those adaptations become stranger and more dangerous.
+
+### 7.1 Overview of Native Life
+
+Magor supports a mature but uneven biosphere. Biomass is low across fresh lava and dry ironrock, moderate in old cone country, and locally dense around springlands, sheltered craters, and hydrothermal margins. Microbial systems are widespread and frequently the first organisms to colonise new volcanic surfaces.
+
+Large animals are overwhelmingly terrestrial. High gravity raises the energetic cost of flight, while ash, violent thermals, and abrasive atmospheric particles make long-duration aerial specialisation risky. The result is a fauna dominated by powerful runners, armoured quadrupeds, burrowers, and low-slung scavengers. Large flying animals exist, but they are uncommon and geographically restricted.
+
+### 7.2 Evolutionary Pressures
+
+Heat tolerance on Magor is rarely a single adaptation. Native animals combine reflective or mineralised integuments, vascular heat-dumping surfaces, efficient respiratory systems, behavioural shade-seeking, burrowing, and periods of reduced activity. Eggs and juveniles are often placed underground or in thermally buffered nests.
+
+Repeated habitat destruction favours mobility and rapid recolonisation. Species that depend on one valley or one plant community are vulnerable unless that habitat is protected by unusual geography. Herd animals track water and recovering vegetation across large territories. Predators consequently follow moving prey rather than defending fixed ranges year-round.
+
+### 7.3 Ground-Dominant Body Plans
+
+The most characteristic large animals possess low centres of gravity, powerful hindquarters, thick balancing tails, plated hides, reinforced skulls, and broad feet suited to broken basalt. These forms are not identical, but they produce a visual coherence across unrelated lineages because the same environmental pressures reward similar solutions.
+
+Bipedal hunters tend to use strong tails and wide pelvic structures to remain stable on unstable ground. Large grazers are usually quadrupedal and heavily built. Delicate limbs, exposed membranes, and narrow respiratory passages are uncommon outside protected biomes. Even relatively small animals often look over-engineered by comparison with species from gentler worlds.
+
+### 7.4 Cinderjaw Tyrants
+
+Cinderjaw Tyrants are large bipedal apex predators found across volcanic foothills, old cone country, and the margins of productive springlands. Adults possess deep skulls, serrated teeth, powerful hind limbs, and heavy tails used for balance during short explosive charges. Their nasal and facial structures contain dense heat-sensitive tissue that helps them distinguish warm prey through ash haze.
+
+Territory size varies with prey abundance. In good springland years, a mature animal may remain within a relatively compact range. After ash burial or herd displacement, the same predator can travel enormous distances and cross settlement infrastructure it would ordinarily avoid. Most attacks on Federation personnel occur during these displacement periods or after industrial activity blocks a traditional movement route.
+
+Cinderjaws from chronic Trilium-lava exposure zones show higher rates of mineralised jaw growth, asymmetric cranial structures, reduced flight response, and extreme territorial aggression. These animals are not treated as a separate healthy subspecies. They are mutation-associated lineages carrying significant biological cost and possible contamination.
+
+### 7.5 Furnaceback Grazers
+
+Furnacebacks are immense quadrupedal herbivores distinguished by rows of tall vascularised dorsal plates. The plates function as thermal exchangers. During hot periods blood flow can be increased to dump body heat; during cold ash events the same structures absorb available warmth. Their beaked jaws strip tough vegetation and mineral crust from old volcanic soils.
+
+Herds are usually small because each adult requires extensive forage. Migration between springlands, dormant cone vegetation, and polar-margin growth can take them across industrial corridors. Furnacebacks are not normally aggressive, but a panicked adult can overturn light vehicles and damage pipelines. Settlements increasingly use broad wildlife passages rather than hard barriers after repeated failures of fencing systems.
+
+### 7.6 Basalthorn Herds
+
+Basalthorns are heavily armoured quadrupeds with broad skull shields and forward horn structures. They feed on low vegetation, microbial crusts, and mineral-rich growth across crater uplands and ironrock margins. Their digestive systems tolerate abrasive material that would rapidly damage most imported livestock.
+
+When threatened, adults form a defensive ring around juveniles. This behaviour is highly effective against native predators and disastrous when automated deterrent systems attempt to compress a herd toward a fence. The Basalthorn Gate Failure established modern doctrine: preserve an exit corridor and guide the herd away rather than trying to hold a hard line.
+
+### 7.7 Ashrunner Packs
+
+Ashrunners are medium-sized bipedal pursuit predators adapted to open rocky desert and crater rims. Long hind limbs provide speed, while narrow heat-shedding neck structures reduce thermal load during extended pursuit. Packs use terrain and ash haze to split vulnerable animals from larger herds.
+
+They are opportunistic around settlements and may follow refuse, imported livestock, or prey displaced by construction. Unlike Cinderjaws, Ashrunners often probe barriers repeatedly and learn patrol patterns. Experienced settlements vary deterrent routes to prevent packs from treating security infrastructure as a predictable puzzle.
+
+Mutation-associated Ashrunners have been observed near several abandoned Trilium-lava claims. These populations show abnormal thermal tolerance and reduced avoidance of active flows. The behaviour makes them difficult to predict because ordinary ecological assumptions about where the animals will not go no longer apply.
+
+### 7.8 Trilium-Lava Mutation Zones
+
+Mutation zones develop where organisms experience chronic or repeated contact with Trilium-bearing volcanic material through ash, dust, contaminated water, scavenging, or direct contact with cooled composite. Documented effects include abnormal bone deposition, mineralised lesions, altered sensory organs, reproductive failure, asymmetric growth, and behavioural changes including heightened territorial aggression.
+
+Surviving populations are sometimes described by prospectors as "lava-adapted" or "Trilium-proof". Both terms are dangerous. These animals represent lineages surviving intense selection and mutation, often with high mortality and visible pathology. They remain biologically vulnerable to Trilium and may carry contaminated material away from the original source.
+
+Dynamic exclusion zones therefore follow animals as well as geology. A contaminated carcass, shed plate, or nesting site can require containment even kilometres from the active lava field. Xenobiological response teams routinely work alongside industrial Trilium crews because ecological spread is part of containment.
+
+Mutation expression is not uniform and should not be reduced to a predictable progression toward larger, more aggressive animals. Some exposed organisms develop dramatic mineralised armour or abnormal heat tolerance, but others exhibit reproductive collapse, sensory blindness, neurological fixation, shortened lifespan, malformed offspring, tumour-like tissue overgrowth, or progressive failure of organs responsible for thermal regulation. The survivorship bias in field reports is substantial because visibly formidable adults are more likely to be encountered than lineages that simply fail to reproduce.
+
+In Cinderjaw populations, one well-documented exposure lineage developed denser jaw mineralisation but also severe narrowing of the respiratory passages; adults were dangerous over short distances and unusually vulnerable to prolonged pursuit. A Furnaceback group near the abandoned Ember Scar claim showed enlarged dorsal plates that shed heat efficiently but fractured easily, producing chronic infection and high juvenile mortality. Several Ashrunner packs display behavioural perseveration, repeatedly following the same route or attacking the same inert industrial structure long after the original stimulus is gone. These behaviours can look like fearlessness while actually representing neurological damage.
+
+Plant and microbial mutation is often less visible and more operationally important. Root mats exposed to low concentrations may alter mineral uptake, concentrating Trilium-bearing particles in tissues later eaten by herbivores. Fungal decomposers can move contaminated material from a carcass into surrounding soil. Some microbial films survive where larger organisms cannot and create deceptively ordinary-looking surfaces over biologically hazardous sediment. For this reason mutation-zone mapping increasingly follows trophic transfer rather than only obvious animal pathology.
+
+FSA doctrine therefore rejects the idea of a stable 'Trilium biome'. These are damaged ecosystems under continuing selection pressure. Some lineages persist for generations, but persistence is not equilibrium. The long-term trend in several monitored zones is declining fertility and rising developmental abnormality even where adult survival appears high.
+
+### 7.9 Rare Aerial Fauna
+
+Magor's aerial fauna consists mainly of short-range gliders, cliff nesters, and heavily muscled membrane-wing species capable of powerful bursts rather than sustained planetary migration. Most use crater updrafts and clean-air windows, descending rapidly when ash concentration rises.
+
+Their scarcity makes them useful biological indicators. Sudden disappearance from known nesting cliffs can precede plume events or gas changes not yet obvious to surface crews. Several settlements incorporate automated tracking of common cliff species into environmental monitoring, not because the animals predict eruptions mystically, but because they respond quickly to atmospheric conditions humans may not yet notice.
+
+### 7.10 Ecological Conflict Patterns
+
+Ecological conflict follows eruption and water change more than regular seasons. Ash can remove grazing ground overnight. New lava can block a migration route. A failed spring can push entire herds toward settlement reservoirs. Predators then follow displaced prey into transport corridors and industrial zones.
+
+Industrial projects can also provoke direct territorial defence, particularly near mutation zones where animals have reduced avoidance responses. The most effective wildlife management therefore begins before construction. Route design, open corridors, noise timing, waste control, and water placement can prevent encounters that armed response would only make more dangerous.
+
+### 7.11 Foundation Species, Succession and Decomposition
+
+The large fauna attract attention, but Magor's biosphere is built on much smaller organisms. Fresh volcanic surfaces are first colonised by heat-tolerant microbial films collectively called cinderlace by field crews. Cinderlace is not one species but a suite of bacterial and fungus-analogue communities capable of binding ash, metabolising sulphur compounds, and trapping wind-blown organic matter. Over time these films stabilise loose surfaces sufficiently for more complex growth to establish.
+
+The next stage of succession is dominated by low ash-cushion plants, mineral-feeding lichenoid mats, and tough root systems that penetrate fractures rather than deep soil. Slagroot, one of the most widespread examples, stores water in fibrous underground organs protected from heat and grazing. Its surface growth can be burned away repeatedly while the root crown survives below the ash. Furnacebacks and Basalthorns excavate these crowns during dry periods, creating disturbed patches later used by smaller scavengers.
+
+Springlands support a different foundation community. Vent reeds grow in bands according to water temperature and dissolved mineral load, creating visible stripes that experienced field crews can use as crude indicators of safe approach. Glasscap fungal towers break down woody and reedlike material along cooler margins. Their fruiting bodies are edible after treatment to several Federation species and are cultivated in enclosed agriculture, although wild forms readily accumulate toxic metals from contaminated water.
+
+Among the most important small animals are clinker mites, palm-sized armoured detritivores that consume microbial crust, shed plant material, and mineral-rich waste. Their burrowing aerates young ash soils. Larger kilnbacks, low six-limbed scavengers protected by overlapping plates, follow herd routes and feed on dung, eggs, carrion, and damaged vegetation. They are a major prey item for juvenile Ashrunners and several cliff-nesting aerial species.
+
+Carcass decomposition is rapid near geothermal zones and slow in dry ironrock. Heat-loving carrion organisms can strip exposed tissue within hours, after which mineral-tolerant fungal growth and burrowing decomposers process what remains. In colder deserts, desiccated carcasses may persist for years and become small ecological islands around which nutrients accumulate. Native predators learn these sites, which is why abandoned carcasses near heatlines are removed even when disease risk appears low.
+
+Ecological succession after eruption is one of the best indicators of landscape age available to field xenobiologists. A black flow with only cinderlace may be decades old. A flow supporting slagroot, clinker mites, and isolated grazers has usually remained undisturbed much longer. Mature dormant-cone systems support layered communities complex enough that a new eruption can displace animals from several trophic levels simultaneously. Understanding those foundation layers explains why seemingly minor ash burial can later produce major megafauna movement.
+
+### 7.12 Parasites, Microbes and Small Biological Hazards
+
+Magor's small biological hazards cause fewer dramatic incidents than its megafauna but a greater number of routine medical cases. Ashlung bloom is the common field name for several microscopic spore-forming organisms that proliferate after warm rain falls on fresh ash. Most are harmless, but some irritate respiratory tissue already stressed by sulphur exposure. Filters designed only for mineral particulates may not capture the smallest spores efficiently, so settlement advisories sometimes remain in force after visible ash has cleared.
+
+Thermal ticks are coin-sized ectoparasites that attach to the warm folds and joint regions of large native animals. They are attracted to heat rather than specific blood chemistry and will attempt to feed on many Federation species through thin clothing. Bites are usually minor, but the animals can transfer bacteria adapted to mineral-rich environments. Field suits in springland and herd country therefore include smooth external seals and routine heat-assisted decontamination.
+
+A more serious veterinary problem is emberworm, a burrowing parasite whose larval stage develops in moist mineral soil and penetrates the foot tissues of native grazers. Infection weakens movement and can alter herd migration, indirectly increasing predator encounters and settlement incursions. Imported livestock are highly susceptible and must be kept on raised or sealed ground in affected districts.
+
+Settlement medicine also monitors environmental microbes carried through water systems. The majority are removed by standard treatment, but geothermal wells can change chemistry rapidly and select for organisms able to survive high temperatures or metal concentrations. Water crews therefore treat unusual odour, colour, or biofilm growth as an engineering alert as much as a medical one. Several well failures were first detected because bacterial communities shifted before pressure sensors recorded a significant change.
+
+None of these hazards makes Magor uniquely diseased. The point is operational integration. Ecology, infrastructure, and medicine overlap. A grazing parasite can redirect a herd. A redirected herd can damage cooling lines. A damaged line can force water rationing. The practical value of low-level xenobiology lies in recognising such chains before they reach the scale at which they become settlement emergencies.
+
+## 8. Technology and Infrastructure
+
+**FESS Classification:** TEC-INF - Planetary Infrastructure Systems
+
+Technology keeps Magor inhabited. It does not tame the world so much as create temporary zones in which breathable air, tolerable temperature, water, power, and movement can be maintained. Every serious infrastructure plan begins with the assumption that one of those systems will eventually fail.
+
+### 8.1 Energy and Power Systems
+
+Magor has abundant geothermal energy, but heat is not automatically useful power. Productive reservoirs are often located in unstable terrain, while long-distance transmission lines are vulnerable to lava, ash loading, corrosion, and ground movement. Settlements therefore favour distributed generation over continent-scale grids.
+
+Most major sites use a combination of geothermal plants and Triactor power systems. Geothermal baseload supports ordinary operations where wells are stable. Trilium systems provide compact high-density power for mobile rigs, shelters, emergency cooling, and isolated industrial nodes. Storage and generation are deliberately separated so that one lava flow cannot remove every power source at once.
+
+### 8.2 Heat-Resistant Materials and Construction
+
+Magori construction relies on refractory ceramics, layered alloys, basalt composites, active cooling, sacrificial exterior cladding, and seals designed to tolerate abrasive ash. Structures in active provinces often have low profiles and smooth external geometry to reduce ash accumulation. Roof systems are built for both thermal expansion and heavy particulate load.
+
+Subterranean or bermed construction is common where geology has been thoroughly surveyed. In company towns, central corridors can be sealed into pressure refuge networks. Independent towns use a more modular approach, allowing damaged districts to be isolated without shutting down the whole settlement. Visible repair is ubiquitous. On Magor, a pristine exterior often indicates new construction rather than better maintenance.
+
+### 8.3 Transportation and Heatline Routes
+
+Surface transport depends on armoured crawlers, high-clearance haulers, tracked ore trains, and specialised convoy vehicles able to tolerate hot ground and abrasive ash. Permanent paved roads exist around stable settlements, but major frontier movement uses heatlines: routes defined by current thermal, lava, ash, refuge, and water conditions rather than by a fixed road surface.
+
+Heatline control is politically valuable. A settlement that maintains the only safe route through a region can collect fees, shape trade, and influence claim disputes without owning the surrounding ground. This has produced recurring conflicts over whether routes built by private concession holders become common infrastructure during emergencies.
+
+### 8.4 Atmospheric and Shelter Systems
+
+Clean indoor air is infrastructure, not comfort. Permanent settlements use positive-pressure habitats, staged filtration, cooled intake systems, and emergency sealed rooms. Exterior intakes are positioned to avoid predictable gas pooling, though active terrain ensures no design remains universally safe.
+
+Thermal refuges along major heatlines are deliberately austere. They are intended to preserve life through route closure rather than support normal habitation. Standard refuges contain independent air, water, emergency cooling, communication beacons, medical supplies, and enough power to survive prolonged ashfall. Their location is public even when nearby commercial claims are not.
+
+### 8.5 Communications and Sensor Arrays
+
+Ash plumes, charged storms, deep crater terrain, and remote geography make line-of-sight communication unreliable. Magor therefore uses a layered network of orbital repeaters, buried fibre, thermal relays, seismic stations, and local mesh systems. Important industrial sites retain hardwired links precisely because wireless systems tend to fail when the environment becomes most dangerous.
+
+The sensor network is more strategically important than ordinary communications. Seismic data, gas chemistry, ground deformation, infrared mapping, wildlife movement, and weather feeds are combined into live hazard overlays. Remote camps often disappear from network visibility before they are physically destroyed, so loss of telemetry is itself treated as an incident requiring investigation.
+
+### 8.6 Settlement Infrastructure
+
+Settlements cluster around stable bedrock, water systems, cooling plants, landing access, and transport junctions. The quality of those systems determines social class as visibly as housing size. Wealthy districts have redundant filtered air, cool public corridors, and generous water buffers. Poor camps ration filters, accept temperature fluctuations, and live closer to industrial machinery because waste heat cannot be economically isolated.
+
+The best settlements are designed to fail in pieces. District valves isolate water loss. Independent microgrids preserve refuges. Modular walls allow ash-damaged sectors to be sealed. Evacuation paths avoid common choke points. The worst settlements are tightly efficient under normal conditions and catastrophically interconnected during crisis.
+
+### 8.7 Magmazone Industrial Systems
+
+Magmazone Industries dominates integrated high-throughput molten-world extraction. On Magor it is explicitly a multi-race industrial endeavour with a Khaured technological and managerial spine. Khaured heavy-industry houses spearheaded the company's molten-world expansion, while Onoros Drones and Directors supply a major share of its repetitive industrial labour and operational coordination. Human Nordics are strongly represented among vehicle crews, rig engineers, recovery teams, and heavy-maintenance staff, while smaller Robotron cohorts operate where thermal, atmospheric, or Trilium exposure would impose unacceptable risk on organic workers. Its Magor fleet includes lava skimmers, phase-separation towers, ceramic quench crawlers, crawler-mounted resonance arrays, heavy Khaured-derived walkers, and sacrificial diversion systems. The equipment is expensive, technically sophisticated, and supported by a maintenance network no competitor currently matches at planetary scale.
+
+That competence creates dependence, and the dependence is social as well as technical. Independent operators may own a legal claim yet still rely on Magmazone-compatible parts, licensed separator calibration, Khaured heavy-lift capacity, Onoros-staffed processing lines, or company transport. Several freeclaim engineering houses have therefore specialised in mobile lower-throughput rigs using more interchangeable components. They cannot match Magmazone's volume, but they provide strategic independence in regions where political distrust matters more than maximum output. The strongest independent systems often borrow selectively from several traditions: Human tracked mobility, Khaured structural durability, Elgem lightweight sensing, and Robotron remote-operation architecture without reproducing the complete corporate stack.
+
+### 8.8 Infrastructure Failure Modes
+
+Magori infrastructure fails through heat, ash, sulphur corrosion, coolant loss, lava burial, thermal rail distortion, water interruption, sensor blindness, wildlife collision, and sabotage. The greatest danger is cascade. A power fault disables cooling. Rising temperature damages water processing. Refuge capacity falls. A route closes before replacement equipment arrives.
+
+Modern safety audits therefore score dependencies rather than individual components alone. A settlement with three generators still has one point of failure if all three feed the same cooling manifold. An extraction plant with two roads has no redundancy if both cross the same lava tube. The most mature Magori engineering culture is built around discovering these hidden common failures before the planet does.
+
+### 8.9 Species-Specific Industrial Adaptation
+
+Magor rewards different Federation physiologies and technical traditions in different places. This does not produce fixed racial occupations, and long-settled Magori routinely work outside the roles most associated with their ancestry. It does, however, shape recruitment, equipment design, settlement zoning, and the composition of specialist teams. Industrial planners who treat all personnel as environmentally interchangeable pay for the simplification in cooling load, medical demand, equipment failure, or unnecessary exposure.
+
+Khaured personnel are unusually well suited to Magor's combination of above-standard gravity, physical work, abrasive air, and heavy machinery. Their dense musculature and harsh-environment physiology reduce some burdens that require greater augmentation or protective support for other organics. Khaured industrial culture also favours massively redundant structures, armoured vehicles, and large walkers whose ground pressure and articulated gait can be advantageous on broken basalt. Magmazone's largest surface crawlers and several caldera recovery mechanoids therefore descend directly from Khaured design traditions rather than generic Federation engineering.
+
+Onoros participation is less visible in public imagery but central to Magmazone throughput. Drone cohorts perform repetitive monitoring, component handling, enclosed-plant work, inventory movement, and tightly specified maintenance tasks at a scale difficult to replace quickly. Their low metabolic demand reduces life-support burden in remote industrial habitats, while enlarged dark-adapted eyes are useful inside dim lava-tube facilities and enclosed processing structures. Director caste Onoros coordinate large Drone groups beneath Khaured or mixed-species site leadership, translating plant objectives into continuous operational schedules.
+
+Human Nordics form a large secondary pillar of the Magmazone workforce. Their stronger bones and musculature suit the higher gravity, while Human retention of wheeled and tracked vehicle traditions maps unusually well onto a world where dependable ground transport matters more than elegant flight. Nordic crews are common in heatline convoys, heavy recovery, crawler maintenance, and independent prospecting. Their presence has also created hybrid vehicle schools in which Human drive systems are reinforced with Khaured suspension, armour, and heat shielding.
+
+Robotrons occupy the jobs for which organic adaptability still reaches a sensible limit. Remote caldera work, contaminated slag inspection, active lava-channel sampling, high-sulphur maintenance, and first-entry assessment of possible Trilium breaches are frequent assignments. Their capacity to coordinate unmanned drones compounds this advantage. The arrangement is operationally efficient and politically sensitive because Robotron sentience and labour rights remain contested in wider Federation law. Magori safety doctrine increasingly rejects the language of 'expendable platforms' when it is applied to self-aware Robotron personnel, even when a Robotron can survive conditions that would kill an organic worker.
+
+Altans are few in number but difficult to substitute in the highest-end Trilium work. They appear as resonance specialists, Triactor engineers, contamination auditors, research leads, and certified participants in Biometal-adjacent projects. Their role is deliberately separated from Magmazone's extraction mastery: Khaured-led systems can capture and separate magmatic host material at extraordinary scale, but full Trilium resonant constraint and true Biometal splicing remain Altan disciplines. This division produces cooperation, prestige friction, and periodic disagreement over where industrial engineering ends and controlled Trilium manipulation begins.
+
+Elgems are concentrated in precision survey and environments where size, agility, lightweight equipment, and low-signature operation provide more value than brute force. Elgem teams are disproportionately represented in lava-tube mapping, Glass-Sand cavity surveys, ecological reconnaissance, and inspection of confined thermal systems. Their adaptive, bio-organic sensor skins and camouflage traditions have inspired several Magori survey craft, though most locally produced derivatives are cruder and more robust than true Elgem systems.
+
+Lopati are the least naturally suited of the major Federation peoples to Magor's hot lowlands. Their physiology evolved for cold, low-gravity conditions, so prolonged work in heavy gravity and high heat carries a greater support burden. Their presence therefore clusters at Farwatch, Rimehook, Southglass, cold-storage facilities, salvage yards, and long-duration logistics. Lopati engineering is valued for efficiency, redundancy, salvageability, and the ability to keep systems functioning with limited resources. Those qualities fit Magor culturally even where the climate does not.
+
+## 9. Settlements and Geography of Power
+
+**FESS Classification:** GEO-SOC - Population Distribution and Settlement Control
+
+Power on Magor occupies nodes rather than borders. A town with a functioning condenser, landing field, repair yard, and safe route may matter more than a concession thousands of square kilometres wide. Settlement geography is therefore the geography of survivable infrastructure.
+
+### 9.1 Settlement Typologies
+
+Magor supports charter towns, company settlements, freeclaim camps, refinery forts, water stations, smelter towns, scientific stations, mobile prospecting communities, and outlaw holds. Most are compact because every additional inhabited hectare increases the burden on cooling, air, water, and emergency shelter.
+
+The formal boundary between town and industrial installation is often blurred. A separator plant acquires permanent workers, then a repair yard, then families, then a water school and Claim Court bench. Conversely, a boomtown can lose its legal status when a concession fails and half its residents leave. Magor's settlement map is a record of economic cycles as much as population.
+
+### 9.2 Cinderhook
+
+Cinderhook, population approximately 186,000, is Magor's largest settlement and its most important independent civic node. It occupies the upper rim and terraces of an ancient crater selected for stable bedrock, reliable deep condensate, and access to several long-lived heatlines. Its outer districts descend toward industrial yards, while the oldest residential sectors are cut into the crater wall where rock provides thermal buffering.
+
+The city is best known for three institutions. The **Cinderhook Claim Hall** maintains the most respected independent registry on the planet. The **Black Ring Yards** form Magor's largest non-corporate repair market, capable of rebuilding everything from convoy suspensions to small separator components. The **Cold Vaults** hold emergency water, filters, and refuge stores under charter provisions that allow compulsory release during declared regional crises.
+
+Cinderhook's politics are deliberately anti-monopoly rather than anti-corporate. Magmazone maintains offices and contracts there, as do Khaured operators and off-world traders, but the charter prohibits any single external entity from controlling water, landing access, and heavy repair simultaneously. The rule emerged from the late Ashline Feuds and remains the basis of the settlement's independence.
+
+The current political fault line concerns **Red Claim 61**, a high-value Trilium-lava corridor east of the city. Magmazone argues that only an integrated industrial system can exploit it safely. Freeclaim groups claim the company's proposed concession would absorb two common heatlines and place emergency route control in private hands. Cinderhook has delayed final recognition while the dispute moves through three different Claim Courts.
+
+Cinderhook's ordinary day is defined by overlapping shifts rather than a single civic morning. Repair yards begin before administrative offices; water technicians rotate continuously; claim brokers and courts peak around the arrival of long-haul convoys. Internal markets therefore operate almost around the clock. The crater-wall residential districts are quieter, with schools and civic gardens protected behind multiple pressure doors from the Black Ring industrial terraces below.
+
+The city's independence is visible in ownership. Water is charter-held, the principal landing field is municipally controlled, and the Black Ring Yards are divided among dozens of businesses rather than one operator. That fragmentation makes coordination slower than in Pyrestead but prevents one commercial failure from becoming a citywide political crisis. Residents frequently describe Cinderhook as inefficient in exactly the ways that make it resilient.
+
+### 9.3 Pyrestead and the Magmazone Company Belt
+
+Pyrestead is Magmazone's flagship surface settlement and the administrative centre of its largest concession belt. Built on an elevated basalt shelf between two mapped magma highways, it houses approximately 91,000 permanent workers and dependants, with substantially higher transient numbers during peak extraction cycles. Khaureds form the most visible industrial and managerial culture, but the settlement is intrinsically multi-race: Onoros Drone cohorts and Directors are embedded throughout processing and logistics, Human Nordics are numerous in heavy transport and maintenance, Robotrons operate specialised hazard facilities, and smaller Altan and Elgem teams support resonance science, advanced sensing, and audit work. Its air, water, medical, and cooling systems are among the most reliable on Magor.
+
+That reliability is part of the company's political power. Housing contracts, internal transport, emergency shelter access, and many local services are tied to employment. Residents receive conditions superior to most freeclaim towns but surrender a degree of practical independence. Critics describe Pyrestead as a company-owned survival system in which leaving a job can also mean leaving the water network.
+
+The wider **Magmazone Company Belt** contains smaller settlements such as **Caldera Nine**, a high-throughput extraction works; **Gate Ember**, a logistics and equipment-transfer town; and **Redglass Works**, a processing settlement built around cooled composite rather than active lava capture. Each is technically distinct, but together they form a corporate geography connected by proprietary maintenance, transport, and emergency systems.
+
+### 9.4 Emberline and the Freeclaim Corridor
+
+**Emberline** began as a temporary prospect camp on an old basalt plateau and grew into the largest freeclaim-oriented settlement outside Cinderhook. Its population fluctuates between 34,000 and 60,000 depending on prospect cycles. The town has no single dominant employer. Repair shops, haulers, assay houses, small separator teams, and claim brokers compete intensely but share a public condenser and refuge network.
+
+Emberline is rougher than Cinderhook and more economically volatile. It is also culturally influential because successful independent crews often begin or end expeditions there. Its **Heatboard**, a wall of live route, claim, water, and warning data maintained by competing hauler groups, has become an informal model for freeclaim information sharing across the planet.
+
+The settlement's most important dispute is not with Magmazone directly but with insurers. Several off-world underwriters now refuse coverage for mobile rigs unless they use approved corporate separator standards. Freeclaim engineers argue that the policy is an indirect attempt to force them into Magmazone supply chains. The resulting fight is technical, legal, and ideological at once.
+
+Emberline has a more temporary visual character even where buildings are decades old. Workshops expand into containers, crawler bays become bars between prospect cycles, and temporary habitation stacks are dismantled when a rush moves elsewhere. The settlement's public spaces are concentrated around the Heatboard hall, the assay market, and a broad cooled concourse called the Long Bench where crews hire labour and exchange route information.
+
+Because no employer dominates housing, Emberline has produced one of Magor's most mixed social environments. Successful claimants may live beside mechanics between contracts and families who operate small food halls for transient crews. Wealth can arrive suddenly and disappear just as fast. The town's strongest taboo is therefore ostentatious confidence. Residents have watched too many rich prospectors become stranded debtors after one lava diversion to treat a temporary fortune as permanent status.
+
+### 9.5 Five-Bell Junction
+
+**Five-Bell Junction** sits outside the principal fallout corridors of the Magori Wave Chain and functions as the region's evacuation, stockpile, and transport hub. Its permanent population is only around 22,000, but every Wave episode can multiply that figure several times as workers withdraw from exposed sites.
+
+The settlement is designed around interruption. Warehouses are overbuilt. Refuge halls occupy more volume than ordinary housing. Rail and crawler routes split immediately after leaving town so that one ash corridor cannot sever all access. The Junction's governing compact gives its Ash Marshal extraordinary temporary authority once Orun enters Wave threshold status.
+
+Five-Bell culture is correspondingly ritualised. The five warning tones that give the town its name are sounded during full sequence drills. Shops close in a fixed order. Children learn refuge assignments before claim law. Outsiders sometimes interpret the behaviour as fatalistic. Residents regard it as the opposite: routine is what prevents predictable danger from becoming panic.
+
+### 9.6 Rimehook and Southglass
+
+**Rimehook** is the principal northern ice-processing settlement. Its population of approximately 41,000 includes water engineers, haulers, atmospheric technicians, and a comparatively large Federation regulatory presence. Architecture is partially buried into cold rock to reduce thermal load, giving the settlement a visual character unlike the open industrial towns of lower latitudes.
+
+Rimehook's political importance comes from reserve water. During regional emergencies, its charter allows the Federation Extreme Environment Safety Service to redirect contracted ice shipments toward threatened settlements. Corporate buyers have challenged the provision repeatedly and lost. The cooler environment has also attracted one of Magor's largest Lopati communities, whose cold-environment physiology and resource-efficient engineering make the polar settlement considerably easier for them to inhabit than the volcanic lowlands. Lopati crews are prominent in ice-haul maintenance, cold-storage systems, and long-duration reserve management. As a result, Rimehook is trusted by independents and regarded with wary respect by companies that would prefer firmer control over supply commitments.
+
+**Southglass Station** is much smaller, with fewer than 9,000 permanent residents, and combines polar water extraction with climate research. It maintains the most complete long-term ice-core archive on Magor. Scientists there have become increasingly concerned about cumulative ash-darkening in several sectors, though current models do not indicate imminent loss of the southern cap.
+
+### 9.7 Sulphur Gate
+
+**Sulphur Gate** occupies the edge of an old hydrothermal basin where stable bedrock, metal deposits, and a narrow clean-air corridor made settlement possible despite corrosive surroundings. Approximately 27,000 residents support smelting, ceramics, chemical processing, and salvage from nearby abandoned works.
+
+The town is politically notorious for its strong craft unions and weak tolerance for outside security firms. Its air-processing cooperatives are locally owned, which gives workers leverage rarely seen in company settlements. A prolonged dispute with a Khaured subcontractor over corrosion standards led to the **Gate Lockout**, during which the settlement refused all heavy extraction traffic for eleven days without cutting emergency passage.
+
+Sulphur Gate also hosts one of the best Confuser-treatment units on Magor because the surrounding basin has produced several historic amplification incidents. Local law treats unauthorised Confuser possession with exceptional severity.
+
+### 9.8 Kharad Hold
+
+Kharad Hold is a Khaured-dominated extraction and security settlement built into a heavily reinforced crater rim overlooking several dangerous high-temperature concessions. Its registered population is approximately 38,000, though shift rotations can raise the working population far higher. Khaured leadership and heavy engineering define the settlement visually, while substantial Onoros work cohorts operate in processing, warehousing, and equipment support. Human Nordic crews are common in convoy and recovery units, and a small Robotron hazard contingent handles work inside the most contaminated or thermally unstable industrial sectors.
+
+Kharad equipment is famous for durability. Roads are wider, barriers heavier, shelters more deeply shielded, and industrial vehicles more armoured than Magori averages. The settlement's weakness is ecological rather than mechanical. A proposed expansion corridor crosses a known Furnaceback migration route and approaches two Trilium-lava mutation zones. The Federation Xenobiological Assessment Directorate has delayed the concession extension while Khaured operators argue that engineered wildlife corridors are sufficient.
+
+The dispute has become a test case for how much ecological uncertainty should be tolerated when a strategically useful operation has an exceptional safety record for its own personnel.
+
+### 9.9 Farwatch Orbital Station
+
+Farwatch is Magor's principal orbital customs, traffic, export, and rescue station. Its permanent orbital population is modest compared with major Federation hubs, but its control functions affect almost every legal shipment leaving the surface. Its population is more species-diverse than most surface settlements: Lopati logistics and salvage crews value the cooler, lower-gravity orbital environment; Elgem specialists work in sensor fusion, traffic analysis, and stealth-signature detection; Robotrons maintain exterior arrays and hazardous cargo systems; Altan teams oversee selected Trilium chain-of-custody and resonance matters. Farwatch coordinates volcanic satellites, landing windows, emergency lift, quarantine, and export verification.
+
+Its greatest limitation is capacity. Farwatch can evacuate a threatened site, not a planet. During the Queue Crisis, commercial export traffic occupied so much docking and scheduling space that several surface settlements approached water and coolant reserve thresholds. The Orbital Authority ultimately seized priority control and redirected life-support cargo ahead of contracted Trilium shipments.
+
+The incident produced lasting tension with major exporters and a new legal principle: emergency logistics outrank commercial queue position. Cinderhook supports the rule. Several corporations support it publicly while lobbying over how an emergency is declared.
+
+### 9.10 Unregistered and Outlaw Settlements
+
+Unregistered settlements occupy abandoned lava tubes, obsolete industrial pads, crater interiors, and remote transport spurs beyond routine inspection. Some are criminal enterprises. Others are simply communities that failed to maintain paperwork through repeated ownership changes, displacement, or poverty.
+
+The distinction matters operationally. Ash Marshals may use an illegal settlement as an emergency refuge if it has functioning air and water. Federation rescue teams do not deny assistance because a camp lacks a valid charter. At the same time, Burnline Syndicates use hidden settlements for stolen Trilium composite, forged claim records, unlicensed weapons, and fugitive labour.
+
+The most dangerous outlaw sites are those built around failing inherited infrastructure. A hidden condenser or cooling plant may sustain a community for years before one unavailable component turns legal invisibility into a humanitarian emergency.
+
+### 9.11 Regional Influence Patterns
+
+Magori power changes when infrastructure changes. Magmazone dominates regions where only its equipment can economically process active lava. Cinderhook dominates independent legal and repair networks. Rimehook matters whenever water reserves tighten. Farwatch matters whenever cargo leaves the planet. Five-Bell Junction becomes temporarily central during Wave episodes.
+
+This produces a political map that can change after an eruption. A buried heatline can remove one settlement's leverage and create another's. A new flow may expose rich composite inside a previously irrelevant district. A damaged condenser can turn a minor water station into the only viable resupply point for hundreds of kilometres. Territorial maps therefore reveal less about power than maps of functioning systems.
+
+## 10. Civilisation and Population Systems
+
+**FESS Classification:** SOC-DEV - Demographic and Sociocultural Dynamics
+
+Magor has produced a recognisable frontier civilisation without producing a unified planetary society. Shared culture comes from hazard, distance, and dependence on machinery. Law remains local because the planet is too large, too sparsely inhabited, and too operationally changeable for one civic system to dominate daily life.
+
+### 10.1 Population Distribution
+
+The registered permanent population is approximately 1.42 million, scattered across a world larger than Earth. A further 450,000 to 800,000 transient or unregistered residents may be present depending on extraction cycles. This makes Magor exceptionally sparse even before account is taken of how strongly population concentrates into engineered nodes.
+
+Most permanent residents live in fewer than two dozen substantial settlements. Hundreds of smaller camps and industrial sites appear and disappear with claims. Vast regions have no permanent Federation presence at all. The inhabited world therefore feels less like a planetary civilisation spread across a surface and more like an archipelago of lights separated by black rock, ash, and heat.
+
+Species composition is mixed but not evenly distributed. Khaureds and Humans form the largest visible settlement populations, with Khaured concentration highest in Magmazone and extreme industrial zones. Onoros are a major component of the Khaured-led industrial economy and can outnumber Khaured supervisors at individual plants by a wide margin, although mobile cohort registration makes their planetary total difficult to isolate cleanly. Human Nordics are strongly represented in heavy transport, recovery, fabrication, and independent prospecting. Altans remain numerically small but strategically important in Trilium science and resonance control; Elgems concentrate in survey, ecological, and precision technical roles; Lopati favour orbital and polar environments; Robotrons are few by census but disproportionately present in hazardous operations. "Magori" increasingly cuts across those distinctions among families and long-term residents born on the planet.
+
+### 10.2 Frontier Sociopolitical Structure
+
+No strong planetwide civic government exists below Federation authority. Instead, Magor combines charter councils, company administrations, Claim Courts, Writ Stations, Ash Marshals, concession boards, emergency compacts, and informal freeclaim networks.
+
+This fragmentation is not pure disorder. Different institutions specialise in different problems. Charter councils govern towns. Claim Courts decide resource and contract disputes. Ash Marshals handle immediate hazard authority. Farwatch controls orbital traffic. Federation offices define baseline law and strategic restrictions. Conflict arises when one problem crosses several jurisdictions, which on Magor happens constantly.
+
+A useful example is a lava flow that exposes Trilium, crosses two claims, blocks a common heatline, and displaces a protected herd. The resource question belongs to claim law. The blocked road triggers emergency authority. The animals trigger xenobiological restrictions. The Trilium triggers industrial regulation. No single official can resolve the whole situation without negotiation.
+
+### 10.3 Economic Survival Models
+
+Trilium extraction is the strategic economy, but most residents do not mine Trilium directly. They repair equipment, move water, maintain roads, fabricate parts, run refuges, process ordinary volcanic metals, monitor weather, provide medical care, trade food, enforce contracts, or service the rotating labour force.
+
+Independent prospecting survives because volcanic change continually creates new opportunities. Fresh flows expose material. Collapse reveals old intrusions. New thermal scans identify deposits ignored by previous surveys. A small team with excellent data can therefore find value even in a market dominated by a megacorporation.
+
+Boom-and-collapse cycles remain common. A settlement can expand rapidly around one rich field and then discover that a later eruption has buried access, moved the resource, or made water costs unsustainable. The most durable towns diversify into repair, logistics, law, or water before the original claim fades.
+
+### 10.4 Claim Law and Concession Culture
+
+Magori claim law developed around a problem conventional mineral law handles poorly: the resource can move. Trilium-bearing lava may cross boundaries after a claim is registered. A new eruption can expose a deposit beneath a common road. A flow captured upstream can alter what reaches a downstream concession.
+
+Claim Courts therefore distinguish discovery rights, extraction rights, access rights, and emergency rights. A claimant may own the right to recover material without owning the road required to reach it. A settlement may temporarily suspend extraction if a heatline is needed for evacuation. A moving lava body can trigger shared-rights hearings rather than automatically transferring ownership with the rock beneath it.
+
+Fraud remains common. Forged scans, manipulated timestamps, bribed witnesses, and deliberate sensor interference all appear in the historical record. Reputation networks partly compensate. Haulers and repair yards often know which operators repeatedly produce suspicious claims long before a court can prove misconduct.
+
+### 10.5 Water Culture
+
+Water carries moral weight because every Magori understands its dependence. Settlements maintain different customs, but several principles are widespread: do not contaminate common water, do not conceal a major leak, and do not deny emergency drinking supply to stranded travellers when assistance can be given without endangering the settlement.
+
+A **water debt** arises when one party keeps another alive through emergency supply beyond ordinary commercial obligation. It may be repaid financially, through labour, through later aid, or through protection of the supplier's interests. The exact form varies, but refusing to acknowledge the debt is socially damaging.
+
+This culture is not sentimental. Water is sold, rationed, litigated, and used as leverage. The taboo concerns survival abuse, not commerce. Magori society accepts that water has a price. It reacts much more strongly when someone turns control of water into a weapon against people who cannot safely leave.
+
+### 10.6 Violence, Security and Sabotage
+
+Some frontier districts have high levels of interpersonal violence, but open organised warfare is rare. Heavy fighting near cooling systems, water plants, lava barriers, or gas infrastructure risks killing participants and bystanders alike. This environmental deterrent channels conflict into sabotage, theft, coercion, ambush, and manipulation of infrastructure.
+
+Sabotage is politically potent because small technical acts can have large consequences. A corrupted thermal map can send a rival convoy onto failing crust. A delayed coolant shipment can stop an extraction line. A damaged gate can force evacuation without firing a shot. Forensic engineers therefore work alongside conventional investigators, and Claim Courts treat certain forms of infrastructure interference as aggravated offences.
+
+The near-universal red lines are deliberate water contamination, blocking an active emergency heatline, and destroying shared survival infrastructure for private gain. Even criminal groups usually avoid these acts because retaliation is broad and because they depend on the same systems.
+
+### 10.7 Cultural Resilience Traits
+
+Magori culture values maintenance skill, calm under alarm, practical generosity, and willingness to abandon equipment before pride becomes fatal. Reckless endurance earns less respect than outsiders expect. The admired crew is the one that recognises the margin closing and turns back with everyone alive.
+
+Competence consequently acquires moral meaning. A mechanic who maintains an old condenser for twenty years may hold more local status than a wealthy claimant who repeatedly endangers workers. Children learn filter checks, refuge routes, and water discipline alongside ordinary schooling. Many settlements conduct public maintenance days that function as both civic ritual and practical inspection.
+
+This ethic can become exclusionary. New arrivals are sometimes dismissed too quickly as "soft-core" outsiders even when they possess valuable expertise. Corporate workers may regard freeclaim caution as anti-growth conservatism. Younger Magori increasingly challenge the idea that hardship itself should be treated as proof of authenticity. These generational disagreements prevent Far Reach identity from becoming a single romantic frontier stereotype.
+
+### 10.8 Households, Generations and Migration
+
+Magor is now old enough to contain people with no personal memory of anywhere else, but young enough that migration still shapes most settlements. FSA demographic analysis estimates that roughly two-fifths of registered permanent residents were born on Magor. Around one-fifth belong to families with at least two Magor-born generations. The proportions are much higher in Cinderhook, Rimehook, Sulphur Gate, and several old freeclaim communities than in company settlements built around rotating labour.
+
+Households are consequently diverse. A Pyrestead household may be tied to one employer and occupy standardised corporate accommodation for the length of a contract. A Cinderhook family may combine a water technician, hauler, repair-yard apprentice, and off-world student under one roof. Mobile freeclaim households can spend much of the year moving between claims, returning to a charter town for schooling, medical treatment, and major maintenance. Some children grow up regarding a crawler convoy as home and a settlement address as administrative convenience.
+
+Multi-species households are common enough in larger towns that civic services are designed around biological rather than cultural assumptions. Kitchens, sleeping temperatures, air humidity, and privacy requirements can vary sharply among residents of the same household. Building codes therefore allow modular domestic environmental zones inside a shared pressure envelope. Wealthier homes can tune rooms individually. Poorer households compromise around the needs of the most environmentally sensitive member.
+
+Migration onto Magor is dominated by working-age adults, which keeps the population younger than many older Federation worlds. Departure is also common. Some workers arrive for one extraction cycle and leave permanently. Others remain through repeated contracts until local relationships become stronger than homeworld ties. A distinctive group are the return-born: adults born on Magor, educated elsewhere, and drawn back by family networks or the unusually high value placed on technical competence.
+
+The reasons people leave are as revealing as the reasons they stay. Heat fatigue, family pressure, limited specialist education, corporate contract disputes, and the desire to raise children in easier environments all drive emigration. Older Magori sometimes interpret departure as rejection. Younger residents increasingly resist that judgement and treat mobility as part of Federation citizenship rather than a failure of frontier identity.
+
+Population growth is therefore neither simple colonisation nor natural increase. Magor gains and loses people constantly. What has changed is the proportion who return. Cinderhook schools report that many graduates now spend several years elsewhere and then come back with medical, legal, scientific, or engineering qualifications previously available only through off-world recruitment. That circulation is slowly reducing the frontier's dependence on expertise imported from the core.
+
+### 10.9 Education, Health and Social Mobility
+
+Education on Magor begins with survival literacy but does not end there. Children learn refuge routes, water categories, filter alarms, ash warnings, and basic first response because these are ordinary civic competencies. Charter schools are nevertheless expected to provide the same broad Federation curriculum available elsewhere. The challenge is staffing. Small settlements often share specialist teachers through remote instruction, while practical subjects are taught locally by engineers, medics, surveyors, and craftspeople.
+
+Apprenticeship carries unusual prestige. Repair yards, condenser plants, Volcanic Forges, assay houses, and Ash Marshal services maintain formal training routes whose graduates can move between settlements with credentials recognised by local employers. Cinderhook's Black Ring Technical College is the largest independent institution of this kind. Pyrestead operates a more specialised corporate academy focused on high-temperature systems, remote robotics, and Magmazone equipment. Their graduates compete for many of the same positions, which has turned education into another arena of corporate-independent rivalry.
+
+Advanced academic education remains difficult to provide locally at full breadth. Farwatch and Cinderhook maintain university-level programmes in volcanology, xenobiology, materials science, emergency management, frontier law, and water engineering, but students seeking unrelated disciplines often leave the planet. The growth of return-born professionals has become a policy objective precisely because every student who leaves represents expertise that may not return.
+
+Health outcomes vary strongly by settlement quality. Residents of well-engineered towns can expect ordinary Federation longevity, while workers in marginal camps accumulate respiratory damage, heat stress, musculoskeletal injury, and exposure to industrial contaminants. Company settlements often provide excellent acute medicine but tie access to employment structures. Independent towns provide broader civic access but may lack the most specialised equipment. Farwatch remains the principal transfer point for patients requiring treatment unavailable on the surface.
+
+Social mobility is correspondingly technical. A poor resident who becomes an excellent condenser engineer, separator diagnostician, or route modeller can gain status rapidly because those skills are scarce and visibly useful. Ownership still matters, especially in claim economies, but competence provides an unusually credible route upward. The system is not egalitarian. Training costs, equipment access, family networks, and corporate sponsorship shape who gets the chance to become competent in the first place.
+
+This has produced a recognisable political argument among younger residents. One camp wants more publicly funded education so frontier society does not reproduce itself through inherited access to workshops and claims. Another argues that centralised credential systems undervalue practical skill acquired outside institutions. The dispute is beginning to reshape Cinderhook politics and could become one of the most significant non-extraction issues of the next generation.
+
+### 10.10 Federation Peoples and the Magori Identity
+
+Magor is not a world on which Federation peoples have simply established adjacent enclaves. Its small population, dangerous infrastructure, and mixed workforces force constant practical contact. A Khaured-built refuge may be maintained by a Nordic mechanic, supplied by an Onoros logistics unit, inspected by a Robotron exterior team, monitored by Elgem sensors, and audited by an Altan resonance specialist. This interdependence is one of the principal engines of Magori identity. It also exposes differences that are easy to ignore on safer worlds.
+
+#### 10.10.1 Khaureds
+
+Khaured influence on Magor is disproportionate even to their considerable numbers. Their evolution under high gravity and gaseous hazards makes the planet less physiologically alien to them than to many Federation peoples, while their heavy engineering, mech traditions, and preference for robust construction have shaped the visual language of the major extraction belts. Kharad Hold is the clearest Khaured civic centre, but Pyrestead, Caldera Nine, Gate Ember, and many remote Magmazone sites also carry Khaured design logic in their thick structures, wide vehicle lanes, armoured pressure gates, and large articulated machinery.
+
+Culturally, Magor appeals to the Khaured emphasis on purpose and measurable competence. Dangerous work must justify itself, plans are expected to survive scrutiny, and a person who can keep a plant operating under pressure earns respect regardless of social polish. Yet Magor also complicates Khaured self-image. Volcanic conditions cannot be dominated through strength alone, and the most respected local Khaured managers are often those willing to abandon machinery, defer to xenobiologists, or accept an Ash Marshal shutdown. The frontier therefore rewards Khaured resolve while punishing the point at which resolve becomes inflexibility.
+
+#### 10.10.2 Onoros
+
+Onoros are essential to Magor's industrial reality and should not be mistaken for a marginal imported workforce. Their relationship with the Khaureds brought large Drone workforces into Khaured-controlled extraction long before Magmazone reached its present scale. On Magor, Drone cohorts perform continuous plant monitoring, material handling, enclosed logistics, basic maintenance, inventory control, and other tasks whose efficiency depends on repetition and coordination. Director caste Onoros commonly oversee groups of Drones beneath Khaured or mixed-species plant leadership.
+
+Their presence creates one of Magor's most uncomfortable political questions. Onoros docility, telepathic coordination, low consumption, and alignment with Khaured authority make them extraordinarily efficient workers, but those same traits make conventional ideas of consent, representation, and workplace bargaining difficult to apply. Federation inspectors disagree over whether Onoros cohort behaviour demonstrates collective preference, caste obligation, influence from the Maxa, or some combination that outside institutions do not understand. Magori labour organisations increasingly insist that operational efficiency cannot substitute for a clear account of personhood and agency. Khaured managers counter that outsiders repeatedly impose Human-derived labour assumptions on a social system they barely comprehend.
+
+The argument is sharpened by the fact that many settlement-born Onoros have no personal experience of the mysterious circumstances surrounding their people's first contact with the Khaureds. Some Directors identify strongly with Magor and function as respected local administrators even while remaining politically aligned with Khaured interests. That does not resolve the wider Federation controversy. It simply means the Onoros question on Magor is lived daily rather than discussed only in Congress.
+
+#### 10.10.3 Humans and the Nordic Presence
+
+Humans appear across nearly every Magori institution, but Nordics are disproportionately visible in the heavy frontier economy. Their stronger bones and musculature make Magor's 1.17 standard gravity less burdensome than it is for many baseline Humans, and the continuing Human tradition of wheeled and tracked vehicles fits a world where ground mobility remains strategically indispensable. Nordic hauler crews, crawler engineers, riggers, recovery specialists, and convoy security personnel are common in both Magmazone and independent operations.
+
+Traditional Humans are more broadly spread through civic government, medicine, trade, law, education, survey, and technical work. Augments are present in smaller but conspicuous numbers among sensor technicians, hazardous-environment specialists, and independent mechanics, where replaceable cybernetic systems can sometimes be preferable to repeated biological augmentation. These categories remain porous. Magor's strongest Human identity is increasingly occupational and local rather than inherited from Earth or the Pleiades.
+
+#### 10.10.4 Robotrons
+
+Robotrons are numerically small and operationally impossible to ignore. Their ability to function without organic respiration, tolerate many environmental conditions that would overwhelm biological personnel, and coordinate unmanned machines makes them natural participants in Magor's highest-risk work. Exterior Farwatch maintenance, active-flow reconnaissance, black slag inspection, contaminated-site entry, sensor deployment, and first assessment of unstable lava tubes all make regular use of Robotron personnel or Robotron-controlled drones.
+
+That utility places the Federation-wide dispute over Robotron sentience into unusually sharp focus. Some industrial managers still describe Robotron assignments in terms used for equipment, particularly where a chassis can be recovered or replaced after damage. Robotron residents and their allies reject the assumption that survivability makes injury or destruction ethically trivial. Cinderhook and Farwatch have adopted local employment language recognising self-aware Robotrons as personnel for safety reporting and compensation purposes even where wider Federation law remains unsettled. Magmazone's Magor operations formally follow the same rule, though enforcement at remote subcontractor sites is inconsistent.
+
+#### 10.10.5 Altans
+
+Altans are scarce in ordinary settlement life but disproportionately influential wherever Trilium ceases to be merely an ore and becomes a resonance-control problem. Their expertise underpins high-level Triactor engineering, advanced containment, biological exposure analysis, and the certified splicing methods required for true Biometal. Most Altans on Magor therefore work in small research, audit, medical, or specialist engineering teams rather than mass industrial units.
+
+This creates a productive tension with Khaured-led Magmazone culture. Magmazone can move astonishing volumes of hostile volcanic material and recover Trilium from conditions few Altan institutions would choose to industrialise at such scale. Altans, in turn, retain knowledge the extraction companies cannot replace once separated Trilium must be safely manipulated at the highest levels. Neither side is simply superior. Magor makes their different forms of expertise mutually dependent and periodically irritating to one another.
+
+#### 10.10.6 Elgems
+
+Elgems rarely form large visible communities on Magor. Their small stature, cartilage-rich skeletal structure, agility, and advanced lightweight technology instead make them disproportionately useful in confined or delicate work. Elgem surveyors map lava tubes that cannot safely accommodate heavy walkers, inspect unstable voids in the Glass-Sand Anomaly, and operate low-mass sensor packages in ecological refuges where a Khaured crawler would destroy the feature being studied.
+
+Their quiet off-world manner also fits intelligence, survey, and field-observation work, though long-settled Elgems are no more uniformly reserved than other Magori. In Cinderhook, a small Elgem district around the upper crater gardens is known for bright internal colour, communal food halls, and engineering workshops whose restrained exteriors conceal considerably more exuberant spaces. The contrast has become a local example of how a Federation cultural trait can change expression without disappearing.
+
+#### 10.10.7 Lopati
+
+Lopati settlement is geographically selective. Magor's hot lowlands and above-standard gravity are close to the inverse of the cold, low-gravity environment in which their species evolved. Surface work therefore carries a greater physiological and cooling burden, and few Lopati choose permanent residence in active volcanic provinces unless their role is specialised enough to justify it.
+
+Their strongest communities are at Farwatch, Rimehook, Southglass, and a handful of cold-storage or salvage installations. Lopati Ark-ship traditions translate unusually well into Magori logistics: systems are expected to run for long periods, consume little, accept salvaged components, and preserve critical knowledge against isolation. Several polar workshops maintain local technical Arkhives containing water-system histories, ice-route records, and repair adaptations alongside broader Lopati cultural material. The practice has been adopted informally by neighbouring non-Lopati crews because a complete maintenance history is valuable on any world where replacement parts may be thousands of light-years away.
+
+#### 10.10.8 Cross-Species Magori Life
+
+The practical result is not cultural homogenisation. Khaured ritual, Onoros cohort organisation, Human subcultures, Robotron rights politics, Altan hierarchy, Elgem social duality, and Lopati preservation traditions remain visible. What becomes shared is the local grammar through which those differences operate: water obligations, refuge etiquette, maintenance reputation, heatline law, Wave shutdown, and contempt for single-point failure. A person can therefore be unmistakably Khaured, Elgem, Lopati, or Nordic and equally unmistakably Magori.
+
+Mixed-species schools and workplaces are the main institutions in which that identity reproduces itself. Children learn that different bodies require different heat, humidity, gravity support, food, or medical responses, but they also learn the same alarms and evacuation codes. Apprentices become familiar with several engineering traditions because no remote settlement can afford to refuse a useful solution on grounds of origin. The frontier's strongest integration mechanism is consequently neither ideology nor Federation policy. It is repeated dependence under conditions where everyone remembers which neighbour kept the system running last time.
+
+## 11. Governance and Power Structure
+
+**FESS Classification:** SOC-GOV - Political Command Systems
+
+Government on Magor is layered but thin. Federation authority exists, corporations hold enormous practical leverage, and local institutions fill the distances between them. The political order works best when every actor remembers that no one can afford to destroy the systems everyone else needs.
+
+### 11.1 Federation Interactions
+
+Federation administration concentrates on orbital control, baseline law, strategic resource regulation, biosphere protection, major incident response, and licensing. The Far Reach Office maintains authority but cannot provide dense everyday government across a planet of this size and population distribution.
+
+Local officials consequently receive unusual discretion. A Cinderhook administrator may interpret a regulation differently from a company-town authority because the immediate infrastructure and risks differ. Central agencies periodically attempt standardisation, usually after a high-profile incident. Local resistance tends to focus not on the law's purpose but on rules written without realistic response times.
+
+The most persistent institutional argument concerns inspection. The Federation wants more independent oversight of high-risk concessions. Operators reply that visiting inspectors cannot remain current on rapidly changing sites. Recent compromise has shifted toward permanent local inspection teams with rotating off-world audit staff.
+
+### 11.2 Magmazone Industries
+
+Magmazone is the dominant industrial actor and the only organisation capable of operating integrated lava-bound Trilium extraction at very high throughput across multiple provinces. The company is multi-racial but historically and operationally Khaured-led. Khaured industrial houses supplied much of the capital, heavy engineering doctrine, and leadership that established its molten-world specialism; Onoros cohorts became the scale workforce that allowed those systems to operate continuously; Human Nordics provide a large share of heavy mobile labour and field engineering; Robotrons undertake selected high-hazard operations; and smaller Altan, Elgem, and other specialist teams fill roles that cannot be reduced to bulk industrial capacity. It controls proprietary equipment, company settlements, landing infrastructure, repair chains, specialist staff, and long-term export contracts.
+
+Its strategic strength is competence rather than formal sovereignty. Many settlements distrust the corporation while relying on it for parts, emergency engineering, Onoros-staffed processing capacity, Khaured heavy-lift systems, Robotron hazard entry, or transport. Magmazone leadership is acutely aware that open political domination would provoke Federation intervention and unify freeclaim opposition. The company therefore prefers dependency that can be described as service provision. Its multi-race composition also complicates simple anti-corporate politics: a settlement may resent Magmazone executives while maintaining close personal and professional ties with the Khaured, Onoros, Nordic, or Robotron crews who actually keep a regional system functioning.
+
+Current disputes centre on Red Claim 61, emergency access to proprietary heatlines, and the proposed expansion of Pyrestead's water network into independent territory. Magmazone argues that integrated systems improve safety. Opponents argue that every integrated system becomes another lever the company can pull later.
+
+Magmazone should not be treated as a single mind. The Far Reach Operations Directorate, headquartered at Pyrestead, is dominated by engineers and long-serving Magori managers who tend to favour conservative expansion because they will personally inherit the consequences of failure. The Off-World Growth Office, which negotiates investment and export contracts from core Federation space, presses more aggressively for throughput and standardisation. The company's Environmental Risk Unit frequently sides with local regulators against both, particularly where mutation zones or water systems create liabilities that cannot be isolated to one concession.
+
+A fourth power centre is the Maintenance Cooperative, an internal network of senior technicians whose formal rank understates their influence. A separator design can be approved by executives and still fail operationally if the people responsible for keeping it alive believe its service margins are unrealistic. Several famous Magmazone 'management reversals' were in practice concessions to maintenance staff who refused to certify a deployment. Pyrestead residents sometimes joke that the company is governed by three boards: the one that signs contracts, the one that runs the plants, and the one that knows where the spare seals are.
+
+These internal divisions create openings for local politics. Cinderhook negotiators often seek support from Magmazone's risk engineers when opposing rapid concession growth. Freeclaim groups sometimes cooperate with local Magmazone technicians on common heatline standards while publicly attacking the corporation's market power. Conversely, off-world executives can use corporate capital to bypass a cautious local director by funding a new project through a separate subsidiary. The resulting politics are less a simple corporate-versus-frontier divide than a struggle over which version of Magmazone becomes dominant on Magor.
+
+The most important named figure in current corporate politics is Director Salen Vey, head of Far Reach Operations. Vey has built a reputation for cancelling profitable work when safety margins narrow and is consequently trusted more than most corporate executives by settlement authorities. That trust has become a liability inside Magmazone, where critics argue that the Far Reach office has absorbed too much local culture and no longer pursues growth aggressively enough. Vey's eventual replacement is therefore regarded across Magor as a political event rather than a routine corporate appointment.
+
+### 11.3 Khaured Heavy Extraction Interests
+
+Khaured organisations are disproportionately represented in Magor's harshest concessions and remain the principal cultural and industrial force behind Magmazone's surface operations. Their heavy equipment, disciplined work culture, high-gravity physiology, and tolerance for physically severe environments make them effective partners for both the corporation and independent operations. Most large Khaured sites also employ substantial Onoros cohorts, so the practical unit encountered in the field is often Khaured-led and Onoros-supported rather than Khaured-only.
+
+They are not a unified bloc. Some Khaured firms favour deep partnership with Magmazone. Others resent corporate control of separator technology and seek independent industrial capacity. Kharad Hold has become the centre of this second tendency, investing heavily in armoured extraction systems and local fabrication.
+
+The largest present conflict concerns ecological restrictions. Khaured operators argue that some protected movement corridors can be engineered around without reducing species viability. Federation xenobiologists counter that migration routes on Magor change after eruption and cannot be treated as fixed lines. The dispute has delayed several high-value concessions and increasingly attracts broader political attention.
+
+### 11.4 Onoros Labour, Representation and the Khaured-Onoros Compact
+
+The Khaured-Onoros relationship is one of the structural facts of Magor's industrial economy. Large Onoros Drone workforces are embedded in Magmazone and Khaured-controlled operations, while Director caste Onoros oversee cohort-scale activity and interface with Khaured managers. Their efficiency, low resource consumption, dark-adapted vision, and willingness to operate within highly regimented systems make them particularly valuable on a world where every additional worker creates air, water, food, and cooling demand.
+
+The political problem is that the same arrangement resists ordinary Federation categories. Onoros political representatives historically follow the Khaured line closely, while the species-wide telepathic connection to the Maxa raises questions about where individual preference, collective preference, caste obligation, and external influence begin and end. No Magori authority claims to have resolved those questions. The Far Reach Office therefore concentrates on observable standards: safety, medical access, freedom from deliberate abuse, accurate casualty reporting, and the right of an Onoros individual or Director cohort to request Federation review.
+
+Khaured operators frequently resent the implication that the alliance is inherently exploitative and point to long-standing Onoros participation as evidence of consent. Labour organisations reply that duration is not proof of equality. The sharpest disputes occur when off-world activists demand immediate application of Human-style individual labour contracts to Drone cohorts whose social organisation does not map neatly onto them. Magori regulators have so far preferred incremental safeguards over a legal fiction that all parties understand to be incomplete.
+
+This argument matters beyond ethics because Onoros labour is economically significant. A sudden withdrawal of Drone cohorts from major Magmazone plants would reduce output, raise life-support demand as replacement labour arrived, and place immediate pressure on logistics. The Onoros question is therefore inseparable from corporate resilience, Khaured political influence, and the Federation's willingness to examine an arrangement on which strategically valuable Trilium production depends.
+
+### 11.5 Claim Courts and Writ Stations
+
+Claim Courts are decentralised frontier tribunals handling extraction rights, salvage, contract failure, water debt, route access, and infrastructure damage. Their quality varies from highly respected professional benches to local institutions vulnerable to capture by wealthy interests.
+
+Legitimacy depends on enforcement. A technically correct judgement is meaningless if no hauler recognises it and no Ash Marshal will enforce it. The strongest courts therefore cultivate relationships with settlement councils, trade networks, and independent registries rather than relying only on Federation statute.
+
+One unresolved legal question concerns **mobile resource ownership**. Courts disagree over how long a claimant retains rights to Trilium-bearing lava after it crosses a surveyed boundary. The issue has produced contradictory rulings and is likely to reach a higher Federation review body.
+
+### 11.6 Ash Marshals and Settlement Security
+
+Ash Marshals combine law enforcement, rescue coordination, industrial shutdown authority, and evacuation command. The title varies locally, but the functional model is widespread because Magor does not permit a clean division between public safety and environmental hazard.
+
+A competent Ash Marshal must understand machinery, weather, routes, local politics, and crowd behaviour. Firepower matters less than the ability to recognise when a valve, road, or filter problem is about to become a mass-casualty event. This gives experienced Marshals considerable local prestige.
+
+Their power is controversial. During declared emergencies they can halt commercial work and override some claim access. Companies periodically accuse them of excessive caution; survivors of past disasters usually accuse them of the opposite. Several settlements now require post-incident public review of emergency orders to preserve trust without weakening immediate authority.
+
+### 11.7 Freeclaim Networks
+
+Freeclaim networks link independent prospectors, haulers, repair crews, assay houses, family settlements, and mobile processors. They compete fiercely over discoveries but share hazard information more readily than conventional competitors because concealed danger can kill people who have nothing to do with the original claim.
+
+The **Freeclaim Cooperative Web** is not a government. It has no permanent executive and cannot compel participation. Its influence comes from shared route data, emergency water, equipment exchange, and the ability to organise coordinated purchasing or political resistance.
+
+Its greatest weakness is fragmentation. Magmazone negotiators can often reach agreements with individual groups that the wider network opposes. Younger freeclaimers have proposed stronger permanent representation, while older operators fear that institutionalising the network would reproduce the bureaucracy they value independence from.
+
+Several freeclaim institutions have acquired enough longevity to influence the network without controlling it. The Emberline Assay Exchange publishes independent verification standards and maintains a reputation for exposing inflated prospect claims regardless of who submitted them. The Red Wheel Haulers' Compact coordinates emergency transport across more than forty small carriers. The Open Seal Workshops are a loose alliance of repair houses committed to publishing non-proprietary replacement specifications for critical life-support and mobile extraction components.
+
+Individuals matter because reputation is portable. Mara Venn, a veteran route modeller based in Emberline, is widely credited with popularising the Heatboard system after demonstrating that competing haulers lost less money when they shared hazard closures in real time. Kesh Tor, a Khaured-born independent engineer who left a major corporate contractor, designed one of the first modular phase-fork assemblies that could be repaired without Magmazone-only tooling. Chief Arbiter Ilyra Sen of Cinderhook has become influential through a series of rulings distinguishing emergency access rights from resource ownership, though opponents accuse her court of steadily expanding civic authority into what should remain private contract space.
+
+None of these people commands the Freeclaim Cooperative Web. That is precisely why they matter. They provide focal points around which temporary coalitions can form. A controversial insurance rule may bring engineers behind Tor, haulers behind Venn, and legal challengers before Sen without creating a permanent organisation afterward. This fluid coalition politics makes freeclaim resistance difficult to suppress and equally difficult to negotiate with.
+
+The generational dispute over permanent representation is sharpening. Younger operators argue that a rotating elected council could negotiate standards, insurance, and Federation policy without erasing local autonomy. Older crews remember previous attempts at centralisation that became captured by large claims and brokers. Emberline currently hosts an annual Open Heatline Assembly where the argument is conducted in public, loudly, and with no expectation that the next meeting will settle it.
+
+### 11.8 Volcanic Forges
+
+Volcanic Forges are specialist Magori craft houses working with refractory metals, volcanic glass, ceramics, impact alloys, and lava-derived composites. They are culturally prestigious because their products embody the frontier ideal of material that survives repeated heat and repair.
+
+They do not possess true Altan Biometal splicing. Some forge houses can prepare high-temperature components later incorporated into certified M-Caster commissions by Altan specialists, but the Trilium-bearing stage remains under Altan control. The Galactic Fireblade is the famous historical example: Magori Azingoth material contributed to the weapon, but its safe Biometal engineering belongs to a separate Altan discipline.
+
+A current commercial dispute concerns Magmazone's attempt to patent several industrial treatments derived from traditional forge practice. The Forge Houses argue that the techniques existed as community knowledge long before corporate registration. The conflict is small in economic scale but enormous in cultural symbolism.
+
+### 11.9 Smuggling, Sabotage and Shadow Power
+
+Magor's shadow economy is fragmented rather than centrally organised. Burnline Syndicates, corrupt claim brokers, covert haulers, illegal separator crews, and local gangs trade stolen concentration maps, forged records, coolant, Trilium-bearing composite, and proprietary industrial data.
+
+Information is often more valuable than material. Knowing where a new flow will expose rich Trilium can allow a rival to stake adjacent ground before an official survey. Stolen separator settings can make otherwise unusable equipment commercially viable. Sabotage similarly targets timing and logistics rather than direct destruction whenever possible.
+
+Criminal influence is strongest where legitimate institutions fail. A Burnline group may provide transport or credit to a remote settlement that no legal operator considers profitable. This can create genuine local loyalty even while the same group steals from neighbouring claims. Federation strategy increasingly treats shadow power as a governance problem rather than solely a policing problem.
+
+## 12. Culture and Identity
+
+**FESS Classification:** ANT-CUL - Cultural Identity Systems
+
+Magori culture is a culture of things that still work. Repair, reputation, water discipline, and calm under alarm carry moral weight. The planet's Wild West reputation contains truth, but the deeper identity is not lawlessness. It is a society built where institutional reach is short and consequence is immediate.
+
+### 12.1 Far-Reach Mentality
+
+Being the most remote Frontier Planet shapes how residents interpret authority. Self-reliance is less an ideology than an adaptation to response time. A settlement that cannot survive until outside help arrives is not considered responsibly settled, regardless of how strong its legal claim may be.
+
+This produces pride and suspicion in equal measure. Magori residents respect expertise but dislike officials who arrive after an incident and describe what should have been done without understanding what resources were actually available. At the same time, many younger residents reject the reflexive assumption that every off-world standard is naive. They argue that "local knowledge" can become an excuse for old habits that survive only because nobody has challenged them.
+
+### 12.2 Claim Honour and Practical Reputation
+
+Reputation moves through hauler networks, repair yards, Claim Courts, and settlement markets faster than formal administrative records. An operator who pays debts, reports hazards honestly, keeps routes open during emergencies, and maintains equipment earns trust that can lower prices and open doors across the planet.
+
+The inverse is equally powerful. A claimant who falsifies a thermal scan may never be convicted, but repair yards can refuse priority service and haulers can demand payment in advance. This informal enforcement is especially important in regions where formal courts are distant.
+
+"Claim honour" therefore does not mean genteel behaviour. A hard negotiator can be respected. A violent person can still be trusted in business. The dishonour lies in endangering shared systems, breaking emergency obligations, or forcing others to absorb a risk that was deliberately concealed.
+
+### 12.3 Heatline Slang and Signal Systems
+
+Magori speech contains unusually precise vocabulary for environmental conditions. Different words distinguish young basalt that is cool on top but hot beneath, ash that will abrade machinery from ash that merely obscures vision, reliable water from water that exists but is too expensive to process, and routes that are legally open from routes that are actually passable.
+
+Radio language is similarly compressed. Heatline convoys use short codes for refuge state, filter load, thermal change, animal movement, and water reserve. Beacon colours and pulse patterns are designed to remain legible through poor visibility. New arrivals sometimes find the system cryptic, but it reduces the number of sentences required when a crew is already managing several hazards at once.
+
+### 12.4 Eruption Rituals and the Magori Wave
+
+The Magori Wave has become a cultural clock because it is one of the few large hazards that can be anticipated after onset with unusual confidence. Settlements in the affected region hold shutdown ceremonies, maintenance gatherings, memorial readings, and public observation from protected sites.
+
+Five-Bell Junction uses the most formal ritual system. Each member of the chain has an associated warning tone. The first marks preparation, the second closure of exposed industry, the third full refuge readiness, the fourth remembrance of past losses, and the fifth reopening review rather than automatic return to work.
+
+Elsewhere the customs are looser. Contracts may be dated "three Waves after" a known event. Families mark anniversaries by which volcano was active. Children collect cooled non-hazardous ash layers. Scientists sometimes object to mystical language about the planet "keeping time," but most residents understand the metaphor perfectly well without confusing it for geophysics.
+
+### 12.5 Forge Culture and Material Craft
+
+Magori material culture celebrates durability and visible history. Common crafts include refractory ceramics, slag glass, etched basalt, heat-blackened metal, impact-metal jewellery, and cooled-lava ornament. Repair seams are often left visible rather than polished away.
+
+The aesthetic reflects necessity. Objects are expected to be opened, patched, rebuilt, and handed down. A tool may carry parts from three manufacturers and two generations of owners. In older settlements, maintenance marks function almost like inscriptions. Families remember who replaced a housing plate or rebuilt a pump after a famous eruption.
+
+Volcanic Forge products formalise this ethic at the highest craft level. Their best work is not valued because it looks untouched by heat, but because it has been designed to survive heat repeatedly and reveal how it has survived.
+
+### 12.6 Weapons, Tools and Memory
+
+The line between weapon and working tool is blurred on Magor because cutting, breaching, climbing, and extraction equipment frequently serves defensive purposes. Heavy industrial blades, bolt launchers, and impact tools are common even among workers who do not identify as security personnel.
+
+This does not make every settlement militarised. Weapons are often treated with the same practical standards as machinery: maintain them, do not display them unnecessarily around shared systems, and never use a weapon whose discharge can compromise the environment around you.
+
+Memorial practice frequently uses equipment. Metal from a destroyed crawler may be incorporated into a new gate. A dead engineer's hand tool may remain in service with their name stamped beside later repair marks. The custom reflects a worldview in which continuity is demonstrated by keeping useful things working rather than sealing them away.
+
+### 12.7 Myths of Fire and the Buried Sand
+
+Magori folklore rarely separates completely from practical warning. Stories about volcanoes remembering injuries encode old eruption zones. Tales of voices beneath fumaroles warn children away from gas vents. Accounts of travellers swallowed by pale dunes preserve the real danger of hidden cavities in the Glass-Sand Anomaly.
+
+The Anomaly has attracted the richest body of speculative myth. Some stories describe a buried world predating modern Magor. Others claim an ancient city was vitrified and ground into sand. A minority connect the dunes to Trilium or an unknown civilisation. None has evidentiary support sufficient for the dossier to treat it as history.
+
+The uncertainty is culturally productive. Prospectors seek deposits, archaeologists seek structure, xenobiologists seek isolated habitats, and locals tell all of them that the sand has already swallowed cleverer people. The dossier's current position is intentionally conservative: something about the region's geological history remains unresolved; the absence of a complete explanation is not evidence for the most dramatic one.
+
+### 12.8 Food, Domestic Life and Leisure
+
+Most Magori meals are eaten inside sealed buildings, which has shaped cuisine as much as ingredient supply. Open-flame cooking is uncommon in pressure-managed settlements, not because residents fear fire symbolically, but because heat and particulates are already engineering problems. Induction plates, sealed ovens, fermentation cabinets, pressure cookers, and communal bake systems dominate domestic kitchens.
+
+The staple diet combines imported grains and nutrient concentrates with locally produced fungal protein, hydroponic vegetables, algae oils, compact aquaculture, and limited livestock. Cinderhook is known for black-crust flatbreads baked against ceramic heat plates and served with sharp fermented vegetable pastes. Pyrestead cafeterias favour nutritionally exact mixed bowls designed around shift schedules, a style residents affectionately mock as 'corporate geology'. Rimehook cuisine uses more preserved cold-water protein and fresh greens because cooling is cheaper there. Sulphur Gate specialises in smoked and mineral-cured foods, although the smoking occurs in controlled clean-air chambers rather than the ambient atmosphere.
+
+Wild native food is consumed cautiously. Several springland plants and Glasscap fungi are edible after processing, but their tendency to concentrate metals makes casual foraging unsafe. Hunting large native animals is uncommon and heavily regulated. Meat from healthy Furnacebacks or Basalthorns has been eaten historically, but the cost of contamination screening and the ecological effect of removing breeding adults make it a niche tradition rather than a staple.
+
+Domestic architecture is compact and inward-looking. Homes are arranged around shared cooled corridors, internal courtyards, or common rooms rather than exterior gardens. Mixed-species households often subdivide the same pressure envelope into environmental zones: cooler and lower-gravity-assisted rooms for Lopati residents, higher humidity for species that require it, reinforced floors and furniture scaled for Khaured mass, or charging and maintenance bays incorporated into Robotron households. Wealth is often displayed through the ability to provide these differences without forcing the whole household into one compromise climate, alongside private water allocation, acoustic insulation from machinery, and windows looking onto protected internal greenery. A home with a living wall of plants can carry more status than one with expensive exterior cladding.
+
+Leisure follows the rhythm of alarms but is not dominated by them. Public bath houses using carefully controlled recycled water are important social institutions in Cinderhook and Sulphur Gate, partly because private bathing allowances are stricter in older districts. Music venues favour low-frequency instruments and percussion that remain audible through dense construction. Workshop cafes stay open through shift changes and function as meeting places for mechanics, haulers, students, and claim brokers.
+
+Popular sports reflect the environment without simply reenacting danger. Crater running takes place on certified cool rim courses. Hauler trials test precision driving, recovery technique, and route judgement rather than raw speed. Indoor zero-dust climbing walls are common because exterior cliffs cannot always be trusted after seismic events. Five-Bell Junction hosts a famous refuge relay in which teams move equipment and simulated casualties through sealed corridors under timed system failures. Outsiders sometimes find this excessively vocational. Residents find sports that do not reward useful competence slightly pointless.
+
+Children and older residents occupy public space differently from transient workers. Long-term towns have libraries, music schools, indoor gardens, small theatres, and quiet cooled halls deliberately separated from industrial districts. The existence of these spaces matters politically. A settlement that provides only work, sleep, and survival tends to lose families as soon as they can leave. Magor's oldest communities endure because they have learned that habitability is more than continued biological function.
+
+### 12.9 Faith, Mourning and Community Memory
+
+Magor has no single dominant religion, but hazard has shaped how many traditions are practised. Federation faiths brought from other worlds adapt to sealed spaces, evacuation schedules, and the practical impossibility of always preserving sacred sites. Portable shrines, digital memorial archives, compact ritual objects, and ceremonies timed around shift changes are common across species communities.
+
+A specifically Magori memorial culture has developed alongside them. Names of the dead are often attached to functioning infrastructure rather than isolated monuments: a refuge door, condenser pump, heatline marker, workshop bench, or rebuilt vehicle. The practice reflects the belief that remembrance should remain useful. Families may object strongly if a named machine is scrapped without ceremony even when its components are technically obsolete.
+
+The Wave provides the nearest thing to a planetwide civic ritual. Five-Bell remembrance is formally secular but frequently incorporates prayers, songs, or species-specific mourning practices. The fourth warning tone is traditionally followed by a minute in which nonessential machinery is silenced where safety permits. In a world defined by fans, pumps, rails, and cooling systems, the sudden quiet has become emotionally powerful enough that even settlements far outside the Wave region sometimes observe it.
+
+Death away from settlements presents practical problems. Bodies exposed to Trilium, ash contamination, or extreme heat may not be recoverable safely. Magori culture therefore places less emphasis on physical remains than some Federation traditions. Verified location, personal tools, recorded final communications, and recovered equipment can carry the memorial role when a body cannot return. This can create conflict with off-world families whose customs require burial or direct physical rites.
+
+Religious disagreement exists, particularly around the tendency to describe Magor as testing, judging, remembering, or keeping time. Most residents use such language metaphorically. Some spiritual groups interpret the Wave and the planet's harshness more literally. Scientists generally tolerate those beliefs until they influence safety decisions. The unwritten boundary is clear: a ritual may accompany an evacuation, but it may not delay one.
+
+### 12.10 Arts, Sport and Popular Media
+
+Magori art is dominated by material, sound, and documentary memory. Slag glass, etched basalt, repaired metal, heat-discoloured alloys, ash pigment, and ceramic fragments are common media because they are abundant and carry visible histories. Artists often incorporate provenance into the work, noting which eruption, abandoned claim, or dismantled machine supplied the material.
+
+Music differs by settlement. Cinderhook supports dense percussion ensembles influenced by the rhythm of repair yards and magrail machinery. Rimehook has a tradition of long sustained vocal pieces performed in cool resonant chambers cut into ice-protected rock. Khaured communities around Kharad Hold favour formal martial and industrial compositions, while freeclaim convoys circulate portable recordings whose lyrics change from crew to crew. Cross-species hybrid forms are increasingly treated as distinctly Magori rather than imported traditions placed side by side.
+
+Local media is unusually practical. Hazard feeds, claim reports, repair bulletins, and political commentary blur together because the same information can affect survival and profit. The Cinderhook Heatline Service is the most widely trusted independent broadcaster, combining route status with investigations into concession disputes. Pyrestead's corporate network is more polished and technically detailed but viewed with suspicion when covering Magmazone controversies. Emberline's Open Band carries dozens of small channels, some reliable and some little more than rumour transmitted at high volume.
+
+Humour is dry, technical, and often directed at unnecessary optimism. Jokes about new equipment failing before old equipment, officials discovering volcanoes after they erupt, and corporate safety slogans are nearly universal. The most enduring Magori insult is not cowardice but 'single-loop', meaning a person or plan with no redundancy. To call an idea single-loop is to say that it works only as long as nothing unexpected happens.
+
+Popular fiction tends to romanticise the Write-Off Years, the Ashline Feuds, lone prospectors, and impossible rescues. Older residents complain that these stories encourage exactly the reckless heroics modern doctrine rejects. Younger audiences counter that nobody watches a drama about correctly filling out a filter replacement schedule. The resulting cultural argument mirrors a broader one: Magor admires competence, but it also needs stories larger than maintenance logs.
+
+Annual festivals reveal how far the planet has moved from a temporary extraction camp. Cinderhook's Repair Week combines markets, public machinery restoration, music, and apprenticeship recruitment. Emberline's First Stake festival commemorates the town's founding with mock claim disputes judged by retired arbiters. Rimehook holds the Clear Melt at the start of its safest ice-haul period. Sulphur Gate's Lockout Day celebrates labour solidarity while carefully avoiding interference with actual emergency routes. These events are increasingly important markers of Magori identity for residents who have never worked a Trilium claim at all.
+
+## 13. Strategic Outlook
+
+**FESS Classification:** STR-FOR - Planetary Risk and Future Trajectory
+
+Magor is strategically stable only in the narrow sense that its dangers are familiar. The deeper uncertainty concerns growth: how much additional extraction, population, and infrastructure can be added before the systems that made settlement possible become less resilient rather than more.
+
+### 13.1 Environmental Instability Forecast
+
+No current model indicates imminent planetwide runaway volcanism. Magor is expected to remain intensely active but regionally variable. The most likely environmental losses over coming cycles are local: caldera escalation, lava-route migration, ash-darkening of polar ice, springland disruption, and renewed activity beneath terrain currently treated as dormant.
+
+The Magori Wave is considered operationally stable in sequence but not immutable. Recent gas chemistry at Sevra, the fifth member, has shifted enough to justify additional observation. The change does not currently indicate failure of the Wave sequence, but it is a reminder that centuries of regularity are not the same thing as a physical guarantee.
+
+Climate-volcanic interaction is the largest modelling challenge. Repeated high-aerosol years can alter regional temperature and rainfall, which in turn affect ice, water capture, vegetation recovery, and migration. The danger is not a sudden transformation into another planetary class. It is the accumulation of modest changes that push marginal settlements below viability.
+
+### 13.2 Economic Trajectory
+
+Demand for Magor's specialist Trilium stream is rising, particularly for research and industrial applications interested in volcanic composite behaviour. Volcanic metals, geothermal engineering, refractory materials, and extreme-environment equipment remain significant secondary exports.
+
+Magmazone is likely to expand unless concession review becomes more restrictive. Its advantage comes from scale, integrated logistics, and proprietary separation systems. Independent operators will remain viable where new terrain creates rapid opportunity, where smaller mobile rigs can reach deposits before corporate infrastructure arrives, and where local politics favour diversified ownership.
+
+The principal brake on growth is not resource scarcity. It is support cost. Water, cooling, maintenance, habitat construction, orbital capacity, and worker turnover become increasingly expensive as development pushes into more dangerous regions. A rich deposit can therefore remain economically irrelevant if the infrastructure required to reach it creates too much new vulnerability.
+
+### 13.3 Conflict and Security Projections
+
+Security analysts expect sabotage, claim fraud, theft, and infrastructure coercion to increase faster than organised warfare. The combination of valuable mobile deposits and thin enforcement rewards actors who can manipulate information or disable competitors without attempting territorial occupation.
+
+Water and coolant systems are likely coercion targets because temporary disruption can halt production without destroying the underlying resource. This possibility has driven investment in distributed storage and independent emergency loops. The same logic is pushing settlement authorities to classify certain private utilities as shared survival infrastructure during declared crises.
+
+A single mass-casualty industrial disaster could alter the political landscape rapidly. Federation regulators would face pressure for stricter control, while corporate operators would argue that only larger integrated systems can meet the new standards. Freeclaim networks fear that a disaster caused by one reckless independent operation could become the justification for eliminating small claims altogether.
+
+### 13.4 Galactic Remoteness and Supply-Line Risk
+
+Magor's distance from the Federation centre makes local stockpiles and fabrication capacity strategically important. Farwatch maintains emergency reserves, but its storage cannot replace the full planetary supply chain. Critical components are therefore categorised by whether they can be manufactured locally, repaired locally, substituted, or only imported.
+
+The most vulnerable systems are those using proprietary components with no compatible alternative. Several settlements now impose procurement rules requiring at least one non-proprietary emergency pathway for air, water, or cooling. Magmazone has resisted applying the same principle to specialist separator technology, arguing that uncontrolled substitutes create more risk than they remove.
+
+Long-distance disruption would affect Magor unevenly. Cinderhook and Pyrestead could remain operational for extended periods. Small freeclaim towns might survive if they retained water and fabrication but lose economic purpose if export traffic stopped. Farwatch would become the political centre of any prolonged isolation because every remaining interstellar link would pass through it.
+
+### 13.5 Long-Term Futures
+
+Four broad futures dominate Federation scenario planning.
+
+**Managed specialist frontier:** Magor remains sparsely populated, extraction grows slowly, and safety compacts expand alongside industry. This is the current preferred Federation outcome.
+
+**Corporate consolidation:** Magmazone and allied operators gradually absorb enough transport, water, repair, and extraction capacity that independent claims survive mainly at the margins. The planet remains productive but politically dependent on a small number of industrial systems.
+
+**Fragmented boom frontier:** High Trilium prices produce rapid settlement and weak standards. New claims proliferate faster than water and emergency infrastructure. A cycle of accidents, abandoned towns, and criminal growth follows.
+
+**Partial strategic retreat:** Major ecological or industrial disasters make some provinces uneconomic, leading to withdrawal from the most dangerous zones while core settlements remain. This would reduce output without ending Magor's Federation presence.
+
+The Glass-Sand Anomaly represents an additional wildcard. A major mineral, archaeological, or Trilium discovery there could redirect investment away from existing volcanic provinces and create a new settlement axis almost overnight.
+
+## 14. Field Operations and Survival Doctrine
+
+**FESS Classification:** OPS-SUR - Mobility and Hazard Response Doctrine
+
+Field doctrine on Magor is conservative because the cost of being early is usually inconvenience and the cost of being late can be irreversible isolation. Most fatal incidents begin with a small decision to continue a little farther, postpone one maintenance cycle, or trust one model after the environment has started contradicting it.
+
+### 14.1 Terrain Mobility and Route Planning
+
+Every surface mission requires simultaneous review of terrain, thermal state, ash forecast, water availability, active lava, refuge spacing, and biological movement. Static maps are insufficient near active provinces. Crews use crater rims, old basalt plateaus, stable highlands, and surveyed tube networks as navigation anchors because low ground changes faster.
+
+Two-route doctrine is mandatory for major industrial missions. The routes must be genuinely independent rather than two roads sharing one vulnerable bridge, valley, tube, or landing field. Small teams unable to maintain full redundancy compensate with shelter capacity sufficient to survive until a route can be reopened.
+
+The most common planning error is assuming that an outbound route will remain available for the return journey. Convoy leaders therefore receive live updates throughout a mission and are authorised to reverse course before a formal closure if multiple indicators deteriorate.
+
+### 14.2 Heatline Convoy Operations
+
+Heatline convoys move water, food, filters, machinery, ore, and people between settlements across terrain whose safe path changes with volcanic conditions. Vehicles are selected according to ground type: tracked haulers for broken basalt, heat-skirt crawlers for young flows, high-clearance transports for ash deposits, and specialised tankers for cryogenic or high-purity water.
+
+Spacing is deliberately generous. One disabled vehicle should not trap the entire convoy within the same thermal or ash hazard. Recovery equipment is distributed rather than carried solely by the lead or tail vehicle. Every major convoy carries enough independent water and cooling for an unplanned stop at the nearest thermal refuge.
+
+Mixed commercial convoys are common because cooperation reduces risk. Rival companies may travel together while still competing at destination. During major crises, Ash Marshals can requisition convoy capacity for evacuation or life-support cargo under emergency statutes.
+
+### 14.3 Lava and Pyroclastic Hazard Protocols
+
+Lava hazards are managed through prediction rather than confrontation. Crews monitor subsurface heat, ground deformation, gas release, and tube resonance. Fresh basalt is treated as potentially hollow until deep scanning proves otherwise. Crossing a visually cool surface without subsurface confirmation is prohibited in high-risk zones.
+
+Pyroclastic hazards require different behaviour. Dense hot currents cannot be outrun reliably once a crew is committed to a valley. Early lateral withdrawal is therefore essential. Shelter behind terrain is only useful if modelling confirms the terrain will deflect rather than funnel the flow.
+
+Industrial sites maintain sacrificial channels, blast shutters, and heat-resistant barriers where practical, but these are intended to buy time rather than stop major events. The correct response to a large eruption is relocation of people, not confidence in structures.
+
+### 14.4 Atmospheric Hazard Protocols
+
+Surface personnel carry filtration suited to ash and sulphur exposure even in regions classified as breathable. Gas sensors must alarm at conservative thresholds because physical exertion and heat increase inhalation burden. Exposed skin, optics, joints, and suit seals are decontaminated after significant sulphur or fine-ash events.
+
+Positive-pressure refuge is mandatory during severe ashfall. Vehicle engines are reduced or shut down where intake damage becomes more dangerous than temporary immobilisation. Solar generation is treated as unavailable during prolonged plume events, which is why shelters require independent stored or geothermal power.
+
+Confuser devices remain sealed during field operations unless a mission specifically authorises them. A device that would be considered a controllable tactical tool elsewhere can create unpredictable secondary accidents under Magori atmospheric conditions.
+
+### 14.5 Rescue and Extraction Procedures
+
+Magor rescue doctrine assumes that direct surface access may already be lost by the time a distress call is confirmed. Response plans therefore combine crawler teams, alternate heatlines, crater-rim staging, orbital lift, and remote medical guidance. Farwatch can provide rapid lift in selected conditions, but ash and plume closures frequently remove the atmospheric option.
+
+In heat and ash incidents, cooling and breathable air take priority over conventional trauma stabilisation when a casualty remains exposed. Medical teams train specifically for burns complicated by ash contamination, sulphur inhalation, dehydration, and Trilium exposure.
+
+Crews are expected to carry enough independent shelter to remain alive through normal rescue delays. A distress call without shelter is not treated as moral failure, but mission planners who deliberately send teams beyond rescue tolerance without refuge capacity face severe review.
+
+### 14.6 Frontier Fieldcraft
+
+Experienced Magori fieldcraft includes reading ash grain, lava sheen, surface cracking, sulphur changes, thermal shimmer, animal movement, and the behaviour of condensation on exposed metal. None replaces instrumentation. The value lies in recognising when the environment has changed before a distant model catches up.
+
+Water discipline is equally practical. Crews know the difference between drinking reserves, cooling reserves, and process water. Using one category to solve another problem can create a later emergency that appears unrelated. Good field teams record every transfer because memory becomes unreliable under heat and fatigue.
+
+Local doctrine defines heroism narrowly: return with everyone, preserve rescue capacity, and do not turn a recoverable equipment loss into a body-recovery operation.
+
+### 14.7 Xenobiological Engagement Doctrine
+
+Large native animals are avoided rather than confronted wherever possible. Vibration sensors, thermal imaging, known movement corridors, and recent ecological reports inform route planning. Deterrent systems should preserve an escape direction rather than surround animals.
+
+Trilium-lava mutation zones require stricter rules. Crews do not pursue contaminated animals into settlement approaches without containment support. Carcasses, shed armour, nest material, and biological fluids are screened before handling. A visually dead animal can still represent a Trilium contamination source.
+
+Where industrial operations repeatedly provoke territorial behaviour, project design must be reviewed. Killing individual animals is rarely a durable solution if the installation itself blocks a migration route or occupies a water source.
+
+### 14.8 Emergency Protocols
+
+Magori incident reporting classifies emergencies across five interacting axes: **heat, air, water, resonance, and route**. A sixth security axis is added when sabotage or violence is suspected. The system is designed to reveal compound failure quickly. A small resonance problem with stable cooling and clear routes differs fundamentally from the same resonance problem during an ash closure with low water reserves.
+
+Ash Marshals may order evacuation or industrial shutdown regardless of commercial objection when thresholds are met. Trilium-lava containment loss requires immediate reporting because molten movement can carry contamination beyond the original site. Concealment of such a loss is among the most serious industrial offences under Magor-specific Federation regulation.
+
+After-action review is mandatory for major incidents. The purpose is not only fault assignment. Each review asks which assumption failed first, what indicators were available, and whether a local lesson should become planetwide doctrine.
+
+## 15. Trilium Systems and Industrial Infrastructure
+
+**FESS Classification:** IND-TRI - Strategic Resource Architecture
+
+Trilium on Magor is not a mining layer added to ordinary geology. In its most important deposits it is part of the volcanic process, embedded within moving or recently molten host material while remaining canonically dangerous and compositionally distinct.
+
+### 15.1 Trilium Properties and Classification
+
+Natural Trilium on Magor follows the same fundamental rules as elsewhere. Its stable baseline is solid and resonantly constrained, yet it remains highly bioreactive on organic contact. Exposure can cause tissue damage, uncontrolled mutation, and persistent biological contamination.
+
+Magor does not possess a naturally safe form of Trilium and does not convert it into a new benign liquid state. Operational classification instead describes the condition of the host material: active channel composite, vent nodule, quenched emberglass, or deep magma-contact occurrence.
+
+True safe Biometal remains dependent on Altan alloying and resonant constraint. Magori extraction teams can recover, separate, and contain Trilium. Volcanic Forge Houses can work extraordinary high-temperature materials. Neither fact makes them equivalent to Altan Splicers.
+
+### 15.2 Magmatic-Bound Trilium Composite
+
+Magor's defining occurrence consists of solid or microcrystalline Trilium phases physically and resonantly embedded within lava, magma-adjacent melt, and rapidly cooling igneous material. In active channels, the host can transport a resource body kilometres from the place where it was first detected.
+
+This mobility changes exploration. Operators map concentration fields and likely flow paths rather than treating deposits as fixed seams. A rich scan upstream may become commercially irrelevant after an eruption diverts the lava. Conversely, a low-value claim may suddenly receive high-grade composite from a new feeder channel.
+
+Colour is not a reliable concentration indicator. Some visually spectacular glowing flows contain little recoverable Trilium, while dark cooling material may preserve dense inclusions. Resonance mapping therefore precedes capture even when local mythology insists a particular lava colour indicates wealth.
+
+### 15.3 Deposit Classes
+
+**Channel composite** occurs in active or recently active lava and offers the highest extraction tempo. It is also the most mobile and operationally dangerous class.
+
+**Vent nodules** accumulate near feeder systems where dense Trilium-bearing phases settle, accrete, or become trapped during repeated eruptions. These can be high grade but often require work dangerously close to unstable vents.
+
+**Quenched emberglass** forms when composite cools rapidly into brittle glass-rich material. It can preserve rich inclusions and is easier to transport than active lava, but internal resonance stress and contamination remain concerns.
+
+**Deep magma-contact material** is inferred through tomography around chambers or intrusive bodies too dangerous for routine access. Most remains unexploited. Long-term commercial interest is high because deep systems may contain large concentrations, but no accepted technology can recover them at scale without creating unacceptable risk.
+
+### 15.4 Extraction Systems
+
+The specialist toolchain includes remote lava skimmers, harmonic weirs, phase-fork separators, ceramic-lined quench crawlers, diversion gates, and high-temperature resonance sensors. Magmazone dominates integrated systems through Khaured-led heavy engineering, Onoros-supported plant operation, Nordic field crews, and Robotron remote or first-entry work; independent engineering houses specialise in smaller mobile equipment. Altan specialists are normally introduced at the point where extraction becomes high-order resonance control, contamination analysis, or certified Trilium manipulation rather than bulk movement of volcanic host material.
+
+Extraction begins with thermal and resonance mapping, followed by controlled capture of host material. Organic personnel are kept away from the immediate separation chamber wherever possible. Remote robotics are preferred not because the equipment is expendable, but because a machine can be abandoned when the safe response is to let a flow take it.
+
+If resonance values exceed limits, the accepted procedure is shutdown, diversion, and equipment sacrifice. Magor's industrial history contains enough examples of crews attempting to save expensive machinery from an unstable Trilium-lava system to make the doctrine explicit.
+
+### 15.5 Quench and Separation Chain
+
+Captured composite is cooled in stages. Shock quenching can be useful for small analytical samples but may trap resonance stress within brittle glass. Industrial plants instead lower temperature in controlled steps, fracture the host mechanically or acoustically, and apply harmonic fields to separate Trilium-bearing phases.
+
+The separated material then enters conventional Trilium containment. The volcanic process ends at that point; ordinary downstream refinement remains necessary. Much final refinement occurs off-world because Magor's surface plants already operate under severe environmental load and because specialised Federation refineries can process material more efficiently once the volcanic host has been removed.
+
+Residual slag remains controlled until repeated scans demonstrate that biologically active Trilium traces are below relevant thresholds. Black slag fields are therefore monitored facilities rather than ordinary waste dumps.
+
+### 15.6 Resonance Containment and Lava as Vector
+
+Containment hardware must operate at temperatures that degrade conventional field systems. Ceramic isolation chambers, active harmonic damping, remote sacrificial gates, and physically separated power loops are standard at serious operations.
+
+The defining emergency problem is movement. A conventional mine breach remains associated with a fixed geological site. A Magori lava breach can move downhill, enter a tube, split, disappear underground, and emerge kilometres away. Cooling the flow does not automatically end the hazard because resulting glass and slag can retain Trilium phases.
+
+Major sites therefore maintain sacrificial diversion channels designed to steer contaminated flow away from water systems and inhabited ground. These channels may destroy valuable equipment or claims. Their purpose is to ensure that the resource is what gets sacrificed rather than the settlement.
+
+### 15.7 Industrial Power Networks
+
+Some recovered Trilium is used locally to power extraction systems, shelters, and cooling, but the planet's abundant geothermal energy remains an important baseline. The two sources are complementary. Geothermal systems reduce dependence on imported or refined Trilium; compact Triactor systems provide mobility and emergency power where fixed geothermal infrastructure cannot follow changing claims.
+
+Industrial networks are intentionally local. Long central trunks crossing active magma corridors are avoided. This creates energy islands around major settlements and concessions. The arrangement sacrifices some efficiency for resilience and allows a damaged district to fail without automatically blacking out neighbouring regions.
+
+### 15.8 Supply Security and Industrial Competition
+
+Trilium theft on Magor often targets information rather than ore. Concentration maps, eruption timing, separator calibration, and route forecasts can be worth more than a small stolen sample. A competitor who knows where the next flow will expose high-grade composite can stake access before the original survey team returns.
+
+Physical theft still occurs, especially during transfer from cooled composite fields to orbital shipment. Chain-of-custody requirements therefore begin at the lava channel and continue through Farwatch export inspection.
+
+Industrial espionage is also part of the rivalry between Magmazone and independent engineers. The corporation accuses freeclaim shops of reverse engineering protected separator components. Independents accuse Magmazone of using safety certification to lock competitors out of the market. Both claims contain enough truth to remain politically useful.
+
+## 16. Historical Development of Magor
+
+**FESS Classification:** HIS-DEV - Chronological Strategic Record
+
+Magor's history is a sequence of revised assumptions. It was first judged too difficult to matter, then too valuable to ignore, then too dangerous to industrialise casually. The modern frontier inherits all three conclusions.
+
+### 16.1 First Survey Age
+
+Early orbital surveys correctly identified Magor as a biosphere world but underestimated the cost of permanent habitation. The major volcanoes, crater deserts, small ice caps, saline basins, and sparse native life were documented before sustained settlement. At the time, easier Frontier Worlds offered more attractive development prospects.
+
+Temporary scientific bases established the first detailed atmospheric and volcanic records. Several were abandoned after ash damage or water failures, creating the first evidence that technically habitable did not mean economically sensible.
+
+### 16.2 The Write-Off Years
+
+A series of early settlement failures produced the period later called the Write-Off Years. Small colonies struggled with ash loading, water extraction, poor replacement logistics, and the mistaken assumption that ordinary planetary construction could be adapted incrementally to Magor.
+
+Abandoned pads, sealed tunnels, and failed wells from this era remain scattered across old survey regions. Independent explorers occupied some of them, forming the social roots of later freeclaim culture. The Federation largely treated Magor as a scientific and marginal-resource world during this period.
+
+### 16.3 Discovery of Lava-Bound Trilium
+
+The strategic transformation began when survey teams demonstrated that apparently low-grade volcanic regions contained substantial Trilium phases embedded within active and recently cooled lava. The discovery explained several anomalous resonance readings previously dismissed as instrument interference.
+
+Ordinary mining equipment proved ineffective. Early attempts either recovered too little material or exposed crews to unacceptable thermal and biological risk. The new resource therefore triggered not only a concession rush but a race to invent the machinery capable of exploiting it.
+
+### 16.4 Magmazone Ascendancy
+
+Magmazone Industries rose to prominence through a Khaured-spearheaded industrial coalition capable of deploying purpose-built molten-world extraction systems at scale. Khaured heavy engineering supplied the structural core, Onoros labour and Director coordination allowed continuous large-site operation, Human Nordic crews strengthened mobile logistics and recovery, and early Robotron participation reduced organic exposure in the worst zones. Its integrated skimmers, quench units, resonance separators, and transport networks converted Magor from a difficult prospecting world into a reliable specialist supplier.
+
+The company also built roads, water systems, and settlements that Federation authorities lacked the resources to provide. This won genuine loyalty in some regions and created long-term fear of dependency in others. Modern Magori politics still revolves around the unresolved question raised during this period: when a corporation builds the systems that make settlement possible, where does infrastructure provision end and government begin?
+
+### 16.5 The Ashline Feuds
+
+The Ashline Feuds were not a conventional war. They were a prolonged series of claim conflicts, sabotage campaigns, convoy ambushes, registry fraud, and fights over water and route access as new Trilium fields opened faster than institutions could regulate them.
+
+The most important lesson was that destroying infrastructure could be more decisive than occupying land. Several settlements were nearly abandoned after pumps, bridges, or condensers became targets. Public outrage eventually produced stronger Claim Courts, shared emergency-route principles, and the first recognisable Ash Marshal services.
+
+### 16.6 The Magori Wave Compact
+
+The Wave Compact followed the Five-Bell Overrun, when an industrial district repeatedly restarted operations between sequential eruptions and exhausted its filters, coolant, and reserves before the final Wave member erupted.
+
+The compact established continuous shutdown windows, interoperable rescue communications, common refuge standards, and mandatory sharing of certain Wave data regardless of concession ownership. It remains one of the few genuinely planetwide agreements accepted by corporations, freeclaimers, charter towns, and Federation offices alike.
+
+The compact succeeded because it did not attempt to govern everything. It governed one shared danger with rules obvious enough that violating them threatened every participant.
+
+### 16.7 The Modern Far Reach
+
+Modern Magor is defined by rising Trilium demand, expanding Magmazone influence, resilient independent settlement culture, and growing environmental scrutiny. The world remains sparsely inhabited and lightly administered relative to its strategic importance.
+
+New pressure comes from success. Every additional settlement increases water and rescue burdens. Every safer extraction method makes previously marginal volcanic ground economically tempting. Every improved heatline encourages traffic into terrain that still changes. The core political question has therefore shifted from whether Magor can be developed to how much development its survival systems can absorb.
+
+At the same time, the Glass-Sand Anomaly, deep Trilium systems, and altered ecosystems continue to attract exploration. Magor remains a frontier not because it is unknown, but because the known world keeps creating new unknowns.
+
+## Appendix A - Glossary of Terms
+
+### Ash Marshal
+
+A settlement-level official combining law enforcement, evacuation authority, industrial hazard control, and rescue coordination. An Ash Marshal can halt work when local survival systems are at risk.
+
+### Ashline
+
+A mapped or socially recognised boundary marking recent or recurring heavy ash deposition. Ashlines migrate after eruptions and are used in route descriptions, claims, and warnings.
+
+### Ashrunner
+
+A medium-sized bipedal pack predator adapted to rocky desert and crater country. Mutation-associated lineages near Trilium-bearing lava display abnormal heat tolerance and aggression.
+
+### Azingoth
+
+A major Magori volcanic province of industrial and cultural significance. Material from an Azingoth flow was incorporated into the legendary Galactic Fireblade.
+
+### Basalthorn
+
+A massive quadrupedal herbivore with a reinforced skull shield and forward horn structures. Herds defend juveniles collectively and can cause severe infrastructure damage when funnelled or panicked.
+
+### Black Slag Field
+
+A controlled cooling and monitoring zone for volcanic composite waste produced during Trilium separation. Slag remains restricted until resonance and contamination screening clears it.
+
+### Cinderhook
+
+Magor's largest settlement and principal independent trade, repair, adjudication, and logistics hub.
+
+### Cinderjaw Tyrant
+
+A large bipedal apex predator with a deep skull, serrated teeth, heat-sensitive tracking structures, and strong territorial behaviour.
+
+### Claim Court
+
+A frontier tribunal dealing with resource claims, salvage, concession overlap, water debt, contracts, access, and infrastructure damage.
+
+### Confuser
+
+A disorientation device subject to Magor-specific restrictions because effects may be amplified or prolonged under sulphur-rich atmospheric conditions.
+
+### Cryo-Barrel
+
+A high-insulation water transport vessel used to move purified polar or condensed water through hot districts. The term also applies colloquially to emergency water reserves.
+
+### Far Burn
+
+A common settler name for Magor emphasising both heat and distance from the Federation centre.
+
+### Farwatch
+
+The primary orbital station serving Magor, responsible for traffic control, customs, rescue coordination, volcanic monitoring relay, and Trilium export oversight.
+
+### Freeclaim
+
+A small independent extraction or settlement claim outside large corporate concession networks but within Federation licensing law where properly registered.
+
+### Furnaceback
+
+A huge quadrupedal grazer with vascularised dorsal plates used for thermal regulation.
+
+### Glass-Sand Anomaly
+
+A broad pale dune region whose sediment volume, composition, and buried cavity system do not fit simple local erosion models. Geological and archaeological explanations remain unresolved.
+
+### Harmonic Weir
+
+A specialist extraction system using controlled resonance fields to separate Trilium-bearing phases from flowing volcanic composite.
+
+### Heatline
+
+A temporary or semi-permanent transport corridor defined by current lava, ash, ground temperature, water, and refuge conditions rather than static road geometry.
+
+### Lava Skimmer
+
+A remote or heavily shielded industrial vehicle that samples, diverts, or captures molten material for Trilium separation.
+
+### Magma Highway
+
+An informal term for a deep feeder network identified through thermal tomography that can transfer pressure and melt between distant volcanic centres.
+
+### Magmatic-Bound Trilium
+
+The Magor-specific industrial category for canonical solid Trilium phases embedded physically and resonantly within lava, magma-adjacent rock, or rapidly cooling volcanic composite.
+
+### Magmazone Industries
+
+A major Federation megacorporation specialising in resource extraction on molten and volcanically extreme worlds. It is the dominant industrial actor on Magor.
+
+### Magori
+
+A cultural identity used by settlement-born residents and long-term inhabitants of Magor. It is not an indigenous species designation.
+
+### Magori Wave
+
+A recurrent coupled eruption sequence involving Orun, Kheled, Tarsa, Brannoc, and Sevra. Once a Wave begins, major onset propagates through the chain at roughly two Federation Standard days per stage.
+
+### Phase Fork
+
+A high-temperature extraction component applying opposed resonance fields to separate Trilium-bearing phases from silicate host material.
+
+### Pyroclastic Weather
+
+Eruption-driven atmospheric and ground hazards such as hot ash currents, eruption winds, plume lightning, and pressure pulses that require storm-like operational forecasting.
+
+### Red Claim
+
+A claim in active or recently active volcanic terrain whose access is conditional on live thermal clearance.
+
+### Slag Port
+
+A rough industrial settlement or transfer yard built around ore, cooled volcanic composite, and refinery waste handling.
+
+### Steam Aquifer
+
+A pressurised subterranean water system heated by Magor's geothermal environment. Extraction often yields steam or superheated water.
+
+### Sulphur Flat
+
+A bright mineral plain formed around fumaroles, evaporative basins, or old hydrothermal systems. Ground stability and gas concentration vary sharply.
+
+### Tarqesh System
+
+The star system containing Magor. Tarqesh is a G8V yellow-orange star.
+
+### Thermal Refuge
+
+A hardened shelter designed to preserve breathable air, cooling, water, communication, and emergency power through ashfall, eruption heat, or route isolation.
+
+### Trilium
+
+A resonance-reactive mineral whose stable natural baseline is solid and resonantly constrained but which remains highly bioreactive on organic contact. Only Altan splicing methods can fully alloy it into safe Biometal.
+
+### Trilium-Lava Mutation Zone
+
+A region where organisms experience chronic or repeated exposure to Trilium-bearing volcanic material, producing severe mutations, mineralised tissue changes, and behavioural abnormalities.
+
+### Vark
+
+Magor's close iron-rich moon. Its tidal effect contributes to mantle stress and is included in some volcanic forecasting models.
+
+### Volcanic Forge
+
+A Magori specialist workshop tradition using refractory alloys, volcanic glass, ceramics, and lava-derived composites. Volcanic Forges are distinct from Altan Biometal Forgemasters.
+
+### Water Debt
+
+A serious social and contractual obligation created when one party supplies life-sustaining water during shortage or emergency beyond ordinary commercial duty.
+
+## Appendix B - Faction and Power Index
+
+Magor has no single sovereign centre below Federation authority. Power is distributed among institutions that control transport, water, industrial technology, legal recognition, emergency response, or access to off-world markets.
+
+### B.1 Federation Frontier Survey Authority - Far Reach Office
+
+**Role:** Maintains Magor's official planetary record, strategic surveys, major hazard doctrine, and links between local administration and central Federation bodies.
+
+**Assets:** Survey authority, orbital data access, concession referrals, scientific networks, emergency coordination.
+
+**Assessment:** The office's chronic problem is scale. It cannot inspect every claim or govern every heatline directly. Its influence is strongest when it sets standards local institutions consider credible. Recent policy has shifted toward embedding permanent local technical teams rather than relying on periodic off-world visits.
+
+### B.2 Magmazone Industries
+
+Role: Khaured-spearheaded multi-race industrial operator specialising in high-throughput lava-bound Trilium extraction.
+
+Assets: Proprietary separation technology, Khaured heavy engineering, Onoros industrial cohorts, Nordic field and transport crews, Robotron hazard capability, company towns, maintenance networks, capital, transport, specialist personnel, export contracts.
+
+Assessment: Magmazone's greatest political strength is that its systems work and that those systems are maintained by a genuinely multi-race workforce rather than a detachable corporate elite. Its greatest vulnerability is the resentment created when technical dependence becomes social or economic dependence, particularly where Khaured leadership and Onoros labour are perceived as reproducing an opaque alliance inside corporate structures. The company is currently expanding carefully, preferring infrastructure agreements over overt attempts to dominate local government.
+
+### B.3 Khaured Heavy Extraction Delegation
+
+Role: Collective designation for major Khaured industrial interests active in high-temperature concessions and security-intensive operations, many of which operate with substantial Onoros Drone and Director support.
+
+Assets: Heavy equipment, disciplined Khaured crews, Onoros cohort labour and coordination, armoured transport, high-risk operational expertise.
+
+Assessment: Khaured interests align with Magmazone on some concessions and compete with it on others. Their current strategic focus is greater control over independent high-temperature extraction capacity. Because major Khaured operations frequently rely on Onoros cohorts, disputes over industrial expansion increasingly overlap with Federation scrutiny of Onoros labour and representation. Ecological restrictions around Kharad Hold remain the main immediate point of friction with Federation authorities.
+
+### B.4 Cinderhook Charter Council
+
+**Role:** Governing authority of Magor's largest independent settlement and most influential non-corporate civic centre.
+
+**Assets:** Claim Hall, Black Ring repair yards, public water reserves, landing access, medical infrastructure, markets.
+
+**Assessment:** The Council seeks to prevent any one external actor from controlling the systems required for the city's survival. Its position in the Red Claim 61 dispute has made it the informal political centre of resistance to excessive concession integration.
+
+### B.5 Claim Courts and Writ Stations
+
+**Role:** Decentralised tribunals and administrative posts dealing with claims, salvage, water debt, access, contracts, and infrastructure disputes.
+
+**Assets:** Registries, witnesses, local legitimacy, relationships with Ash Marshals and settlement councils.
+
+**Assessment:** Strong courts reduce violence by giving rivals a mechanism they expect others to honour. Weak or captured courts accelerate sabotage and private enforcement. The unresolved doctrine on moving lava-resource rights threatens to produce a major Federation-level precedent.
+
+### B.6 Ash Marshal Service Networks
+
+**Role:** Local law, rescue, evacuation, and industrial safety bodies linked by shared standards but not organised as one planetary police service.
+
+**Assets:** Emergency authority, rescue teams, shutdown powers, local knowledge, hazard communications.
+
+**Assessment:** Ash Marshals are often the most trusted public authority during crisis and the most criticised after it. Their growing ability to override commercial operations is producing pressure for stronger post-incident oversight without reducing immediate powers.
+
+### B.7 Freeclaim Cooperative Web
+
+**Role:** Informal network connecting independent prospectors, haulers, repair crews, assay houses, and small settlements.
+
+**Assets:** Hazard intelligence, mutual aid, shared purchasing, mobile equipment, political mobilisation.
+
+**Assessment:** The network is flexible precisely because it is not a government, but that same structure limits its bargaining power. Internal debate over creating permanent representation is becoming one of the most important generational questions in freeclaim politics.
+
+### B.8 Volcanic Forge Houses
+
+**Role:** Specialist craft lineages working with refractory alloys, ceramics, glass, and lava-derived materials.
+
+**Assets:** Rare materials expertise, high cultural prestige, bespoke tools, historical archives.
+
+**Assessment:** Economically small but politically symbolic. The current patent dispute with Magmazone has united otherwise competitive Forge Houses around the principle that traditional Magori craft cannot be retroactively converted into corporate intellectual property.
+
+### B.9 Farwatch Orbital Authority
+
+**Role:** Controls Magor's main orbital station, customs, rescue coordination, launch scheduling, and legal export corridor.
+
+**Assets:** Docking rights, orbital sensors, customs seals, rescue craft, shipment verification.
+
+**Assessment:** Farwatch is the unavoidable bottleneck for most legal exports. The Queue Crisis strengthened its emergency authority but created lasting tension with corporations over when life-support priority can override commercial schedules.
+
+### B.10 Burnline Syndicates
+
+**Role:** Intelligence umbrella term for smugglers, claim thieves, illicit brokers, data thieves, and sabotage crews operating along remote routes.
+
+**Assets:** Stolen maps, forged records, covert transport, hidden storage, insider contacts.
+
+**Assessment:** Burnline power is local and opportunistic. Groups become influential where legitimate credit, transport, or repair services fail. Their long-term threat lies less in stolen tonnage than in their ability to become indispensable to communities the formal economy neglects.
+
+## Appendix C - Trilium on Magor
+
+### C.1 Canonical Trilium Properties
+
+Trilium on Magor obeys the same rules as Trilium elsewhere. Its stable natural baseline is solid and resonantly constrained, but it remains highly bioreactive on organic contact. Exposure can cause tissue damage, uncontrolled mutation, and persistent contamination. Magor presents an unusual host environment, not an exception to Trilium biology.
+
+### C.2 Magmatic-Bound Composite State
+
+The defining occurrence consists of solid or microcrystalline Trilium phases embedded in lava, magma-adjacent melt, and cooling igneous material. Host lava can carry these phases over considerable distance before solidification. Resource mapping therefore follows concentration and flow rather than fixed seams.
+
+### C.3 Deposit Classes
+
+Federation operators recognise channel composite, vent nodule, quenched emberglass, and deep magma-contact classes. Each requires different temperatures, access methods, and separation systems. None should be treated as ordinary ore.
+
+### C.4 Extraction Technologies
+
+Remote lava skimmers, harmonic weirs, phase forks, ceramic quench crawlers, and sacrificial gates form the core toolchain. Magmazone dominates high-volume integrated systems; independent houses specialise in smaller mobile rigs. Organic personnel are excluded from immediate separation chambers wherever possible.
+
+### C.5 Quench and Separation Chain
+
+Composite is cooled in stages, fractured, and subjected to controlled harmonic fields. High-grade Trilium then enters conventional containment and later refinement. Residual slag remains restricted until repeated screening clears biologically active traces.
+
+### C.6 Lava as a Contamination Vector
+
+Active lava can transport a Trilium breach through branching channels and tubes. Emergency response therefore prioritises flow prediction, diversion, and organic exclusion before recovery. A cooled flow may remain contaminated and cannot be assumed safe by temperature alone.
+
+### C.7 Biological Interaction
+
+Organisms near Trilium-bearing lava may be exposed through ash, dust, water, scavenging, or cooled composite. Surviving lineages exhibit bone deposition, armour abnormalities, sensory changes, reproductive damage, and aggression. Their survival is not evidence of natural immunity.
+
+### C.8 Azingoth Material Tradition
+
+Azingoth is historically important because material from one of its Trilium-bearing lava systems formed part of the Galactic Fireblade's lava-derived core material. Later commercial claims that all Azingoth lava possesses exceptional weapon properties are unsupported. Volcanic Forges can work high-temperature materials, but certified Biometal remains an Altan discipline.
+
+### C.9 Supply Security
+
+The Magor supply stream is moderate by volume and high in specialist strategic value. Security is complicated by distance, mobile deposits, dependence on Farwatch, and data theft. Concentration forecasts and separator calibration are often more valuable targets than raw material.
+
+### C.10 Closing Assessment
+
+Magor demonstrates that Trilium's canonical properties can interact with radically different geology without changing the mineral's fundamental nature. Extraction becomes volcanology, materials science, robotics, and emergency management at once. The opportunity and the danger arise from the same fact: on Magor, the resource can move while the crew is still working.
+
+## Appendix D - Environmental Incident Archive
+
+This archive summarises representative incidents that shaped modern doctrine. Each is retained because it altered procedure, law, or infrastructure rather than merely producing casualties.
+
+### D.1 The Red Ford Loss
+
+A convoy crossed a basalt ford several hours after thermal models marked the route as marginal. A hidden lava tube collapsed beneath the lead hauler, trapping three vehicles and exposing active flow under apparently cool crust. Rescue teams abandoned the machinery after subsurface conditions worsened.
+
+**Doctrinal lesson:** Surface temperature is not sufficient clearance for young basalt. High-risk crossings require subsurface thermal confirmation and a recovery plan that does not depend on standing on the same crust as the disabled vehicle.
+
+### D.2 Cinderhook Black Noon
+
+A distant eruption column combined with a local sulphur inversion and turned midday into near-darkness over Cinderhook. Fine ash exceeded the filtration assumptions of older districts while roof loads rose and solar generation collapsed. No single system failed catastrophically, but several approached failure at once.
+
+**Doctrinal lesson:** Settlement resilience must be assessed across interacting systems. Modern Cinderhook codes require greater filter reserves, continuous roof clearance capability, and power planning that assumes solar output may vanish during the same event that increases air-processing demand.
+
+### D.3 The Five-Bell Overrun
+
+An early industrial district treated a Wave episode as five separate predictable eruptions. Plants restarted between stages, repeatedly exposing crews and machinery to cumulative ash. By the fifth eruption, filters, coolant, and emergency stores were exhausted.
+
+**Doctrinal lesson:** Predictability does not make repeated hazard independent. The Wave Compact now requires continuous shutdown windows and common reserve standards across affected districts.
+
+### D.4 Azingoth Separator Fire
+
+A high-throughput separator experienced resonance drift after ceramic shielding cracked under thermal cycling. The initial chamber isolated correctly, but a diversion gate failed and Trilium-bearing lava entered an auxiliary slag channel. The resulting cooled flow remained contaminated for months.
+
+**Doctrinal lesson:** Containment requires independent gate power and sacrificial flow paths. Cooling a breach does not end the Trilium hazard.
+
+### D.5 The Sulphur Laughing Incident
+
+An unauthorised Confuser discharge inside a rough settlement coincided with a severe sulphur inversion. Disorientation affected a wider area and lasted significantly longer than expected, contributing to falls, vehicle collisions, violence, and delayed emergency response.
+
+**Doctrinal lesson:** Confuser risk on Magor is environmental as well as tactical. Device restrictions now tighten automatically when atmospheric chemistry crosses defined thresholds.
+
+### D.6 Basalthorn Gate Failure
+
+A migrating Basalthorn herd approached an industrial cooling basin after ash burial removed its normal grazing route. Automated deterrents compressed the animals against perimeter fencing. The herd broke through and damaged coolant lines, forcing an emergency shutdown.
+
+**Doctrinal lesson:** Wildlife barriers must preserve an escape direction. Modern facilities map movement corridors and use guided diversion rather than hard funnel containment.
+
+### D.7 Pale Dune Sink
+
+A Glass-Sand survey party established a heavy camp over a buried cavity not detected by shallow imaging. Night-cycle cooling contributed to roof failure, swallowing equipment and exposing a flat stone surface beneath the dune. Archaeological interpretation remains unresolved.
+
+**Doctrinal lesson:** Heavy emplacement in the Anomaly requires deep-ground imaging. Apparent archaeological material triggers review, but operational safety does not wait for interpretation.
+
+### D.8 Farwatch Queue Crisis
+
+Ash-related launch closures coincided with a major export window and overloaded Farwatch capacity. Water and coolant shipments waited behind commercial cargo while several settlements entered reserve status. The Orbital Authority seized scheduling control and prioritised life-support traffic.
+
+**Doctrinal lesson:** Orbital capacity is part of planetary survival infrastructure. Emergency cargo priority now overrides commercial queue position once defined reserve thresholds are crossed.
+
+### D.9 Gate Lockout
+
+A Khaured subcontractor and Sulphur Gate craft unions disputed whether corroded pressure housings met safe reuse standards. When the operator attempted to move the housings through town for installation elsewhere, local cooperatives blocked heavy traffic while keeping the emergency lane open.
+
+The lockout ended after independent inspection confirmed that several housings would have failed certification under Magor-specific sulphur exposure assumptions.
+
+**Doctrinal lesson:** Local technical knowledge can legitimately override nominally compliant off-world standards, but disputes must preserve emergency access. The event is now cited by both labour organisations and regulators for different reasons.
+
+### D.10 Red Claim 61 Survey Dispute
+
+Competing surveys of the Red Claim 61 lava corridor produced materially different estimates of recoverable Trilium and route risk. Magmazone accused freeclaim surveyors of understating instability to preserve independent access. Freeclaim groups accused Magmazone of inflating danger to justify a larger exclusive concession.
+
+No deliberate falsification has been proved. Independent review found that both teams used defensible models built on different assumptions about feeder migration.
+
+**Doctrinal lesson:** Model disagreement is not automatically fraud. High-value mobile deposits now require publication of major assumptions alongside headline estimates when concession rights depend on the result.
+
+### D.11 Recurring Causal Factors
+
+Across the archive, the same vulnerabilities recur: optimistic cooling margins, underestimated ash accumulation, pressure to preserve production, inadequate water redundancy, route plans based on old lava maps, single-point dependence on proprietary systems, and failure to treat wildlife displacement as an industrial hazard.
+
+Sabotage magnifies these weaknesses but rarely creates them from nothing. The most resilient settlements assume that heat, corrosion, isolation, and human impatience will eventually occur together.
+
+### D.12 Current Watchlist
+
+Current watch zones include the Azingoth lower channels, western Glass-Sand margin, Sevra gas-chemistry monitoring sector, southern ash-darkening belt, three mutation zones near abandoned claims, Red Claim 61, and the Cinderhook-Farwatch supply corridor during peak export months.
+
+None currently indicates imminent planetwide catastrophe. Several are fully capable of producing regional crisis if commercial pressure overrides conservative doctrine.
+
+## Appendix E - Settlement and Installation Gazetteer
+
+Population figures below are registered permanent estimates and should not be read as peak occupancy. Extraction-cycle labour can raise local populations sharply for short periods.
+
+### E.1 Cinderhook
+
+- **Registered population:** approximately 186,000
+
+- **Type:** Independent charter settlement
+
+- **Primary functions:** Claim law, non-corporate trade, heavy repair, medical services, water reserve, regional logistics
+
+- **Political alignment:** Strongly independent; Federation-cooperative; wary of monopoly control
+
+- **Primary vulnerabilities:** Dependence on three major heatline approaches; ash loading during distant high-column eruptions; growth pressure on deep condensers
+
+- **Current issue:** Red Claim 61 concession dispute
+
+Cinderhook is the settlement most likely to be treated informally as Magor's capital, though neither its charter nor Federation law grants it planetary authority. Its importance comes from the concentration of neutral services. A claimant can dispute Magmazone in Cinderhook, repair a Khaured-built crawler in the Black Ring Yards, hire an independent hauler, and file the resulting contract under a registry recognised by all four parties.
+
+### E.2 Pyrestead
+
+- **Registered population:** approximately 91,000
+
+- **Type:** Magmazone company settlement
+
+- **Primary functions:** Corporate administration, specialist extraction support, high-reliability habitation, training, equipment maintenance
+
+- **Political alignment:** Magmazone-administered under Federation concession law
+
+- **Primary vulnerabilities:** Corporate system interdependence; two major water feeds ultimately linked to the same deep reservoir province
+
+- **Current issue:** Proposed outward extension of company water and transport infrastructure
+
+Pyrestead demonstrates the benefits and risks of integrated corporate settlement. Failure rates are low because the company controls the whole technical stack. Residents also depend on the same organisation for employment, housing, transport, medical care, and emergency shelter. Federation reviewers increasingly treat social dependency as a resilience question rather than only a labour issue.
+
+### E.3 Emberline
+
+- **Registered population:** approximately 34,000; peak occupancy can exceed 60,000
+
+- **Type:** Freeclaim and logistics settlement
+
+- **Primary functions:** Prospecting support, mobile-rig repair, assay markets, hauler exchange, independent finance
+
+- **Political alignment:** Decentralised freeclaim culture
+
+- **Primary vulnerabilities:** Volatile population, limited central refuge space, insurance access
+
+- **Current issue:** Certification dispute over non-corporate separator systems
+
+Emberline's value is flexibility. It can service a prospect crew in hours rather than weeks because components, expertise, and information circulate through a dense informal market. That same informality makes regulation difficult. Federation inspectors often find ten innovative solutions for every one dangerous improvisation, which is precisely why blanket restrictions remain politically difficult.
+
+### E.4 Five-Bell Junction
+
+- **Registered population:** approximately 22,000
+
+- **Type:** Wave-region emergency and transport hub
+
+- **Primary functions:** Refuge, stockpile, evacuation staging, convoy redistribution, Wave monitoring
+
+- **Political alignment:** Compact-governed, strongly cooperative during Wave alerts
+
+- **Primary vulnerabilities:** Extreme temporary population surges; cumulative ash; dependency on reserve turnover between Wave cycles
+
+- **Current issue:** Expansion of southern refuge capacity
+
+Five-Bell Junction is deliberately overbuilt for its permanent population. Its infrastructure is judged by the number of displaced workers and travellers it can keep alive during a Wave, not by ordinary efficiency metrics.
+
+### E.5 Rimehook
+
+- **Registered population:** approximately 41,000
+
+- **Type:** Polar water and logistics settlement
+
+- **Primary functions:** Ice extraction, purification, strategic water reserve, cold-region repair
+
+- **Political alignment:** Charter settlement with unusually strong Federation emergency provisions
+
+- **Primary vulnerabilities:** Ash darkening of extraction fields; long haul to major low-latitude consumers
+
+- **Current issue:** Revision of emergency reserve quotas after two ash-heavy cycles
+
+Rimehook's cultural character differs from lower-latitude Magor. Water is abundant locally by planetary standards, while heat is less oppressive. The settlement nevertheless thinks of itself as part of the same survival economy because nearly everything it extracts is destined for places where a failed shipment matters immediately.
+
+### E.6 Southglass Station
+
+- **Registered population:** approximately 8,700
+
+- **Type:** Polar scientific and water-support station
+
+- **Primary functions:** Ice-core research, atmospheric monitoring, limited extraction, climate reconstruction
+
+- **Political alignment:** Federation scientific administration with charter civilian district
+
+- **Primary vulnerabilities:** Isolation; restricted landing conditions during polar storms
+
+- **Current issue:** Long-term albedo decline in selected cap sectors
+
+Southglass holds environmental records valuable far beyond its population. Its ice chronology is one of the principal tools used to determine whether historic Wave sequences were as regular as modern folklore claims.
+
+### E.7 Sulphur Gate
+
+- **Registered population:** approximately 27,000
+
+- **Type:** Independent industrial craft settlement
+
+- **Primary functions:** Smelting, ceramics, chemical processing, salvage, Confuser treatment
+
+- **Political alignment:** Strong cooperative and labour institutions
+
+- **Primary vulnerabilities:** Corrosion, atmospheric inversion, narrow clean-air approach corridor
+
+- **Current issue:** Post-Gate-Lockout standards negotiations
+
+Sulphur Gate's cooperatives have made it one of the few places where workers can collectively deny industrial traffic without depending on a corporate or Federation security force. The settlement's influence therefore exceeds its size in debates over local technical authority.
+
+### E.8 Kharad Hold
+
+- **Registered population:** approximately 38,000
+
+- **Type:** Khaured-dominated extraction and security settlement
+
+- **Primary functions:** Heavy extraction, armoured transport, high-risk industrial operations
+
+- **Political alignment:** Khaured commercial interests with Federation licensing
+
+- **Primary vulnerabilities:** Wildlife corridor conflict; high dependence on specific heavy-equipment supply chains
+
+- **Current issue:** Proposed concession expansion toward mutation-zone margins
+
+Kharad Hold has one of the best industrial casualty records among settlements operating in comparable terrain. Its political opponents do not dispute its competence. They dispute whether competence at protecting workers is sufficient when an operation changes regional ecology.
+
+### E.9 Caldera Nine
+
+- **Registered population:** approximately 18,000
+
+- **Type:** Magmazone extraction works
+
+- **Primary functions:** Active-channel capture, initial quench, remote robotics
+
+- **Political alignment:** Corporate
+
+- **Primary vulnerabilities:** Direct exposure to active lava system; limited civilian refuge capacity
+
+- **Current issue:** Replacement of ageing ceramic containment housings
+
+Caldera Nine is designed as an industrial installation with a settlement attached, not the reverse. Families are limited and rotational labour is high. During major hazard escalation, nonessential residents are moved to Pyrestead before production crews withdraw.
+
+### E.10 Gate Ember
+
+- **Registered population:** approximately 16,000
+
+- **Type:** Corporate logistics settlement
+
+- **Primary functions:** Equipment transfer, freight consolidation, surface convoy staging
+
+- **Political alignment:** Magmazone
+
+- **Primary vulnerabilities:** Choke-point economics; one of two principal routes crosses young basalt
+
+- **Current issue:** Negotiations over common emergency use of a proprietary bypass
+
+Gate Ember matters because it controls movement rather than resources. The settlement is routinely cited in debates over when private roads become public survival infrastructure.
+
+### E.11 Redglass Works
+
+- **Registered population:** approximately 13,500
+
+- **Type:** Processing settlement
+
+- **Primary functions:** Emberglass crushing, staged cooling, slag management, materials analysis
+
+- **Political alignment:** Magmazone-led mixed contractor population
+
+- **Primary vulnerabilities:** Slag-field expansion, contaminated dust, industrial water demand
+
+- **Current issue:** Proposed new black slag field near an old ecological survey zone
+
+Redglass is one of the clearest examples of a settlement whose environmental footprint is dominated not by extraction but by what remains after extraction.
+
+## Appendix F - Volcanic Province and Wave Reference
+
+### F.1 Major Volcanic Provinces
+
+#### Azingoth Province
+
+Azingoth contains persistent lava lakes, high-value Trilium-bearing channel systems, and some of the most intensively monitored magma highways on Magor. Industrial activity is high, ecological exclusion zones are numerous, and cultural attention is amplified by the Fireblade tradition. The lower channels remain on the current watchlist because repeated thermal cycling has altered several known feeder routes.
+
+#### Wave Chain Province
+
+The Orun-Kheled-Tarsa-Brannoc-Sevra chain is monitored as one coupled system even when individual volcanoes appear quiet. Surface settlements are sparse inside direct hazard zones; Five-Bell Junction and several smaller stockpile sites occupy safer positions outside principal flow and fallout corridors.
+
+#### Kharad Crater Arc
+
+A belt of steep cones and cratered uplands containing several Khaured-operated concessions. The region is geologically productive and biologically sensitive because old spring corridors cross active industrial approaches. Trilium-lava mutation zones occur along two abandoned channels.
+
+#### Northern Ember Plateau
+
+A broad field of older basalt and dormant vents that supports Emberline and multiple mobile freeclaim operations. Volcanism is lower than in Azingoth but not absent. New prospects frequently emerge after small fissure events expose previously buried material.
+
+#### Southern Sulphur Basin
+
+A hydrothermal province of fumarole fields, corrosive flats, metal-rich deposits, and deep gas-prone basins. Sulphur Gate sits on its safer western margin. The province is important for ordinary mineral extraction and chemical industry rather than high-volume Trilium.
+
+#### Glass-Sand Margin
+
+The volcanically quieter margins surrounding the Anomaly contain old impact structures, isolated vents, and buried cavities. Extraction potential is uncertain. Exploration is currently limited more by subsurface ambiguity and regulatory caution than by extreme heat.
+
+### F.2 Wave Chain Operational Table
+
+| **Sequence** | **Volcano** | **Characteristic Role in Wave**                                 | **Operational Emphasis**                                  |
+|--------------|-------------|-----------------------------------------------------------------|-----------------------------------------------------------|
+| 1            | Orun        | Initial escalation and pressure release                         | Trigger full regional preparation                         |
+| 2            | Kheled      | Confirms propagation; high ash output                           | Close exposed industry and secondary air routes           |
+| 3            | Tarsa       | Strongest cumulative logistics disruption in many Waves         | Full refuge readiness; suspend marginal convoys           |
+| 4            | Brannoc     | Frequently produces broad aerosol and plume interaction         | Maintain shutdown; reassess water and filters             |
+| 5            | Sevra       | Final recognised major stage; recent gas chemistry under review | Do not reopen automatically; wait for post-Wave clearance |
+
+The mean step between characteristic eruption onsets is approximately two Federation Standard days. Operational schedules use broad windows rather than exact clocks. The sequence is reliable enough to plan around but not sufficiently exact to justify delaying a shutdown until the historical mean minute.
+
+### F.3 Competing Wave Models
+
+**Deep pressure-transfer model:** A partially connected deep magma system transmits pressure between reservoirs. Each centre reaches volatile-release threshold in sequence. This model best explains the fixed order but struggles with the narrow timing spread.
+
+**Vark-modulated model:** Tidal stress from Vark influences already pressurised reservoirs and narrows the timing window. This helps explain variation among different Wave episodes but cannot independently explain the sequence.
+
+**Trilium-resonance coupling model:** Trilium-bearing intrusions alter stress or energy transfer between parts of the volcanic system. Limited correlations exist, but no experiment has demonstrated a mechanism capable of producing the observed planetary-scale timing.
+
+**Hybrid model:** Most FSA volcanologists currently favour some combination of connected magma plumbing and tidal modulation, with Trilium treated as a possible secondary factor rather than the primary cause. The dossier therefore rejects both extremes: the Wave is neither a solved ordinary plumbing problem nor evidence of deliberate planetary machinery.
+
+## Appendix G - Demographic, Supply, and Precision Notes
+
+### G.1 Population Confidence
+
+The registered population figure of approximately 1.42 million is derived from settlement registries, Farwatch residency records, concession employment declarations, and charter census returns. Confidence is moderate rather than high because mobile camps and illegal settlements are systematically undercounted.
+
+The estimated transient and unregistered population range of 0.45-0.80 million varies by extraction cycle. Peak periods occur when newly exposed high-value lava systems attract short-term labour, contractors, and prospectors. A significant proportion of this population may move between camps without updating residence records.
+
+### G.2 Settlement Concentration
+
+More than half of the permanent population lives in the largest dozen settlements and installations. The remainder is distributed across small towns, camps, industrial sites, and mobile communities. Consequently, regional population density is a more useful emergency measure than planetary average density.
+
+### G.3 Food Supply
+
+Magor cannot feed its full population through conventional open agriculture. Most food is produced through enclosed hydroponics, fungal culture, compact high-efficiency livestock systems, and imported staples. Springland agriculture exists but is limited by ecological protection and water competition.
+
+Cinderhook and Pyrestead maintain the largest food-production capacity. Smaller settlements often rely on concentrates and preserved cargo during route closures. Farwatch's emergency planning treats food as slower-moving risk than water or filters, but extended supply interruption would become politically significant within weeks.
+
+### G.4 Water and Cooling Metrics
+
+No single planetary water-reserve figure is considered meaningful because usable water depends on location, purification capacity, and transport. Settlement resilience is therefore measured in days of independent life-support operation under local hazard assumptions.
+
+Cooling capacity is similarly treated as a service margin rather than a raw energy figure. A settlement may have abundant electrical power and still fail if it cannot reject heat into an environment already above design temperature.
+
+### G.5 Trilium Output Precision
+
+This public strategic edition does not publish tonnage or concentration coordinates. Magor's Trilium contribution is best described as moderate by Frontier Planet volume and high by specialist value. Output fluctuates with volcanic accessibility more strongly than on worlds where deposits are geologically fixed.
+
+### G.6 Scientific Precision Note
+
+Figures in the Planet at a Glance table should be read as survey baselines. Local conditions vary substantially. The atmosphere section explicitly distinguishes oxygen fraction from oxygen partial pressure to avoid overstating hypoxia at the mean pressure. Volcanic, ecological, and water data should likewise be interpreted through regional measurements rather than global averages.
+
+### G.7 Economic Structure and Import Dependence
+
+The following bands are planning estimates rather than audited economic accounts. They are intended to communicate scale without implying precision that Magor's mobile workforce and mixed formal-informal economy cannot support.
+
+Direct Trilium extraction, volcanic-metal mining, and first-stage processing employ roughly 18-22 percent of registered working residents in an average cycle. Infrastructure, transport, repair, fabrication, water, and energy account for another 28-34 percent. Life-support services, enclosed food production, medicine, education, and settlement administration together account for roughly 15-20 percent. Trade, hospitality, finance, claim services, communications, research, and other civilian sectors make up most of the remainder, with a fluctuating share moving between categories as freeclaim crews shift roles.
+
+Trilium dominates export value but not employment. High-value shipments can leave a region whose population is mostly engaged in keeping machines, water, and people functional rather than touching the resource itself. Volcanic metals, refractory ceramics, specialist extraction equipment, high-temperature engineering services, and licensed materials data form the principal secondary exports. Magor also exports expertise: engineers trained on the planet command premium rates on other geothermally severe worlds.
+
+Food remains one of the largest recurring imports by mass. FSA planning models suggest that 45-55 percent of caloric demand is met through imported staples, concentrates, and shelf-stable protein in an ordinary year. Enclosed hydroponics, fungal culture, algae systems, aquaculture, and compact livestock provide most of the remainder. Open springland agriculture contributes only a small share and is constrained by ecological protection and water cost. The exact balance varies sharply by settlement; Pyrestead can sustain itself longer than Emberline, while Rimehook imports more variety than calories because cooling makes storage comparatively cheap.
+
+Water is overwhelmingly local because interstellar water import is economically irrational except in emergency specialty shipments. The meaningful question is therefore not whether Magor has water, but whether a specific settlement can capture, purify, cool, store, and move enough of it through a disruption. This is why water infrastructure carries political weight disproportionate to its share of ordinary economic accounting.
+
+The formal economy understates freeclaim barter, repair exchange, water debt, and informal transport. These systems are not necessarily illegal. They are often simply too small or too mobile to appear cleanly in Federation accounting. Any economic model that treats registered concession output as the whole Magori economy will systematically overestimate corporate control and underestimate the value of local maintenance networks.
+
+### G.8 Demographic Structure and Generational Depth
+
+Edition IV planning estimates place the share of Magor-born residents at approximately 38-44 percent of the registered permanent population, with large regional variation. Cinderhook and Sulphur Gate are above the planetary average; Pyrestead and Caldera Nine are below it because rotational contract labour remains substantial. Around 16-22 percent of residents are estimated to belong to families with at least two Magor-born generations.
+
+The population is concentrated in working-age cohorts because immigration brings adults more often than children or retirees. However, the oldest charter settlements now support a growing elderly population whose needs are changing architecture and healthcare. Cooler public spaces, low-vibration housing, and reliable medical transport are becoming political issues that did not exist during the early industrial frontier.
+
+Species composition is deliberately not reduced to a single precise table in this edition. Registration practice differs by community, mixed households complicate category use, and transient workforces distort local snapshots. Broadly, Humans and Khaureds form the largest registered settlement populations, with Khaured concentration highest in Magmazone and heavy extraction. Onoros constitute a major industrial workforce, but mobile Drone cohorts and differing registration practice make their exact permanent-versus-rotational count unusually difficult to isolate. Human Nordics are disproportionately represented in heavy transport, rigging, recovery, and field engineering. Altans are numerically smaller but strategically significant in resonance, Trilium, and advanced materials work. Elgems concentrate in precision survey and ecological roles; Lopati in orbital, polar, salvage, and reserve-logistics communities; Robotrons in remote operations and hazard exposure. These are distributions, not occupational rules, and Magor-born residents increasingly cross them.
+
+Birth rates are highest in stable charter towns and lowest in short-term extraction works. Family settlement correlates strongly with access to schooling, clean-air recreation, and non-employer housing. This is one reason corporate and independent settlements increasingly compete not only over wages but over whether skilled workers can imagine remaining after they stop being young.
+
+### G.9 Precision, Narrative Evidence and Revision Practice
+
+Narrative sections in this edition sometimes use representative examples, named individuals, and planning bands to make Magor's social systems legible. Unless specifically identified as a registered count, these should be read as current FSA synthesis rather than immutable census fact. Frontier populations move, offices change hands, and local institutions can rise or disappear between major editions.
+
+The document therefore distinguishes three levels of precision. Survey baselines such as radius, pressure, orbital period, and registered settlement population are formal figures subject to normal revision. Planning bands such as employment share, food dependence, and Magor-born population are analytical ranges intended for strategic use. Cultural descriptions, faction assessments, and individual reputations are qualitative intelligence that may change faster than the physical world.
+
+This distinction is not an invitation to vagueness. It is an attempt to avoid false certainty. Magor is a setting in which a number can be accurate and still become operationally misleading if its underlying system has changed. Edition IV uses quantified ranges where they clarify scale and qualitative description where precision would imply knowledge the Far Reach Office does not possess.
+
+## Appendix H - Federation Peoples and Industrial Integration
+
+This appendix summarises the principal ways Federation peoples are presently distributed through Magor's economy and settlement system. It is not a caste map and should not be used to infer individual capability. The categories describe recurring concentrations produced by physiology, history, technology, recruitment, and institutional habit.
+
+Magor's industrial society is most distinctive where these traditions overlap. Magmazone is the clearest example: Khaured leadership and heavy engineering, Onoros cohort labour and coordination, Human Nordic ground mobility and maintenance, Robotron high-hazard operation, and smaller specialist contributions from Altans, Elgems, Lopati, and others combine into one production system. Independent settlements reproduce the mixture less formally.
+
+| **People**                        | **Strongest Magori Concentrations**                                             | **Recurring Strategic Roles**                                                                       | **Environmental Fit**                                                          | **Principal Narrative Tension**                                                                                       |
+|-----------------------------------|---------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| Khaured                           | Pyrestead, Kharad Hold, Caldera Nine, major Magmazone concessions               | Heavy engineering, site leadership, walkers/mechs, security, high-temperature extraction            | Strong: high gravity and gaseous hazards comparatively familiar                | Industrial dominance versus ecological restraint; purpose-driven culture versus corporate growth                      |
+| Onoros                            | Magmazone processing belts, Kharad-linked operations, enclosed logistics sites  | Drone labour, continuous plant monitoring, material handling, Director coordination                 | Operationally efficient: low metabolic demand and strong low-light vision      | Agency, labour representation, Maxa influence, and opacity of the Khaured-Onoros alliance                             |
+| Human Nordics                     | Pyrestead, Emberline, heatline networks, recovery and freeclaim sectors         | Tracked/crawler transport, heavy maintenance, rigging, recovery, prospecting                        | Good: robust physiology reduces gravity burden                                 | Corporate employment versus independent frontier identity; hybridisation of Human and Khaured engineering             |
+| Robotrons                         | Farwatch, active caldera works, black slag fields, contaminated sites           | Hazard entry, exterior maintenance, drone control, remote reconnaissance                            | Very strong for non-respiratory and high-exposure tasks                        | Sentience and labour rights versus treatment as recoverable industrial hardware                                       |
+| Altans                            | Farwatch specialist units, Cinderhook research, certified Trilium facilities    | Resonance control, Triactor engineering, contamination science, Biometal-related certification      | Requires ordinary heat protection but low dependence on brute-force field work | High-status specialist knowledge versus Khaured-led extraction competence; jurisdiction over Trilium manipulation     |
+| Elgems                            | Glass-Sand surveys, Cinderhook, lava-tube and ecological field teams            | Confined-space survey, lightweight sensing, low-signature reconnaissance, precision engineering     | Mixed: small agile bodies useful, but exposed heat still demanding             | Subtle specialist influence versus heavy-industry culture; conservation and archaeological caution versus prospecting |
+| Lopati                            | Farwatch, Rimehook, Southglass, cold storage and salvage nodes                  | Polar logistics, efficient systems, salvage, archival maintenance, long-duration reserve management | Weak in hot lowlands; strong in polar/orbital environments                     | Preservation culture and physiological limits versus integration into a hot frontier world                            |
+| Other Humans / Federation peoples | Cinderhook, mixed charter towns, medical, legal, trade and research communities | Civic government, medicine, education, trade, science, independent technical work                   | Varies by species and augmentation                                             | Whether Magori identity becomes genuinely cross-species or merely overlays older Federation divisions                 |
+
+Operational note: species-derived strengths should never be treated as substitutes for current medical, environmental, or technical assessment. Magor has enough dead experts to demonstrate that a good evolutionary fit does not make an active caldera safe.
+
+## Final Continuity Statement
+
+Magor is the Federation's farthest fire. It sits where central authority thins, where a world can lie inside a habitable-zone classification and still remain hostile to casual habitation, and where industrial ambition must negotiate with geology already in motion.
+
+The planet is civilised in fragments: a condenser kept running, a convoy that turns around before the ash arrives, a Claim Court that protects an emergency route from a profitable concession, an Ash Marshal who closes a plant before the instruments become dramatic, a mechanic who repairs a stranger's cooling loop because everyone on the heatline understands what failure means.
+
+Trilium guarantees that Magor will remain economically important. Remoteness guarantees that it will remain difficult to govern. Volcanism guarantees that every settlement, corporation, and frontier legend operates on conditional ground. The strategic question is not whether Magor can be exploited. It can, and it will be. The question is whether the Federation and its industrial partners can extract value without allowing each improvement in access to create more vulnerability than the world can absorb.
+
+Edition IV retains that quieter evidence of permanence and makes explicit that it belongs to a multi-species frontier society rather than a culturally neutral population. Magor now contains children who know the sound of a refuge alarm before they know the geography of any other world, elders whose careers began during the Ashline settlement era, artists working in repaired metal, students arguing about whether frontier knowledge should become formal education, and families whose identity crosses species lines more easily than it crosses the distinction between those who stay and those who leave. The same schools, workshops, convoys, and refuge halls now make Khaured, Onoros, Human, Robotron, Altan, Elgem, Lopati, and other Federation traditions part of a shared Magori civic story without erasing their differences.
+
+That civilian depth does not soften the planet. It explains why the settlements endure. People do not maintain condensers, heatlines, courts, schools, workshops, gardens, rituals, and jokes merely to support extraction. They maintain them because Magor has become home. The resource brought civilisation to the Far Reach; the civilisation now possesses reasons to survive that cannot be measured in Trilium output.
