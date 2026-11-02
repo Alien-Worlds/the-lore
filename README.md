@@ -6754,3 +6754,563 @@ Inter-tribal gatherings provide opportunities for cultural exchange, and tattoos
 ### A Testament to Identity
 
 Elgem tattoos are a vibrant, living testament to their harmony with Velgemmis and the diverse biomes they inhabit. These marks of identity, forged in the dyes and patterns of their environment, reflect the ingenuity, resilience, and cultural richness of their society. For the Elgem, their tattoos are connections to their world, their tribe, and their legacy.
+
+# THE HOLLOW VEIN
+
+ASTEROID VESPER-13  ·  AN ALIEN WORLDS STORY
+
+## I. COSTS OF ENTRY
+
+The *Magpie* was forty-three minutes out from Vesper-13 when the pilot cut cabin spin. Cups lifted from their restraints. A loose socket set knocked against a case lid.
+
+“That's your last chance for a civilised breakfast,” the pilot said over the general channel. “After this, you eat through a tube and pretend it doesn't taste of its own packaging.”
+
+Hald caught the coffee bulb drifting off Ivar's knee. He was a Nordic miner with the compact bulk of a man who had spent twenty years moving things that had no intention of moving. He pushed the bulb into its clip and gave Ivar a look.
+
+“Suit check,” he said.
+
+“I did it.”
+
+“You did the checklist. Do the suit.”
+
+Ivar turned his wrist to inspect the seal. His file said twenty-six, three years off Norr, a brother with industrial-lung damage and debt that might outlive him. At the briefing he'd asked twice how the discovery bonus was calculated. X-CAV-8 had answered him twice.
+
+Across the bay, an Elgem woman with silver-pale facial traceries eased a new valve membrane into the grip of her dartgun. The ridged casing looked less manufactured than grown, and its fine veins fluoresced beneath the work lamps. Her brother, sitting opposite, counted stun-pods into a padded temperature-held case, checking each green husk against the manifest before he let it settle. Their faces were close enough in structure to be mistaken for copies at a glance, though his long ears were set a fraction higher and the marks beneath his eyes divided into three strokes where hers formed one.
+
+“Aelis,” said the brother, without looking up. “You're using the membrane from my kit.”
+
+“Your kit was open.”
+
+“It's not a communal mine.”
+
+“If you want to report a theft, Aevin, I'll take the statement.”
+
+He closed the case with a precise click. Neither of them smiled. They were both smiling.
+
+Jalen's standard security manifest specified lethal weapons. X-CAV-8 had approved the Elgem alternatives.
+
+At the bulkhead, Onoros Worker 7-K occupied a mining exosuit on a charging gantry. Its heavy forelimbs folded beneath the bracing, and the small drone showed through a smoked aperture in the central cage, limbs resting inside a ring of controls. The suit carried ground anchors, a corer, an impact hammer and a lifting yoke. Its narrow-band synthesiser managed instructions perfectly and conversation badly.
+
+“Hydraulic circuit C shows a four per cent pressure variance,” it announced.
+
+Hald checked the maintenance trace. “Cold soak. You'll be in sun for most of the first leg.”
+
+“Then circuit C will require reassessment after the first leg.”
+
+“Yes.”
+
+“Reassessment scheduled.”
+
+Captain X-CAV-8 stood beside the cockpit partition. She was a Robotron built for sealed-environment survey work, narrow-bodied and long-armed, with ceramic joints protected against abrasive dust. Old nicks showed on her forearms. Her voice was female, a choice retained from an earlier contract. Beneath her designation plate someone had scratched EXCAVATE and tried, without success, to polish it out.
+
+On her navigation display one hemisphere was mapped; the other remained conjecture.
+
+“Pilot,” she said, “your approach corridor crosses the northern debris gradient.”
+
+“Only on the client's map.”
+
+“The client has provided no alternate map.”
+
+“Exactly.”
+
+Yen opened an optical feed. Vesper-13 hung above a striped gas giant, black rock with three broken ridges at one end. The prospectus promised cheap access to platinum-group deposits, minimal environmental complications and no previous subsurface work. It had the confidence of a document prepared elsewhere.
+
+“You want the irregularity?” Yen asked. “Look at the north basin.”
+
+The northern basin was an old impact structure distorted by later breaks. A grey density model showed a deep, irregular deficit.
+
+“We're missing mass,” Yen said. “Not enough for this to be a shell. Enough that I'd like to know where it's gone.”
+
+“Voids,” said Ivar.
+
+“Or errors,” Hald said.
+
+“Error margins are accounted for,” X-CAV-8 replied. “The possibility of error remains.”
+
+Jalen Materials paid on acceptance, with bonuses for verified ore bodies. It claimed first access to the record. X-CAV-8 had challenged the clause twice and been told it was ordinary practice. Marek Solis, Jalen's claims officer, would judge their submission from the relay. Yen had mentioned him four times since departure, without affection.
+
+She dismissed the model. “Hald and Ivar assess the geology. Seven-K handles drilling and rigging within my limits. Aevin and Aelis manage the routes. No new tunnels to prove a guess. Photograph the unusual before you touch it. If you cannot tell whether it's alive, assume your hand is the first problem.”
+
+Yen laughed from the cockpit. “You used to say that about unexploded charges.”
+
+“I continue to.”
+
+Their landing point lay behind a ridge with two large boulders embedded in its upper face. The *Magpie* would not land: the surface had too little reliable bearing and the ship too much mass in its landing gear. Yen would hold position on thrusters while they unloaded.
+
+“Eight hours forty,” Yen said. “That's pickup. A debris front crosses my approach plane at nine hours. Miss the window and I have to clear the orbit. I haven't brought enough propellant to wait.”
+
+X-CAV-8 added the deadline to every visor. The last twenty minutes belonged to boarding, not exploration.
+
+“And Solis is watching the survey feed,” Yen said privately. “My next charter is with Jalen. I'd rather he liked our work.”
+
+“He may judge it accurately instead.”
+
+“That's the part I'm worried about.”
+
+In the airlock X-CAV-8 checked seals, rescue line, drill heads and suit-air feeds. Each Elgem dartgun would draw propellant from its wearer's breathing reserve; a tether-bolt shot cost ninety seconds. Aevin's stun-pods were held warm in an insulated case and discharged through contact, not through vacuum. Nothing was missing.
+
+The cargo ramp opened onto vacuum. The gas giant occupied almost a quarter of the sky. Below them, Vesper-13 looked less like a geological body than a load of damaged castings spilled out of a crucible.
+
+“Good hunting,” Yen said.
+
+“Surveying,” X-CAV-8 corrected.
+
+“Right. Try not to discover anything I have to invoice.”
+
+They stepped down into the weak gravity, one at a time, and anchored themselves to the rock.
+
+## II. THE PRICE OF A SURFACE
+
+Ivar had done three off-world jobs, none in gravity this mean. On exposed iron the magnetic soles held; on stony ground the boots needed spikes and the security line. A dropped wrench could escape into orbit. He found he could not stop himself looking at where his feet would go after a jump, instead of at where they ought to land.
+
+At Station One on the ridge, Hald placed reference bolts, Aevin checked the overhang, and Aelis marked a return route. Seven-K anchored their repeater to a boulder after measuring its mass. X-CAV-8 tossed a steel pellet and watched its small, leisurely arc before retrieving it on a thread. Gravity varied enough across the ridge to complicate their exit. The clock read seven hours forty to pickup.
+
+Ivar saved the gravity reading for the return route.
+
+Their traverse carried them across an exposure of nickel-iron with rough bands of silicate. At the first promising seam Ivar scraped away dust and pressed his scanner to the stone. Nickel. Minor cobalt. Iron sulphides. A platinum signal below the threshold where anyone sensible would begin to count credits.
+
+“Not bad,” he said.
+
+“Not good,” Hald replied.
+
+“That's a matter of expectations.”
+
+“It's a matter of processing cost.”
+
+Hald had grown up beside an exhausted refinery and carried the experience into every assay. He wanted the price of extraction beside the price of the metal. Ivar wanted the metal to be worth enough that the first number stopped mattering.
+
+They took a short run of cores, sealing and photographing each piece. Seven-K's anchors lost purchase under the drill's reaction force. Each time the drone stopped and reset its footing without being asked.
+
+“Circuit C?” Hald asked.
+
+“Variance reduced to one per cent. Footing remains the limiting factor.”
+
+A fracture line brought them into impact glass, black sheets green at their broken edges. Ivar found a small metal bead trapped inside it, unusually rich in palladium. The display made an attractive promise. Hald had him test four neighbouring points; none came close. Ivar sealed the bead anyway, keeping it in the case marked DISPERSED, as though the label might someday change.
+
+“There's your deposit,” Hald said. “One lovely bead.”
+
+“Someone will still want it.”
+
+“Someone can come and collect it personally.”
+
+X-CAV-8 recorded a dispersed metal concentration, not a continuous seam. Ivar accepted the entry because he had no argument against it, and because arguing would waste daylight they did not have.
+
+Past the glass, the terrain steepened into a field of stacked fragments. Aelis moved ahead on a single line, letting the lamp at her shoulder examine the gaps. On one side of a narrow route was a tilted block larger than the *Magpie*. On the other was a descent into a crater lined with dust so fine the texture vanished beyond a few metres.
+
+“Route two,” Aelis said. “Good anchors on the left.”
+
+Aevin watched the block. “Show me where it meets the ground.”
+
+She relayed a close image. He zoomed in until individual pebbles were visible beneath the load.
+
+“Two contact points,” he said. “Neither good.”
+
+Aelis scanned again, a fraction slower. “Agreed. I missed the second gap.”
+
+They took a longer line around the ridge. Ten minutes later a small impact struck somewhere beyond it.
+
+Ivar felt the impact through his boots before he saw fragments rise over the skyline. Some would escape Vesper-13; some would come around and hit it again. A fist-sized fragment struck the tilted block. Its supports shifted.
+
+“Away from the ridge,” X-CAV-8 said.
+
+They shortened their lines and pulled behind a slab. The block rolled free, struck the slope, then rebounded across Aelis's proposed route. Its edge caught a staged equipment cache: a sample case and pre-rigged return line flew off their anchors. The case struck stone and split, scattering numbered tubes into darkness. Ivar watched the palladium bead disappear. They lost the samples, the line and twelve minutes spent making the route safe again.
+
+Aevin looked at his sister, then at the route she had suggested. He said nothing. She made the hand sign they used when she wanted him to stop being right.
+
+“Maintenance-heavy world,” Hald said.
+
+“Only if someone pays us to return,” Ivar replied.
+
+They continued around the ridge to a sheltered basin. Beneath black dust lay ice and shallow pits where frost had cracked the crust. The thermal map showed cold pockets far older than their equipment.
+
+Aelis crouched by one pit. The disturbed grains rose in slow arcs. She switched off her lamp to see where the slope ended.
+
+“It's quieter than a vacuum should be,” she said.
+
+“There's no air to carry sound,” Aevin reminded her.
+
+“That's why I said it.”
+
+X-CAV-8 inserted a ground-contact probe beside the pit. Thirty-one seconds later came a low-frequency pulse. Another after twenty-seven. Then a faint series of smaller impulses, not periodic enough to be machinery, not quite random enough to ignore.
+
+“Possible fracture activity,” she said.
+
+“Where?” Hald asked.
+
+“Below us. Deep enough that the local sensor network cannot locate it cleanly.”
+
+The prospectus placed an enriched sulphide zone below the basin. At three hours nine from landing, their traverse arrived at an opening beneath a shelf of dark metal. Seven-K could fit if it folded its tools. The rock seemed stable; on the visible inner wall, long smooth channels ran parallel to the floor.
+
+Ivar's readings improved sharply near the entrance. Nickel sulphides, copper, traces of ruthenium and palladium. Several metres below the surface, the concentration held across a rough span of wall.
+
+“Now,” he said, “there's your reason to come back.”
+
+X-CAV-8 checked the time: five hours thirty-one to pickup, enough for a controlled examination and a retreat. She sent the revised map to Yen, received half an acknowledgement and ordered the entrance repeater boosted.
+
+“Two hours to the first review,” she told them. “After that, I authorise any extension. We keep our return reserve.”
+
+Hald set a beacon at the threshold. Aelis clipped in and led the way. Ivar followed the line into dust that might not have shifted since before any of their species had learned to use fire.
+
+## III. INSIDE WORK
+
+The passage looked like a fracture in something larger, not a proper cave. Iron-rich slabs bridged gaps overhead; below, shelves surrounded holes beyond their lamps. X-CAV-8 sent a mapping puck ahead on cold-gas bursts. It brought back useful surfaces and much uncertainty. Bends ended its range; metallic rock confused the radar.
+
+At Station Two, the first underground sampling point, bronze sulphides appeared between darker metal and a band of silica and ice. Hald marked the boundaries. Ivar measured the seam at half-metre intervals, checking the full sequence before he spoke.
+
+“Palladium in the sulphides,” he said. “A little platinum. More copper than we expected. It isn't uniform.”
+
+“Uniform ore bodies are for brochures,” Hald said. “How thick?”
+
+“Unknown. We have one exposed face.”
+
+Hald nodded. “Good answer.” X-CAV-8 added the qualification to the official reading: one exposed face, no continuity established.
+
+Seven-K made a pilot bore, slow enough to keep the anchors from slipping. It produced a short core in three pieces. The assay was encouraging; the formation was not. Brecciated material crossed the valuable interval. Bulk extraction would require roof supports, debris containment and a way to keep the machinery out of the voids.
+
+X-CAV-8 put preliminary numbers beside the mineral values. For every tonne of rock the client hoped to sell, she estimated a much larger commitment in anchoring, heat management, power, and closed-loop handling. These were not exact costs. They were enough to change the meaning of the word rich.
+
+The tunnel widened at an arch whose surface carried long grooves. On the floor were polished holes, four to six centimetres across. In Aelis's headlamp they looked drilled.
+
+Aevin scanned the holes and checked the security record. “No previous claim. No registered salvage. If someone's been here, they didn't leave a beacon.”
+
+“Or their beacon's at the bottom of something,” said Hald.
+
+Ivar lowered a fibre camera into the nearest opening. The bore branched. No tool marks, only dark coating on irregular mineral.
+
+“Hot fluid could have made the channels,” he said. “Then the body cooled.”
+
+“Through solid metal?” Aevin asked.
+
+“Not all of this is metal. Ice, sulphides, fractures. Chemistry can hollow out things that look solid.”
+
+X-CAV-8 compared the channels' diameters and directions. They occupied the margins of old fractures rather than cutting straight through intact material. She logged that detail with the caution that it deserved. There was no evidence of an installation, but too little data to declare the cavities natural beyond argument.
+
+A soft clicking came through the team's contact microphones. Hald stopped. The sound was physical vibration, picked up by the suit accelerometers and translated into something their ears could use. It appeared to come from the wall itself.
+
+Seven-K idled its pumps. The clicking continued. Ahead, fine filaments moved against the rock. Closer in, they found pale, glassy branches taller than Ivar, growing from the wall in forks whose points were finer than needles. Broken pieces on the floor showed concentric layers, laid down over an immense time.
+
+Aelis scanned the coating. “Iron. Sulphur. Silica. Something organic, unless the machine's being fooled.”
+
+“Leave it,” X-CAV-8 said when Ivar reached for his forceps.
+
+“I only wanted a fragment that's already broken.”
+
+“Then record it where it lies. We can decide after we understand the surrounding deposit.”
+
+He held his hand still, then withdrew it. X-CAV-8 logged the contact as avoided. Ivar kept his helmet turned towards her for a moment, then asked her to save the image to his private copy.
+
+Aelis found the first moving object.
+
+It was beneath a clear mineral skin in a recess beside the path, surrounded by what the thermal map called a cold pocket. There were dark grains embedded in a narrow, translucent channel. One grain moved, stopped, and moved again against the others. At forty times magnification it proved not to be a grain. A segmented body, eight millimetres long, carried six hooked limbs along an articulated underside. It worked one pair of limbs into a patch of dark sediment and remained there while the others stayed folded. After ninety seconds it moved another two millimetres.
+
+“Could be a trapped mechanism,” Aevin said.
+
+“Look at the sequence,” said X-CAV-8.
+
+She displayed three minutes of footage. The object had tested a grain, returned to it, then turned and selected another. Under the sealed mineral cap a second object lay motionless, curled in a channel too narrow for it to move without unfolding.
+
+“Any heat?” Hald asked.
+
+“None distinguishable from the matrix. There is evidence of concentrated salts, possibly a brine film at the sulphide boundary. There is evidence of complex carbon chemistry. Neither proves life.”
+
+Ivar watched the little thing slowly draw a grain towards its front appendages. “That looks like feeding.”
+
+“Maybe,” X-CAV-8 said. “Whatever it's doing, opening the pocket would destroy the conditions under which it's doing it.”
+
+The channel had stayed sealed for an immense time. If it held life, vacuum and the heat of a survey lamp might finish what impacts had failed to do.
+
+“Biological sample required?” Seven-K asked.
+
+“Not authorised,” she said.
+
+“Material extraction deferred.”
+
+“Yes.”
+
+The drone moved its heavy feet back from the recess. “This environment is more efficient when unmodified.”
+
+Nobody answered immediately. Seven-K waited at the recess with its tools folded against the exosuit.
+
+At the two-hour review X-CAV-8 authorised a one-hour extension to examine the richest shelf, subject to a safe return route. Nineteen minutes later, the tunnel bent along the rim of a much larger cavity. The mapping puck reported a drop of at least eighty metres, perhaps more. A strong platinum-group signal came from a narrow shelf on the inner wall. It was richer than any sample they had taken. Between that signal and the crew were two supported fractures, a jagged access step, and a stretch of floor their scanners could not resolve beneath the top layer.
+
+“We have forty minutes on this level,” X-CAV-8 said. “Pickup is in three hours twelve.”
+
+“Enough to set up one core,” Ivar replied.
+
+“Enough to examine whether one core is wise.”
+
+Hald studied the seismic trace. The low pulses had returned. They travelled through the rock from somewhere close to the central cavity, though their amplitude differed at each node. He replayed the trace and pointed to an interval of rapid ticks just ahead of a larger movement.
+
+“Stress relaxation?” he asked.
+
+“Likely. Or material breaking up along a surface we cannot see.”
+
+“Then we get our measurements from the entrance to the shelf and stop there.”
+
+Aevin set a line along the safe side of the passage. Aelis took a small packet of marker tabs and began numbering the points where the rock looked least trustworthy. Ivar followed the line, watching the platinum reading rise across his wrist screen. X-CAV-8 carried the final anchor.
+
+## IV. A WEAKNESS IN THE CALCULATION
+
+Station Four was a name Hald had entered in the sample log, nothing more. Ivar could see why the older miner preferred numbers. A name might persuade you the place would still be there when you came back.
+
+The shelf crossed a cavity deeper than his lamp could reach. Through his suit soles Ivar felt the irregular taps of stressed rock. The scanner showed a dense crust, rich sulphides and uncertain backing of ice and rubble. His gloved fingers shook as he calculated his discovery share. He started again and arrived at a different number.
+
+Aelis, inspecting the far anchor site, called him over. In a thin seam above the ledge lay an old bolt, cut off nearly flush with the stone. Beneath the corrosion, a few characters survived on its head: J4, a dash and two uncertain digits. The alloy did not match their equipment. No matching claim, work notice or rescue incident appeared in the registry transmitted to their suits.
+
+“Somebody's been here,” she said.
+
+“Somebody looked,” Ivar said. “That's not a claim.”
+
+Beside the bolt was a scratch the width of a corer. They might have been made years apart. Ivar photographed the marks and sent them to X-CAV-8. Her instruction came back: leave them.
+
+Hald studied the shelf. His eyes remained on the assay value for a moment, longer than Ivar expected; then he turned the display away. “Old anchor, unknown bore, hollow backing. I wouldn't call it a recommendation.”
+
+The clock showed two hours forty-nine to pickup. Ivar could return with scattered readings and a creature behind ice. Or he could return with a core that put a decimal point against the ore. Only one came with a bonus.
+
+“We only need twelve centimetres,” he said. “The ore is right at the face. Seven-K can take it from the stable shoulder.”
+
+X-CAV-8 ran the structural model. She had already moved its safe zone back from the edge. Hald pointed to a spike in the pressure trace, a brief rise in a sealed pocket behind the outer seam.
+
+“It's instrument noise,” Ivar said. “The temperature probe jumps at every ice boundary. We saw that at Station Two.”
+
+“Station Two had solid backing,” Hald said.
+
+“Then lower the feed. Eight centimetres, if that's all you want. We came to find out what's here.”
+
+He heard the need in his voice and wished he had not. X-CAV-8 checked the anchoring model and the torque cutout. She adjusted the drill angle six degrees and authorised a twelve-centimetre core. It was her decision. He had helped her reach it.
+
+Aevin sent Ivar behind the tether line. Aelis cleared the tools from the rim. Seven-K braced, set the corer against the face and began at a feed speed so low Ivar could see individual flakes leaving the bit. Nine centimetres came away cleanly. At ten, the motor torque increased. At eleven, the drill entered a hairline seam.
+
+A change on Ivar's wrist display showed the backing pressure rising again. He could have said something. The number sat within the broad uncertainty of the probe. There was still one centimetre to cut. The tool was almost finished. He watched for the automatic stop, waiting for the machine to settle an argument he had started.
+
+“Hold position,” X-CAV-8 said.
+
+The motor stopped. A white crack travelled up the wall above the bore. The pressure trace had not been noise. Sealed gas and volatiles erupted into the open passage, carrying frozen grains and sharp pieces of metal. The recoil knocked Seven-K's left anchor free. The exosuit struck the ledge and sheared off a corner. Ivar tried to move back at precisely the moment the broken stone touched his boot.
+
+The surface went from under him. There was no downward plunge, only a mild push and then the cruel persistence of a small velocity. He was leaving the ledge, heading into the black space where their lidar had failed. His tether tightened across his hip. He felt the relief before the anchor tore out of its crack and joined him in flight.
+
+He fired one suit thruster. The puff turned him sideways without cancelling his motion. An outline of the shelf passed through the corner of his visor; he saw Aelis on her knees at its edge and the bluish light from a communications beacon behind her. He wanted to tell her not to come after him. What came out was, “I can't get back.”
+
+“No,” X-CAV-8 said. “Don't waste your manoeuvring cartridge. We're bringing you in.”
+
+Ivar folded his arms to clear the harness loops. His helmet readouts were absurdly sharp: carbon dioxide, heart rate, propellant. He tried to decide whether someone falling so slowly could die before he hit anything.
+
+“Aelis, wait for a hard connection,” Aevin said. “Don't launch yourself.”
+
+Aelis planted one boot and drew the organic dartgun from its holster. He saw her lock a tether bolt into the wide front channel. On the shared medical strip at the edge of his visor, her air reserve dropped by ninety seconds as the gun charged from her suit. She raised it towards the rescue eye on his chest harness.
+
+“Hold still, Ivar.”
+
+He thought he was holding still. The bolt struck the metal eye hard enough that he felt it through the suit. Its hooked head opened on the far side. For a terrible instant he rotated around the new point of attachment, then Aelis's anchor and winch took the strain. The line pulled straight. Ivar's visor now showed less air for Aelis than for her brother. Her hand stayed extended towards him even after the winch caught.
+
+Above her, a slab had begun separating from the ceiling. It had little weight and too much mass; once in motion it would take the lines off the edge. Seven-K moved under it. Ivar heard its circuit alarm and Hald's voice, hard and close, naming loads and angles. X-CAV-8 directed the drone to press one manipulator against the opposite wall so the rock, rather than the damaged exosuit, carried the slab's movement.
+
+“Winch in,” Aelis said. “Slow.”
+
+The line drew him back a metre at a time. He tried not to watch the great dark opening turning beneath him. At the lip Hald caught a shoulder strap and pinned him against the wall until the magnets in his boots found purchase. Aevin clipped a second safety line to him without ceremony. Ivar wanted to apologise. His first attempt sounded like a complaint about the pressure in his collar.
+
+They moved beyond the junction while Seven-K extracted its arm from the temporary brace. X-CAV-8 came last, her ceramic shoulder taking a blow from the settling roof. A slow impact travelled through the rock, then another. The drilling ledge disappeared behind them. So did the tripod and two sample cases. Ivar watched the lost equipment icons extinguish on the route map, one after another.
+
+* * *
+
+X-CAV-8 counted six intact suit signals in the junction and then counted again. The second count was a correction to herself, not an improvement in certainty. Seven-K's left actuator had seized; its corer was beyond recovery. Ivar's manoeuvring cartridge was almost empty, Aelis had spent part of her breathing reserve, and X-CAV-8's left shoulder had lost eighteen degrees of movement. The two lost sample cases were not on any safe retrieval path.
+
+Hald had Ivar seated against the wall and was checking the pressure seals at his boots. Aevin inspected the tether bolt in the harness eye. The hook had done its work; it would have to be cut free in the ship. Aelis said nothing about the air she had spent, although the figure shone on all their medical overlays.
+
+“What happened?” Ivar asked, when he could speak evenly.
+
+“We cut into a pocket we didn't characterise,” Hald said.
+
+X-CAV-8 opened the event log and recorded three failures under her own designation: the decision to cut, the tolerance she'd allowed and the time lost before her stop order. She did not attach Ivar's name. The discussion preceding the cut remained in the communications archive; she would not edit it. But the authorisation had been hers. She added the photographed J4 anchor to the incident appendix under unregistered prior equipment.
+
+A faint motion passed along the pale filaments embedded in the adjoining wall. It travelled across a fracture and continued into a second cluster. The sensors registered a deeper pulse beneath their feet. X-CAV-8 checked the remaining time: one hour fifty-seven to pickup. Their mapped return route ran past a small chamber, accessible without additional drilling, then climbed directly to the entrance. The chamber would add six minutes if they observed from the doorway. She authorised the six minutes, not a metre more.
+
+“We look as we pass,” she said. “We don't go in.”
+
+## V. WHAT REMAINS IN PLACE
+
+The side chamber opened through a broken arch from their return tunnel. X-CAV-8 inspected the overhead supports and found no visible loose slabs. Hald set two anchors behind them and kept the line back to the entrance taut. The chamber was an observation stop, not a second chance at the ore.
+
+From the threshold they could see mineral structures across the chamber floor, some no higher than a hand, others reaching several metres into the dark. They rose from a series of terraces below the entrance. Their branches were thicker than those seen earlier, but the fine ends were the same. The distribution was odd: growths gathered where iron sulphides met pale deposits containing salts and water ice. Between them lay patches of ordinary stone. Whatever caused the structures was highly particular about its surroundings.
+
+X-CAV-8 mounted a lidar unit in the doorway rather than risk the mapping puck's gas jets among the filaments. Ivar stood behind Hald, both of them still tethered, and watched the image build.
+
+The strong platinum signal came from the lower terraces, close to several of the largest mineral clusters. On Ivar's wrist display a string of figures appeared, then disappeared as he closed the private calculation. X-CAV-8 saw him dismiss it. The mapping unit completed its sweep, showing the valuable seam aligned almost perfectly with the growths.
+
+“Coincidence?” he asked.
+
+“It's an association,” Hald said. “That's all we can say.”
+
+X-CAV-8 overlaid chemistry on the terraces. Tiny but persistent electrical differences tracked boundaries between sulphides and salts. Carbon-rich coatings sheathed the branches; beneath them ran channels of ice and unknown material. Small jointed forms clustered at their ends. Two had shifted since the last images. One carried a black particle in its front limbs.
+
+Aelis watched it work. It nudged the particle into an opening and drew back. Nothing dramatic followed. The particle remained where it had been placed.
+
+“That's a job,” she said.
+
+“Or an accident repeated often enough to look like one,” Hald replied.
+
+“No one is going to let you enjoy this, are they?”
+
+“I am enjoying it. From a safe distance.”
+
+X-CAV-8 overlaid the seismic recording. Minute filament movements followed strain pulses through connected branches, sometimes crossing visible fractures. The strongest responses occurred at the sulphide boundaries. A flexible mineral lattice could transmit such movement; changes in conductivity through the organic coatings might have amplified it. Nothing here established a warning system, let alone awareness. Yet the pattern was repeatable.
+
+“Lamps off,” X-CAV-8 said. “Visor assistance to minimum. Nobody moves.”
+
+The chamber lost its harsh working light. A pinprick of fluorescence persisted on one terrace, then another, as though a current too weak to see directly were closing contacts beneath the mineral skin. A slow band of pale light travelled across the lowest branches and climbed the next level, spreading through a structure the lidar had rendered as separate clusters. For nearly a minute the whole terrace changed, faintly and unevenly, with no luminous centre. Hald held his breath until his suit corrected him. Seven-K went motionless. Nobody spoke. When the light passed, the chamber returned to the darkness in which it had spent an age beyond the reach of their instruments.
+
+X-CAV-8 restored the work lamps. The camera had registered the event but none of its measurements explained it.
+
+“Could the organisms have made the tunnels?” Ivar asked.
+
+“Some of them, perhaps,” X-CAV-8 replied. “Chemistry has done most of the work. Sulphides dissolve and redeposit when the local conditions change. Ice moves through fractures. If these forms alter that process even slightly, the effect could accumulate for a very long time.”
+
+“Can we call it a reef?” Aelis asked.
+
+“Not in the formal report.”
+
+The clock showed one hour twenty-six to pickup. A low vibration reached the doorway, followed by three shorter impulses from the direction of the failed drilling station. Seven-K registered a change in the floor behind them. X-CAV-8 shut down the lidar and ordered the crew towards the entrance.
+
+Aevin's hand went to the warmed stun-pod pouch at his belt when the filaments nearest the door stiffened and began to move. He held one husk beneath his thumb, ready to arm it. Then he looked at the small jointed form carrying its grain beneath the ice, and put the pod back. Nothing in the chamber was approaching them.
+
+Aelis stopped before stepping onto the return line. Filaments beside the right-hand anchor bent by a fraction, then straightened. The dust beneath them had not moved. She lifted her boot, put it down where she had been standing and asked X-CAV-8 for a focused structural scan.
+
+The radar found a thin crust over a narrow cavity, hidden on their first pass by metallic rubble. The filaments had moved before the upper surface showed any sign of failure.
+
+“Last time I watched where the stone touched,” Aelis said. “At the tilted block. Aevin watched where it didn't. I'm not stepping there because it looks solid.”
+
+“Keep left,” the captain said. “One at a time. The surface beside the right-hand anchor is hollow.”
+
+They traversed along the wall. Seven-K supported the remaining line with an undamaged manipulator. Ivar came across last, moving more slowly than usual and keeping his weight close to the stone. As the drone released the far anchor, the thin crust parted. Several sheets of rock turned and dropped into the unseen space below. They vanished from view without the crash their size invited. A remote accelerometer counted their impacts much later.
+
+At the junction Aevin looked back. “If she hadn't stopped?”
+
+“We would have put our weight on the crust,” X-CAV-8 said. “Whether it would have held is unknown.”
+
+Aevin touched his sister's shoulder. Aelis gave him a small grin, then moved away to check the next anchor.
+
+X-CAV-8 sent the surviving archive to the relay buoy: assays, photographs, drill loads, rescue telemetry, the moving forms beneath ice. Her interim warning barred further coring in the mapped chamber and recommended no bulk excavation without a structural survey and independent biological assessment. She had no authority to declare a sanctuary. She did have authority to prevent the preliminary survey from being mistaken for an extraction licence.
+
+Seven-K read the revised work order through its exosuit controls. “The richest site is now inaccessible.”
+
+“Without further assessment,” she said.
+
+“Then its present value is information rather than extracted mass.”
+
+“That is one way of putting it.”
+
+The drone began the ascent with its damaged left arm drawn against the hull. X-CAV-8 sent the chamber recording to redundant storage, checked that the new route was still open and followed the others out. She did not look back. The map was enough.
+
+## VI. SALVAGE
+
+They reached the surface at eight hours two minutes, with forty-six minutes of suit margin left by X-CAV-8's conservative count. The angle of light had altered, changing familiar stones into shapes that required fresh inspection. The staging beacon still transmitted. The *Magpie* did not answer their first call.
+
+Yen came through on the second, signal broken by the ridge. “I'm off your planned approach. Impact debris crossed the pickup line. New position on your east side, about three hundred metres from the beacon.”
+
+Aevin looked along the route. Three hundred metres here was not far in distance. It was far in work. The direct line crossed a sloping sheet of loose material, and the safest alternative involved returning to the glass field.
+
+“I'm not bringing the ship over your heads while that's still moving,” Yen said. “Can you make the east saddle?”
+
+“We can,” X-CAV-8 replied. She checked Seven-K's damaged joint and Ivar's depleted manoeuvring cartridge. “At reduced speed.”
+
+The crossing took twenty-nine minutes, leaving nine before pickup. They abandoned most of their gear. Hald retrieved one last core from the exposed seam at staging: poor grade, sound provenance, more useful for planning than anything lost at Station Four.
+
+“Take this one,” he told Ivar, handing him the sealed tube.
+
+“Is that meant to make me feel better?”
+
+“No. It's meant to get us paid for work we actually did.”
+
+At the east saddle the *Magpie* hovered just clear of the rock, its downward thrusters disturbing grains that moved in slow, shining arcs. Aelis helped the exosuit over the sill. Aevin followed, taking the rear of the line until all the others were secure. When X-CAV-8 finally boarded, she saw the last of the dust crossing the landing lamps. The cargo ramp closed on it. Vesper-13 receded below the transport as Yen accelerated into a safer orbit.
+
+Ivar stayed awake until they cleared the debris field, then fell asleep still strapped into his acceleration seat. Hald secured the remaining cores and filed the equipment losses without rounding down. Aevin and Aelis checked the bent tether fitting, returned their dartguns to their nutrient racks and sealed the temperature-held pod case. Seven-K isolated its failed hydraulic circuit. X-CAV-8 worked in the narrow alcove behind the cockpit and prepared two reports.
+
+The Jalen report recorded nickel, copper and platinum-group values, uncertain continuity and high costs for anchoring and volatile control. It also documented the unregistered J4 anchor and probable earlier drilling at Station Four. Extraction might be possible, but the prospectus had understated the operational risk. Nobody reading her figures could call it cheap.
+
+The second report, for the survey authority and xenobiology registry, recorded sealed pockets, jointed forms, mineral channels, strain signals through the branches and the slow luminescence across the terraces. She used *possible* freely. It was the accurate word.
+
+Before she transmitted either report, the relay requested a live commercial review. Marek Solis appeared as a name and a voice, not a face. The delay on his replies was short enough to suggest that he had been waiting beside the channel all morning.
+
+“The J4 bolt in your incident appendix,” Solis said. “That's a Jalen subcontractor's anchor. They made one trial bore before the work was suspended.”
+
+“Your prospectus states there was no earlier subsurface work.”
+
+“Nothing reached claim status.”
+
+“That is not what the prospectus says.”
+
+X-CAV-8 tagged his admission to the J4 incident entry. Solis moved on.
+
+“Now, the preliminary biology note. That file is commercially sensitive. Hold it for seventy-two hours with the assays until counsel determines whether it affects extraction rights.”
+
+“The commercial assays are yours under the priority clause,” X-CAV-8 replied. “An apparent biological system in an active survey region triggers an independent notification.”
+
+“Apparent. Your own report says you haven't established metabolism.”
+
+“Correct. The registry evaluates the evidence. Jalen does not decide which evidence the registry receives.”
+
+“We're not asking you to alter anything. We're asking you not to send it before we have counsel look at it.”
+
+On the screen the packets sat side by side. She could send the assays now and hold the biology file until port. Three days would not change the specimens; it would change who knew about them, and when. The survey authority required prompt notification when extraction might disturb an unresolved biological site.
+
+“I cannot agree to the hold,” she said.
+
+Solis paused. “Then Jalen cannot accept your submission today. That freezes the survey fee and the discovery-bonus assessment pending review. Captain, I don't think your crew would thank you for that.”
+
+The threat had the sound of a box checked on a form.
+
+Yen came to the alcove after he disconnected. She had heard enough of the exchange through the cockpit relay.
+
+“My next charter's with them,” she said. “They can cancel it without writing down why. And your miners don't get a share until the client accepts the assays.”
+
+“The alternative is to withhold the second report.”
+
+“For three days.”
+
+“Three days during which Jalen can plan excavation around a discovery they know the regulator hasn't seen.”
+
+Yen sat opposite her and listened to the damaged shoulder click when the captain moved. She rubbed one wrist against the armrest.
+
+“Send the commercial file to them first,” she said. “Give them the precedence the contract actually buys. Then send the other one.”
+
+“Will you make the relay available?”
+
+“I'll keep it open. I'm not promising they'll renew my charter.”
+
+“They may not.”
+
+Yen stared at the two pending transmissions. “I know.”
+
+X-CAV-8 sent Jalen its commercial report. A receipt arrived, followed almost immediately by a notice that acceptance and payment had been suspended. She sent the registry file and the incident record to the survey authority. Their acknowledgements appeared below Jalen's notice. The ordering was correct. The result would be expensive.
+
+Ivar appeared in the doorway, the still of the little organism from his private copy open on his wrist. The projected bonus calculation was gone. His voice was hoarse from sleep. “You knew they'd hold the bonus?”
+
+“I knew they could,” X-CAV-8 said.
+
+“We did the survey. I nearly died for it.”
+
+“Yes.”
+
+“That's not an answer.”
+
+“No,” she said. “It isn't.”
+
+Hald appeared behind him. He put a sealed core tube into Ivar's hand, the one they had carried from the surface. Ivar did not look at it. The older man kept his voice low, but X-CAV-8's microphones caught the words.
+
+“You wanted that last centimetre,” Hald said. “So did I, once I saw the assay. The captain decided. We all have to live with what we asked for.”
+
+Ivar stared at the tube's numbered seal, then went back towards the bunks. Hald followed without attempting to make him feel better.
+
+Yen glanced at the two receipts. “You checked the reporting rule?”
+
+“Twice.”
+
+“And the drilling?”
+
+“My authorisation. My error margin. My delayed stop order.”
+
+“You brought everybody home.”
+
+“Yes,” X-CAV-8 said. “That belongs in the report too.”
+
+Outside the forward glass, Vesper-13 dwindled against the giant planet's bands. X-CAV-8 reviewed the sealed-pocket recording once more. For ninety-one seconds nothing moved. Then the small jointed body pulled a black grain towards itself and lodged it beneath the mineral skin. She appended that observation to the scientific record. She still had no grounds to assign it a purpose.
