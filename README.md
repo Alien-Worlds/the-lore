@@ -6754,3 +6754,477 @@ Inter-tribal gatherings provide opportunities for cultural exchange, and tattoos
 ### A Testament to Identity
 
 Elgem tattoos are a vibrant, living testament to their harmony with Velgemmis and the diverse biomes they inhabit. These marks of identity, forged in the dyes and patterns of their environment, reflect the ingenuity, resilience, and cultural richness of their society. For the Elgem, their tattoos are connections to their world, their tribe, and their legacy.
+
+# THE NARON JOB
+
+_A Tokenized Lore Story of the Striped Planet_
+
+## The Job
+
+Tamsil noticed the dark place first, because long ago someone who had loved her taught her that the thing missing from a picture is usually what the picture is about.
+
+The shuttle came down through Naron's cloud ceiling in shudders, each layer of weather peeling away to show the northern range: black ridges shouldered together like sleeping animals, their upper edges gilded by a sun the valleys never saw.
+
+She pressed her forehead to the cold window. Beneath her hood, the petals along her hairline were clenched so tight against her scalp that they ached.
+
+An Elgem among strangers keeps her colors folded away, and Tamsil had been among strangers for eleven days. Her kind were built of cartilage rather than bone, and she had once spent two days folded inside a ventilation duct no wider than a ration crate, listening to buyers argue over her price.
+
+"Pretty," Red said behind her.
+
+"You have a strange definition of pretty."
+
+"I grew up around explosions."
+
+"You grew up around kitchens."
+
+"Explosions happened in the kitchens." He had folded his big frame into a seat built for someone half his width. A narrow scar slipped beneath his left ear and reappeared along his jaw, pale against dark skin, and when he grinned, strangers trusted him a minute longer than they should have.
+
+Across the aisle, Yrsa kept her eyes on her tablet. Her pale hair was braided tight against her skull. "Technically," she said, "the kitchen fires were two, and the explosion was one. I read your file. It's a confession with footnotes." She was Nordic, with the dense bones of her kind, and she carried a field kit that would have buckled Tamsil's spine.
+
+Red laughed, and something in Tamsil's chest loosened a quarter turn. Then she looked back at the thing that had nagged her for ten minutes.
+
+Every settlement on Naron carried a beacon on the Federation grid, even the dead ones, because old tunnels stayed hungry long after their owners left. Yet one patch of ridge showed nothing at all. Emptiness would have been honest. This blankness looked like a hand placed over a mouth.
+
+"Pull the terrain overlay."
+
+"Already did." Yrsa turned the tablet. A thin blue outline stretched beneath the mountain, kilometers of tunnels absent from every official map. No names, no registrations, no beacons.
+
+"Someone went to a lot of trouble to make this disappear," Yrsa said.
+
+Red studied the outline. "The instrument is supposed to be in Kestrel Nine's lower levels. These tunnels run much deeper than the station." He glanced at Tamsil. "Our job is to retrieve one instrument. Remember?"
+
+"We're here for the instrument," Tamsil said. "If Pell's got an ancient horror tucked away down there too, we'll need to renegotiate our fee."
+
+Eleven days earlier, in a chandlery on the shore of Lake Nyari, Osric Pell had poured three cups of water so clear they looked like absences in the glass. He was soft in the face and careful in the hands, dressed in the gray of a man whose employer preferred he go unremembered. On his lapel sat a small silver water-drop pin, turned face-inward.
+
+"Kestrel Nine," Pell had said. "An abandoned survey station in the northern range. There's a sealed instrument in the lower levels. Retrieve it intact and bring it to me. Do not open it, scan it, or ask what it does."
+
+Red had stared at him. "That's a lot of nots."
+
+"Clarity saves lives." He had opened a small case on the table. Inside, three vials lay in black foam, each holding a thumbnail of granulated Trilium in stabilizing gel, glowing a faint blue. "A deposit, one each. Keep it on your person. I would rather it traveled with you than sat in a safe on the shore. On delivery, each of you receives a full allotment of locked, high grade Trilium, ten times what is in that case. The payment is high because the instrument is delicate. That is all."
+
+Beside her, Yrsa had said nothing, but her fingers had found her left wrist beneath the glove and pressed there. A thin red braid showed at her cuff, a small metal bead sewn into it, and she tucked it out of sight.
+
+Red had gone quiet, and Tamsil filed that away for later. She took the job anyway, because she was tired, because Red's hands had trembled when he reached for the vial, and because some loyalty looks, from outside, exactly like bad judgment.
+
+"Landing in six minutes," the pilot said.
+
+Across the aisle Yrsa murmured a short blessing, _Sindera-tilekvema_, as she did before every landing.
+
+The rear hatch opened, and the mountain came in.
+
+Iron coated the air, fine grains settling on her lips. Past the landing field, machinery hammered the stone in a slow rhythm, each blow arriving half a breath after the last, until she half believed the mountain was counting. Beside their platform lay a second one, its concrete scorched in a fresh ring. Tamsil noted it and said nothing.
+
+Her long range channel had gone to static on final approach, and she noted that too.
+
+Kestrel Nine squatted against the cliff, blackened by exhaust, steel plates bolted over its windows. The main door stood open, unforced, its lock intact and its panel glimmering a patient green under dust that something other than wind had smeared.
+
+Inside, emergency strips radiated amber, and fresh boot tracks crossed the floor.
+
+"Boots," Red said. "Recent."
+
+"And something that doesn't wear boots," said Yrsa. A broad pale smear ran along the wall at the height of Tamsil's chest, wider than a forearm.
+
+Something struck the other side of the wall. One deep metallic note, a knuckle on a coffin lid, and Tamsil felt it through the soles of her boots.
+
+"Please," Red whispered, "tell me that was the building."
+
+A slow scrape answered from below. Tamsil drew her weapon. "Now you can take yours out."
+
+Red did, with a smile that had nothing in it. A miner's shaft cutter hung beside his pistol, because he distrusted jobs with one way out.
+
+"What about the job?" Yrsa asked.
+
+"I believe the job changed when we came through that door."
+
+Far below, the station was struck a third time, harder, and every light in Kestrel Nine went out.
+
+## Below the Station
+
+The amber strips held for half a heartbeat, long enough for Tamsil to see Red's shoulder and Yrsa crouched at the dead access panel. Then they shivered twice and went out.
+
+Something below took a step, light and deliberate, a foot placed to go unheard, and the care of it was worse than any clatter.
+
+Yrsa had already pried the panel open. The lamp on her wrist threw a blue circle across a tangle of cut wire. She touched one severed end to another, and something beneath her left glove gave a low click that Tamsil would remember later. "The power was cut by hand. Not from here."
+
+She fell silent, and Tamsil knew that quiet. Yrsa was choosing which truth to hand over first.
+
+"What aren't you telling me?"
+
+"I found something on the flight down." From her belt Yrsa drew a data wafer scratched nearly white from handling. "Kestrel Nine was never a survey station. It was a deep core pressure monitor. The record was scrubbed, and what remained was filed under a classification I've seen once before. _The Vasker collapse_."
+
+Tamsil's jaw tightened. Forty years ago a company had pushed below its depth limit on a northern ridge, and the mountain had swallowed three habitation sectors. "And you didn't think that deserved a mention?"
+
+"I assumed the client knew."
+
+"That's not an answer."
+
+"No," Yrsa said quietly. "It isn't. No licensed crew has worked below the line since Vasker. Whoever wants this instrument wants it fetched by people who don't exist on paper."
+
+Tamsil thought of a silver pin turned face-inward on a gray lapel, and said nothing.
+
+They went down. One sealed door hung jammed half open, and while Red swore and shouldered it, Tamsil turned sideways and slid through the gap, her ribs bending to let her pass.
+
+Someone had buried Kestrel Nine, she realized, one layer of shame over another. Near the stairwell, beneath coats of repainted markings, an open hand had been scratched into the metal, fingers spread, a miner's mark of the kind crews left beside corridors they did not trust.
+
+At the foot of the stairs lay a helmet, its visor smashed inward, a deep groove bent into the shell. No body. No blood.
+
+Yrsa read the stencil on the rim. "Khaured extraction gear."
+
+The word changed the temperature of the passage. Something moved behind them.
+
+Tamsil spun. In the circle of Yrsa's lamp a figure stood at the end of the corridor, lit only in pieces: hammered gray plating scarred white along the forearms, the heavy collar of a respirator breathing out a warm haze. Then he stepped forward, and the floor plate flexed a finger's width beneath his boot.
+
+The suit was old and cared for, a syndicate mark on the chest scratched through. Two pale lenses watched her from beneath a ridged and pebbled brow, and in the center of his forehead, just under the helmet's rim, ran a thin horizontal seam, closed tight as a healed wound. The third eye of his kind, shut for now.
+
+He carried no rifle. His hands hung open at his sides, and that frightened Tamsil more than a weapon.
+
+"You should leave," he said, the respirator turning his voice to low gravel.
+
+Red raised his weapon. The Khaured regarded it the way one regards a fly. "If I wished you dead, you would already be dead."
+
+"Who are you?" Tamsil said.
+
+"Gorrum Thask. Director of the crew that came here twenty-one days ago."
+
+"How many?"
+
+"Seven."
+
+"And now?"
+
+The lenses came back to her, and she saw her own hooded reflection in them, absurdly small.
+
+"One."
+
+Far below, something groaned. Gorrum flinched, and Tamsil had not thought a Khaured face could do that.
+
+"You were lied to about what lies beneath this station," he said. His lenses moved to the wafer in Yrsa's hand. "You already know. Then you know the object you came to retrieve is no survey instrument."
+
+A cold wire pulled tight in Tamsil's stomach. "What is it?"
+
+He did not answer. Behind him, deep in the buried body of Kestrel Nine, something began to hum. The sound traveled through the stone, rising into the soles of her feet and the hollow of her teeth until her skull rang. Against her hip, the vial in her pocket had gone warm.
+
+"And now it knows you are here," Gorrum said.
+
+The lights came back on. Every lamp in the corridor burned red, the color of a wound seen through closed eyelids, and from somewhere beneath their feet, something answered.
+
+## The Listener
+
+"What was that?" Red asked, when the hum had gone.
+
+"It does not matter," Gorrum said.
+
+"That's becoming a popular answer tonight."
+
+Gorrum reached slowly toward a compartment on his thigh, and Red's weapon followed. "If I meant to draw a weapon, I would not do it slowly."
+
+He took out a small dented cylinder and tossed it across the floor, and with it a flat metal tag on a chain. The cylinder rolled to Tamsil's boot, a recording unit with a rust brown smear along one side. Red caught the tag before it stopped sliding. Seven names were stamped into it, six of them struck through in a heavy hand.
+
+"If I do not leave this mountain," Gorrum said, "someone should know who was in it."
+
+Yrsa linked the cylinder to her wrist console before Tamsil could stop her. Static filled the corridor, and then a voice, worn thin.
+
+"Kestrel Nine log, cycle forty three. We no longer observe pressure fluctuations from the lower seam. The pressure is responding to us. We shut down the drilling. The response continued."
+
+A second voice, deeper: "Don't seal the shaft. Something is already inside."
+
+The recording shattered into a long, low, resonant note, the same note that had just risen through the floor. Yrsa tore the cylinder free as if it had bitten her.
+
+"What killed your crew?" Tamsil asked.
+
+"They came for the sound."
+
+"Who did?"
+
+"Hodlodytes. You will meet them." Gorrum laid a hand against a sealed door. "We expected an old extraction chamber. We found a structure inside the rock, and miners did not build it."
+
+The door opened onto a shaft with no lift and no ladder, only a narrow platform hugging one wall of a chamber so vast that the red lamps lost themselves in it. They descended, the rail warming under Tamsil's hand until it felt like a living palm.
+
+Halfway down they passed a ledge where a crew had made camp: bedrolls gone stiff, a cold stove, seven miners' lamps lined along the rock like a shrine, six dark and one still burning. Someone had scratched a small flower with five petals beside them, and Yrsa's eyes lingered on it a heartbeat too long before she looked away.
+
+"I did not set the lamps out," Gorrum said, without looking at them. "I found them that way."
+
+Tamsil counted the lamps again. Six dark, one burning. If Gorrum had not arranged them, someone, or something, had counted his crew for him.
+
+Then the smell reached her, mineral and strangely sweet, like wet stone after lightning.
+
+"Trilium," Yrsa said. "Raw and unrefined. Don't touch anything that glows."
+
+"Why?" Red said.
+
+"Because raw Trilium doesn't just burn tissue. It rewrites it. The Vasker survivors had a word for miners who handled it bare." She did not look at him. "_Thorned_."
+
+Below them, along the shaft wall at the edge of the lamplight, pale shapes hung folded against the rock, a dozen, then twenty, each with a half scraped Guild tag at its shoulder. None moved.
+
+"Guild hands," Gorrum said. "Two details went down before my crew and did not come up. The creatures keep what they take. Do not look at them. They are not asleep. They are watching which way you go."
+
+Tamsil thought again of the pin on Pell's lapel, and kept her eyes on the rail.
+
+The platform touched bottom, and the passage widened into a vast underground space. The walls were wrong. Drills leave scars, and here there were none, only a smooth glassy sweep of rock with fine bright lines running beneath a crust of pale mineral growth.
+
+At the center stood the thing they had been sent to steal. A black metal frame rose from the floor in a pair of tall ribbed arcs, its base crusted with a glowing scab of raw Trilium, and between the arcs, hanging in open air, a core of pale crystal the size of a torso. No cable held it. Every few seconds a slow glow traveled through it, the way a pulse travels up a wrist, and the walls answered each pulse with a shiver of light.
+
+The crystal flared as they stepped onto the floor. Through the cloth of her pocket, Tamsil's vial burned like a small blue star, and when she looked up she saw two more shining through Red's jacket and Yrsa's.
+
+Yrsa's scanner swam with readings and then settled on a single line. "Uplink to surface relay," she read. "Fourteen percent." She looked up, and her face changed. "The vials. Locked Trilium. It heard us coming."
+
+"We carried samples," Gorrum said. "My crew heard it first. The crystal is the ear. The frame is the mouth, and it speaks two ways. Upward, to whoever holds that relay. And downward, into the rock, where the ones who live here hear it as a stranger in their house."
+
+Tamsil looked at the vial glowing against her hip. "Pell didn't pay us a deposit."
+
+"No," said Yrsa. "He loaned us a key."
+
+"The number is how much of what it hears has gone up the trunk line to the relay," Yrsa said, watching the bar creep. "The relay seals the readings into one survey package. The Guild can open it only when the full transmission arrives; a partial package is useless."
+
+Gorrum's hand rose to the seam above his helmet's rim, and the seam parted. Beneath the lid lay an eye, huge and round, milky white, with no pupil. It stared beyond the crystal, beyond the wall.
+
+A soft throb passed through the chamber, and Tamsil felt it inside her ribs. The room vanished. She saw mountains under the weight of the world, vast fractured ridges glowing the color of embers. She saw water moving through buried channels, black and ancient. Then, far beneath them, deeper than any drill had ever cut, she saw a shape too large to be seen at once.
+
+It moved, and the slowness of it was the most terrible thing she had ever witnessed.
+
+The vision tore away. Red caught her arm. "Tamsil?"
+
+Gorrum's pale eye was fixed on her, and she understood from the stillness of his face that he had seen it too. "I have seen it three times," he said. "It did not kill my crew, and it is not what the Guild is hunting. It is only what the ear hears when it listens deep enough. It has never once looked up."
+
+"Seventeen percent," Yrsa said, in a very small voice.
+
+A crack opened across the far wall, and behind the stone something moved, slow and heavy and deliberate. From somewhere deep beneath the floor, a knock came... three times.
+
+## The Breaking Point
+
+The third knock came up through the stone, and Tamsil did not wait for a fourth. "Move!" She drove Yrsa toward the platform as the cavern convulsed. Red reached it first. "Where's Gorrum?"
+
+The Khaured had not run. He stood beside the Listener with one great hand pressed to his helmet, his third eye blazing pale, listening to something none of them could hear. "Gorrum!" His head turned slowly. Then the floor between them fell. A slab the size of a barge sheared away and plunged into the dark, and Gorrum went with it, his open eye catching the red light like a drowned moon.
+
+Tamsil lunged for the edge and Red caught her around the waist. "Don't!" She stopped fighting, though her fingers still clawed at the air over the drop. Then Gorrum's voice crackled through her comm, thin and ragged and impossibly calm. "I am below you. My leg is pinned. Do not come down. The frame is a door. Its voice calls the Hodlodytes."
+
+A slow scrape came from beneath him, heavy and wet, drawing nearer. "Run."
+
+A Hodlodyte roared from somewhere below him, close and hungry, and the cavern buckled around the bellow of it. All three of them were climbing, metal screaming under them. The shaft behind them erupted in dust and fire. Red threw himself over Yrsa and took the debris on his back.
+
+When the avalanche settled, only static answered Yrsa's call. On her scanner the Listener's upload had crept on. _Uplink: thirty-eight percent._
+
+"We can't leave him," Tamsil said.
+
+Red rose slowly, one hand pressed to his side. "We may not have a choice."
+
+"You want to go back down there? Then you're a fool."
+
+She stepped toward him, vibrating with fury, and he met it with a face stripped of every joke. "I owe a great deal, Tamsil, to creditors who do not send reminders. The Trilium clears my debt and buys a place where nobody knows my name. And a future for a daughter."
+
+The word stopped her. Daughter. Tamsil looked at the scar along his jaw, at the hands that had trembled over a vial, and read them all again.
+
+"She's seven," Red said, and his voice cracked. "She lives on the south shore with her mother. The ones I owe hold her as collateral, in a manner of speaking. So no, I will not die in a hole for a Khaured I met ten minutes ago."
+
+The fury drained out of Tamsil. "You could have told me."
+
+"You wouldn't have taken the job."
+
+"No," she admitted. "I probably wouldn't have."
+
+"Quiet," Yrsa said.
+
+Footsteps came through the station in a measured rhythm.
+
+In Tamsil's ear the static that had hissed since landing simply stopped, as if a hand had been lifted from a throat. Three Khaured-pattern exosuits stepped into the red light, painted Guild blue under road dust, and in each open cockpit sat small and pale creatures, with noseless faces the color of milk and huge dark eyes that took in the lamps without blinking. Onoros Auxiliaries.
+
+Their pointed ears swiveled toward Red's breathing before they ever looked at him, and when the antennae above the lead one's brow tilted, the other two tilted theirs the same way, all three moving in unison.
+
+Two Operators followed on foot in grey-blue plate, one Human and one Nordic, rifles low. Behind them came a tall lean woman in a gray Guild coat with the collar turned up, a silver water-drop pin at her throat and an uplink clamped to one wrist. Her face was as smooth and cold as lake ice.
+
+"Field Commander Hale," she said. "The scorched pad was mine." She glanced at the uplink, and Tamsil saw the same bar glow there, the Listener's own upload climbing toward the relay. "Thirty-eight. Nobody leaves until it reaches the top."
+
+Red's weapon came up. "The south shore, I believe," Hale said, without raising her voice. "Seven years old."
+
+Red lunged, shouting, and Tamsil caught his sleeve a heartbeat too late. Hale fired without looking, and the round opened a shallow line along Red's weapon arm. His pistol skittered across the floor.
+
+Tamsil fired back. Gunshots filled the corridor as bullets bounced off the exosuits. She ducked behind a support column. The armor was too thick to pierce, so she aimed at the exposed joint beneath the first suit's raised arm and fired twice. The machine dropped to one knee, its hydraulics screeching.
+
+Yrsa slammed a control panel. "The doors are closing! Run!"
+
+Heavy shutters descended, one blast door, then a second, then a third, and the gunfire died. Tamsil stopped with her hands on her knees, lungs burning. Beside her Red stood with blood running unnoticed down his arm, staring at his empty hand, fingers shaking. She took it in both of hers, once, and he let her.
+
+Yrsa stared at her wrist, her face gone gray. Two lines glowed there.
+
+_Copy uploaded. Release locked._
+
+Cold spread through Tamsil's chest. "What did you do?"
+
+"The shutters run on a trunk line to the surface relay, and I piggybacked my courier thread onto it on the station side." Yrsa's voice shook. "It's Lotus work, a data thread I've carried under my wrist since Nyari. It copied the raw readings before they reached the relay and were sealed into the Guild's survey. The shutters cut my thread loose, but the Guild's own tap is still receiving the sealed transmission."
+
+The red braid at her cuff. The click beneath her glove. The pieces slid into place.
+
+"The Red Lotus," Tamsil said.
+
+Yrsa did not deny it. "My mother was a Lineage Keeper at Eastern Basin. The Guild burned her records when I was twelve, and I took this job to find out why." She tilted the tablet toward them. Lines of light through the mountain, a map of pockets deeper than any licensed drill had ever cut. "This is what it hears. The deep seams under the range, as far as it has mapped them. Whoever holds it owns the richest Trilium on Naron."
+
+"And Pell sends it to the Guild," Red said.
+
+"Pell sends it to a Division Head who is not allowed to be seen in this mountain." Yrsa enlarged the display, and Tamsil saw that every line, however it wandered, bent at last toward the south. "They all point at Lake Nyari. I don't know why."
+
+The flower beside the lamps, she remembered. Yrsa had known it. "Someone from your cells may have come down here first," Tamsil said.
+
+Yrsa's mouth tightened. "Maybe. A flower is only a flower..."
+
+Behind the door, something struck once. Twice. Three times, the same rhythm as before. Tamsil understood. The frame was still speaking into the rock, and the ones who lived there had finally arrived, with Hale's soldiers on the wrong side of the door.
+
+The door buckled inward with a shriek of tearing steel, and the lock began to bend.
+
+## What the Mountain Keeps
+
+The door came apart in an instant. Its center blew inward and filled the corridor with a roaring rush of dust and screams. Hale dropped to one knee, her pistol gone, blood streaking half her face, the uplink on her wrist still muttering into the stone.
+
+Then a creature emerged through the dust, and the world narrowed to a single bright point.
+
+Gray as the belly of a cave fish, it stood hunched on four limbs that bent the wrong way, each ending in hooked fingers longer than Tamsil's forearm. Where a face should have been there was a blunt wedge of bone, with two great clouded eyes set deep and wide, blind and not blind. A Guild sector tag was riveted to one shoulder above a dead metal collar, half scraped away, and a necklace of miners' helmets and lamp glass clacked against its chest as it breathed.
+
+A Hodlodyte, the same breed that had roared beneath Gorrum.
+
+It had not come alone. More shapes unfolded from the walls and ceiling, one, then five, then more than Tamsil could count, closing the corridor. The way back to the surface was gone.
+
+"Don't run," Tamsil whispered. "They track movement."
+
+The lead creature made a low wet chattering, and the others took it up. Something answered through the floor with a note so deep it was more weather than sound. A pale limb snapped out of the dust, seized Hale by the wrist where the uplink still muttered, and dragged her backward across the stone, her nails tearing furrows. The sound of her going lasted far too long.
+
+The rest of the creatures struck the Guild line. Metal shrieked. One exosuit folded against the wall, and another toppled as hooked limbs dragged its pilot into the dust. The Operators fired until they could not, and the Onoros Auxiliaries vanished beneath the mass of pale bodies, their antennae flickering once before the passage swallowed them.
+
+When the noise subsided, no Guild remained in pursuit. The corridor to the surface was still choked with Hodlodytes, but the shaft behind them had cleared as the creatures turned toward the sound.
+
+"Now," Yrsa said, in a very small voice. "Tamsil. Please. The frame is a door, and a door can be closed. If I cut it at its base, the crystal has nowhere to send what it hears. Nothing goes up the trunk, and nothing goes down into the rock. I need four minutes."
+
+Tamsil watched the Hodlodytes gathering around the passage, then looked at Red. To give Yrsa enough time to cut the frame, someone had to draw the creatures away. She knew what she was about to ask him. She knew what it could cost his daughter.
+
+Static hissed in her helmet.
+
+"I am still here," said Gorrum.
+
+All three froze. His voice was thin and ragged but unmistakably alive. "The Guild taught them to work. It never taught them to forget whose mountain this was. The frame is a voice in their house, and every time it speaks they come. Cut it at its base. The metal will burn you. Cut it anyway. I have a charge on my belt. When it goes off, the vibration will draw them toward me. I will keep their attention with a steady rhythm. That will buy you time."
+
+"I won't leave you."
+
+"Elgem." He named her kind for the first time, with an odd and terrible tenderness. "My kind have one rule older than our mountains. A Khaured does not take a contract until he is convinced it is worth doing. I broke it. The sum was large, and I stopped asking what it was for. Six of my crew are dead because I broke the rule for a number. Let me keep it now."
+
+Red made a sound beside her, a half sob.
+
+"Go," said Gorrum. "Cut it clean."
+
+They went.
+
+Heat rose to meet them in the shaft, the sweet stormy stink of Trilium so strong that Tamsil's eyes streamed.
+
+The causeway to the frame had broken in the middle, leaving a gap of black air too wide to jump. A maintenance rib hugged the chamber wall, continuing behind the frame along a seam barely wider than Tamsil's hand. It offered no safe footing, but it gave her a route the others could not take. Across the gap, the crystal burned white and sang in a long, pure tone.
+
+"The torch can reach," Yrsa said, "but the discharge needs somewhere to go. Someone must clamp a ground line to the back of the frame, in the gap between the arc and the wall." She measured it with her eyes and her face fell. "It is a hand's width. No one can fit."
+
+Yrsa braced the torch against the frame's metal arc. The ground line was meant to carry the stored charge into the rock rather than let it return through the cutting tool and its operator.
+
+Tamsil studied the gap. Elgems were made to pour themselves through places other races called solid.
+
+"I can," she said.
+
+She eased onto the maintenance rib, turned sideways, and edged behind the frame. She hooked her fingers around the rib and pressed her folded body against the wall, shifting her weight a few inches at a time. There was no room to turn, and nothing beneath her but the drop.
+
+The stone pressed against her ribs as she folded her cartilage and worked deeper into the gap. She reached the base of the arc and locked the clamp into place, then hung in the dark with one cheek against the throbbing stone, holding her breath.
+
+She had survived two days in a ventilation duct once, with buyers arguing over her price. Four minutes was nothing.
+
+Through the crack she heard Yrsa murmur her blessing, once, Sindera-tilekvema. "Four minutes." The torch roared alight.
+
+From far below came the flat crack of Gorrum's cutting charge, and the stone rang like a bell. Tamsil flinched against the rock. Then, through the stone itself, Gorrum was singing, a low gravel hum, a Khaured work song, beating time for the Hodlodytes who had come for the sound.
+
+Tamsil had once watched an old Elgem sing as she died, and she knew the reason. A door is easier to hold shut with a rhythm to lean against.
+
+Yrsa cut.
+
+Silver sparks cascaded, the black metal glowed white, and the clamp at Tamsil's shoulder began to tick and blister at its edges, a ground line built for a trickle asked to carry a river. The crystal's song climbed to a scream, and pinned in the slot, Tamsil felt the petals beneath her hood burst open. An Elgem unfurls only when she feels safe, and nothing here was safe. She unfurled anyway, in defiance.
+
+The light turned the petals violet and gold, and she wore them like a crown in the dark.
+
+The Hodlodytes arrived. They came up out of the pit, one, then a dozen, crawling along the broken walls, and gathered on the far ledge in a silent ring. The lead one unfolded from its crouch to twice Red's height, helmets clattering at its throat. Far below, Gorrum's song had fallen silent.
+
+"Red," Yrsa said.
+
+"I know."
+
+He stepped onto the broken causeway, a big man with a scar and a daughter and a debt, a bar of shaft metal in his fist, and began in a loud cracked voice to sing. He did not know the Khaured words, so he copied Gorrum's rhythm and laid over it the only song he knew, a kitchen drinking song from a cheerful and ridiculous childhood. The Hodlodytes tilted their blind heads together.
+
+They listened.
+
+The final cut parted, and the frame's whole stored charge slammed into the ground line at once. The clamp, built to carry a trickle, burned loose from the arc, and the world went white.
+
+For an instant, the frame had nowhere to send its charge. White current leapt across the metal arc, through the scab of raw Trilium crusted at its base, found the torch still pressed against it, and raced through the tool's housing into Yrsa's right hand. Tamsil pulled herself from the slot as the discharge flashed inches from her spine.
+
+Yrsa did not scream at first. She looked down. Fine blue lines were already climbing her wrist, past the glove, past the cuff, turning the skin beneath them the color of new frost.
+
+_Thorned_, Tamsil thought.
+
+"Red! The cutter, now!"
+
+He had already turned, abandoning the Hodlodytes, who stood frozen as if struck deaf. He tore the shaft cutter from his belt, a brutal blade of burning wire. Yrsa saw it, understood, held out her arm and shut her eyes. "Do it."
+
+The scream went on, and then it ended. Tamsil caught Yrsa as she fell and pressed her jacket against the stump while the severed arm writhed on the stone, blue lines still racing along it, until Red crushed it under his boot and it was only ash.
+
+The chamber went dark. The crystal flared once more with everything it could no longer send, then hung dull and gray and fell and shattered. On Yrsa's tablet the bar stopped, flickered, and held.
+
+_Guild tap lost at seventy-one percent_.
+
+The moment the last of the signal died in the stone, the Hodlodytes lifted their blunt heads together, like a house that has heard a stranger's voice stop, and made a single low, sad sound, a note that was nearly a word.
+
+One by one, with nothing left to answer, the Hodlodytes descended into the pit, the little helmets at the lead creature's throat chiming softly. Tamsil watched them disappear, then remembered the open hand scratched into the stairwell wall, buried beneath layers of Guild paint. She had taken it for a miner's charm against bad luck.
+
+Now she understood the open hand. It marked the edge of Hodlodyte territory, a warning to turn back. The Guild had painted over their boundary and sent its crews deeper into the tunnels.
+
+At the broken lip of the drop, where the slab had fallen, a wall of stone stood in place of the floor where Gorrum had been. Tamsil knelt. She did not know the custom of his kind, so she used her own.
+
+She took a petal from her scalp, laid it on the stone, and said his name aloud, Gorrum Thask, so that it would not be unnamed. Red knelt beside her with the tag Gorrum had tossed across the corridor, engraved with seven names, six already crossed out in a heavy Khaured hand. Red scratched a line through the seventh and wedged the tag into the stone, where a miner who came after would find it.
+
+Red carried Yrsa up the long shaft, past the ledge where seven lamps stood in a row, every one of them dark. Someone had counted him too. Tamsil walked ahead with her colors still burning under her hood, out past the Guild's wrecked exosuits and into a wind that tasted of iron.
+
+The scorched pad lay empty, its ramp lowered, nobody aboard. She looked at it for one long breath before she turned toward their own shuttle, where the pilot waited with the engines hot.
+
+The shuttle climbed through the mountain haze with its engines straining against Naron's weight. Behind Tamsil, Red sat with Yrsa's head in his lap, the stump bound in a field dressing already stained dark. Her eyes were open.
+
+She tried to lift her right hand to the braid at her skull, the way she had every morning of her life, but the bandage rose and stopped. Her fingers closed on nothing. She stared at the empty space beside her head. Then, her jaw tightening as the loss settled in. "I braided my own hair every morning," Yrsa said quietly. "My mother taught me when I was six. I'll have to learn it again."
+
+"You lied to us," Tamsil said.
+
+Yrsa looked at the stump. "Yes."
+
+Tamsil glanced at Red, who had not let go of her. "Then don't make me regret saving you."
+
+"I have a copy of what it heard," Yrsa said. "My thread caught thirty-eight percent of the raw readings before the shutters cut it loose, including a line to Lake Nyari. The Guild's tap reached seventy-one percent, but its sealed survey is still incomplete. If I send it to the Lotus cells, they'll go looking. The Guild will follow, and the next crew down there will carry Trilium in their pockets."
+
+Tamsil watched the lines of light on the tablet. "Burn it."
+
+Yrsa stared at her. "My mother bled for a map like this."
+
+"And the Guild will bleed them for it. Burn every seam. Leave them the ridge, the lake, and one line. Do not carry Trilium down." She looked at the vial against her hip, dull now and cool. "Someone has to know where not to go."
+
+For a long time Yrsa did not move. Then, with her one good hand, she erased the seams one by one until only the ridge and the lake remained, and beneath them she typed a single line.
+
+"My mother kept the names of the forgotten," Yrsa whispered. "I think this is how I keep them."
+
+The console chimed. A Federation escrow notice opened across her screen.
+
+_Conditions not met. Funds returned to originator._
+
+"Pell," Red said.
+
+"He wanted the upload," Yrsa said. "The payment was never for the instrument. It was for the signal reaching the top." Beneath it, her screen showed a hail on a single encrypted channel, then another. Pell had noticed the silence.
+
+Seven times it rang, and Yrsa let every one of them go unanswered.
+
+Red looked at the empty line where a sum should have been. His debt still stood. His daughter still sat on the south shore, collateral against a number that had not shrunk by a single credit.
+
+"I'll sell mine," he said, and laughed, a small broken sound. "A thumbnail of locked Trilium buys a few months of interest from a good fence. The debt eats that in a season."
+
+Tamsil took the vial from her own pocket, warm now only from her skin, and closed his scarred hand around it. "Then it buys a few months more. Months are enough to think of something."
+
+"Tamsil."
+
+"Don't thank me. It looks exactly like bad judgment."
+
+The shuttle passed beyond the mountain belt. Tamsil rested her forehead against the window one last time. The petals beneath her hood had not closed again, and she let them stay open, a small violet fire in the cold glass.
+
+Far beneath the range, so softly that she might have imagined it, something knocked once. It had not come for them.
